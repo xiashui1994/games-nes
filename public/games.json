@@ -1,5 +1,5 @@
 {
-    "baseUrl": "./",
+    "baseUrl": "https://games-nes.pages.dev",
     "games": [
         {
             "name": "1943",
