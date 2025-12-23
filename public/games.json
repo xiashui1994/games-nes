@@ -1,5 +1,17 @@
 {
     "baseUrl": "https://games-nes.pages.dev",
+    "categories": [
+        "全部",
+        "冒险",
+        "动作",
+        "娱乐",
+        "射击",
+        "智力",
+        "格斗",
+        "策略",
+        "RPG",
+        "体育"
+    ],
     "games": [
         {
             "name": "1943",
