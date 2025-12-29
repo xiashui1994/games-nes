@@ -1,249 +1,249 @@
 cheats = 62
 
-cheat0_desc = "Invincibility On"
+cheat0_desc = "无敌开启"
 cheat0_code = "04F8:C0"
 cheat0_enable = false
 
-cheat1_desc = "Invincibility Off"
+cheat1_desc = "无敌关闭"
 cheat1_code = "04F8:01"
 cheat1_enable = false
 
-cheat2_desc = "Always Level 8 Gun"
+cheat2_desc = "永远8级枪"
 cheat2_code = "04E7:08"
 cheat2_enable = false
 
-cheat3_desc = "Always Level 4 Whip"
+cheat3_desc = "始终为 4 级鞭子"
 cheat3_code = "04E8:04"
 cheat3_enable = false
 
-cheat4_desc = "Infinite 98 Bulbs"
+cheat4_desc = "无限98个灯泡"
 cheat4_code = "015C:63"
 cheat4_enable = false
 
-cheat5_desc = "Infinite 98 Keys"
+cheat5_desc = "无限98键"
 cheat5_code = "015D:63"
 cheat5_enable = false
 
-cheat6_desc = "Infinite 98 Nooses"
+cheat6_desc = "无限98套绞索"
 cheat6_code = "015E:63"
 cheat6_enable = false
 
-cheat7_desc = "Infinite 98 Vice Grips"
+cheat7_desc = "Infinite 98 虎钳夹具"
 cheat7_code = "015F:63"
 cheat7_enable = false
 
-cheat8_desc = "Infinite 98 Potions"
+cheat8_desc = "无限98药水"
 cheat8_code = "0160:63"
 cheat8_enable = false
 
-cheat9_desc = "Infinite 98 Invisibles"
+cheat9_desc = "无限98隐形"
 cheat9_code = "0161:63"
 cheat9_enable = false
 
-cheat10_desc = "Infinite 98 Money"
+cheat10_desc = "无限98钱"
 cheat10_code = "0162:63"
 cheat10_enable = false
 
-cheat11_desc = "Infinite 98 Missiles"
+cheat11_desc = "无限98枚导弹"
 cheat11_code = "0163:63"
 cheat11_enable = false
 
-cheat12_desc = "Infinite 98 T.N.T."
+cheat12_desc = "无限 98 T.N.T."
 cheat12_code = "0164:63"
 cheat12_enable = false
 
-cheat13_desc = "Infinite health"
+cheat13_desc = "无限健康"
 cheat13_code = "XVEPUKVK"
 cheat13_enable = false
 
-cheat14_desc = "Infinite Health [Alternate Code]"
+cheat14_desc = "无限健康 [备用代码]"
 cheat14_code = "SXEPUKVK"
 cheat14_enable = false
 
-cheat15_desc = "Infinite Money"
+cheat15_desc = "无限金钱"
 cheat15_code = "SZUSYOSE"
 cheat15_enable = false
 
-cheat16_desc = "Infinite TNT [Once You Get Them]"
+cheat16_desc = "无限 TNT [一旦获得]"
 cheat16_code = "SZNIYOVK"
 cheat16_enable = false
 
-cheat17_desc = "Infinite Vice Grips [Once You Get Them]"
+cheat17_desc = "无限虎钳[一旦你得到它们]"
 cheat17_code = "SXSITEVK"
 cheat17_enable = false
 
-cheat18_desc = "Infinite Missiles [Once You Get Them]"
+cheat18_desc = "无限导弹[一旦获得]"
 cheat18_code = "SZVVXUVK"
 cheat18_enable = false
 
-cheat19_desc = "Infinite Potions [Once You Get Them]"
+cheat19_desc = "无限药水[一旦你得到它们]"
 cheat19_code = "SXVSLEVK"
 cheat19_enable = false
 
-cheat20_desc = "Infinite Invisible Potions! [Once You Get Them]"
+cheat20_desc = "无限隐形药水！ [一旦你得到它们]"
 cheat20_code = "SZEIYOVK"
 cheat20_enable = false
 
-cheat21_desc = "Infinite Nooses [Once You Get Them]"
+cheat21_desc = "无限绞索[一旦你得到它们]"
 cheat21_code = "SXUITEVK"
 cheat21_enable = false
 
-cheat22_desc = "Start A New Game With 50 Nooses, 50 Vice Grips, 50"
+cheat22_desc = "用 50 个绞索、50 个副夹具、50 个开始新游戏"
 cheat22_code = "LLSXGYAA"
 cheat22_enable = false
 
-cheat23_desc = "Start A New Game With 99 Nooses, 99 Vice Grips, 99"
+cheat23_desc = "用 99 个套索、99 个虎钳、99 个夹具开始新游戏"
 cheat23_code = "GTSXGYAA"
 cheat23_enable = false
 
-cheat24_desc = "Start A New Game With 4 Energy Blocks [Instead of"
+cheat24_desc = "用 4 个能量块开始新游戏 [而不是"
 cheat24_code = "GASZIYZA"
 cheat24_enable = false
 
-cheat25_desc = "Hot Dogs Only Cost $1 [Instead of $5]"
+cheat25_desc = "热狗只需 1 美元 [而不是 5 美元]"
 cheat25_code = "PAUSTPIA"
 cheat25_enable = false
 
-cheat26_desc = "Hot Dogs Cost $10 [Instead of $5]"
+cheat26_desc = "热狗售价 10 美元 [而不是 5 美元]"
 cheat26_code = "ZAUSTPIE"
 cheat26_enable = false
 
-cheat27_desc = "Start with the strongest gun"
+cheat27_desc = "从最强的枪开始"
 cheat27_code = "AAKXAYPE"
 cheat27_enable = false
 
-cheat28_desc = "Start with the strongest whip"
+cheat28_desc = "从最强的鞭子开始"
 cheat28_code = "GAKXIYAA"
 cheat28_enable = false
 
-cheat29_desc = "Red gun icons don't decrease gun power"
+cheat29_desc = "红色枪图标不会降低枪的威力"
 cheat29_code = "XVXOUEVK"
 cheat29_enable = false
 
-cheat30_desc = "Red gun icons increase gun power instead of decreasing"
+cheat30_desc = "红色枪图标增加而不是减少枪的威力"
 cheat30_code = "VVXOUEVK"
 cheat30_enable = false
 
-cheat31_desc = "Red whip icons don't decrease whip power"
+cheat31_desc = "红色鞭子图标不会降低鞭子力量"
 cheat31_code = "XVKOOEVK"
 cheat31_enable = false
 
-cheat32_desc = "Invincibility"
+cheat32_desc = "无敌"
 cheat32_code = "OZVPEGSX"
 cheat32_enable = false
 
-cheat33_desc = "Start With Chain Whip With Spike Tip"
+cheat33_desc = "从带尖头的链鞭开始"
 cheat33_code = "LAKXIYAA"
 cheat33_enable = false
 
-cheat34_desc = "Start With 1 Health Bar"
+cheat34_desc = "从 1 条生命值开始"
 cheat34_code = "PASZIYZA"
 cheat34_enable = false
 
-cheat35_desc = "Start With 3 Health Bars"
+cheat35_desc = "从 3 条生命值开始"
 cheat35_code = "LASZIYZA"
 cheat35_enable = false
 
-cheat36_desc = "Start With Whip"
+cheat36_desc = "从鞭子开始"
 cheat36_code = "PAKXIYAA"
 cheat36_enable = false
 
-cheat37_desc = "Start With Chain Whip"
+cheat37_desc = "从链鞭开始"
 cheat37_code = "ZAKXIYAA"
 cheat37_enable = false
 
-cheat38_desc = "Infinite All Items"
+cheat38_desc = "无限所有物品"
 cheat38_code = "SPOTTXSU"
 cheat38_enable = false
 
-cheat39_desc = "Virtual Intangibility"
+cheat39_desc = "虚拟无形性"
 cheat39_code = "PEGKEG"
 cheat39_enable = false
 
-cheat40_desc = "Invincibility"
+cheat40_desc = "无敌"
 cheat40_code = "AYIPOG"
 cheat40_enable = false
 
-cheat41_desc = "You Have No Gun"
+cheat41_desc = "你没有枪"
 cheat41_code = "SOIKKK"
 cheat41_enable = false
 
-cheat42_desc = "Makes The Game A Little Easier"
+cheat42_desc = "让游戏变得更容易"
 cheat42_code = "OSIKKK"
 cheat42_enable = false
 
-cheat43_desc = "Moonwalking"
+cheat43_desc = "月球漫步"
 cheat43_code = "PIPKKK"
 cheat43_enable = false
 
-cheat44_desc = "Strange Music And Sound Effects"
+cheat44_desc = "奇怪的音乐和音效"
 cheat44_code = "KIGEAG"
 cheat44_enable = false
 
-cheat45_desc = "Different Colors"
+cheat45_desc = "不同的颜色"
 cheat45_code = "IPAKAG"
 cheat45_enable = false
 
-cheat46_desc = "No Enemies [Doesn't Work Inside Buildings]"
+cheat46_desc = "没有敌人[在建筑物内不起作用]"
 cheat46_code = "OPIETA"
 cheat46_enable = false
 
-cheat47_desc = "Start Near Final Stage Entrance"
+cheat47_desc = "从决赛阶段入口附近开始"
 cheat47_code = "GEOXLNAA+KNOXINON"
 cheat47_enable = false
 
-cheat48_desc = "Walk Through Walls"
+cheat48_desc = "穿墙而过"
 cheat48_code = "AEUKKGEA"
 cheat48_enable = false
 
-cheat49_desc = "Invincibility"
+cheat49_desc = "无敌"
 cheat49_code = "KPVPVGGE"
 cheat49_enable = false
 
-cheat50_desc = "Infinite Health"
+cheat50_desc = "无限健康"
 cheat50_code = "04E5:03+04E9:03"
 cheat50_enable = false
 
-cheat51_desc = "Maximum Energy"
+cheat51_desc = "最大能量"
 cheat51_code = "04EA:04"
 cheat51_enable = false
 
-cheat52_desc = "Gun Power Modifier"
+cheat52_desc = "火炮功率调节器"
 cheat52_code = "04E7:00"
 cheat52_enable = false
 
-cheat53_desc = "Infinite Bulbs"
+cheat53_desc = "无限灯泡"
 cheat53_code = "015C:64"
 cheat53_enable = false
 
-cheat54_desc = "Infinite Key"
+cheat54_desc = "无限钥匙"
 cheat54_code = "015D:64"
 cheat54_enable = false
 
-cheat55_desc = "Infinite Nooses"
+cheat55_desc = "无限绞索"
 cheat55_code = "015E:64"
 cheat55_enable = false
 
-cheat56_desc = "Infinite Vice Grips"
+cheat56_desc = "无限虎钳"
 cheat56_code = "015F:64"
 cheat56_enable = false
 
-cheat57_desc = "Infinite Potions"
+cheat57_desc = "无限药水"
 cheat57_code = "0160:64"
 cheat57_enable = false
 
-cheat58_desc = "Infinite Invisible Postions"
+cheat58_desc = "无限隐形位置"
 cheat58_code = "0161:64"
 cheat58_enable = false
 
-cheat59_desc = "Infinite Money"
+cheat59_desc = "无限金钱"
 cheat59_code = "0162:64"
 cheat59_enable = false
 
-cheat60_desc = "Infinite Missiles"
+cheat60_desc = "无限导弹"
 cheat60_code = "0163:64"
 cheat60_enable = false
 
-cheat61_desc = "Infinite TNT"
+cheat61_desc = "无限TNT"
 cheat61_code = "0164:64"
 cheat61_enable = false

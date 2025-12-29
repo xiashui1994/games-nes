@@ -1,41 +1,41 @@
 cheats = 10
 
-cheat0_desc = "Infinite Time"
+cheat0_desc = "无限时间"
 cheat0_code = "06E4:09+06E5:09"
 cheat0_enable = false
 
-cheat1_desc = "Instant 10-Count"
+cheat1_desc = "即时 10 计数"
 cheat1_code = "06DF:09"
 cheat1_enable = false
 
-cheat2_desc = "Player 1 Has Infinite Health"
+cheat2_desc = "玩家 1 拥有无限生命值"
 cheat2_code = "0369:EE"
 cheat2_enable = false
 
-cheat3_desc = "Player 2 Has No Health"
+cheat3_desc = "玩家 2 没有生命值"
 cheat3_code = "0319:00"
 cheat3_enable = false
 
-cheat4_desc = "Player 1 Has Maximum Punching Attributes"
+cheat4_desc = "玩家 1 具有最大拳击属性"
 cheat4_code = "038F:09+0390:09"
 cheat4_enable = false
 
-cheat5_desc = "Player 1 Has Maximum Speed Attributes"
+cheat5_desc = "玩家 1 具有最大速度属性"
 cheat5_code = "0391:09+0392:09"
 cheat5_enable = false
 
-cheat6_desc = "Player 1 Has Maximum Stamina Attributes"
+cheat6_desc = "玩家 1 具有最大耐力属性"
 cheat6_code = "0393:09+0394:09"
 cheat6_enable = false
 
-cheat7_desc = "Player 2 Has No Punching Attributes"
+cheat7_desc = "玩家2没有拳击属性"
 cheat7_code = "033F:00+0340:00"
 cheat7_enable = false
 
-cheat8_desc = "Player 2 Has No Speed Attributes"
+cheat8_desc = "玩家 2 没有速度属性"
 cheat8_code = "0341:00+0342:00"
 cheat8_enable = false
 
-cheat9_desc = "Player 2 Has No Stamina Attributes"
+cheat9_desc = "玩家 2 没有耐力属性"
 cheat9_code = "0343:00+0344:00"
 cheat9_enable = false

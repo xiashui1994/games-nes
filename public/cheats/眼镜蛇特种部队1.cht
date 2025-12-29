@@ -1,33 +1,33 @@
 cheats = 8
 
-cheat0_desc = "Infinite Lives"
+cheat0_desc = "无限生命"
 cheat0_code = "SXUKTIVG"
 cheat0_enable = false
 
-cheat1_desc = "Invincibility Against Enemies"
+cheat1_desc = "对敌人无敌"
 cheat1_code = "ATKTGKOZ"
 cheat1_enable = false
 
-cheat2_desc = "Invincibility Against Rocks"
+cheat2_desc = "坚不可摧的岩石"
 cheat2_code = "AVOTGEOZ"
 cheat2_enable = false
 
-cheat3_desc = "Infinite Lives (Player 1&2)"
+cheat3_desc = "无限生命（玩家 1 和 2）"
 cheat3_code = "0060:03"
 cheat3_enable = false
 
-cheat4_desc = "Stage Round Select"
+cheat4_desc = "阶段回合选择"
 cheat4_code = "006E:01"
 cheat4_enable = false
 
-cheat5_desc = "Skip Title Screen Scroll"
+cheat5_desc = "跳过标题屏幕滚动"
 cheat5_code = "OXXGLUPX"
 cheat5_enable = false
 
-cheat6_desc = "Start With 9 Lives"
+cheat6_desc = "从 9 条生命开始"
 cheat6_code = "PAZGTK"
 cheat6_enable = false
 
-cheat7_desc = "Start On Round ??"
+cheat7_desc = "开始回合？"
 cheat7_code = "PAPGLG"
 cheat7_enable = false

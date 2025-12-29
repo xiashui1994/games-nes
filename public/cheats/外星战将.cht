@@ -1,193 +1,193 @@
 cheats = 48
 
-cheat0_desc = "Infinite Energy"
+cheat0_desc = "无限能量"
 cheat0_code = "XTVATSSE"
 cheat0_enable = false
 
-cheat1_desc = "Start With 1 Life"
+cheat1_desc = "从 1 条生命开始"
 cheat1_code = "AAELXYZA"
 cheat1_enable = false
 
-cheat2_desc = "Start With 6 Lives"
+cheat2_desc = "从 6 条生命开始"
 cheat2_code = "IAELXYZA"
 cheat2_enable = false
 
-cheat3_desc = "Start With 10 Lives"
+cheat3_desc = "从 10 条生命开始"
 cheat3_code = "PAELXYZE"
 cheat3_enable = false
 
-cheat4_desc = "1 Life After Continue"
+cheat4_desc = "1 继续后的生活"
 cheat4_code = "AEXGVYZA"
 cheat4_enable = false
 
-cheat5_desc = "6 Lives After Continue"
+cheat5_desc = "继续后 6 条生命"
 cheat5_code = "IEXGVYZA"
 cheat5_enable = false
 
-cheat6_desc = "10 Lives After Continue"
+cheat6_desc = "继续后 10 条生命"
 cheat6_code = "PEXGVYZE"
 cheat6_enable = false
 
-cheat7_desc = "Infinite Lives"
+cheat7_desc = "无限生命"
 cheat7_code = "SZVKOTVG"
 cheat7_enable = false
 
-cheat8_desc = "Start with 1/2 energy"
+cheat8_desc = "从 1/2 能量开始"
 cheat8_code = "TAOLKYGP"
 cheat8_enable = false
 
-cheat9_desc = "Double Bucky's Special Energy"
+cheat9_desc = "双倍巴基的特殊能量"
 cheat9_code = "EPELVNKE"
 cheat9_enable = false
 
-cheat10_desc = "Triple Bucky's Special Energy"
+cheat10_desc = "三倍巴基的特殊能量"
 cheat10_code = "KZELVNKA"
 cheat10_enable = false
 
-cheat11_desc = "All Characters Start With Normal Special Energy"
+cheat11_desc = "所有角色均以普通特殊能量开始"
 cheat11_code = "KAEUXNGE"
 cheat11_enable = false
 
-cheat12_desc = "All Characters Start With 2x Special Energy"
+cheat12_desc = "所有角色均以 2x 特殊能量开始"
 cheat12_code = "EPEUXNGE"
 cheat12_enable = false
 
-cheat13_desc = "All Characters Start With 3x Special Energy"
+cheat13_desc = "所有角色均以 3x 特殊能量开始"
 cheat13_code = "KZEUXNGA"
 cheat13_enable = false
 
-cheat14_desc = "Infinite Energy"
+cheat14_desc = "无限能量"
 cheat14_code = "05A0:0E"
 cheat14_enable = false
 
-cheat15_desc = "Infinite Lives"
+cheat15_desc = "无限生命"
 cheat15_code = "004C:03"
 cheat15_enable = false
 
-cheat16_desc = "Invincibility"
+cheat16_desc = "无敌"
 cheat16_code = "0680:03"
 cheat16_enable = false
 
-cheat17_desc = "Double Jump"
+cheat17_desc = "二段跳"
 cheat17_code = "0610:00"
 cheat17_enable = false
 
-cheat18_desc = "Invincibility"
+cheat18_desc = "无敌"
 cheat18_code = "ESXAPLEY"
 cheat18_enable = false
 
-cheat19_desc = "Infinite Lives"
+cheat19_desc = "无限生命"
 cheat19_code = "SGVKOTVG"
 cheat19_enable = false
 
-cheat20_desc = "Hit Anywhere"
+cheat20_desc = "击中任何地方"
 cheat20_code = "OXEAGVPV+OXOEYVPV+GXOEZTEL+GZNEYTEL"
 cheat20_enable = false
 
-cheat21_desc = "Jump in Midair"
+cheat21_desc = "空中跳跃"
 cheat21_code = "AEXAUYAP+AEUEOYEL"
 cheat21_enable = false
 
-cheat22_desc = "Start A New Game To See Ending/Credits"
+cheat22_desc = "开始新游戏查看结局/制作人员名单"
 cheat22_code = "PELKES"
 cheat22_enable = false
 
-cheat23_desc = "One Hit Kills"
+cheat23_desc = "一击必杀"
 cheat23_code = "SLGSVU"
 cheat23_enable = false
 
-cheat24_desc = "Start A New Game To See Ending/Credits"
+cheat24_desc = "开始新游戏查看结局/制作人员名单"
 cheat24_code = "PEUKEIZE"
 cheat24_enable = false
 
-cheat25_desc = "One Hit Kills"
+cheat25_desc = "一击必杀"
 cheat25_code = "SLKSVUSO"
 cheat25_enable = false
 
-cheat26_desc = "No Shot Delay"
+cheat26_desc = "无射击延迟"
 cheat26_code = "AAEPEGGA"
 cheat26_enable = false
 
-cheat27_desc = "No Shot Delay"
+cheat27_desc = "无射击延迟"
 cheat27_code = "AAAPEG"
 cheat27_enable = false
 
-cheat28_desc = "Press Start to Complete Current Level"
+cheat28_desc = "按开始完成当前级别"
 cheat28_code = "OXSGGUPK+AESGILPE+GOSGYUPE+AESKALPA"
 cheat28_enable = false
 
-cheat29_desc = "All Characters Always Selectable"
+cheat29_desc = "所有角色始终可选"
 cheat29_code = "ENKEVGAP"
 cheat29_enable = false
 
-cheat30_desc = "Infinite Health (All Characters)"
+cheat30_desc = "无限健康（所有角色）"
 cheat30_code = "05A0:14"
 cheat30_enable = false
 
-cheat31_desc = "Infinite Lives (All Characters)"
+cheat31_desc = "无限生命（所有角色）"
 cheat31_code = "004C:09"
 cheat31_enable = false
 
-cheat32_desc = "Character Modifier"
+cheat32_desc = "角色修改器"
 cheat32_code = "0034:00"
 cheat32_enable = false
 
-cheat33_desc = "Level Highlighter Modifier"
+cheat33_desc = "级别荧光笔修改器"
 cheat33_code = "0020:00"
 cheat33_enable = false
 
-cheat34_desc = "Each Kill Is a 1-Up"
+cheat34_desc = "每次击杀都是 1-Up"
 cheat34_code = "UKEATYXK"
 cheat34_enable = false
 
-cheat35_desc = "Float To The Top Of The Screen When Jumping Press A To Come Back Down"
+cheat35_desc = "跳跃时浮到屏幕顶部按 A 返回向下"
 cheat35_code = "PEOPLASX"
 cheat35_enable = false
 
-cheat36_desc = "1 Hit And You're Dead"
+cheat36_desc = "1 击中你就死了"
 cheat36_code = "OAEAASLU"
 cheat36_enable = false
 
-cheat37_desc = "Skip Intro Screen"
+cheat37_desc = "跳过介绍屏幕"
 cheat37_code = "AENGVKTL"
 cheat37_enable = false
 
-cheat38_desc = "Disable Locked Screen-Scrolling"
+cheat38_desc = "禁用锁定屏幕滚动"
 cheat38_code = "AENUZSTP+AAOYTKTP+AEUAOOTP"
 cheat38_enable = false
 
-cheat39_desc = "Disable Locked Screen-Scrolling In WookieHole"
+cheat39_desc = "在 WookieHole 中禁用锁定屏幕滚动"
 cheat39_code = "AENOTVTP"
 cheat39_enable = false
 
-cheat40_desc = "Jump As High As You Want"
+cheat40_desc = "你想跳多高就跳多高"
 cheat40_code = "PPKPGEYY"
 cheat40_enable = false
 
-cheat41_desc = "Run In Place"
+cheat41_desc = "原地运行"
 cheat41_code = "GGNEXZAX"
 cheat41_enable = false
 
-cheat42_desc = "Enemies Instantly Die"
+cheat42_desc = "敌人立即死亡"
 cheat42_code = "SONOUVSU"
 cheat42_enable = false
 
-cheat43_desc = "Walk Over Pits"
+cheat43_desc = "走过坑"
 cheat43_code = "PPNESYAX"
 cheat43_enable = false
 
-cheat44_desc = "Cannot Die"
+cheat44_desc = "不能死"
 cheat44_code = "GKEAPIAX+AASAYIAZ+AAVAIIZA"
 cheat44_enable = false
 
-cheat45_desc = "Start With 130 Lives"
+cheat45_desc = "从 130 条生命开始"
 cheat45_code = ""
 cheat45_enable = false
 
-cheat46_desc = "130 lives after continue "
+cheat46_desc = "继续后 130 条生命"
 cheat46_code = ""
 cheat46_enable = false
 
-cheat47_desc = "Walk Through Walls"
+cheat47_desc = "穿墙而过"
 cheat47_code = "ATUONASZ"
 cheat47_enable = false

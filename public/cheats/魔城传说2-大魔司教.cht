@@ -1,9 +1,9 @@
 cheats = 2
 
-cheat0_desc = "Infinite Energy Man"
+cheat0_desc = "无限能量人"
 cheat0_code = "00B2:08"
 cheat0_enable = false
 
-cheat1_desc = "Infinite Energy Woman"
+cheat1_desc = "无限能量的女人"
 cheat1_code = "00B3:08"
 cheat1_enable = false

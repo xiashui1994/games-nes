@@ -1,229 +1,229 @@
 cheats = 57
 
-cheat0_desc = "Infinite Life, You'll Never Die"
+cheat0_desc = "生命无限，你永远不会死"
 cheat0_code = "PAISII"
 cheat0_enable = false
 
-cheat1_desc = "Die Once To Have Infinite Lives"
+cheat1_desc = "死一次即可获得无限生命"
 cheat1_code = "AALSPT"
 cheat1_enable = false
 
-cheat2_desc = "Die Once To Become Player 2"
+cheat2_desc = "死一次成为玩家 2"
 cheat2_code = "AAYITT"
 cheat2_enable = false
 
-cheat3_desc = "Auto Puts Player 2 In Game"
+cheat3_desc = "自动将玩家 2 置于游戏中"
 cheat3_code = "PALKSX"
 cheat3_enable = false
 
-cheat4_desc = "On Each Stage, You'll Autoplay The Bonus Round, But You Can't Collect Any Items"
+cheat4_desc = "在每个阶段，您都会自动玩奖励回合，但您无法收集任何物品"
 cheat4_code = "AAAKAN"
 cheat4_enable = false
 
-cheat5_desc = "Warps You To The Last Boss"
+cheat5_desc = "将你传送至最后一个 Boss"
 cheat5_code = "OAAGGN"
 cheat5_enable = false
 
-cheat6_desc = "When You Kill The Last Enemy, You'll Skip 2 Stages"
+cheat6_desc = "当你杀死最后一个敌人时，你将跳过 2 个阶段"
 cheat6_code = "LUYAAA"
 cheat6_enable = false
 
-cheat7_desc = "It Never Says Hurry Up"
+cheat7_desc = "它从来没有说快点"
 cheat7_code = "EPTVOE"
 cheat7_enable = false
 
-cheat8_desc = "After A Couple Of Seconds Of Gameplay, It Says Nic"
+cheat8_desc = "玩了几秒钟后，它说 Nic"
 cheat8_code = "NNYSUE"
 cheat8_enable = false
 
-cheat9_desc = "Brings Up The Password Screen While You Play"
+cheat9_desc = "玩游戏时显示密码屏幕"
 cheat9_code = "NNYSKE"
 cheat9_enable = false
 
-cheat10_desc = "When You Die, Reappear By Being Dropped In"
+cheat10_desc = "当你死后，通过被扔进去重新出现"
 cheat10_code = "AALSZT"
 cheat10_enable = false
 
-cheat11_desc = "When You Kill The Last Enemy, You'll Have More Time To Collect Items"
+cheat11_desc = "当你杀死最后一个敌人时，你将有更多时间收集物品"
 cheat11_code = "AAZGYY"
 cheat11_enable = false
 
-cheat12_desc = "Walkthru"
+cheat12_desc = "漫游"
 cheat12_code = "AAIIGI"
 cheat12_enable = false
 
-cheat13_desc = "Gain A Ton Of Points Fast"
+cheat13_desc = "快速获得大量积分"
 cheat13_code = "AALKGA"
 cheat13_enable = false
 
-cheat14_desc = "When You Pause And Unpause, It Causes The Enemies To Be Paused For About 5 Seconds Longer"
+cheat14_desc = "暂停和取消暂停时，敌人会多暂停约 5 秒"
 cheat14_code = "SAIGSE"
 cheat14_enable = false
 
-cheat15_desc = "It Shows Player 1 And 2 Has All Letters Collected"
+cheat15_desc = "显示玩家 1 和 2 已收集所有信件"
 cheat15_code = "LYINIZ"
 cheat15_enable = false
 
-cheat16_desc = "Shoot Lots Of Bubbles And Can Shoot Them Further (After 1st Life)"
+cheat16_desc = "射出大量气泡并可以射得更远（第一世之后）"
 cheat16_code = "AALITT"
 cheat16_enable = false
 
-cheat17_desc = "In A One Player Game, Bring In Player 2 With 9 Lives"
+cheat17_desc = "在单人游戏中，引入拥有 9 条命的玩家 2"
 cheat17_code = "SAIKSE"
 cheat17_enable = false
 
-cheat18_desc = "Always Shoot Lightning Bubbles"
+cheat18_desc = "始终发射闪电泡泡"
 cheat18_code = "PALSXX"
 cheat18_enable = false
 
-cheat19_desc = "Both players start with 1 life"
+cheat19_desc = "两名玩家开始时的生命均为 1"
 cheat19_code = "PAUKEZLA"
 cheat19_enable = false
 
-cheat20_desc = "Both players start with 6 lives"
+cheat20_desc = "双方玩家一开始都有 6 条生命"
 cheat20_code = "TAUKEZLA"
 cheat20_enable = false
 
-cheat21_desc = "Both players start with 9 lives"
+cheat21_desc = "两名玩家一开始都有 9 条生命"
 cheat21_code = "PAUKEZLE"
 cheat21_enable = false
 
-cheat22_desc = "Skip only 2 levels"
+cheat22_desc = "仅跳过 2 级"
 cheat22_code = "ZAOGOLGA"
 cheat22_enable = false
 
-cheat23_desc = "Skip 10 levels"
+cheat23_desc = "跳过 10 个级别"
 cheat23_code = "ZAOGOLGE"
 cheat23_enable = false
 
-cheat24_desc = "Lots of bubble power"
+cheat24_desc = "泡沫能量充足"
 cheat24_code = "AAUILSPP"
 cheat24_enable = false
 
-cheat25_desc = "Always wear turbo shoes"
+cheat25_desc = "始终穿着涡轮鞋"
 cheat25_code = "AANSIGTA+AESIPGTA"
 cheat25_enable = false
 
-cheat26_desc = "Monsters move faster"
+cheat26_desc = "怪物移动速度更快"
 cheat26_code = "ZANEAGPA+NNEEAKVN"
 cheat26_enable = false
 
-cheat27_desc = "Monsters move super fast"
+cheat27_desc = "怪物移动速度超快"
 cheat27_code = "LANEAGPA+NNEEAKSN"
 cheat27_enable = false
 
-cheat28_desc = "Angry monsters move faster"
+cheat28_desc = "愤怒的怪物移动得更快"
 cheat28_code = "LANEIGZA+SNEEIKVN"
 cheat28_enable = false
 
-cheat29_desc = "Start game on level 10"
+cheat29_desc = "从10级开始游戏"
 cheat29_code = "ZAUGEZPE"
 cheat29_enable = false
 
-cheat30_desc = "Start game on level 25"
+cheat30_desc = "从25级开始游戏"
 cheat30_code = "PPUGEZPE"
 cheat30_enable = false
 
-cheat31_desc = "Start game on level 50"
+cheat31_desc = "从50级开始游戏"
 cheat31_code = "ZLUGEZPA"
 cheat31_enable = false
 
-cheat32_desc = "Start game on level 75"
+cheat32_desc = "从75级开始游戏"
 cheat32_code = "LGUGEZPE"
 cheat32_enable = false
 
-cheat33_desc = "Infinite Lives P1"
+cheat33_desc = "无限生命 P1"
 cheat33_code = "002E:09"
 cheat33_enable = false
 
-cheat34_desc = "Infinite Lives P2"
+cheat34_desc = "无限生命 P2"
 cheat34_code = "0042:09"
 cheat34_enable = false
 
-cheat35_desc = "Invincibility P1"
+cheat35_desc = "无敌P1"
 cheat35_code = "003F:2F"
 cheat35_enable = false
 
-cheat36_desc = "Invincibility P2"
+cheat36_desc = "无敌P2"
 cheat36_code = "0053:2F"
 cheat36_enable = false
 
-cheat37_desc = "Have &quot;Extend&quot; Now"
+cheat37_desc = "已“延长”现在"
 cheat37_code = "003E:3F"
 cheat37_enable = false
 
-cheat38_desc = "Infinite Lives"
+cheat38_desc = "无限生命"
 cheat38_code = "SLUSZTVS"
 cheat38_enable = false
 
-cheat39_desc = "Invincibility"
+cheat39_desc = "无敌"
 cheat39_code = "ESOIAIEY"
 cheat39_enable = false
 
-cheat40_desc = "Light Blue Everything"
+cheat40_desc = "浅蓝色一切"
 cheat40_code = "SOPNEA"
 cheat40_enable = false
 
-cheat41_desc = "After Bursting Bubble... Points Go Up To Maximum"
+cheat41_desc = "泡沫破裂后...积分达到最大值"
 cheat41_code = "ATGIPX"
 cheat41_enable = false
 
-cheat42_desc = "Float"
+cheat42_desc = "漂浮"
 cheat42_code = "0032:0A"
 cheat42_enable = false
 
-cheat43_desc = "Last Boss Energy Modifier"
+cheat43_desc = "最后 Boss 能量修正"
 cheat43_code = "006F:00"
 cheat43_enable = false
 
-cheat44_desc = "Shot Modifier"
+cheat44_desc = "射击修改器"
 cheat44_code = "0030:00"
 cheat44_enable = false
 
-cheat45_desc = "Hit Anywhere"
+cheat45_desc = "击中任何地方"
 cheat45_code = "ESKSNTEP+ASEIOGEL+TSEIXKLS"
 cheat45_enable = false
 
-cheat46_desc = "Hit Anywhere Boss"
+cheat46_desc = "到处打老板"
 cheat46_code = "ASEEVAEP"
 cheat46_enable = false
 
-cheat47_desc = "Get Items From Anywhere"
+cheat47_desc = "从任何地方获取物品"
 cheat47_code = "AENXLGTA+XVNXGGAV"
 cheat47_enable = false
 
-cheat48_desc = "Walk Through Walls"
+cheat48_desc = "穿墙而过"
 cheat48_code = "AOVSLGEI+AAEIZIVL+AEXSTKZA+AOPIYG"
 cheat48_enable = false
 
-cheat49_desc = "Infinite Lives P1"
+cheat49_desc = "无限生命 P1"
 cheat49_code = "0305:09"
 cheat49_enable = false
 
-cheat50_desc = "Round Modifier"
+cheat50_desc = "圆形修改器"
 cheat50_code = "0401:00"
 cheat50_enable = false
 
-cheat51_desc = "Infinite Time"
+cheat51_desc = "无限时间"
 cheat51_code = "SZNVVEVK"
 cheat51_enable = false
 
-cheat52_desc = "Infinite Time - Bonus Round"
+cheat52_desc = "无限时间 - 奖金回合"
 cheat52_code = "SZVVXKVK"
 cheat52_enable = false
 
-cheat53_desc = "Infinite Time"
+cheat53_desc = "无限时间"
 cheat53_code = "040D:32"
 cheat53_enable = false
 
-cheat54_desc = "Infinite Time - Bonus Round"
+cheat54_desc = "无限时间 - 奖金回合"
 cheat54_code = "0430:1E"
 cheat54_enable = false
 
-cheat55_desc = "Both players start with tons lives"
+cheat55_desc = "两名玩家一开始都有大量生命"
 cheat55_code = ""
 cheat55_enable = false
 
-cheat56_desc = "Always Shoot Lightning Bubbles"
+cheat56_desc = "始终发射闪电泡泡"
 cheat56_code = "AAUSSXTA"
 cheat56_enable = false

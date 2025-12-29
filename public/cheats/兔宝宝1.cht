@@ -1,201 +1,201 @@
 cheats = 50
 
-cheat0_desc = "Invincible"
+cheat0_desc = "无敌"
 cheat0_code = "0625:52"
 cheat0_enable = false
 
-cheat1_desc = "Max Carrots"
+cheat1_desc = "麦克斯胡萝卜"
 cheat1_code = "07E1:63"
 cheat1_enable = false
 
-cheat2_desc = "Infinite Lives"
+cheat2_desc = "无限生命"
 cheat2_code = "07E0:09"
 cheat2_enable = false
 
-cheat3_desc = "Have Heart"
+cheat3_desc = "有心"
 cheat3_code = "07E4:01"
 cheat3_enable = false
 
-cheat4_desc = "Max Keys"
+cheat4_desc = "最大按键数"
 cheat4_code = "07E2:09"
 cheat4_enable = false
 
-cheat5_desc = "Max Pow"
+cheat5_desc = "最大战俘"
 cheat5_code = "07E3:CF"
 cheat5_enable = false
 
-cheat6_desc = "Plucky is Partner"
+cheat6_desc = "普鲁奇是合作伙伴"
 cheat6_code = "002C:01"
 cheat6_enable = false
 
-cheat7_desc = "Dizzy is Partner"
+cheat7_desc = "头晕是伙伴"
 cheat7_code = "002C:02"
 cheat7_enable = false
 
-cheat8_desc = "Furball is Partner"
+cheat8_desc = "毛球是合作伙伴"
 cheat8_code = "002C:03"
 cheat8_enable = false
 
-cheat9_desc = "Always Plucky"
+cheat9_desc = "总是勇敢"
 cheat9_code = "002B:01"
 cheat9_enable = false
 
-cheat10_desc = "Always Dizzy"
+cheat10_desc = "总是头晕"
 cheat10_code = "002B:02"
 cheat10_enable = false
 
-cheat11_desc = "Always Furball"
+cheat11_desc = "永远是毛球"
 cheat11_code = "002B:03"
 cheat11_enable = false
 
-cheat12_desc = "Start with 1 life"
+cheat12_desc = "从 1 条生命开始"
 cheat12_code = "AAXKUYZA"
 cheat12_enable = false
 
-cheat13_desc = "Start with 6 lives"
+cheat13_desc = "从 6 条生命开始"
 cheat13_code = "IAXKUYZA"
 cheat13_enable = false
 
-cheat14_desc = "Start with 9 lives"
+cheat14_desc = "从 9 条生命开始"
 cheat14_code = "AAXKUYZE"
 cheat14_enable = false
 
-cheat15_desc = "1 life after continue"
+cheat15_desc = "继续后 1 条生命"
 cheat15_code = "AEXZNZZA"
 cheat15_enable = false
 
-cheat16_desc = "6 lives after continue"
+cheat16_desc = "继续后有 6 条生命"
 cheat16_code = "IEXZNZZA"
 cheat16_enable = false
 
-cheat17_desc = "9 lives after continue"
+cheat17_desc = "继续后有 9 条生命"
 cheat17_code = "AEXZNZZE"
 cheat17_enable = false
 
-cheat18_desc = "Slow down timer"
+cheat18_desc = "减慢计时器"
 cheat18_code = "YYXIXXLU"
 cheat18_enable = false
 
-cheat19_desc = "Speed up timer"
+cheat19_desc = "加速定时器"
 cheat19_code = "YPXIXXLU"
 cheat19_enable = false
 
-cheat20_desc = "Infinite energy after collecting one heart"
+cheat20_desc = "收集一颗心后能量无限"
 cheat20_code = "SZOOSVVK"
 cheat20_enable = false
 
-cheat21_desc = "Infinite lives"
+cheat21_desc = "无限生命"
 cheat21_code = "SZNOUNVK"
 cheat21_enable = false
 
-cheat22_desc = "Pick up more hearts"
+cheat22_desc = "捡起更多的心"
 cheat22_code = "AEEPPYPA"
 cheat22_enable = false
 
-cheat23_desc = "Infinite Energy"
+cheat23_desc = "无限能量"
 cheat23_code = "SEOEYXKX"
 cheat23_enable = false
 
-cheat24_desc = "Invincibility"
+cheat24_desc = "无敌"
 cheat24_code = "EYKEGPEI"
 cheat24_enable = false
 
-cheat25_desc = "Freeze Time"
+cheat25_desc = "冻结时间"
 cheat25_code = "SIKINXVS"
 cheat25_enable = false
 
-cheat26_desc = "Start a New Game to View the Ending"
+cheat26_desc = "开始新游戏查看结局"
 cheat26_code = "AOOKSYAA"
 cheat26_enable = false
 
-cheat27_desc = "Press Start to Complete Current Level"
+cheat27_desc = "按开始完成当前级别"
 cheat27_code = "GENIVPPE+GKNSEOIK"
 cheat27_enable = false
 
-cheat28_desc = "Power Increases Faster After Use"
+cheat28_desc = "使用后电量增加更快"
 cheat28_code = "AZUIUPGA"
 cheat28_enable = false
 
-cheat29_desc = "Power Decreases Slower When Using Dizzy Devil's Spin Attack"
+cheat29_desc = "使用眩晕恶魔的旋转攻击时，力量下降得更慢"
 cheat29_code = "PEVOIPZA"
 cheat29_enable = false
 
-cheat30_desc = "Invincibility"
+cheat30_desc = "无敌"
 cheat30_code = "AEUAZAPA"
 cheat30_enable = false
 
-cheat31_desc = "Jump In Midair"
+cheat31_desc = "跳入半空中"
 cheat31_code = "AASPPVPZ"
 cheat31_enable = false
 
-cheat32_desc = "Start On Level 2"
+cheat32_desc = "从 2 级开始"
 cheat32_code = "VASGOYSA+XZXKNNOZ+IAUGEYPA"
 cheat32_enable = false
 
-cheat33_desc = "Start On Level 3"
+cheat33_desc = "从第 3 级开始"
 cheat33_code = "VASGOYSA+XZXKNNOZ+ZAUGEYPE"
 cheat33_enable = false
 
-cheat34_desc = "Start On Level 4"
+cheat34_desc = "从 4 级开始"
 cheat34_code = "VASGOYSA+XZXKNNOZ+YAUGEYPE"
 cheat34_enable = false
 
-cheat35_desc = "Start On Level 5"
+cheat35_desc = "从第 5 级开始"
 cheat35_code = "VASGOYSA+XZXKNNOZ+GPUGEYPA"
 cheat35_enable = false
 
-cheat36_desc = "Character Modifier"
+cheat36_desc = "角色修改器"
 cheat36_code = "002B:00"
 cheat36_enable = false
 
-cheat37_desc = "Level Modifier"
+cheat37_desc = "等级修改器"
 cheat37_code = "0053:00"
 cheat37_enable = false
 
-cheat38_desc = "Partner Highlighter Modifier"
+cheat38_desc = "合作伙伴荧光笔修改器"
 cheat38_code = "002C:01"
 cheat38_enable = false
 
-cheat39_desc = "Infinite Carrots"
+cheat39_desc = "无限胡萝卜"
 cheat39_code = "07E0:63"
 cheat39_enable = false
 
-cheat40_desc = "Infinite Time"
+cheat40_desc = "无限时间"
 cheat40_code = "07E5:21"
 cheat40_enable = false
 
-cheat41_desc = "Infinite Power"
+cheat41_desc = "无限力量"
 cheat41_code = "07E3:CF"
 cheat41_enable = false
 
-cheat42_desc = "Turbo Jump Midair"
+cheat42_desc = "空中涡轮跳跃"
 cheat42_code = "0070:00"
 cheat42_enable = false
 
-cheat43_desc = "Duck Vader One Hit Kill"
+cheat43_desc = "鸭维达一击必杀"
 cheat43_code = "057A:01"
 cheat43_enable = false
 
-cheat44_desc = "Swim Anywhere"
+cheat44_desc = "随处游泳"
 cheat44_code = "06B5:01"
 cheat44_enable = false
 
-cheat45_desc = "Walk Behind Scenery"
+cheat45_desc = "走在风景后面"
 cheat45_code = "06CE:20"
 cheat45_enable = false
 
-cheat46_desc = "Invulnerability"
+cheat46_desc = "刀枪不入"
 cheat46_code = "EYSEGPEI"
 cheat46_enable = false
 
-cheat47_desc = "DPCM Pop Reducer"
+cheat47_desc = "DPCM 爆音减少器"
 cheat47_code = "SUNAGVSE"
 cheat47_enable = false
 
-cheat48_desc = "Can Use Spin Attack Underwater"
+cheat48_desc = "可以在水下使用旋转攻击"
 cheat48_code = "AAVPGATA+SZEPSSSE"
 cheat48_enable = false
 
-cheat49_desc = "Start Game To Enable Stage Select"
+cheat49_desc = "开始游戏以启用阶段选择"
 cheat49_code = "PAXKUTAA"
 cheat49_enable = false

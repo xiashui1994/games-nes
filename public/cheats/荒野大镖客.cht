@@ -1,145 +1,145 @@
 cheats = 36
 
-cheat0_desc = "Start With 9 Lives"
+cheat0_desc = "从 9 条生命开始"
 cheat0_code = "PAXVTYLE"
 cheat0_enable = false
 
-cheat1_desc = "Start With 25 Lives"
+cheat1_desc = "从 25 条生命开始"
 cheat1_code = "PPXVTYLE"
 cheat1_enable = false
 
-cheat2_desc = "Infinite Lives"
+cheat2_desc = "无限生命"
 cheat2_code = "SXUYTLVG"
 cheat2_enable = false
 
-cheat3_desc = "Start With All Weapons And Lots of Ammo"
+cheat3_desc = "从所有武器和大量弹药开始"
 cheat3_code = "PAUTTYAA"
 cheat3_enable = false
 
-cheat4_desc = "Start With All Weapons, Lots Of Ammo, All 4 Boots, And All 4 Rifle Icons"
+cheat4_desc = "从所有武器、大量弹药、所有 4 个靴子和所有 4 个步枪图标开始"
 cheat4_code = "GAUTTYAA"
 cheat4_enable = false
 
-cheat5_desc = "Don't Lose Any Weapons When You Die"
+cheat5_desc = "死后不要丢失任何武器"
 cheat5_code = "PEXNALAA"
 cheat5_enable = false
 
-cheat6_desc = "Hit Anywhere"
+cheat6_desc = "击中任何地方"
 cheat6_code = "GXXGXGEL+ASUGKGEP"
 cheat6_enable = false
 
-cheat7_desc = "One Hit Kills"
+cheat7_desc = "一击必杀"
 cheat7_code = "GZEGXIEL"
 cheat7_enable = false
 
-cheat8_desc = "Faster Walking Speed"
+cheat8_desc = "更快的步行速度"
 cheat8_code = "VYOTGEVY+ZAXTGAZE+VNNTZEVY+ZEVTZAPE"
 cheat8_enable = false
 
-cheat9_desc = "Once You Get A Horse, It Can't Die"
+cheat9_desc = "一旦你得到一匹马，它就不会死"
 cheat9_code = "SZEGOLVG"
 cheat9_enable = false
 
-cheat10_desc = "Invincible"
+cheat10_desc = "无敌"
 cheat10_code = "GVVKKZKA"
 cheat10_enable = false
 
-cheat11_desc = "Infinite Lives"
+cheat11_desc = "无限生命"
 cheat11_code = "007A:09"
 cheat11_enable = false
 
-cheat12_desc = "Invincibility"
+cheat12_desc = "无敌"
 cheat12_code = "0077:03"
 cheat12_enable = false
 
-cheat13_desc = "Invincibility (Star Effect)"
+cheat13_desc = "无敌（明星效应）"
 cheat13_code = "007C:FA"
 cheat13_enable = false
 
-cheat14_desc = "Set Infinite Boots Icon (4)"
+cheat14_desc = "设置无限靴子图标 (4)"
 cheat14_code = "0078:04"
 cheat14_enable = false
 
-cheat15_desc = "Set Infinite Shot Gun Icon (4)"
+cheat15_desc = "设置无限霰弹枪图标 (4)"
 cheat15_code = "0079:04"
 cheat15_enable = false
 
-cheat16_desc = "Set Shot Gun"
+cheat16_desc = "设置霰弹枪"
 cheat16_code = "0090:01"
 cheat16_enable = false
 
-cheat17_desc = "Infinite Shot Gun Ammo"
+cheat17_desc = "无限霰弹枪弹药"
 cheat17_code = "0091:D9"
 cheat17_enable = false
 
-cheat18_desc = "Set Machine Gun"
+cheat18_desc = "设置机枪"
 cheat18_code = "0094:01"
 cheat18_enable = false
 
-cheat19_desc = "Infinite Machine Gun Ammo"
+cheat19_desc = "无限机枪弹药"
 cheat19_code = "0095:D9"
 cheat19_enable = false
 
-cheat20_desc = "Set Mag Num"
+cheat20_desc = "设置磁数"
 cheat20_code = "0098:01"
 cheat20_enable = false
 
-cheat21_desc = "Infinite Mag Num Ammo"
+cheat21_desc = "无限弹力弹药"
 cheat21_code = "0099:D9"
 cheat21_enable = false
 
-cheat22_desc = "Set Smart Bomb"
+cheat22_desc = "设置智能炸弹"
 cheat22_code = "009C:01"
 cheat22_enable = false
 
-cheat23_desc = "Infinite Smart Bomb Ammo"
+cheat23_desc = "无限智能炸弹弹药"
 cheat23_code = "009D:D9"
 cheat23_enable = false
 
-cheat24_desc = "Defeat All Bosses With 1 Hit"
+cheat24_desc = "一击击败所有 Boss"
 cheat24_code = "00B2:00"
 cheat24_enable = false
 
-cheat25_desc = "Set Score/Money To 9,000"
+cheat25_desc = "将分数/金钱设置为 9,000"
 cheat25_code = "06F6:61"
 cheat25_enable = false
 
-cheat26_desc = "Set Score/Money To 90,000"
+cheat26_desc = "将分数/金钱设置为 90,000"
 cheat26_code = "06F4:61"
 cheat26_enable = false
 
-cheat27_desc = "Set Score/Money To 900,000"
+cheat27_desc = "将分数/金钱设置为 900,000"
 cheat27_code = "06F2:61"
 cheat27_enable = false
 
-cheat28_desc = "Stage Select"
+cheat28_desc = "阶段选择"
 cheat28_code = "0041:00"
 cheat28_enable = false
 
-cheat29_desc = "Have A Wanted Poster"
+cheat29_desc = "有一张通缉海报"
 cheat29_code = "AESYEAIA"
 cheat29_enable = false
 
-cheat30_desc = "Hard Mode (Many More Enemies)"
+cheat30_desc = "困难模式（更多敌人）"
 cheat30_code = "AAXYNYGL"
 cheat30_enable = false
 
-cheat31_desc = "Stage Skip"
+cheat31_desc = "阶段跳过"
 cheat31_code = "LKNNPZAU"
 cheat31_enable = false
 
-cheat32_desc = "Aim Bullets With D-Pad"
+cheat32_desc = "使用方向键瞄准子弹"
 cheat32_code = "AENVVSIA"
 cheat32_enable = false
 
-cheat33_desc = "Start A New Game With The Machine Gun"
+cheat33_desc = "用机关枪开始新游戏"
 cheat33_code = "004F:01"
 cheat33_enable = false
 
-cheat34_desc = "Stops Screen Scrolling"
+cheat34_desc = "停止屏幕滚动"
 cheat34_code = "EYXTVPEI"
 cheat34_enable = false
 
-cheat35_desc = "Completely Invincibility"
+cheat35_desc = "完全无敌"
 cheat35_code = ""
 cheat35_enable = false

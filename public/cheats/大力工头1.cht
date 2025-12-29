@@ -1,29 +1,29 @@
 cheats = 7
 
-cheat0_desc = "Jump Midair"
+cheat0_desc = "空中跳跃"
 cheat0_code = "0068:02"
 cheat0_enable = false
 
-cheat1_desc = "Stop Timer"
+cheat1_desc = "停止定时器"
 cheat1_code = "0123:09"
 cheat1_enable = false
 
-cheat2_desc = "99 Count Bonus Stages"
+cheat2_desc = "99 个奖励阶段"
 cheat2_code = "0131:09+0132:09"
 cheat2_enable = false
 
-cheat3_desc = "Level Modifier"
+cheat3_desc = "等级修改器"
 cheat3_code = "0369:00"
 cheat3_enable = false
 
-cheat4_desc = "Weapon Modifier"
+cheat4_desc = "武器修改器"
 cheat4_code = "036B:00"
 cheat4_enable = false
 
-cheat5_desc = "Jump Height Modifier"
+cheat5_desc = "跳跃高度修改器"
 cheat5_code = "036F:20"
 cheat5_enable = false
 
-cheat6_desc = "Enemies Die Automatically"
+cheat6_desc = "敌人自动死亡"
 cheat6_code = "0504:00+0505:00+0506:00+0507:00+0508:00"
 cheat6_enable = false

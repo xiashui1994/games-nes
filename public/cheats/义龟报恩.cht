@@ -1,165 +1,165 @@
 cheats = 41
 
-cheat0_desc = "Can't Shoot Upwards"
+cheat0_desc = "无法向上射击"
 cheat0_code = "POZSEP"
 cheat0_enable = false
 
-cheat1_desc = "Set Infinite E-Balls"
+cheat1_desc = "设置无限电子球"
 cheat1_code = "055D:01"
 cheat1_enable = false
 
-cheat2_desc = "Invincibility"
+cheat2_desc = "无敌"
 cheat2_code = "057C:03"
 cheat2_enable = false
 
-cheat3_desc = "Set Magic Item Modifier"
+cheat3_desc = "设置魔法物品修饰符"
 cheat3_code = "0553:00"
 cheat3_enable = false
 
-cheat4_desc = "Set Max. Power On All Weapons"
+cheat4_desc = "设置最大。开启所有武器"
 cheat4_code = "0554:03"
 cheat4_enable = false
 
-cheat5_desc = "Switch F/X On To Levitate Jump"
+cheat5_desc = "打开 F/X 进行悬浮跳跃"
 cheat5_code = "0408:40"
 cheat5_enable = false
 
-cheat6_desc = "Stage Select"
+cheat6_desc = "阶段选择"
 cheat6_code = "054E:00"
 cheat6_enable = false
 
-cheat7_desc = "Set Max. Power [Rider Stages]"
+cheat7_desc = "设置最大。力量[骑手阶段]"
 cheat7_code = "0555:03"
 cheat7_enable = false
 
-cheat8_desc = "Set Max. Speed [Rider Stages]"
+cheat8_desc = "设置最大。速度[骑手阶段]"
 cheat8_code = "0556:03"
 cheat8_enable = false
 
-cheat9_desc = "Immune to enemy bullets"
+cheat9_desc = "免疫敌人的子弹"
 cheat9_code = "OTNGGYSV"
 cheat9_enable = false
 
-cheat10_desc = "Immune to monsters"
+cheat10_desc = "对怪物免疫"
 cheat10_code = "OTNGGTSV"
 cheat10_enable = false
 
-cheat11_desc = "Start with 1 life"
+cheat11_desc = "从 1 条生命开始"
 cheat11_code = "PAUZTZLA"
 cheat11_enable = false
 
-cheat12_desc = "Start with 6 lives"
+cheat12_desc = "从 6 条生命开始"
 cheat12_code = "TAUZTZLA"
 cheat12_enable = false
 
-cheat13_desc = "Start with 9 lives"
+cheat13_desc = "从 9 条生命开始"
 cheat13_code = "PAUZTZLE"
 cheat13_enable = false
 
-cheat14_desc = "Infinite lives"
+cheat14_desc = "无限生命"
 cheat14_code = "SZEXTKVK"
 cheat14_enable = false
 
-cheat15_desc = "1 life after continue"
+cheat15_desc = "继续后 1 条生命"
 cheat15_code = "PAUXLILA"
 cheat15_enable = false
 
-cheat16_desc = "Become a whirlwind on new life"
+cheat16_desc = "成为新生活的旋风"
 cheat16_code = "VTOXAKSE"
 cheat16_enable = false
 
-cheat17_desc = "Start with and keep foot-wing"
+cheat17_desc = "从脚翼开始并保持"
 cheat17_code = "AAOLPNAA"
 cheat17_enable = false
 
-cheat18_desc = "Infinite Energy"
+cheat18_desc = "无限能量"
 cheat18_code = "SZUEPVSE+SZKAZVSE+SZNKZNSE"
 cheat18_enable = false
 
-cheat19_desc = "Invincibility When Walking"
+cheat19_desc = "行走时无敌"
 cheat19_code = "IAVGGKVK+AKEGNTAA+AGSOXAAA"
 cheat19_enable = false
 
-cheat20_desc = "Invincibility When In Robot"
+cheat20_desc = "机器人时无敌"
 cheat20_code = "IAKOTOVK"
 cheat20_enable = false
 
-cheat21_desc = "Start With 255 Ball"
+cheat21_desc = "从 255 球开始"
 cheat21_code = "NYUEUZZU"
 cheat21_enable = false
 
-cheat22_desc = "Small E-Blocks Give 255 E"
+cheat22_desc = "小 E 块提供 255 E"
 cheat22_code = "NYKKEPPE"
 cheat22_enable = false
 
-cheat23_desc = "Big E-Blocks Give 255 E"
+cheat23_desc = "大 E 块提供 255 E"
 cheat23_code = "NYNKOPIE"
 cheat23_enable = false
 
-cheat24_desc = "Powerup Costs Nothing"
+cheat24_desc = "通电无需花费任何费用"
 cheat24_code = "PENKPYSV"
 cheat24_enable = false
 
-cheat25_desc = "Start With 255 Lives"
+cheat25_desc = "从 255 条生命开始"
 cheat25_code = "NYUZTZLE"
 cheat25_enable = false
 
-cheat26_desc = "Infinite Lives"
+cheat26_desc = "无限生命"
 cheat26_code = "IAEXTKVK"
 cheat26_enable = false
 
-cheat27_desc = "Die To Get Double Sparks And Foot Wings"
+cheat27_desc = "死亡可获得双火花和脚翼"
 cheat27_code = "GAOZGGAA"
 cheat27_enable = false
 
-cheat28_desc = "Die To Get 45B Ball Powered Up"
+cheat28_desc = "模具让 45B 球通电"
 cheat28_code = "ZAOZGGAA"
 cheat28_enable = false
 
-cheat29_desc = "Die To Become A Tornado"
+cheat29_desc = "死后会变成龙卷风"
 cheat29_code = "IAOZGGAA"
 cheat29_enable = false
 
-cheat30_desc = "Infinite E"
+cheat30_desc = "无限E"
 cheat30_code = "0549:55"
 cheat30_enable = false
 
-cheat31_desc = "Infinite Health"
+cheat31_desc = "无限健康"
 cheat31_code = "054C:55"
 cheat31_enable = false
 
-cheat32_desc = "Infinite Lives"
+cheat32_desc = "无限生命"
 cheat32_code = "054B:09"
 cheat32_enable = false
 
-cheat33_desc = "Weapon Modifier"
+cheat33_desc = "武器修改器"
 cheat33_code = "0552:00"
 cheat33_enable = false
 
-cheat34_desc = "All Stars"
+cheat34_desc = "全明星"
 cheat34_code = "054D:05"
 cheat34_enable = false
 
-cheat35_desc = "Infinite E"
+cheat35_desc = "无限E"
 cheat35_code = "0549:FF"
 cheat35_enable = false
 
-cheat36_desc = "Infinite Health"
+cheat36_desc = "无限健康"
 cheat36_code = "054C:FF"
 cheat36_enable = false
 
-cheat37_desc = "Set All Force Stars"
+cheat37_desc = "设置所有原力星星"
 cheat37_code = "054D:05"
 cheat37_enable = false
 
-cheat38_desc = "Set Max. Power (Rider Stages)"
+cheat38_desc = "设置最大。功率（骑手阶段）"
 cheat38_code = "0555:03"
 cheat38_enable = false
 
-cheat39_desc = "Set Max. Speed (Rider Stages)"
+cheat39_desc = "设置最大。速度（车手阶段）"
 cheat39_code = "0556:03"
 cheat39_enable = false
 
-cheat40_desc = "255 Life after continue"
+cheat40_desc = "255 继续之后的生活"
 cheat40_code = ""
 cheat40_enable = false

@@ -1,125 +1,125 @@
 cheats = 31
 
-cheat0_desc = "Start with 1 life"
+cheat0_desc = "从 1 条生命开始"
 cheat0_code = "PAXGXALA"
 cheat0_enable = false
 
-cheat1_desc = "Start with 6 lives"
+cheat1_desc = "从 6 条生命开始"
 cheat1_code = "TAXGXALA"
 cheat1_enable = false
 
-cheat2_desc = "Start with 9 lives"
+cheat2_desc = "从 9 条生命开始"
 cheat2_code = "PAXGXALE"
 cheat2_enable = false
 
-cheat3_desc = "Infinite lives using helicopter"
+cheat3_desc = "使用直升机无限生命"
 cheat3_code = "SXSVIZVG"
 cheat3_enable = false
 
-cheat4_desc = "Infinite lives using jeep"
+cheat4_desc = "使用吉普车无限生命"
 cheat4_code = "SZVVGTVG"
 cheat4_enable = false
 
-cheat5_desc = "1 life using helicopter after continue"
+cheat5_desc = "继续后 1 次使用直升机"
 cheat5_code = "PEEGSPLA"
 cheat5_enable = false
 
-cheat6_desc = "6 lives using helicopter after continue"
+cheat6_desc = "继续使用直升机后 6 人丧生"
 cheat6_code = "TEEGSPLA"
 cheat6_enable = false
 
-cheat7_desc = "9 lives using helicopter after continue"
+cheat7_desc = "继续使用直升机后 9 人丧生"
 cheat7_code = "PEEGSPLE"
 cheat7_enable = false
 
-cheat8_desc = "1 life using jeep after continue"
+cheat8_desc = "继续后 1 次使用吉普车的生活"
 cheat8_code = "PEOKNPLA"
 cheat8_enable = false
 
-cheat9_desc = "6 lives using jeep after continue"
+cheat9_desc = "继续后 6 次使用吉普车"
 cheat9_code = "TEOKNPLA"
 cheat9_enable = false
 
-cheat10_desc = "9 lives using jeep after continue"
+cheat10_desc = "继续后 9 人使用吉普车"
 cheat10_code = "PEOKNPLE"
 cheat10_enable = false
 
-cheat11_desc = "Keep firepower and speed-ups for helicopter"
+cheat11_desc = "保持直升机的火力和加速"
 cheat11_code = "SZETZLSA"
 cheat11_enable = false
 
-cheat12_desc = "Keep firepower and speed-ups for jeep"
+cheat12_desc = "保持吉普车的火力和加速"
 cheat12_code = "SXOTPTSA"
 cheat12_enable = false
 
-cheat13_desc = "Restrict movement area for helicopter"
+cheat13_desc = "限制直升机的活动区域"
 cheat13_code = "EEOVYUEI"
 cheat13_enable = false
 
-cheat14_desc = "Restrict movement area for jeep"
+cheat14_desc = "限制吉普车的活动区域"
 cheat14_code = "EEOVGYEV"
 cheat14_enable = false
 
-cheat15_desc = "Start at stage 2"
+cheat15_desc = "从第 2 阶段开始"
 cheat15_code = "PAXKEAAA"
 cheat15_enable = false
 
-cheat16_desc = "Start at stage 3"
+cheat16_desc = "从第 3 阶段开始"
 cheat16_code = "ZAXKEAAA"
 cheat16_enable = false
 
-cheat17_desc = "Start at stage 4"
+cheat17_desc = "从第 4 阶段开始"
 cheat17_code = "LAXKEAAA"
 cheat17_enable = false
 
-cheat18_desc = "Start at stage 5"
+cheat18_desc = "从第 5 阶段开始"
 cheat18_code = "GAXKEAAA"
 cheat18_enable = false
 
-cheat19_desc = "Start at stage 6"
+cheat19_desc = "从第 6 阶段开始"
 cheat19_code = "IAXKEAAA"
 cheat19_enable = false
 
-cheat20_desc = "Start at stage 7"
+cheat20_desc = "从第 7 阶段开始"
 cheat20_code = "TAXKEAAA"
 cheat20_enable = false
 
-cheat21_desc = "P1 Vehicle Modifier"
+cheat21_desc = "P1车辆改装"
 cheat21_code = "003D:00"
 cheat21_enable = false
 
-cheat22_desc = "Infinite Lives (Heli)"
+cheat22_desc = "无限生命（直升机）"
 cheat22_code = "0057:09"
 cheat22_enable = false
 
-cheat23_desc = "Infinite Lives (Jeep)"
+cheat23_desc = "无限生命（吉普车）"
 cheat23_code = "0068:09"
 cheat23_enable = false
 
-cheat24_desc = "Invincibility - Helicopter"
+cheat24_desc = "无敌-直升机"
 cheat24_code = "SZKVYZVG+SZNVIZVG+SXUVZZVG+SXVVAZVG"
 cheat24_enable = false
 
-cheat25_desc = "Invincibility - Jeep"
+cheat25_desc = "无敌-吉普车"
 cheat25_code = "SXVTTIVG+SZEVTTVG+SZKVPTVG+SZNTYTVG"
 cheat25_enable = false
 
-cheat26_desc = "One Hit to kill Bosses"
+cheat26_desc = "一击杀死 Boss"
 cheat26_code = "AAVALPLA"
 cheat26_enable = false
 
-cheat27_desc = "One Hit to kill Bonus Vehicle:Works even during construction"
+cheat27_desc = "一击杀死奖励车辆：即使在施工期间也能工作"
 cheat27_code = "AESESOAA"
 cheat27_enable = false
 
-cheat28_desc = "Start with Tons Of Lives "
+cheat28_desc = "从无数生命开始"
 cheat28_code = ""
 cheat28_enable = false
 
-cheat29_desc = "Tons Of Lives using helicopter after continue"
+cheat29_desc = "继续后使用直升机的大量生命"
 cheat29_code = ""
 cheat29_enable = false
 
-cheat30_desc = "Tons Of Lives using jeep after continue"
+cheat30_desc = "继续后使用吉普车的无数生命"
 cheat30_code = ""
 cheat30_enable = false

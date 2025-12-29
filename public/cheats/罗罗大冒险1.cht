@@ -1,17 +1,17 @@
 cheats = 4
 
-cheat0_desc = "Infinite Shots On Pickup"
+cheat0_desc = "拾音器上无限拍摄"
 cheat0_code = "SXKZTIVG"
 cheat0_enable = false
 
-cheat1_desc = "Infinite Lives"
+cheat1_desc = "无限生命"
 cheat1_code = "SXNPIYVG"
 cheat1_enable = false
 
-cheat2_desc = "Always Have Shot Ability"
+cheat2_desc = "始终拥有投篮能力"
 cheat2_code = "NNSPGTAE"
 cheat2_enable = false
 
-cheat3_desc = "Invincible Against Medusa & All Other Instant Kills"
+cheat3_desc = "对美杜莎和所有其他即时杀戮无敌"
 cheat3_code = "ATNKTSSA"
 cheat3_enable = false

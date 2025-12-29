@@ -1,25 +1,25 @@
 cheats = 6
 
-cheat0_desc = "Infinite Lives"
+cheat0_desc = "无限生命"
 cheat0_code = "SXVUSKVK"
 cheat0_enable = false
 
-cheat1_desc = "Always Have Bee Effect"
+cheat1_desc = "总是有蜜蜂效应"
 cheat1_code = "PAVYPIAA"
 cheat1_enable = false
 
-cheat2_desc = "Infinite Time"
+cheat2_desc = "无限时间"
 cheat2_code = "SZUIGEVK"
 cheat2_enable = false
 
-cheat3_desc = "Infinite Bee"
+cheat3_desc = "无限蜜蜂"
 cheat3_code = "SZSYLSSE"
 cheat3_enable = false
 
-cheat4_desc = "Start with 9 of Each Item"
+cheat4_desc = "从每件 9 件开始"
 cheat4_code = "PAEZSLAE"
 cheat4_enable = false
 
-cheat5_desc = "Infinite Items"
+cheat5_desc = "无限物品"
 cheat5_code = "SXOUSOGK"
 cheat5_enable = false

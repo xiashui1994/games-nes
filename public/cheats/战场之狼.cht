@@ -1,65 +1,65 @@
 cheats = 16
 
-cheat0_desc = "Infinite Lives"
+cheat0_desc = "无限生命"
 cheat0_code = "SZEGNOVK"
 cheat0_enable = false
 
-cheat1_desc = "Invincibility"
+cheat1_desc = "无敌"
 cheat1_code = "ATNITPSA"
 cheat1_enable = false
 
-cheat2_desc = "Start With Infinite Lives"
+cheat2_desc = "从无限生命开始"
 cheat2_code = "EZEGNOVG"
 cheat2_enable = false
 
-cheat3_desc = "Start With Infinite Grenades"
+cheat3_desc = "从无限手榴弹开始"
 cheat3_code = "XVULASXK"
 cheat3_enable = false
 
-cheat4_desc = "Both Players Start With 1 Life"
+cheat4_desc = "两名玩家的生命值均为 1"
 cheat4_code = "AEKKIILA"
 cheat4_enable = false
 
-cheat5_desc = "Both Players Start With 6 Lives"
+cheat5_desc = "两名玩家一开始都有 6 条生命"
 cheat5_code = "TEKKIILA"
 cheat5_enable = false
 
-cheat6_desc = "Both Players Start With 9 Lives"
+cheat6_desc = "两名玩家一开始都有 9 条命"
 cheat6_code = "PEKKIILE"
 cheat6_enable = false
 
-cheat7_desc = "Start With Double Rations Of Grenades"
+cheat7_desc = "从双倍手榴弹配给开始"
 cheat7_code = "AOSGIIIA"
 cheat7_enable = false
 
-cheat8_desc = "Infinite Lives"
+cheat8_desc = "无限生命"
 cheat8_code = "049C:09"
 cheat8_enable = false
 
-cheat9_desc = "Infinite Grenades"
+cheat9_desc = "无限手榴弹"
 cheat9_code = "04A6:09"
 cheat9_enable = false
 
-cheat10_desc = "P1 & P2 Have All Power Ups"
+cheat10_desc = "P1 和 P2 拥有所有能力"
 cheat10_code = "04AB:E9"
 cheat10_enable = false
 
-cheat11_desc = "P1 & P2 Rapid Fire"
+cheat11_desc = "P1 & P2 速射"
 cheat11_code = "0074:00"
 cheat11_enable = false
 
-cheat12_desc = "Area Modifier"
+cheat12_desc = "面积修改器"
 cheat12_code = "049E:00"
 cheat12_enable = false
 
-cheat13_desc = "Hit Anywhere"
+cheat13_desc = "击中任何地方"
 cheat13_code = "AENTTLLI+AAETTGLG"
 cheat13_enable = false
 
-cheat14_desc = "Walk Through Anything"
+cheat14_desc = "走过任何事物"
 cheat14_code = ""
 cheat14_enable = false
 
-cheat15_desc = "Get Items From Anywhere"
+cheat15_desc = "从任何地方获取物品"
 cheat15_code = "AAEIEYGP+AAKIAVKI"
 cheat15_enable = false

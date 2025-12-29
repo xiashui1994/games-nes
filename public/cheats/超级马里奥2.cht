@@ -1,1197 +1,1197 @@
 cheats = 299
 
-cheat0_desc = "POW Boxes Keep 'POW'ing"
+cheat0_desc = "战俘箱不断“战俘”"
 cheat0_code = "UVNOITKG"
 cheat0_enable = false
 
-cheat1_desc = "More Sub-Space Time"
+cheat1_desc = "更多子时空"
 cheat1_code = "ZPZOTN"
 cheat1_enable = false
 
-cheat2_desc = "Stay In Sub-Space Longer Than 1 Minute"
+cheat2_desc = "在子空间停留超过1分钟"
 cheat2_code = "YPZOTN"
 cheat2_enable = false
 
-cheat3_desc = "Sometimes You Come Out Of A Door Holding An Enemy"
+cheat3_desc = "有时你走出一扇门时，手里还抱着一个敌人"
 cheat3_code = "EPZOTS"
 cheat3_enable = false
 
-cheat4_desc = "Pick Up Most Scenery"
+cheat4_desc = "拾取大部分风景"
 cheat4_code = "LEGPIO"
 cheat4_enable = false
 
-cheat5_desc = "Pow Blocks Don't Go Away"
+cheat5_desc = "战俘区不会消失"
 cheat5_code = "STAPPY"
 cheat5_enable = false
 
-cheat6_desc = "Keep Picking Up The Grass (Works In Sub-Space With Coins Too)"
+cheat6_desc = "继续捡草（在子空间也可以使用硬币）"
 cheat6_code = "NSPPLE"
 cheat6_enable = false
 
-cheat7_desc = "All Characters Can Float Jump"
+cheat7_desc = "所有角色都可以漂浮跳跃"
 cheat7_code = "ANNEEGEY"
 cheat7_enable = false
 
-cheat8_desc = "Easier Time In Wart's Palace, And Mega Moon Jumps For Luigi (Super Jump To Get Up On Top Of Walls)"
+cheat8_desc = "瓦特宫殿里的时光更轻松，路易吉的超级月亮跳跃（超级跳跃到墙顶）"
 cheat8_code = "AAEEZGPA"
 cheat8_enable = false
 
-cheat9_desc = "Mario Has Moon-Float Jump"
+cheat9_desc = "马里奥有月球漂浮跳跃"
 cheat9_code = "GUSEZLAE"
 cheat9_enable = false
 
-cheat10_desc = "Mario Has Mega Moon-Float Jump"
+cheat10_desc = "马里奥有超级月球漂浮跳跃"
 cheat10_code = "NNSEZLAE"
 cheat10_enable = false
 
-cheat11_desc = "Mario Has Moon Gravity Jumps"
+cheat11_desc = "马里奥有月球重力跳跃"
 cheat11_code = "PESELLYA"
 cheat11_enable = false
 
-cheat12_desc = "Luigi Has Moon-Float Jump"
+cheat12_desc = "路易吉进行月球漂浮跳跃"
 cheat12_code = "GLEEAGAE"
 cheat12_enable = false
 
-cheat13_desc = "Luigi Has Mega Moon-Float Jump"
+cheat13_desc = "路易吉有超级月球漂浮跳跃"
 cheat13_code = "NYEEAGAE"
 cheat13_enable = false
 
-cheat14_desc = "Toad Has Moon-Float Jump"
+cheat14_desc = "蟾蜍有月球漂浮跳跃"
 cheat14_code = "GUNAPLAE"
 cheat14_enable = false
 
-cheat15_desc = "Toad Has Mega Moon-Float Jump"
+cheat15_desc = "蟾蜍有巨型月球漂浮跳跃"
 cheat15_code = "NNNAPLAE"
 cheat15_enable = false
 
-cheat16_desc = "Princess Has Suspended Flight Jump"
+cheat16_desc = "公主已暂停飞行跳跃"
 cheat16_code = "KAXAOIAA"
 cheat16_enable = false
 
-cheat17_desc = "Princess Has A Longer Flight Jump"
+cheat17_desc = "公主有更长的飞行跳跃"
 cheat17_code = "KAXAOIAA"
 cheat17_enable = false
 
-cheat18_desc = "Flying Carpets Last Forever"
+cheat18_desc = "飞毯永远耐用"
 cheat18_code = "SLNZZLVI"
 cheat18_enable = false
 
-cheat19_desc = "Every 2nd Large Vegetable That You Pull Up Will Be A Stop Watch (Instead of Every 5th)"
+cheat19_desc = "你拉起的每第二个大蔬菜都会成为秒表（而不是每第五个）"
 cheat19_code = "ZESOTAIA"
 cheat19_enable = false
 
-cheat20_desc = "Pulling Up Small Vegetables Gives You A POW Block"
+cheat20_desc = "拉起小蔬菜给你一个战俘区"
 cheat20_code = "ZLVOLAZU"
 cheat20_enable = false
 
-cheat21_desc = "Pulling Up Small Vegetables Gives You A Stop Watch"
+cheat21_desc = "拉起小蔬菜给你一个秒表"
 cheat21_code = "TGVOLAZL"
 cheat21_enable = false
 
-cheat22_desc = "Pulling Up Small Vegetables Gives You A Heart"
+cheat22_desc = "拔起小蔬菜给你一颗心"
 cheat22_code = "AAVOLAZL"
 cheat22_enable = false
 
-cheat23_desc = "Pulling Up Small Vegetables Gives You A Coin"
+cheat23_desc = "拔起小蔬菜就可以得到一枚硬币"
 cheat23_code = "TLVOLAZL"
 cheat23_enable = false
 
-cheat24_desc = "Pulling Up Small Vegetables Gives You A Mushroom"
+cheat24_desc = "拔起小蔬菜就可以得到蘑菇"
 cheat24_code = "YLVOLAZU"
 cheat24_enable = false
 
-cheat25_desc = "Pulling Up Small Vegetables Gives You A 1-Up Mushroom"
+cheat25_desc = "拔起小蔬菜就能得到一朵蘑菇"
 cheat25_code = "AGVOLAZL"
 cheat25_enable = false
 
-cheat26_desc = "Pulling Up Small Vegetables Gives You A Key"
+cheat26_desc = "拔起小蔬菜给你一把钥匙"
 cheat26_code = "ILVOLAZU"
 cheat26_enable = false
 
-cheat27_desc = "Pulling Up Small Vegetables Gives You A Sub-Space Door"
+cheat27_desc = "拉起小蔬菜给你一扇亚空间门"
 cheat27_code = "GLVOLAZU"
 cheat27_enable = false
 
-cheat28_desc = "Pulling Up Small Vegetables Gives You A Bomb"
+cheat28_desc = "拉起小蔬菜会给你一颗炸弹"
 cheat28_code = "YLVOLAZL"
 cheat28_enable = false
 
-cheat29_desc = "Pulling Up Small Vegetables Gives You A Star"
+cheat29_desc = "拔起小蔬菜给你一颗星星"
 cheat29_code = "IGVOLAZL"
 cheat29_enable = false
 
-cheat30_desc = "Pulling Up Small Vegetables Gives You A Turtle Shell"
+cheat30_desc = "拔起小蔬菜就可以得到乌龟壳"
 cheat30_code = "ILVOLAZL"
 cheat30_enable = false
 
-cheat31_desc = "Pulling Up Small Vegetables Gives You A Red Log"
+cheat31_desc = "拔起小蔬菜会给你一根红色的原木"
 cheat31_code = "LLVOLAZU"
 cheat31_enable = false
 
-cheat32_desc = "Pulling Up Small Vegetables Gives You A Spark"
+cheat32_desc = "拔起小蔬菜给你带来火花"
 cheat32_code = "ALVOLAZL"
 cheat32_enable = false
 
-cheat33_desc = "Pulling Up Small Vegetables Gives You A Mushroom Block"
+cheat33_desc = "拔起小蔬菜就能得到蘑菇块"
 cheat33_code = "PLVOLAZU"
 cheat33_enable = false
 
-cheat34_desc = "Pulling Up Large Vegetables Gives You A POW Block"
+cheat34_desc = "拉起大蔬菜会给你一个战俘区"
 cheat34_code = "ZLVOZALU"
 cheat34_enable = false
 
-cheat35_desc = "Pulling Up Large Vegetables Gives You A Heart"
+cheat35_desc = "拔起大蔬菜给你一颗心"
 cheat35_code = "AAVOZALL"
 cheat35_enable = false
 
-cheat36_desc = "Pulling Up Large Vegetables Gives You A Coin"
+cheat36_desc = "拉起大蔬菜给你一枚硬币"
 cheat36_code = "TLVOZALL"
 cheat36_enable = false
 
-cheat37_desc = "Pulling Up Large Vegetables Gives You A Mushroom"
+cheat37_desc = "拔起大蔬菜就会得到蘑菇"
 cheat37_code = "YLVOZALU"
 cheat37_enable = false
 
-cheat38_desc = "Pulling Up Large Vegetables Gives You A 1-Up Mushroom"
+cheat38_desc = "拉起大蔬菜会给你一个单层蘑菇"
 cheat38_code = "AGVOZALL"
 cheat38_enable = false
 
-cheat39_desc = "Pulling Up Large Vegetables Gives You A Sub-Space Door"
+cheat39_desc = "拉起大蔬菜给你一个亚空间门"
 cheat39_code = "GLVOZALU"
 cheat39_enable = false
 
-cheat40_desc = "Pulling Up Large Vegetables Gives You A Bomb"
+cheat40_desc = "拉起大蔬菜会给你带来炸弹"
 cheat40_code = "YLVOZALL"
 cheat40_enable = false
 
-cheat41_desc = "Pulling Up Large Vegetables Gives You A Star"
+cheat41_desc = "拔起大蔬菜会给你一颗星星"
 cheat41_code = "IGVOZALL"
 cheat41_enable = false
 
-cheat42_desc = "Pulling Up Large Vegetables Gives You A Turtle Shell"
+cheat42_desc = "拔起大蔬菜会给你一个乌龟壳"
 cheat42_code = "ILVOZALL"
 cheat42_enable = false
 
-cheat43_desc = "Pulling Up Large Vegetables Gives You A Red Log"
+cheat43_desc = "拔起大蔬菜会给你一根红色的原木"
 cheat43_code = "LLVOZALU"
 cheat43_enable = false
 
-cheat44_desc = "Pulling Up Large Vegetables Gives You A Spark"
+cheat44_desc = "拔起大蔬菜会给你带来火花"
 cheat44_code = "ALVOZALL"
 cheat44_enable = false
 
-cheat45_desc = "Pulling Up Large Vegetables Gives You A Mushroom Block"
+cheat45_desc = "拉起大的蔬菜会给你一块蘑菇块"
 cheat45_code = "PLVOZALU"
 cheat45_enable = false
 
-cheat46_desc = "Stop Watch From 5th Large Vegetable Becomes a POW Block"
+cheat46_desc = "秒表从第五大蔬菜变成战俘块"
 cheat46_code = "ZUVPZATK"
 cheat46_enable = false
 
-cheat47_desc = "Stop Watch From 5th Large Vegetable Becomes a Heart"
+cheat47_desc = "秒表从第五个大蔬菜变成了一颗心"
 cheat47_code = "AEVPZATG"
 cheat47_enable = false
 
-cheat48_desc = "Stop Watch From 5th Large Vegetable Becomes a Coin"
+cheat48_desc = "秒表从第五大蔬菜变成硬币"
 cheat48_code = "TUVPZATG"
 cheat48_enable = false
 
-cheat49_desc = "Stop Watch from 5th Large Vegetable Becomes a Mushroom"
+cheat49_desc = "秒表从第五大蔬菜变成蘑菇"
 cheat49_code = "YUVPZATK"
 cheat49_enable = false
 
-cheat50_desc = "Stop Watch From 5th Large Vegetable Becomes a 1-up Mushroom"
+cheat50_desc = "秒表从第 5 个大蔬菜变成了 1 个蘑菇"
 cheat50_code = "AKVPZATG"
 cheat50_enable = false
 
-cheat51_desc = "Stop Watch From 5th Large Vegetable Becomes a Key"
+cheat51_desc = "秒表从第五大菜开始成为关键"
 cheat51_code = "IUVPZATK"
 cheat51_enable = false
 
-cheat52_desc = "Stop Watch From 5th Large Vegetable Becomes a Sub-Space Door"
+cheat52_desc = "秒表从第五大蔬菜变成亚空间门"
 cheat52_code = "GUVPZATK"
 cheat52_enable = false
 
-cheat53_desc = "Stop Watch From 5th Large Vegetable Becomes a Bomb"
+cheat53_desc = "秒表从第五大蔬菜变成炸弹"
 cheat53_code = "YUVPZATG"
 cheat53_enable = false
 
-cheat54_desc = "Stop Watch From 5th Large Vegetable Becomes a Star"
+cheat54_desc = "秒表从第五大菜变成明星"
 cheat54_code = "IKVPZATG"
 cheat54_enable = false
 
-cheat55_desc = "Stop Watch From 5th Large Vegetable Becomes a Turtle Shell"
+cheat55_desc = "秒表从第5个大菜变成了乌龟壳"
 cheat55_code = "IUVPZATG"
 cheat55_enable = false
 
-cheat56_desc = "Stop Watch From 5th Large Vegetable Becomes A Red Log"
+cheat56_desc = "秒表从第五大蔬菜变成红色原木"
 cheat56_code = "LUVPZATK"
 cheat56_enable = false
 
-cheat57_desc = "Stop Watch From 5th Large Vegetable Becomes a Spark"
+cheat57_desc = "秒表从第五大菜变成火花"
 cheat57_code = "AUVPZATG"
 cheat57_enable = false
 
-cheat58_desc = "Stop Watch From 5th Large Vegetable Becomes a Mushroom Block"
+cheat58_desc = "秒表从第五个大蔬菜变成了蘑菇块"
 cheat58_code = "PUVPZATK"
 cheat58_enable = false
 
-cheat59_desc = "Pogo Stick For Princess"
+cheat59_desc = "公主弹簧单高跷"
 cheat59_code = "KAXAPGGA"
 cheat59_enable = false
 
-cheat60_desc = "Super Pogo For Princess"
+cheat60_desc = "公主的超级 Pogo"
 cheat60_code = "XAXAPGGA"
 cheat60_enable = false
 
-cheat61_desc = "Veggies, Bombs, 1-Ups Stick To Your Feet (You Can Throw Stopwatches &amp; 1-Ups Across The Ground)"
+cheat61_desc = "蔬菜、炸弹、1-Ups 粘在你的脚上（你可以把秒表和 1-Ups 扔到地上）"
 cheat61_code = "TEYOTA"
 cheat61_enable = false
 
-cheat62_desc = "Nice Colors"
+cheat62_desc = "漂亮的颜色"
 cheat62_code = "KIGESO"
 cheat62_enable = false
 
-cheat63_desc = "Drill Mario (Sometimes You Go Thru The Floor)"
+cheat63_desc = "钻马里奥（有时你会穿过地板）"
 cheat63_code = "OPAOPE"
 cheat63_enable = false
 
-cheat64_desc = "Enemies Glow"
+cheat64_desc = "敌人发光"
 cheat64_code = "EPGEPK"
 cheat64_enable = false
 
-cheat65_desc = "Altered Music"
+cheat65_desc = "改变音乐"
 cheat65_code = "AAIAAS"
 cheat65_enable = false
 
-cheat66_desc = "Become Golden With Anybody And You Can Float"
+cheat66_desc = "与任何人一起变得金色，你可以漂浮"
 cheat66_code = "KGSTVKUU"
 cheat66_enable = false
 
-cheat67_desc = "Max Hearts [4]"
+cheat67_desc = "最大红心 [4]"
 cheat67_code = "04C3:00"
 cheat67_enable = false
 
-cheat68_desc = "Receive Small Heart For Every Enemy Defeated"
+cheat68_desc = "每击败一个敌人即可获得小心脏"
 cheat68_code = "04AD:09"
 cheat68_enable = false
 
-cheat69_desc = "Infinite Time In Sub-Space"
+cheat69_desc = "子空间中的无限时间"
 cheat69_code = "04B7:FA"
 cheat69_enable = false
 
-cheat70_desc = "Always Charged For Super Jump"
+cheat70_desc = "永远为超级跳跃充电"
 cheat70_code = "04CA:3C"
 cheat70_enable = false
 
-cheat71_desc = "Infinite lives"
+cheat71_desc = "无限生命"
 cheat71_code = "SZNESXVK"
 cheat71_enable = false
 
-cheat72_desc = "Infinite life meter (except if you hit a spike)"
+cheat72_desc = "无限生命表（除非你击中尖峰）"
 cheat72_code = "GZELVXSE"
 cheat72_enable = false
 
-cheat73_desc = "Quick pick up"
+cheat73_desc = "快速取货"
 cheat73_code = "SXUASXOU"
 cheat73_enable = false
 
-cheat74_desc = "Special &quot;squat&quot; high jumps"
+cheat74_desc = "特殊“深蹲”跳高"
 cheat74_code = "AEUEKKGL"
 cheat74_enable = false
 
-cheat75_desc = "Princess has mega-float"
+cheat75_desc = "公主有巨型浮标"
 cheat75_code = "PPXAOIAA"
 cheat75_enable = false
 
-cheat76_desc = "Princess has mega-float and lunar descent"
+cheat76_desc = "公主号拥有巨型漂浮物和月球降落"
 cheat76_code = "PAXAOIAA"
 cheat76_enable = false
 
-cheat77_desc = "Super moonjumps for Mario"
+cheat77_desc = "马里奥的超级月球跳跃"
 cheat77_code = "PESEGLGA"
 cheat77_enable = false
 
-cheat78_desc = "Super moonjumps for Toad"
+cheat78_desc = "蟾蜍的超级月球跳跃"
 cheat78_code = "PENALLGA"
 cheat78_enable = false
 
-cheat79_desc = "Super moonjumps for Princess"
+cheat79_desc = "公主的超级跳月"
 cheat79_code = "PAXAPGGA"
 cheat79_enable = false
 
-cheat80_desc = "Speed up enemies"
+cheat80_desc = "加速敌人"
 cheat80_code = "AEXALGZA"
 cheat80_enable = false
 
-cheat81_desc = "Strong Tryclyde"
+cheat81_desc = "强特里克莱德"
 cheat81_code = "YAXXIYZE"
 cheat81_enable = false
 
-cheat82_desc = "Strong Fryguy"
+cheat82_desc = "强弗莱盖伊"
 cheat82_code = "YAVXVGGE"
 cheat82_enable = false
 
-cheat83_desc = "Strong Clawgrip"
+cheat83_desc = "强力爪握"
 cheat83_code = "YAEXTPGE"
 cheat83_enable = false
 
-cheat84_desc = "Strong Wart"
+cheat84_desc = "强疣"
 cheat84_code = "YESUAPTE"
 cheat84_enable = false
 
-cheat85_desc = "Strong Birdetta"
+cheat85_desc = "强伯德塔"
 cheat85_code = "IAVENYZE"
 cheat85_enable = false
 
-cheat86_desc = "Strong Hawkmouth"
+cheat86_desc = "强鹰口"
 cheat86_code = "YEVXVYLE"
 cheat86_enable = false
 
-cheat87_desc = "Weak Birdetta"
+cheat87_desc = "弱伯德塔"
 cheat87_code = "AAVENYZA"
 cheat87_enable = false
 
-cheat88_desc = "Birdetta spits eggs instead of fireballs (appears in late  levels of the game)"
+cheat88_desc = "Birdetta 吐的是鸡蛋而不是火球（出现在游戏后期）"
 cheat88_code = "TPEPLAAX"
 cheat88_enable = false
 
-cheat89_desc = "Strong Wart"
+cheat89_desc = "强疣"
 cheat89_code = "YESLPPTE"
 cheat89_enable = false
 
-cheat90_desc = "Strong Birdetta"
+cheat90_desc = "强伯德塔"
 cheat90_code = "IAVEUYZE"
 cheat90_enable = false
 
-cheat91_desc = "Strong Hawkmouth"
+cheat91_desc = "强鹰口"
 cheat91_code = "YEVZNYLE"
 cheat91_enable = false
 
-cheat92_desc = "Weak Birdetta"
+cheat92_desc = "弱伯德塔"
 cheat92_code = "AAVEUYZA"
 cheat92_enable = false
 
-cheat93_desc = "Birdetta spits eggs instead of fireballs (appears in late levels of the game)"
+cheat93_desc = "Birdetta 吐的是鸡蛋而不是火球（出现在游戏后期）"
 cheat93_code = "TONENYAX"
 cheat93_enable = false
 
-cheat94_desc = "Start on World 2"
+cheat94_desc = "从世界 2 开始"
 cheat94_code = "PEEPUZAG+IUEPSZAA+TEEPVZPA"
 cheat94_enable = false
 
-cheat95_desc = "Start on World 3"
+cheat95_desc = "从世界 3 开始"
 cheat95_code = "ZEEPUZAG+IUEPSZAA+TEEPVZPA"
 cheat95_enable = false
 
-cheat96_desc = "Start on World 4"
+cheat96_desc = "从世界 4 开始"
 cheat96_code = "LEEPUZAG+IUEPSZAA+TEEPVZPA"
 cheat96_enable = false
 
-cheat97_desc = "Start on World 5"
+cheat97_desc = "从世界 5 开始"
 cheat97_code = "GEEPUZAG+IUEPSZAA+TEEPVZPA"
 cheat97_enable = false
 
-cheat98_desc = "Start on World 6"
+cheat98_desc = "从世界 6 开始"
 cheat98_code = "IEEPUZAG+IUEPSZAA+TEEPVZPA"
 cheat98_enable = false
 
-cheat99_desc = "Start on World 7"
+cheat99_desc = "从世界7开始"
 cheat99_code = "TEEPUZAG+IUEPSZAA+TEEPVZPA"
 cheat99_enable = false
 
-cheat100_desc = "Infinite Lives"
+cheat100_desc = "无限生命"
 cheat100_code = "004E:03"
 cheat100_enable = false
 
-cheat101_desc = "Infinite Energy"
+cheat101_desc = "无限能量"
 cheat101_code = "SZELVXSE"
 cheat101_enable = false
 
-cheat102_desc = "Invincibility"
+cheat102_desc = "无敌"
 cheat102_code = "OZXYGLES+SAXYTLSZ"
 cheat102_enable = false
 
-cheat103_desc = "Star Invincibility"
+cheat103_desc = "星无敌"
 cheat103_code = "EIVYIPEY"
 cheat103_enable = false
 
-cheat104_desc = "Invincibility Flash Stopper"
+cheat104_desc = "无敌闪停器"
 cheat104_code = "EYXYGLEI"
 cheat104_enable = false
 
-cheat105_desc = "Multi Jump In Mid-Air"
+cheat105_desc = "空中多跳"
 cheat105_code = "0099:00"
 cheat105_enable = false
 
-cheat106_desc = "World Modifier"
+cheat106_desc = "世界修改器"
 cheat106_code = "0635:00"
 cheat106_enable = false
 
-cheat107_desc = "All Players Can Jump in Midair"
+cheat107_desc = "所有玩家都可以在半空中跳跃"
 cheat107_code = "ALOENGEI"
 cheat107_enable = false
 
-cheat108_desc = "You Can't Pause The Game"
+cheat108_desc = "你无法暂停游戏"
 cheat108_code = "AUNTZGEI+AOOVTGEY"
 cheat108_enable = false
 
-cheat109_desc = "Hawkmouth Always Open"
+cheat109_desc = "鹰嘴始终开放"
 cheat109_code = "GXUESIEY"
 cheat109_enable = false
 
-cheat110_desc = "Level Eraser"
+cheat110_desc = "水平橡皮擦"
 cheat110_code = "AAPPZA"
 cheat110_enable = false
 
-cheat111_desc = "Hard Rock Miner Lv. 1"
+cheat111_desc = "硬岩矿工 Lv. 1"
 cheat111_code = "OLTOTO+ISNEGVOK+LXLPPA"
 cheat111_enable = false
 
-cheat112_desc = "Hard Rock Miner Lv. 2"
+cheat112_desc = "硬岩矿工 Lv. 2"
 cheat112_code = "OLTOTO+ISNEGVOK+TEUPPAIV"
 cheat112_enable = false
 
-cheat113_desc = "Dig Up Mushroom Blocks Anywhere"
+cheat113_desc = "随处挖蘑菇块"
 cheat113_code = "OLTOTO+SXLPAE"
 cheat113_enable = false
 
-cheat114_desc = "Icy Surfaces"
+cheat114_desc = "冰冷的表面"
 cheat114_code = "SZAEEN"
 cheat114_enable = false
 
-cheat115_desc = "Walk Through Walls (Alt)"
+cheat115_desc = "穿墙而过（替代）"
 cheat115_code = "SXTEUN"
 cheat115_enable = false
 
-cheat116_desc = "Hard Rock Miner Lv. 1 (improved)"
+cheat116_desc = "硬岩矿工 Lv. 1（改进）"
 cheat116_code = "OLVOTOOK+SUNEGVOG+OXUPAEOU+YUUPPAIT+XVUPZAEO"
 cheat116_enable = false
 
-cheat117_desc = "Hard Rock Miner Lv. 2 (improved)"
+cheat117_desc = "硬岩矿工 Lv. 2（改进）"
 cheat117_code = "OLVOTOOK+SUNEGVOG+OXUPAEOU+PEUPPAIV+XVUPZAEO"
 cheat117_enable = false
 
-cheat118_desc = "Dig Up Mushroom Blocks Anywhere"
+cheat118_desc = "随处挖蘑菇块"
 cheat118_code = "OLVOTOOK+SXUPAEOU"
 cheat118_enable = false
 
-cheat119_desc = "Icy!"
+cheat119_desc = "冰冷！"
 cheat119_code = "SZEEENGE"
 cheat119_enable = false
 
-cheat120_desc = "Can Carry Enemies &amp; Items Through Doorways"
+cheat120_desc = "可以携带敌人和敌人通过门口的物品"
 cheat120_code = "EOXPLPEY"
 cheat120_enable = false
 
-cheat121_desc = "Can Climb Vines While Holding Enemies &amp; Items"
+cheat121_desc = "可以在抓住敌人的同时攀爬藤蔓项目"
 cheat121_code = "EPUPIAEI"
 cheat121_enable = false
 
-cheat122_desc = "Sky Climber"
+cheat122_desc = "天空攀登者"
 cheat122_code = "ELUENLEY"
 cheat122_enable = false
 
-cheat123_desc = "Lift Objects Quickly"
+cheat123_desc = "快速举起物体"
 cheat123_code = "EUEEOZEI"
 cheat123_enable = false
 
-cheat124_desc = "Can Enter Locked Doors Without Keys"
+cheat124_desc = "无需钥匙即可进入上锁的门"
 cheat124_code = "ELXOZZEY+AYUPGZEI"
 cheat124_enable = false
 
-cheat125_desc = "Birdo Dies In One Hit"
+cheat125_desc = "伯多一击身亡"
 cheat125_code = "AINLXZAL"
 cheat125_enable = false
 
-cheat126_desc = "Enemies Chase You"
+cheat126_desc = "敌人追赶你"
 cheat126_code = "ENKAKPEL+AINLXZAL"
 cheat126_enable = false
 
-cheat127_desc = "Ground Based Enemies Move Quickly"
+cheat127_desc = "地面敌人移动迅速"
 cheat127_code = "ESXAZGEY"
 cheat127_enable = false
 
-cheat128_desc = "Lifted Enemies/Items Produce Flying Carpets"
+cheat128_desc = "举起的敌人/物品会产生飞毯"
 cheat128_code = "ENKUOAEI"
 cheat128_enable = false
 
-cheat129_desc = "Grass Always Produces Coins"
+cheat129_desc = "草总是生产硬币"
 cheat129_code = "EUSPGPEI"
 cheat129_enable = false
 
-cheat130_desc = "Walk Through Walls"
+cheat130_desc = "穿墙而过"
 cheat130_code = "AOXEKYEY"
 cheat130_enable = false
 
-cheat131_desc = "Dig Up Mushroom Blocks Anywhere (improved)"
+cheat131_desc = "随处挖蘑菇块（已改进）"
 cheat131_code = "OLVOTOOK+SXUPAEOU+AYOEKTEP"
 cheat131_enable = false
 
-cheat132_desc = "Quickly Move LEFT/RIGHT While on a Flying Carpet (press B to go faster)"
+cheat132_desc = "在飞毯上快速向左/向右移动（按 B 走得更快）"
 cheat132_code = "AYKAEGEI"
 cheat132_enable = false
 
-cheat133_desc = "No Gravity for Enemies and Items"
+cheat133_desc = "敌人和物品没有重力"
 cheat133_code = "AOEAGIAL"
 cheat133_enable = false
 
-cheat134_desc = "Enemies Keep Bouncing After Being Dropped"
+cheat134_desc = "敌人在掉落后继续弹跳"
 cheat134_code = "ENXPTIEP"
 cheat134_enable = false
 
-cheat135_desc = "Shyguys Jump and Shoot Bullets"
+cheat135_desc = "Shyguys 跳跃并射击子弹"
 cheat135_code = "EYKOAIEI"
 cheat135_enable = false
 
-cheat136_desc = "Many Enemies Will Hop Around and Chase You (no problems with Pidget and Birdo)"
+cheat136_desc = "许多敌人会跳来跳去并追赶你（Pidget 和 Birdo 没有问题）"
 cheat136_code = "AYOPAIEI"
 cheat136_enable = false
 
-cheat137_desc = "Shyguys Shoot Bullets"
+cheat137_desc = "Shyguys 射击子弹"
 cheat137_code = "ALUOGIEY"
 cheat137_enable = false
 
-cheat138_desc = "Phanto Is Never Aroused When You're Holding a Key"
+cheat138_desc = "当你拿着钥匙时，Phanto 永远不会被唤醒"
 cheat138_code = "EIOOILSZ"
 cheat138_enable = false
 
-cheat139_desc = "Enemies Chase You (improved)"
+cheat139_desc = "敌人追你（改进）"
 cheat139_code = "ESXPAIEY"
 cheat139_enable = false
 
-cheat140_desc = "Birdo Spits Small Vegetables"
+cheat140_desc = "Birdo 吐小蔬菜"
 cheat140_code = "ZLEPLETP"
 cheat140_enable = false
 
-cheat141_desc = "Birdo Spits Invincibility Stars"
+cheat141_desc = "伯多吐出无敌星"
 cheat141_code = ""
 cheat141_enable = false
 
-cheat142_desc = "Birdo Spits Koopa Shells"
+cheat142_desc = "伯多吐出库帕贝壳"
 cheat142_code = "ILEPLETP"
 cheat142_enable = false
 
-cheat143_desc = "Birdo Spits Explosions"
+cheat143_desc = "Birdo 吐出爆炸物"
 cheat143_code = "PAEPLETO"
 cheat143_enable = false
 
-cheat144_desc = "Birdo Spits Albatosses And Bob-Ombs"
+cheat144_desc = "Birdo 吐信天翁和 Bob-Ombs"
 cheat144_code = "ZAEPLETO"
 cheat144_enable = false
 
-cheat145_desc = "Snifits Spit Eggs"
+cheat145_desc = "闻吐鸡蛋"
 cheat145_code = "TONOTSLO"
 cheat145_enable = false
 
-cheat146_desc = "Snifits Spit 1-up Mushrooms"
+cheat146_desc = "嗅吐 1-up 蘑菇"
 cheat146_code = "AKNOTSLP"
 cheat146_enable = false
 
-cheat147_desc = "Snifits Spit Flying Carpets"
+cheat147_desc = "嗅嗅吐飞毯"
 cheat147_code = "PKNOTSLP"
 cheat147_enable = false
 
-cheat148_desc = "Snifits Spit Invincibility Stars"
+cheat148_desc = "嗅吐无敌星"
 cheat148_code = "IKNOTSLP"
 cheat148_enable = false
 
-cheat149_desc = "Snifits Spit Keys"
+cheat149_desc = "嗅嗅吐钥匙"
 cheat149_code = "IUNOTSLO"
 cheat149_enable = false
 
-cheat150_desc = "Snifits Spit Coins"
+cheat150_desc = "嗅吐硬币"
 cheat150_code = "TUNOTSLP"
 cheat150_enable = false
 
-cheat151_desc = "Snifits Spit Tweeters"
+cheat151_desc = "嗅嗅吐高音扬声器"
 cheat151_code = "ZENOTSLP"
 cheat151_enable = false
 
-cheat152_desc = "Snifits Spit Fireballs"
+cheat152_desc = "嗅嗅吐火球"
 cheat152_code = "AXNOTSLP"
 cheat152_enable = false
 
-cheat153_desc = "Snifits Spit Porcupos"
+cheat153_desc = "嗅 吐 豪猪"
 cheat153_code = "GENOTSLP"
 cheat153_enable = false
 
-cheat154_desc = "Snifits Spit Snifits a.k.a.: Too Many Snifits"
+cheat154_desc = "嗅嗅 吐嗅嗅又名：太多嗅嗅"
 cheat154_code = "IENOTSLP"
 cheat154_enable = false
 
-cheat155_desc = "Slower Enemies x1"
+cheat155_desc = "速度较慢的敌人 x1"
 cheat155_code = "XTSPNVZE"
 cheat155_enable = false
 
-cheat156_desc = "Slower Enemies x2"
+cheat156_desc = "速度较慢的敌人 x2"
 cheat156_code = "XTSPNVZE+XTSOEVZE"
 cheat156_enable = false
 
-cheat157_desc = "Slower Enemies x3"
+cheat157_desc = "速度较慢的敌人 x3"
 cheat157_code = "XTSPNVZE+XTSOEVZE+XTSOOVZE"
 cheat157_enable = false
 
-cheat158_desc = "Slower Enemies x4"
+cheat158_desc = "速度较慢的敌人 x4"
 cheat158_code = "XTSPNVZE+XTSOEVZE+XTSOOVZE+XTSOXVZE"
 cheat158_enable = false
 
-cheat159_desc = "Hit Anywhere"
+cheat159_desc = "击中任何地方"
 cheat159_code = "EVOUYVPZ+AEXLATGA+GKXLZVIG"
 cheat159_enable = false
 
-cheat160_desc = "More Than Twice As Much Time In Sub-space"
+cheat160_desc = "子空间中的时间多于两倍"
 cheat160_code = "NNXPZIAV"
 cheat160_enable = false
 
-cheat161_desc = "Walk Backwards"
+cheat161_desc = "倒退走"
 cheat161_code = "GOEANKAO+USEEEKKA"
 cheat161_enable = false
 
-cheat162_desc = "Super Turbo Running"
+cheat162_desc = "超级涡轮运行"
 cheat162_code = "XVVANSZK+XVNEXSZV"
 cheat162_enable = false
 
-cheat163_desc = "Permanent Turbo Running"
+cheat163_desc = "永久涡轮运行"
 cheat163_code = "AEVAVIIA+AENEEITA"
 cheat163_enable = false
 
-cheat164_desc = "Super Fast Run For Mario"
+cheat164_desc = "马里奥的超级快跑"
 cheat164_code = "AXSETUAO+ESVAPUEV"
 cheat164_enable = false
 
-cheat165_desc = "Super Fast Run For Luigi"
+cheat165_desc = "路易吉的超级快跑"
 cheat165_code = "AZEEGKAO+EIEEYKEV"
 cheat165_enable = false
 
-cheat166_desc = "Fast Run For Toad"
+cheat166_desc = "蟾蜍快速奔跑"
 cheat166_code = "AXNAIUAO+ESNEAUEV"
 cheat166_enable = false
 
-cheat167_desc = "Super Fast Run For Princess"
+cheat167_desc = "公主的超级快跑"
 cheat167_code = "AZXALKAO+EIXATKEV"
 cheat167_enable = false
 
-cheat168_desc = "Super Speed Enemies"
+cheat168_desc = "超高速敌人"
 cheat168_code = "AXNAZSAA+EVNALSEY"
 cheat168_enable = false
 
-cheat169_desc = "Twister?"
+cheat169_desc = "龙卷风？"
 cheat169_code = "KZXALKAO+EIXATKEV"
 cheat169_enable = false
 
-cheat170_desc = "Shells Bounce Off Of Obstacles"
+cheat170_desc = "炮弹从障碍物上弹开"
 cheat170_code = "OXXOKAEU+VOXOSAOO"
 cheat170_enable = false
 
-cheat171_desc = "Mario Has Mega Moon-Float And Ultra Slow Descent! (Just Press And Hold The Jump Button!!)"
+cheat171_desc = "马里奥拥有巨型月球漂浮和超慢下降！ （只需按住跳跃按钮即可！！）"
 cheat171_code = "ZAXAOIAA+NNSEZLAE"
 cheat171_enable = false
 
-cheat172_desc = "Mario Will Moon-Float As Long As You Hold Down The Jump Button!!"
+cheat172_desc = "只要按住跳跃按钮，马里奥就会漂浮在月球上！"
 cheat172_code = "NYXAOIAE+NNSEZLAE"
 cheat172_enable = false
 
-cheat173_desc = "Mario Has Mega-Jump And Moon Float!"
+cheat173_desc = "马里奥有超级跳跃和月球漂浮！"
 cheat173_code = "PESELLYA+NNSEZLAE"
 cheat173_enable = false
 
-cheat174_desc = "Luigi Has Mega Moon-Float And Ultra Slow Descent! (Just Press And Hold The Jump Button)"
+cheat174_desc = "路易吉拥有巨型月球漂浮和超慢下降！ （只需按住跳跃按钮即可）"
 cheat174_code = "ZAXAOIAA+NYEEAGAE"
 cheat174_enable = false
 
-cheat175_desc = "Luigi Will Moon-Float As Long As You Hold Down The Jump Button!!"
+cheat175_desc = "只要按住跳跃按钮，路易吉就会漂浮在月球上！"
 cheat175_code = "NYXAOIAE+NYEEAGAE"
 cheat175_enable = false
 
-cheat176_desc = "Toad Has Mega Moon-Float And Ultra Slow Descent! (Just Press And Hold The Jump Button)"
+cheat176_desc = "蟾蜍有巨型月球漂浮和超慢下降！ （只需按住跳跃按钮即可）"
 cheat176_code = "ZAXAOIAA+NNNAPLAE"
 cheat176_enable = false
 
-cheat177_desc = "Toad Will Moon-Float As Long As You Hold Down The Jump Button!!"
+cheat177_desc = "只要按住跳跃按钮，蟾蜍就会漂浮在月球上！"
 cheat177_code = "NYXAOIAE+NNNAPLAE"
 cheat177_enable = false
 
-cheat178_desc = "Infinite Health"
+cheat178_desc = "无限健康"
 cheat178_code = "04C2:91"
 cheat178_enable = false
 
-cheat179_desc = "Infinite Lives"
+cheat179_desc = "无限生命"
 cheat179_code = "04ED:03"
 cheat179_enable = false
 
-cheat180_desc = "Invincible"
+cheat180_desc = "无敌"
 cheat180_code = "04E0:27"
 cheat180_enable = false
 
-cheat181_desc = "Infinite Coins"
+cheat181_desc = "无限金币"
 cheat181_code = "062B:00"
 cheat181_enable = false
 
-cheat182_desc = "Infinite Health"
+cheat182_desc = "无限健康"
 cheat182_code = "04C2:5B"
 cheat182_enable = false
 
-cheat183_desc = "Infinite Lives"
+cheat183_desc = "无限生命"
 cheat183_code = "04ED:03"
 cheat183_enable = false
 
-cheat184_desc = "Invincible (Starman Effect)"
+cheat184_desc = "无敌（星人效应）"
 cheat184_code = "04E0:7F"
 cheat184_enable = false
 
-cheat185_desc = "Invincibility (Enemies Can't Touch You)"
+cheat185_desc = "无敌（敌人无法碰你）"
 cheat185_code = "0085:FA"
 cheat185_enable = false
 
-cheat186_desc = "Infinite Coins"
+cheat186_desc = "无限金币"
 cheat186_code = "062B:00"
 cheat186_enable = false
 
-cheat187_desc = "Level Modifier"
+cheat187_desc = "等级修改器"
 cheat187_code = "0531:00"
 cheat187_enable = false
 
-cheat188_desc = "Room In Level Modifier"
+cheat188_desc = "房间等级修改器"
 cheat188_code = "0532:00"
 cheat188_enable = false
 
-cheat189_desc = "Mario In Princess Toadstool's Dress"
+cheat189_desc = "穿着毒菌公主裙子的马里奥"
 cheat189_code = "06F9:04"
 cheat189_enable = false
 
-cheat190_desc = "Max Hearts (4)"
+cheat190_desc = "最大红心 (4)"
 cheat190_code = "04C3:00"
 cheat190_enable = false
 
-cheat191_desc = "Always Able To Select Continue"
+cheat191_desc = "始终能够选择继续"
 cheat191_code = "0008:00"
 cheat191_enable = false
 
-cheat192_desc = "Collect 1 Cherry For Starman"
+cheat192_desc = "为星人收集 1 颗樱桃"
 cheat192_code = "062A:04"
 cheat192_enable = false
 
-cheat193_desc = "Collect 1 Big Radish For Stopwatch"
+cheat193_desc = "收集 1 个大萝卜作为秒表"
 cheat193_code = "062C:04"
 cheat193_enable = false
 
-cheat194_desc = "Receive Small Heart For Every Enemy Defeated"
+cheat194_desc = "每击败一个敌人即可获得小心脏"
 cheat194_code = "04AD:09"
 cheat194_enable = false
 
-cheat195_desc = "Infinite Stopwatch Time"
+cheat195_desc = "无限秒表时间"
 cheat195_code = "04FF:FA"
 cheat195_enable = false
 
-cheat196_desc = "Infinite Time In Sub-Space"
+cheat196_desc = "子空间中的无限时间"
 cheat196_code = "04B7:FA"
 cheat196_enable = false
 
-cheat197_desc = "Always Charged For Super Jump"
+cheat197_desc = "永远为超级跳跃充电"
 cheat197_code = "04CA:3C"
 cheat197_enable = false
 
-cheat198_desc = "Infinite Float Time"
+cheat198_desc = "无限浮动时间"
 cheat198_code = "04C9:FA"
 cheat198_enable = false
 
-cheat199_desc = "Levitate"
+cheat199_desc = "悬浮"
 cheat199_code = "0046:EB"
 cheat199_enable = false
 
-cheat200_desc = "Infinite Magic Carpet Time"
+cheat200_desc = "无限魔毯时间"
 cheat200_code = "00B9:FA"
 cheat200_enable = false
 
-cheat201_desc = "No Enemies"
+cheat201_desc = "没有敌人"
 cheat201_code = "04AE:15"
 cheat201_enable = false
 
-cheat202_desc = "Enemy/Object-Holding Modifier"
+cheat202_desc = "敌人/物体持有修饰符"
 cheat202_code = "04AF:00"
 cheat202_enable = false
 
-cheat203_desc = "Maximum Contributor Points (Mario)"
+cheat203_desc = "最大贡献点（马里奥）"
 cheat203_code = "062D:63"
 cheat203_enable = false
 
-cheat204_desc = "Maximum Contributor Points (Luigi)"
+cheat204_desc = "最大贡献者积分 (Luigi)"
 cheat204_code = "062E:63"
 cheat204_enable = false
 
-cheat205_desc = "Maximum Contributor Points (Toad)"
+cheat205_desc = "最大贡献者积分（蟾蜍）"
 cheat205_code = "062F:63"
 cheat205_enable = false
 
-cheat206_desc = "Maximum Contributor Points (Peach)"
+cheat206_desc = "最大贡献者积分（桃）"
 cheat206_code = "0630:63"
 cheat206_enable = false
 
-cheat207_desc = "One Hit Kills Bosses"
+cheat207_desc = "一击杀死Boss"
 cheat207_code = "0468:00"
 cheat207_enable = false
 
-cheat208_desc = "Background Pallette Modifier"
+cheat208_desc = "背景调色板修改器"
 cheat208_code = "04BC:00"
 cheat208_enable = false
 
-cheat209_desc = "All Characters Jump Like Princess"
+cheat209_desc = "所有角色都像公主一样跳跃"
 cheat209_code = "0553:3C"
 cheat209_enable = false
 
-cheat210_desc = "Super Jump"
+cheat210_desc = "超级跳跃"
 cheat210_code = "0555:01"
 cheat210_enable = false
 
-cheat211_desc = "Most Plants Yield ??"
+cheat211_desc = "大多数植物产量？"
 cheat211_code = "0096:00"
 cheat211_enable = false
 
-cheat212_desc = "Walk Through Walls"
+cheat212_desc = "穿墙而过"
 cheat212_code = "005A:04"
 cheat212_enable = false
 
-cheat213_desc = "Walk Behind Scenery"
+cheat213_desc = "走在风景后面"
 cheat213_code = "0064:20"
 cheat213_enable = false
 
-cheat214_desc = "Music Tweaker"
+cheat214_desc = "音乐调节器"
 cheat214_code = "05EE:00"
 cheat214_enable = false
 
-cheat215_desc = "Shy Guy Enemy Colour Modifiers"
+cheat215_desc = "害羞的家伙敌人颜色修改器"
 cheat215_code = "0068:00+0069:00"
 cheat215_enable = false
 
-cheat216_desc = "Enemy Modifiers"
+cheat216_desc = "敌人修正"
 cheat216_code = "0090:00+0091:00+0092:00+0093:00+0094:00"
 cheat216_enable = false
 
-cheat217_desc = "Inf Time Bonus Door"
+cheat217_desc = "Inf 时间奖励门"
 cheat217_code = "SZLPYN"
 cheat217_enable = false
 
-cheat218_desc = "Skip Bonus Chance"
+cheat218_desc = "跳过奖励机会"
 cheat218_code = "VNVVGYTE+LOVVTYLA"
 cheat218_enable = false
 
-cheat219_desc = "Grass And Snow"
+cheat219_desc = "草与雪"
 cheat219_code = "KATAOA"
 cheat219_enable = false
 
-cheat220_desc = "Infinite sub-space time"
+cheat220_desc = "无限子空间时间"
 cheat220_code = "SZUPLNVK"
 cheat220_enable = false
 
-cheat221_desc = "All Characters Can Multijump"
+cheat221_desc = "所有角色都可以多跳"
 cheat221_code = "AAUEEYPA"
 cheat221_enable = false
 
-cheat222_desc = "Go Behind The Scenery"
+cheat222_desc = "走到风景后面"
 cheat222_code = "AZXANZAA"
 cheat222_enable = false
 
-cheat223_desc = "Normal level BGM"
+cheat223_desc = "正常级别BGM"
 cheat223_code = ""
 cheat223_enable = false
 
-cheat224_desc = "N64 cartridge tilt pause"
+cheat224_desc = "N64墨盒倾斜暂停"
 cheat224_code = ""
 cheat224_enable = false
 
-cheat225_desc = "Normal Pause"
+cheat225_desc = "正常暂停"
 cheat225_code = ""
 cheat225_enable = false
 
-cheat226_desc = "Jumps to the next song's first segment (Will crash the game eventually)"
+cheat226_desc = "跳到下一首歌曲的第一段（最终会导致游戏崩溃）"
 cheat226_code = ""
 cheat226_enable = false
 
-cheat227_desc = "Music segment alteration for unusual renditions"
+cheat227_desc = "针对异常演奏的音乐片段更改"
 cheat227_code = ""
 cheat227_enable = false
 
-cheat228_desc = "DPCM replaces noise on non-sampling tracks"
+cheat228_desc = "DPCM 取代非采样轨道上的噪音"
 cheat228_code = ""
 cheat228_enable = false
 
-cheat229_desc = "Noise replaces DPCM channel on sampling tracks"
+cheat229_desc = "噪声取代了采样轨道上的 DPCM 通道"
 cheat229_code = ""
 cheat229_enable = false
 
-cheat230_desc = "Noise channel only"
+cheat230_desc = "仅噪声通道"
 cheat230_code = ""
 cheat230_enable = false
 
-cheat231_desc = "No noise channel"
+cheat231_desc = "无噪声通道"
 cheat231_code = ""
 cheat231_enable = false
 
-cheat232_desc = "Noise channel plays along with DPCM on sampling tracks"
+cheat232_desc = "噪声通道与采样轨道上的 DPCM 一起播放"
 cheat232_code = ""
 cheat232_enable = false
 
-cheat233_desc = "DPCM and noise channel play simultaneously"
+cheat233_desc = "DPCM 和噪声通道同时播放"
 cheat233_code = ""
 cheat233_enable = false
 
-cheat234_desc = "Disable DPCM on all sampling tracks"
+cheat234_desc = "在所有采样轨道上禁用 DPCM"
 cheat234_code = ""
 cheat234_enable = false
 
-cheat235_desc = "Disable Triangle"
+cheat235_desc = "禁用三角形"
 cheat235_code = ""
 cheat235_enable = false
 
-cheat236_desc = "Disable Slot Machine Sounds"
+cheat236_desc = "禁用老虎机声音"
 cheat236_code = "AANEGAZA"
 cheat236_enable = false
 
-cheat237_desc = "Slot Machine Is Faster Than Usual"
+cheat237_desc = "老虎机比平常更快"
 cheat237_code = "ZEVTNZGA"
 cheat237_enable = false
 
-cheat238_desc = "Slot Machine Is Much Faster Than Usual"
+cheat238_desc = "老虎机比平常快得多"
 cheat238_code = "PEVTNZGA"
 cheat238_enable = false
 
-cheat239_desc = "Slot Machine Is Slightly Slower Than Usual"
+cheat239_desc = "老虎机比平时稍慢"
 cheat239_code = "IEVTNZGE"
 cheat239_enable = false
 
-cheat240_desc = "Slot Machine Is Slower Than Usual"
+cheat240_desc = "老虎机比平常慢"
 cheat240_code = "ZOVTNZGA"
 cheat240_enable = false
 
-cheat241_desc = "Slot Machine Is Much Slower Than Usual"
+cheat241_desc = "老虎机比平常慢得多"
 cheat241_code = "AXVTNZGE"
 cheat241_enable = false
 
-cheat242_desc = "Slot Machine Is Even More Slower Than Usual"
+cheat242_desc = "老虎机比平常更慢"
 cheat242_code = "ZUVTNZGA"
 cheat242_enable = false
 
-cheat243_desc = "Slot Machine Is Absurdly Slower Than Usual"
+cheat243_desc = "老虎机比平常慢得离谱"
 cheat243_code = "GVVTNZGA"
 cheat243_enable = false
 
-cheat244_desc = "Slot Machine Is Extremely Slow"
+cheat244_desc = "老虎机速度极慢"
 cheat244_code = "EOVTNZGA"
 cheat244_enable = false
 
-cheat245_desc = "Slot Machine Is As Slow As Possible"
+cheat245_desc = "老虎机越慢越好"
 cheat245_code = "NNVTNZGE"
 cheat245_enable = false
 
-cheat246_desc = "Subspace Looks Normal"
+cheat246_desc = "子空间看起来正常"
 cheat246_code = "XZXPLKOZ"
 cheat246_enable = false
 
-cheat247_desc = "Entering Suspace will drop you into a strange new world"
+cheat247_desc = "进入Suspace将带你进入一个陌生的新世界"
 cheat247_code = "GZXPAKSA"
 cheat247_enable = false
 
-cheat248_desc = "Entering Subspace will drop you into a strange new world (Alternate)"
+cheat248_desc = "进入子空间将带你进入一个陌生的新世界（替代）"
 cheat248_code = "TIXPAKSA"
 cheat248_enable = false
 
-cheat249_desc = "Can Enter First Door In 1-1"
+cheat249_desc = "可以进入1-1第一扇门"
 cheat249_code = "YXKAPPTI+AKKAZPAP"
 cheat249_enable = false
 
-cheat250_desc = "Skip Intro Screen"
+cheat250_desc = "跳过介绍屏幕"
 cheat250_code = "OZKONUPX"
 cheat250_enable = false
 
-cheat251_desc = "All Characters can Float Jump and Float 3x longer"
+cheat251_desc = "所有角色都可以漂浮跳跃并且漂浮时间延长 3 倍"
 cheat251_code = "SEKESKSX"
 cheat251_enable = false
 
-cheat252_desc = "Game Boy Mode"
+cheat252_desc = "游戏男孩模式"
 cheat252_code = "UIEPIVTO+USXVEXTO"
 cheat252_enable = false
 
-cheat253_desc = "Start with 5 Lives, instead of 3"
+cheat253_desc = "从 5 条生命开始，而不是 3 条"
 cheat253_code = "IAOTIGLA"
 cheat253_enable = false
 
-cheat254_desc = "Start with 10 Lives"
+cheat254_desc = "从 10 条生命开始"
 cheat254_code = "ZAOTIGLE"
 cheat254_enable = false
 
-cheat255_desc = "Start with 15 Lives"
+cheat255_desc = "从 15 条生命开始"
 cheat255_code = "YAOTIGLE"
 cheat255_enable = false
 
-cheat256_desc = "Start with 25 Lives"
+cheat256_desc = "从 25 条生命开始"
 cheat256_code = "PPOTIGLE"
 cheat256_enable = false
 
-cheat257_desc = "Start with 50 Lives"
+cheat257_desc = "从 50 条生命开始"
 cheat257_code = "ZLOTIGLA"
 cheat257_enable = false
 
-cheat258_desc = "Start with 75 Lives"
+cheat258_desc = "从 75 条生命开始"
 cheat258_code = "LGOTIGLE"
 cheat258_enable = false
 
-cheat259_desc = "Start with 100 Lives"
+cheat259_desc = "从 100 条生命开始"
 cheat259_code = "GTOTIGLA"
 cheat259_enable = false
 
-cheat260_desc = "Restore Unused Death DPCM Sound Effect With Music (long version)"
+cheat260_desc = "用音乐恢复未使用的死亡 DPCM 音效（长版）"
 cheat260_code = "SZXAPKSE+SZXATKSE"
 cheat260_enable = false
 
-cheat261_desc = "Princess Peach Infinite Float"
+cheat261_desc = "桃子公主无限漂浮"
 cheat261_code = "SXNEXKVK"
 cheat261_enable = false
 
-cheat262_desc = "All Characters can Float Jump"
+cheat262_desc = "所有角色都可以漂浮跳跃"
 cheat262_code = "AUKEVGLS+SEKENGIE+AIOEVIEY"
 cheat262_enable = false
 
-cheat263_desc = "All Characters can Float Jump and Float 2x longer"
+cheat263_desc = "所有角色都可以漂浮跳跃并且漂浮时间延长 2 倍"
 cheat263_code = "VKKEVGLI+KOKENGIA+AIOEVIEY"
 cheat263_enable = false
 
-cheat264_desc = "All Characters can Float Jump"
+cheat264_desc = "所有角色都可以漂浮跳跃"
 cheat264_code = "0553:3C"
 cheat264_enable = false
 
-cheat265_desc = "All Characters can Float Jump and Float 2x longer"
+cheat265_desc = "所有角色都可以漂浮跳跃并且漂浮时间延长 2 倍"
 cheat265_code = "0553:78"
 cheat265_enable = false
 
-cheat266_desc = "All Characters can Float Jump and Float 3x longer"
+cheat266_desc = "所有角色都可以漂浮跳跃并且漂浮时间延长 3 倍"
 cheat266_code = "0553:B4"
 cheat266_enable = false
 
-cheat267_desc = "Start With More Lives"
+cheat267_desc = "从更多的生活开始"
 cheat267_code = "NAOTIGLE"
 cheat267_enable = false
 
-cheat268_desc = "Invulnerable"
+cheat268_desc = "刀枪不入"
 cheat268_code = "GXVUZTAX"
 cheat268_enable = false
 
-cheat269_desc = "No Enemies (May get stuck)"
+cheat269_desc = "没有敌人（可能会被卡住）"
 cheat269_code = "GXVEIPAX"
 cheat269_enable = false
 
-cheat270_desc = "Drunk Mode (Enemies Are Blurry Like You're Drunk)"
+cheat270_desc = "醉酒模式（敌人像喝醉了一样模糊）"
 cheat270_code = "GXXVLGAX"
 cheat270_enable = false
 
-cheat271_desc = "Start Every Life With Max Health (4 Units)"
+cheat271_desc = "以最大健康开始每一个生命（4 单位）"
 cheat271_code = "TPVTLXAP+OZOYTZSE+ZAOYYZSA+SAONAXKX+SZONLXOU+GZONGZZZ+SXXPPEVV+TPEUXEAP"
 cheat271_enable = false
 
-cheat272_desc = "Invincibility Star Powerup Lasts 1.5x Longer"
+cheat272_desc = "无敌之星能量持续时间延长 1.5 倍"
 cheat272_code = "ATOUXEYL"
 cheat272_enable = false
 
-cheat273_desc = "Invincibility Star Powerup Lasts 2x Longer"
+cheat273_desc = "无敌之星强化持续时间延长 2 倍"
 cheat273_code = "YYOUXEYU"
 cheat273_enable = false
 
-cheat274_desc = "Invincibility Star Powerup Appears After Collecting 4 Cherries, Instead Of 5"
+cheat274_desc = "收集 4 个樱桃（而不是 5 个）后会出现无敌之星加电"
 cheat274_code = "GAOOZAIA"
 cheat274_enable = false
 
-cheat275_desc = "Invincibility Star Powerup Appears After Collecting 3 Cherries"
+cheat275_desc = "收集 3 个樱桃后会出现无敌之星强化"
 cheat275_code = "LAOOZAIA"
 cheat275_enable = false
 
-cheat276_desc = "Invincibility Star Powerup Appears After Collecting 2 Cherries"
+cheat276_desc = "收集 2 个樱桃后，无敌之星强化会出现"
 cheat276_code = "ZAOOZAIA"
 cheat276_enable = false
 
-cheat277_desc = "Invincibility Star Powerup Appears After Collecting 1 Cherry"
+cheat277_desc = "收集 1 个樱桃后会出现无敌之星加电"
 cheat277_code = "PAOOZAIA"
 cheat277_enable = false
 
-cheat278_desc = "Heart Appears After Killing 6 Enemies, Instead Of 8 Enemies"
+cheat278_desc = "杀死 6 个敌人（而不是 8 个敌人）后会出现心脏"
 cheat278_code = "TAKATSAA"
 cheat278_enable = false
 
-cheat279_desc = "Heart Appears After Killing 4 Enemies"
+cheat279_desc = "杀死 4 个敌人后出现心脏"
 cheat279_code = "TAKATSAA"
 cheat279_enable = false
 
-cheat280_desc = "Heart Appears After Killing 2 Enemies"
+cheat280_desc = "杀死 2 个敌人后出现心脏"
 cheat280_code = "ZAKATSAA"
 cheat280_enable = false
 
-cheat281_desc = "Disable Icy Surfaces"
+cheat281_desc = "禁用结冰表面"
 cheat281_code = "AAUAVITP"
 cheat281_enable = false
 
-cheat282_desc = "View Ending"
+cheat282_desc = "查看结局"
 cheat282_code = "GIVAAXSV+OTVAPZXE+TEOOOZEA+IUOOUZAA"
 cheat282_enable = false
 
-cheat283_desc = "Enemies Can't Touch You"
+cheat283_desc = "敌人无法触及你"
 cheat283_code = "ATUVLPYK"
 cheat283_enable = false
 
-cheat284_desc = "Can Pick Up Any Active Object You Can Stand On"
+cheat284_desc = "可以拿起任何可以站立的活动物体"
 cheat284_code = "AEXUUAZZ"
 cheat284_enable = false
 
-cheat285_desc = "Sub World Graphics"
+cheat285_desc = "次世界图形"
 cheat285_code = "030C:01+030D:0F+030E:0F+0310:01+0311:0F+0312:0F+0314:01+0318:01+031C:01+0320:01"
 cheat285_enable = false
 
-cheat286_desc = "Enter Subspace By Pressing Select"
+cheat286_desc = "按选择输入子空间"
 cheat286_code = "GGSATXSX+KASAYXEU+SZSEAZGA+AXEZAIGA+ASEZPIEY+NUEZZILA+SXEZLSGK+IUEZGSYP+IEEZISUP+SEEZTIAX+YEEZYSSN+IEEXAIKL+GKEXPSOX+NVEXZIZA+NOEXLISP+SXEXGSYT+NNEXIIAZ+OKEXTSYO+AXEXYSUP+ESOZAISL+LEOZPSLI+AXOZZSPZ+UOOZLIGE+SXOZGIEY+SXOZISYS+XNOZTIAX+LEOZYIXI+GKOXAISO+PSOXPISX+XEOXZIAP+SXOXLSPX+NUOXGSNY+GEOXIIEI+ESOXTITA+OVOXYSOX+ENXZASEI+VSXZPISO+AZUXZSGZ+SZUXLIGA+SZUXGSAP"
 cheat286_enable = false
 
-cheat287_desc = "View Ending At Start Of Level (Better Version)"
+cheat287_desc = "查看关卡开始处的结局（更好的版本）"
 cheat287_code = "ETXYOTTE+GSSPAKKS+OVSPPGKO"
 cheat287_enable = false
 
-cheat288_desc = "Walk Through Walls And Jump Through Roof"
+cheat288_desc = "穿墙跳屋顶"
 cheat288_code = "PXVEVYIE+GEVENNZI"
 cheat288_enable = false
 
-cheat289_desc = "Wrap To The Top If You Fall Down A Pit"
+cheat289_desc = "如果您掉进坑里，请包裹到顶部"
 cheat289_code = "SZSYPXGK+TPSYAZXE"
 cheat289_enable = false
 
-cheat290_desc = "Invulnerable (Walk Through Enemies, Can Still Ride Them)"
+cheat290_desc = "刀枪不入（穿过敌人，仍可骑乘）"
 cheat290_code = "OXNUXPSX+OXUUNZSX+ASULXZEY+AIELVLAP"
 cheat290_enable = false
 
-cheat291_desc = "Enemies Die When You Touch Them"
+cheat291_desc = "敌人触碰就会死亡"
 cheat291_code = "AASLEEGZ"
 cheat291_enable = false
 
-cheat292_desc = "Enter Subspace By Pressing Start"
+cheat292_desc = "按开始输入子空间"
 cheat292_code = "AXVVUOOZ+ASVVKPTP+NUVVSOSA+SXVVVOSU+IUVVNPIA+IENTEOOZ+SENTOPTX+YENTXOSE+IENTUPEA+GKNTKPPN+NVNTSOOZ+NONTVOEG+ATEPUEAT+GGOVASOX+UZOVPIPG+KTOVZSSA"
 cheat292_enable = false
 
-cheat293_desc = "Start In Wart's Chamber With 5 Lives"
+cheat293_desc = "从沃特的密室开始，有 5 条命"
 cheat293_code = "LPOTZAAA+TAOTIGLA+SAOVPKVX+IENVLPAA+SZETZXSE"
 cheat293_enable = false
 
-cheat294_desc = "Start On World 1 (More Worlds In Note)"
+cheat294_desc = "从世界 1 开始（更多世界请注意）"
 cheat294_code = "IUOOUZAA+AEOOOZEA"
 cheat294_enable = false
 
-cheat295_desc = "Start On World 7-1 With 5 Lives"
+cheat295_desc = "以 5 条生命从 7-1 世界开始"
 cheat295_code = "ZPOTZAAA+TAOTIGLA+SAOVPKVX"
 cheat295_enable = false
 
-cheat296_desc = "Start On World 7-2 With 5 Lives"
+cheat296_desc = "从 7-2 世界开始，拥有 5 条生命"
 cheat296_code = "LPOTZAAA+TAOTIGLA+SAOVPKVX"
 cheat296_enable = false
 
-cheat297_desc = "Level Modifier"
+cheat297_desc = "等级修改器"
 cheat297_code = "0531:00"
 cheat297_enable = false
 
-cheat298_desc = "Control Character At Ending (Proof Of Concept)"
+cheat298_desc = "结尾处的控制字符（概念证明）"
 cheat298_code = "PXOYIUVY+KEOYTUXN"
 cheat298_enable = false

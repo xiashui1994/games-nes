@@ -1,9 +1,9 @@
 cheats = 2
 
-cheat0_desc = "Max Cash (1st Player)"
+cheat0_desc = "最大现金（第一名玩家）"
 cheat0_code = "60AB:FF"
 cheat0_enable = false
 
-cheat1_desc = "Zero Cash (Opponent)"
+cheat1_desc = "零现金（对手）"
 cheat1_code = "60AE:00"
 cheat1_enable = false

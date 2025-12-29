@@ -1,53 +1,53 @@
 cheats = 13
 
-cheat0_desc = "Round Modifier [0-A]"
+cheat0_desc = "回合修饰符 [0-A]"
 cheat0_code = "040B:00"
 cheat0_enable = false
 
-cheat1_desc = "Stage Modifier"
+cheat1_desc = "阶段修改器"
 cheat1_code = "040C:00"
 cheat1_enable = false
 
-cheat2_desc = "Time Modifier P1 [In VS Mode]"
+cheat2_desc = "时间修改器 P1 [VS 模式下]"
 cheat2_code = "0540:27"
 cheat2_enable = false
 
-cheat3_desc = "P1 Always Wins Matches [In VS Mode]"
+cheat3_desc = "P1 总是赢得比赛 [VS 模式]"
 cheat3_code = "05B0:03"
 cheat3_enable = false
 
-cheat4_desc = "P2 Always Wins Matches [In VS Mode]"
+cheat4_desc = "P2 总是赢得比赛 [VS 模式]"
 cheat4_code = "05B3:03"
 cheat4_enable = false
 
-cheat5_desc = "Round Modifier (0-A)"
+cheat5_desc = "回合修饰符 (0-A)"
 cheat5_code = "040B:00"
 cheat5_enable = false
 
-cheat6_desc = "Time Modifier P1 (In VS Mode)"
+cheat6_desc = "时间修改器 P1（VS 模式）"
 cheat6_code = "0540:27"
 cheat6_enable = false
 
-cheat7_desc = "Time Modifier P2 (In VS Mode)"
+cheat7_desc = "时间修改器 P2（VS 模式）"
 cheat7_code = "0541:00"
 cheat7_enable = false
 
-cheat8_desc = "P1 Always Wins Matches (In VS Mode)"
+cheat8_desc = "P1 总是赢得比赛（VS 模式）"
 cheat8_code = "05B0:03"
 cheat8_enable = false
 
-cheat9_desc = "P2 Always Wins Matches (In VS Mode)"
+cheat9_desc = "P2 总是赢得比赛（VS 模式）"
 cheat9_code = "05B3:03"
 cheat9_enable = false
 
-cheat10_desc = "Boot Into The Debug Menu"
+cheat10_desc = "启动进入调试菜单"
 cheat10_code = "ZONKIAPE"
 cheat10_enable = false
 
-cheat11_desc = "Fix For Black Pixels Of Left End Of Screen"
+cheat11_desc = "修复屏幕左端的黑色像素"
 cheat11_code = "TPOKTOAO"
 cheat11_enable = false
 
-cheat12_desc = "Greyscale Mode"
+cheat12_desc = "灰度模式"
 cheat12_code = "LUEYPKTO+TPOKTOAO"
 cheat12_enable = false

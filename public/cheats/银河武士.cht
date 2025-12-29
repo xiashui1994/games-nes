@@ -1,145 +1,145 @@
 cheats = 36
 
-cheat0_desc = "9 Lives Allowed In Options"
+cheat0_desc = "选项中允许 9 条生命"
 cheat0_code = "ZAELNGIE"
 cheat0_enable = false
 
-cheat1_desc = "Infinite Energy"
+cheat1_desc = "无限能量"
 cheat1_code = "GZNLYUSE"
 cheat1_enable = false
 
-cheat2_desc = "Slower timer"
+cheat2_desc = "较慢的计时器"
 cheat2_code = "NYNXVTOE"
 cheat2_enable = false
 
-cheat3_desc = "Faster Timer"
+cheat3_desc = "更快的计时器"
 cheat3_code = "YTNXVTOE"
 cheat3_enable = false
 
-cheat4_desc = "Even Faster Timer"
+cheat4_desc = "更快的计时器"
 cheat4_code = "YINXVTOE"
 cheat4_enable = false
 
-cheat5_desc = "Zen does increased damage (isometric stages)"
+cheat5_desc = "Zen 造成的伤害增加（等距阶段）"
 cheat5_code = "AEUAOLGE"
 cheat5_enable = false
 
-cheat6_desc = "Zen does mega damage (isometric stages)"
+cheat6_desc = "Zen 会造成巨大伤害（等距阶段）"
 cheat6_code = "GOUAOLGA"
 cheat6_enable = false
 
-cheat7_desc = "Jab attack does more damage (horizontal stages)"
+cheat7_desc = "刺拳攻击造成更多伤害（水平阶段）"
 cheat7_code = "AAKXUIGE"
 cheat7_enable = false
 
-cheat8_desc = "Mega jab attack damage (horizontal stages)"
+cheat8_desc = "巨型刺拳攻击伤害（水平阶段）"
 cheat8_code = "GPKXUIGA"
 cheat8_enable = false
 
-cheat9_desc = "Invulnerable"
+cheat9_desc = "刀枪不入"
 cheat9_code = "0570:04"
 cheat9_enable = false
 
-cheat10_desc = "Walk Through Enemies"
+cheat10_desc = "穿过敌人"
 cheat10_code = "0470:50"
 cheat10_enable = false
 
-cheat11_desc = "High Jump"
+cheat11_desc = "跳高"
 cheat11_code = "0420:00"
 cheat11_enable = false
 
-cheat12_desc = "Character Palette Modifiers"
+cheat12_desc = "角色调色板修改器"
 cheat12_code = "0600:08+0601:21+0602:26"
 cheat12_enable = false
 
-cheat13_desc = "Infinite Lives"
+cheat13_desc = "无限生命"
 cheat13_code = "SZSPGTVG+SZOZYTVG"
 cheat13_enable = false
 
-cheat14_desc = "Fewer Hits In Shield"
+cheat14_desc = "护盾击中次数减少"
 cheat14_code = "PAEUGGLA+PAXUNTLA"
 cheat14_enable = false
 
-cheat15_desc = "Double Hits In Shield"
+cheat15_desc = "盾牌中的双重打击"
 cheat15_code = "TAEUGGLA+TAXUNTLA"
 cheat15_enable = false
 
-cheat16_desc = "Triple Hits In Shield"
+cheat16_desc = "盾牌三连击"
 cheat16_code = "PAEUGGLE+PAXUNTLE"
 cheat16_enable = false
 
-cheat17_desc = "Infinite Health"
+cheat17_desc = "无限健康"
 cheat17_code = "0520:A0"
 cheat17_enable = false
 
-cheat18_desc = "Infinite Lives"
+cheat18_desc = "无限生命"
 cheat18_code = "0091:09"
 cheat18_enable = false
 
-cheat19_desc = "Hit Anywhere"
+cheat19_desc = "击中任何地方"
 cheat19_code = ""
 cheat19_enable = false
 
-cheat20_desc = "One Hit Kills"
+cheat20_desc = "一击必杀"
 cheat20_code = ""
 cheat20_enable = false
 
-cheat21_desc = "Invincibility"
+cheat21_desc = "无敌"
 cheat21_code = ""
 cheat21_enable = false
 
-cheat22_desc = "Infinite Time in Toxic Factory Stage"
+cheat22_desc = "有毒工厂阶段的无限时间"
 cheat22_code = "009F:09"
 cheat22_enable = false
 
-cheat23_desc = "Invulnerable"
+cheat23_desc = "刀枪不入"
 cheat23_code = "SXELZESE"
 cheat23_enable = false
 
-cheat24_desc = "Move Faster"
+cheat24_desc = "行动更快"
 cheat24_code = "PYSEVEGK"
 cheat24_enable = false
 
-cheat25_desc = "Spikes Never Descend"
+cheat25_desc = "尖峰永不下降"
 cheat25_code = "SENTLKIV"
 cheat25_enable = false
 
-cheat26_desc = "Infinite Time"
+cheat26_desc = "无限时间"
 cheat26_code = "XVOZOTVE+XVOZXVNO"
 cheat26_enable = false
 
-cheat27_desc = "Infinite Time To Continue"
+cheat27_desc = "无限时间继续"
 cheat27_code = "PYEUENVK"
 cheat27_enable = false
 
-cheat28_desc = "Infinite Continues"
+cheat28_desc = "无限继续"
 cheat28_code = "VOOLSYVG"
 cheat28_enable = false
 
-cheat29_desc = "DPCM Pop Reducer"
+cheat29_desc = "DPCM 爆音减少器"
 cheat29_code = "SLVEGVSE"
 cheat29_enable = false
 
-cheat30_desc = "Don't Fall Down Pits (Isometric stages)"
+cheat30_desc = "不要掉进坑里（等距阶段）"
 cheat30_code = "ESXAKLEG"
 cheat30_enable = false
 
-cheat31_desc = "Don't Fall Down Pits (Platform stages)"
+cheat31_desc = "不要掉进坑里（平台阶段）"
 cheat31_code = "PNVISNSO+ETSXTAYA"
 cheat31_enable = false
 
-cheat32_desc = "Don't Fall Down Pits (Platform stages; switch off to jump)"
+cheat32_desc = "不要掉进坑里（平台阶段；关闭以跳跃）"
 cheat32_code = "PNVISNSO"
 cheat32_enable = false
 
-cheat33_desc = "Infinite Time"
+cheat33_desc = "无限时间"
 cheat33_code = "SZNXOTVG"
 cheat33_enable = false
 
-cheat34_desc = "Invincibility From Spikes"
+cheat34_desc = "尖刺无敌"
 cheat34_code = "AAVVZSAP"
 cheat34_enable = false
 
-cheat35_desc = "Infinite Lives"
+cheat35_desc = "无限生命"
 cheat35_code = "SZOZGTVG"
 cheat35_enable = false

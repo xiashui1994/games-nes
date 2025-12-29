@@ -1,133 +1,133 @@
 cheats = 33
 
-cheat0_desc = "Lots Of Lives"
+cheat0_desc = "很多生命"
 cheat0_code = "EYSKLTIE"
 cheat0_enable = false
 
-cheat1_desc = "Infinite Energy [Top View]"
+cheat1_desc = "无限能量【顶视图】"
 cheat1_code = "SXVUTPSA"
 cheat1_enable = false
 
-cheat2_desc = "Infinite Energy [FPS View]"
+cheat2_desc = "无限能量 [FPS 视图]"
 cheat2_code = "SXSUVPSA"
 cheat2_enable = false
 
-cheat3_desc = "Start With 50 Standard Bullets"
+cheat3_desc = "从 50 个标准子弹开始"
 cheat3_code = "ZUSYZSZA"
 cheat3_enable = false
 
-cheat4_desc = "Start With 50 Silver Bullets"
+cheat4_desc = "从 50 颗银弹开始"
 cheat4_code = "ZUSYTIIA"
 cheat4_enable = false
 
-cheat5_desc = "Start With 255 Standard Bullets"
+cheat5_desc = "从 255 个标准子弹开始"
 cheat5_code = "NNSYZSZE"
 cheat5_enable = false
 
-cheat6_desc = "Start With 255 Silver Bullets"
+cheat6_desc = "从 255 个银子弹开始"
 cheat6_code = "NNSYTIIE"
 cheat6_enable = false
 
-cheat7_desc = "Standard Bullets Are Free"
+cheat7_desc = "标准子弹是免费的"
 cheat7_code = "AEUZIYIA"
 cheat7_enable = false
 
-cheat8_desc = "Silver Bullets Are Free"
+cheat8_desc = "银弹是免费的"
 cheat8_code = "AEUZTNZA"
 cheat8_enable = false
 
-cheat9_desc = "All Items Cost The Same As A Standard Bullet"
+cheat9_desc = "所有物品的成本与标准子弹相同"
 cheat9_code = "SZNZKNOU"
 cheat9_enable = false
 
-cheat10_desc = "Infinite Bullets In Gun"
+cheat10_desc = "枪中无限子弹"
 cheat10_code = "0052:06"
 cheat10_enable = false
 
-cheat11_desc = "Infinite Money"
+cheat11_desc = "无限金钱"
 cheat11_code = "0050:FF+DF30:FF"
 cheat11_enable = false
 
-cheat12_desc = "Start with 255 dollars"
+cheat12_desc = "255 美元起"
 cheat12_code = "NNKNTIGV"
 cheat12_enable = false
 
-cheat13_desc = "Infinite rounds"
+cheat13_desc = "无限回合"
 cheat13_code = "AASXUAPA"
 cheat13_enable = false
 
-cheat14_desc = "Cheaper silver bullets"
+cheat14_desc = "更便宜的银弹"
 cheat14_code = "IEUZTNZA"
 cheat14_enable = false
 
-cheat15_desc = "Cheaper standard bullets"
+cheat15_desc = "更便宜的标准子弹"
 cheat15_code = "ZEUZIYIA"
 cheat15_enable = false
 
-cheat16_desc = "Start with 10 silver bullet rounds"
+cheat16_desc = "从 10 发银弹开始"
 cheat16_code = "ZESYTIIE"
 cheat16_enable = false
 
-cheat17_desc = "Start with 15 silver bullet rounds"
+cheat17_desc = "从 15 发银子弹开始"
 cheat17_code = "YESYTIIE"
 cheat17_enable = false
 
-cheat18_desc = "Start with 15 standard bullet rounds"
+cheat18_desc = "从 15 发标准子弹开始"
 cheat18_code = "YESYZSZE"
 cheat18_enable = false
 
-cheat19_desc = "Start with 30 standard bullet rounds"
+cheat19_desc = "从 30 发标准子弹开始"
 cheat19_code = "TOSYZSZE"
 cheat19_enable = false
 
-cheat20_desc = "Infinite energy--side views only"
+cheat20_desc = "无限能量——仅侧面视图"
 cheat20_code = "GZKKYPSA"
 cheat20_enable = false
 
-cheat21_desc = "Don't lose money when shooting bystanders (but still lose energy)"
+cheat21_desc = "射击旁观者时不会损失金钱（但仍然会损失能量）"
 cheat21_code = "GZSZNATG+GZSXOATT"
 cheat21_enable = false
 
-cheat22_desc = "Infinite Money"
+cheat22_desc = "无限金钱"
 cheat22_code = "0050:55+DF30:55"
 cheat22_enable = false
 
-cheat23_desc = "Infinite Silver Bullets In Gun"
+cheat23_desc = "枪中无限银弹"
 cheat23_code = "0054:63"
 cheat23_enable = false
 
-cheat24_desc = "Infinite T.N.T."
+cheat24_desc = "无限T.N.T."
 cheat24_code = "0055:63"
 cheat24_enable = false
 
-cheat25_desc = "Infinite Health"
+cheat25_desc = "无限健康"
 cheat25_code = "005F:0C"
 cheat25_enable = false
 
-cheat26_desc = "Jump Higher"
+cheat26_desc = "跳得更高"
 cheat26_code = "04A8:01"
 cheat26_enable = false
 
-cheat27_desc = "Long Range Shots"
+cheat27_desc = "远距离射击"
 cheat27_code = "05DD:00+05DE:00+05DF:00"
 cheat27_enable = false
 
-cheat28_desc = "Invincible"
+cheat28_desc = "无敌"
 cheat28_code = "0630:10"
 cheat28_enable = false
 
-cheat29_desc = "Boss 1 Hit Kill"
+cheat29_desc = "Boss 1击杀"
 cheat29_code = "0684:00"
 cheat29_enable = false
 
-cheat30_desc = "Walk Anywhere on Overworld"
+cheat30_desc = "行走在主世界的任何地方"
 cheat30_code = ""
 cheat30_enable = false
 
-cheat31_desc = "Items Are Free"
+cheat31_desc = "物品免费"
 cheat31_code = ""
 cheat31_enable = false
 
-cheat32_desc = "Skip Intro Screens"
+cheat32_desc = "跳过介绍屏幕"
 cheat32_code = "AEOXTEXY+OZEXLEPX"
 cheat32_enable = false

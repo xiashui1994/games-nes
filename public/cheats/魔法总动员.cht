@@ -1,105 +1,105 @@
 cheats = 26
 
-cheat0_desc = "Infinite lives"
+cheat0_desc = "无限生命"
 cheat0_code = "SZSEYXVK"
 cheat0_enable = false
 
-cheat1_desc = "Start with 1 life"
+cheat1_desc = "从 1 条生命开始"
 cheat1_code = "AEUXSTZA"
 cheat1_enable = false
 
-cheat2_desc = "Start with 6 lives"
+cheat2_desc = "从 6 条生命开始"
 cheat2_code = "IEUXSTZA"
 cheat2_enable = false
 
-cheat3_desc = "Start with 9 lives"
+cheat3_desc = "从 9 条生命开始"
 cheat3_code = "AEUXSTZE"
 cheat3_enable = false
 
-cheat4_desc = "Don't lose energy from bad guys"
+cheat4_desc = "不要因坏人而失去能量"
 cheat4_code = "SVVNTKON"
 cheat4_enable = false
 
-cheat5_desc = "Infinite magic"
+cheat5_desc = "无限魔法"
 cheat5_code = "GXXAPKSN"
 cheat5_enable = false
 
-cheat6_desc = "Super jump"
+cheat6_desc = "超级跳跃"
 cheat6_code = "AOOAYGAO"
 cheat6_enable = false
 
-cheat7_desc = "Mega-jump!"
+cheat7_desc = "超级跳跃！"
 cheat7_code = "YOOAYGAO"
 cheat7_enable = false
 
-cheat8_desc = "Half a life or half magic give full energy"
+cheat8_desc = "一半生命或一半魔法给予全部能量"
 cheat8_code = "TEEONALA"
 cheat8_enable = false
 
-cheat9_desc = "Immune to fire and water!"
+cheat9_desc = "免疫火和水！"
 cheat9_code = "SZVAYIVG"
 cheat9_enable = false
 
-cheat10_desc = "Infinite Energy"
+cheat10_desc = "无限能量"
 cheat10_code = "006E:06"
 cheat10_enable = false
 
-cheat11_desc = "Infinite Magic"
+cheat11_desc = "无限魔法"
 cheat11_code = "006F:06"
 cheat11_enable = false
 
-cheat12_desc = "Enemies Continually Hit Anywhere (Excludes Bosses)"
+cheat12_desc = "敌人不断攻击任何地方（首领除外）"
 cheat12_code = "GZUIIGAP+GZUSAGAL"
 cheat12_enable = false
 
-cheat13_desc = "Infinite Health"
+cheat13_desc = "无限健康"
 cheat13_code = "006E:0C"
 cheat13_enable = false
 
-cheat14_desc = "Infinite Lives"
+cheat14_desc = "无限生命"
 cheat14_code = "05D4:63"
 cheat14_enable = false
 
-cheat15_desc = "Super Jump"
+cheat15_desc = "超级跳跃"
 cheat15_code = "0061:02"
 cheat15_enable = false
 
-cheat16_desc = "Untouchable"
+cheat16_desc = "贱民"
 cheat16_code = "0062:10"
 cheat16_enable = false
 
-cheat17_desc = "Always Charge Shot"
+cheat17_desc = "始终蓄力射击"
 cheat17_code = "0063:10"
 cheat17_enable = false
 
-cheat18_desc = "Freeze Enemies"
+cheat18_desc = "冻结敌人"
 cheat18_code = "0066:80"
 cheat18_enable = false
 
-cheat19_desc = "Swim Anywhere as Fishman"
+cheat19_desc = "扮演 Fishman 去任何地方游泳"
 cheat19_code = "0067:02"
 cheat19_enable = false
 
-cheat20_desc = "Spell Strength Modifier"
+cheat20_desc = "法术强度调整值"
 cheat20_code = "0070:00"
 cheat20_enable = false
 
-cheat21_desc = "Character Modifier"
+cheat21_desc = "角色修改器"
 cheat21_code = "00E3:00"
 cheat21_enable = false
 
-cheat22_desc = "Enable Level Select/Sound Test"
+cheat22_desc = "启用电平选择/声音测试"
 cheat22_code = "0365:08+0366:04+0367:04+0368:02+0369:02+036A:01+036B:01"
 cheat22_enable = false
 
-cheat23_desc = "Magic Modifier"
+cheat23_desc = "魔法修改器"
 cheat23_code = "05CF:00"
 cheat23_enable = false
 
-cheat24_desc = "Shoot Charged Shot While Jumping"
+cheat24_desc = "跳跃时进行蓄力射击"
 cheat24_code = "05EE:C1"
 cheat24_enable = false
 
-cheat25_desc = "Most Bosses One Hit Kill"
+cheat25_desc = "大多数 Boss 一击必杀"
 cheat25_code = "0730:00+0760:00+0770:00"
 cheat25_enable = false

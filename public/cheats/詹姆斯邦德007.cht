@@ -1,133 +1,133 @@
 cheats = 33
 
-cheat0_desc = "Start with 2 lives"
+cheat0_desc = "从2条生命开始"
 cheat0_code = "PANTTATA"
 cheat0_enable = false
 
-cheat1_desc = "Start with 15 lives"
+cheat1_desc = "从 15 条生命开始"
 cheat1_code = "TANTTATE"
 cheat1_enable = false
 
-cheat2_desc = "Infinite lives"
+cheat2_desc = "无限生命"
 cheat2_code = "SXEKSOVK"
 cheat2_enable = false
 
-cheat3_desc = "Start with some weapons"
+cheat3_desc = "从一些武器开始"
 cheat3_code = "XVOTAEXE"
 cheat3_enable = false
 
-cheat4_desc = "Unlimited weapons (bombs, flares, nukes, bullets)"
+cheat4_desc = "无限武器（炸弹、照明弹、核武器、子弹）"
 cheat4_code = "AANNSLPA"
 cheat4_enable = false
 
-cheat5_desc = "Slow down rate of air loss (scuba mode)"
+cheat5_desc = "减慢空气流失速度（水肺模式）"
 cheat5_code = "YUSOENYO"
 cheat5_enable = false
 
-cheat6_desc = "Speed up rate of air loss"
+cheat6_desc = "加快空气流失速度"
 cheat6_code = "YESOENYO"
 cheat6_enable = false
 
-cheat7_desc = "Shield doesn't take damage from bullets"
+cheat7_desc = "盾牌不会受到子弹伤害"
 cheat7_code = "GZUYZIST"
 cheat7_enable = false
 
-cheat8_desc = "Immune to most damage"
+cheat8_desc = "免疫大多数伤害"
 cheat8_code = "GZVYPIST"
 cheat8_enable = false
 
-cheat9_desc = "Infinite Energy"
+cheat9_desc = "无限能量"
 cheat9_code = "SZNYASSO"
 cheat9_enable = false
 
-cheat10_desc = "Infinite Ammo"
+cheat10_desc = "无限弹药"
 cheat10_code = "SXEYXUOO"
 cheat10_enable = false
 
-cheat11_desc = "Invincibility"
+cheat11_desc = "无敌"
 cheat11_code = "EINLYPEY+EYNUYPEI"
 cheat11_enable = false
 
-cheat12_desc = "Walk Through Enemies"
+cheat12_desc = "穿过敌人"
 cheat12_code = "05C0:05"
 cheat12_enable = false
 
-cheat13_desc = "Super Jump"
+cheat13_desc = "超级跳跃"
 cheat13_code = "0631:00"
 cheat13_enable = false
 
-cheat14_desc = "Infinite Ammo (Pistol)"
+cheat14_desc = "无限弹药（手枪）"
 cheat14_code = "040F:63"
 cheat14_enable = false
 
-cheat15_desc = "Infinite Lives"
+cheat15_desc = "无限生命"
 cheat15_code = "042C:09"
 cheat15_enable = false
 
-cheat16_desc = "Infinite Health"
+cheat16_desc = "无限健康"
 cheat16_code = "042A:AF"
 cheat16_enable = false
 
-cheat17_desc = "Infinite Time (Minutes - Ten's)"
+cheat17_desc = "无限时间（分钟 - 十分钟）"
 cheat17_code = "01F9:09"
 cheat17_enable = false
 
-cheat18_desc = "Infinite Time (Minutes - One's)"
+cheat18_desc = "无限时间（分钟 - 一个）"
 cheat18_code = "01FA:09"
 cheat18_enable = false
 
-cheat19_desc = "Infinite Time (Seconds - Ten's)"
+cheat19_desc = "无限时间（秒 - 十）"
 cheat19_code = "01FB:09"
 cheat19_enable = false
 
-cheat20_desc = "Infinite Time (Seconds - One's)"
+cheat20_desc = "无限时间（秒 - 一个）"
 cheat20_code = "01FC:09"
 cheat20_enable = false
 
-cheat21_desc = "Level Modifier"
+cheat21_desc = "等级修改器"
 cheat21_code = "009F:BE"
 cheat21_enable = false
 
-cheat22_desc = "Cutscene Modifier"
+cheat22_desc = "过场动画修改器"
 cheat22_code = "03EC:00"
 cheat22_enable = false
 
-cheat23_desc = "Jump In Mid-air"
+cheat23_desc = "跳到半空中"
 cheat23_code = "KPENTALT"
 cheat23_enable = false
 
-cheat24_desc = "Stage 1 Missiles Are Automatically Disarmed"
+cheat24_desc = "第一阶段导弹自动解除武装"
 cheat24_code = "OZXUVTSX+YAXUNVIA+AAULXTZZ"
 cheat24_enable = false
 
-cheat25_desc = "	Infinite Tries On The Safes In Stage 2"
+cheat25_desc = "第二阶段无限次尝试保险箱"
 cheat25_code = "OZNXSPSX+NPNXVPAU+SXEZXPVG"
 cheat25_enable = false
 
-cheat26_desc = "Safes Automatically Open In Stage 2"
+cheat26_desc = "保险箱在第二阶段自动打开"
 cheat26_code = "VPVZEOXP"
 cheat26_enable = false
 
-cheat27_desc = "Infinite Time"
+cheat27_desc = "无限时间"
 cheat27_code = "SXKLSUVG+SXKUOUVG+SXKUSUVG+SXSLOUVG"
 cheat27_enable = false
 
-cheat28_desc = "Only Need To Disable One Machine In Stage 3 To Activate The Exit"
+cheat28_desc = "只需在第 3 阶段禁用一台机器即可激活退出"
 cheat28_code = "PASGUTTA"
 cheat28_enable = false
 
-cheat29_desc = "Only Need To Save One Scientist In Stage 4 To Activate The Exit"
+cheat29_desc = "只需要在第四阶段拯救一名科学家即可激活出口"
 cheat29_code = "PAOKEVAA"
 cheat29_enable = false
 
-cheat30_desc = "Infinite Air Under Water & Infinite Time As The Ape Man"
+cheat30_desc = "无限的水下空气和无限的时间作为猿人"
 cheat30_code = "SXVPNNVG"
 cheat30_enable = false
 
-cheat31_desc = "Only Need To Disarm One Missile In Stage 1 To Activate The Exit"
+cheat31_desc = "只需在第一阶段解除一枚导弹即可激活出口"
 cheat31_code = "PEUGSTIA"
 cheat31_enable = false
 
-cheat32_desc = "Only Need To Collect One Blue Print In Stage 2 To Activate The Exit"
+cheat32_desc = "只需在第二阶段收集一张蓝图即可激活退出"
 cheat32_code = "PANKXTTA"
 cheat32_enable = false

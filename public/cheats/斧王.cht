@@ -1,169 +1,169 @@
 cheats = 42
 
-cheat0_desc = "All Enemies Are Invincible"
+cheat0_desc = "所有的敌人都是不可战胜的"
 cheat0_code = "AKTSPP"
 cheat0_enable = false
 
-cheat1_desc = "Can't See How Much Life, Weapon Or Spell Power You"
+cheat1_desc = "看不到你有多少生命、武器或法术强度"
 cheat1_code = "AUAKGP"
 cheat1_enable = false
 
-cheat2_desc = "The Things Those Green Balls Drop Don't Hurt You"
+cheat2_desc = "那些绿球掉落的东西不会伤害你"
 cheat2_code = "AGISOT"
 cheat2_enable = false
 
-cheat3_desc = "Intro Music Is Changed"
+cheat3_desc = "介绍音乐已更改"
 cheat3_code = "NNPPIS"
 cheat3_enable = false
 
-cheat4_desc = "Start With A Weapon Power Upgrade!"
+cheat4_desc = "从武器威力升级开始！"
 cheat4_code = "SVLGTX"
 cheat4_enable = false
 
-cheat5_desc = "Infinite Lives"
+cheat5_desc = "无限生命"
 cheat5_code = "0096:03"
 cheat5_enable = false
 
-cheat6_desc = "Max Weapon Power"
+cheat6_desc = "最大武器威力"
 cheat6_code = "0097:60"
 cheat6_enable = false
 
-cheat7_desc = "Infinite spell energy"
+cheat7_desc = "无限法术能量"
 cheat7_code = "AUEKGUAP"
 cheat7_enable = false
 
-cheat8_desc = "Infinite life energy"
+cheat8_desc = "无限生命能量"
 cheat8_code = "SZUGTISA"
 cheat8_enable = false
 
-cheat9_desc = "Double life and spell energy"
+cheat9_desc = "双倍生命和法术能量"
 cheat9_code = "AZKAVZGO"
 cheat9_enable = false
 
-cheat10_desc = "Start with Blast Spell"
+cheat10_desc = "从爆炸法术开始"
 cheat10_code = "PAKEKZAA"
 cheat10_enable = false
 
-cheat11_desc = "Start with Bind Spell"
+cheat11_desc = "从绑定咒语开始"
 cheat11_code = "ZAKEKZAA"
 cheat11_enable = false
 
-cheat12_desc = "Start with extra weapon power"
+cheat12_desc = "从额外的武器威力开始"
 cheat12_code = "GPKAXZGA"
 cheat12_enable = false
 
-cheat13_desc = "Keep weapons after death"
+cheat13_desc = "死后保留武器"
 cheat13_code = "SZUGEUVK"
 cheat13_enable = false
 
-cheat14_desc = "Start with 1 life"
+cheat14_desc = "从 1 条生命开始"
 cheat14_code = "AEUEUGZA+AASAXZZA"
 cheat14_enable = false
 
-cheat15_desc = "Start with double lives"
+cheat15_desc = "从双重生活开始"
 cheat15_code = "IEUEUGZA+IASAXZZA"
 cheat15_enable = false
 
-cheat16_desc = "Start with triple lives"
+cheat16_desc = "从三重生命开始"
 cheat16_code = "AEUEUGZE+AASAXZZE"
 cheat16_enable = false
 
-cheat17_desc = "Infinite Weapon Power"
+cheat17_desc = "无限武器威力"
 cheat17_code = "SXKGYISA"
 cheat17_enable = false
 
-cheat18_desc = "Infinite MP"
+cheat18_desc = "无限MP"
 cheat18_code = "SXEKYLSA"
 cheat18_enable = false
 
-cheat19_desc = "Infinite Lives"
+cheat19_desc = "无限生命"
 cheat19_code = "SZKKVLSA"
 cheat19_enable = false
 
-cheat20_desc = "Start with 99 Lives"
+cheat20_desc = "从 99 条生命开始"
 cheat20_code = "OPSAXZZE"
 cheat20_enable = false
 
-cheat21_desc = "Invincibility after hit"
+cheat21_desc = "命中后无敌"
 cheat21_code = "SZXAAPSA"
 cheat21_enable = false
 
-cheat22_desc = "Invincibility"
+cheat22_desc = "无敌"
 cheat22_code = "007D:03"
 cheat22_enable = false
 
-cheat23_desc = "Invincibility"
+cheat23_desc = "无敌"
 cheat23_code = "EYNAGPEI"
 cheat23_enable = false
 
-cheat24_desc = "Hit Anywhere"
+cheat24_desc = "击中任何地方"
 cheat24_code = "GXKSKPEL+GXUISPAL"
 cheat24_enable = false
 
-cheat25_desc = "Rise Into Air"
+cheat25_desc = "升入空中"
 cheat25_code = "0075:FF"
 cheat25_enable = false
 
-cheat26_desc = "Level Modifier"
+cheat26_desc = "等级修改器"
 cheat26_code = "00ED:00"
 cheat26_enable = false
 
-cheat27_desc = "Weapon Modifier"
+cheat27_desc = "武器修改器"
 cheat27_code = "05EE:00"
 cheat27_enable = false
 
-cheat28_desc = "Infinite Power"
+cheat28_desc = "无限力量"
 cheat28_code = "008E:20"
 cheat28_enable = false
 
-cheat29_desc = "Infinite Hearts"
+cheat29_desc = "无限的心"
 cheat29_code = "0091:20"
 cheat29_enable = false
 
-cheat30_desc = "Infinite Magic"
+cheat30_desc = "无限魔法"
 cheat30_code = "0093:20"
 cheat30_enable = false
 
-cheat31_desc = "Invincible"
+cheat31_desc = "无敌"
 cheat31_code = "0076:16"
 cheat31_enable = false
 
-cheat32_desc = "Infinite Power"
+cheat32_desc = "无限力量"
 cheat32_code = "008E:14"
 cheat32_enable = false
 
-cheat33_desc = "Infinite Hearts"
+cheat33_desc = "无限的心"
 cheat33_code = "0091:14"
 cheat33_enable = false
 
-cheat34_desc = "Infinite Magic"
+cheat34_desc = "无限魔法"
 cheat34_code = "0093:14"
 cheat34_enable = false
 
-cheat35_desc = "Invincible"
+cheat35_desc = "无敌"
 cheat35_code = "0076:10"
 cheat35_enable = false
 
-cheat36_desc = "Jump in Midair"
+cheat36_desc = "空中跳跃"
 cheat36_code = "EEEEIZYY+EEEEYZAP+ZUOAPZIL"
 cheat36_enable = false
 
-cheat37_desc = "Stage Select Enabled"
+cheat37_desc = "阶段选择已启用"
 cheat37_code = "ENNAYTEI"
 cheat37_enable = false
 
-cheat38_desc = "Freeze Enemies"
+cheat38_desc = "冻结敌人"
 cheat38_code = "0081:83"
 cheat38_enable = false
 
-cheat39_desc = "Magic Modifier"
+cheat39_desc = "魔法修改器"
 cheat39_code = ""
 cheat39_enable = false
 
-cheat40_desc = "One Hit Kills"
+cheat40_desc = "一击必杀"
 cheat40_code = "0715:80+0725:80+0735:80+0745:80+0755:80+0765:80+0775:80+0785:80"
 cheat40_enable = false
 
-cheat41_desc = "Skip Intro Screen"
+cheat41_desc = "跳过介绍屏幕"
 cheat41_code = "AAOOUSET"
 cheat41_enable = false

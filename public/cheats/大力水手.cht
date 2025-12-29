@@ -1,9 +1,9 @@
 cheats = 2
 
-cheat0_desc = "Start On Stage 2"
+cheat0_desc = "从第 2 阶段开始"
 cheat0_code = "YGLKKO"
 cheat0_enable = false
 
-cheat1_desc = "Start On Stage 3"
+cheat1_desc = "从第 3 阶段开始"
 cheat1_code = "AILKKP"
 cheat1_enable = false

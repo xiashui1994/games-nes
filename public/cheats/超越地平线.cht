@@ -1,9 +1,9 @@
 cheats = 2
 
-cheat0_desc = "Infinite Lives"
+cheat0_desc = "无限生命"
 cheat0_code = "SZVUSSVK"
 cheat0_enable = false
 
-cheat1_desc = "Enable Alternate Graphics"
+cheat1_desc = "启用替代图形"
 cheat1_code = "PEXIYTAA"
 cheat1_enable = false

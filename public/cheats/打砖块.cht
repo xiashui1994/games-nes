@@ -1,185 +1,185 @@
 cheats = 46
 
-cheat0_desc = "Ball Auto-Respawns"
+cheat0_desc = "球自动重生"
 cheat0_code = "0081:09"
 cheat0_enable = false
 
-cheat1_desc = "Mega Fast Ball"
+cheat1_desc = "超级快球"
 cheat1_code = "GKIZZN"
 cheat1_enable = false
 
-cheat2_desc = "Different Colors"
+cheat2_desc = "不同的颜色"
 cheat2_code = "IIZZIG"
 cheat2_enable = false
 
-cheat3_desc = "Door On Side Is Always Open"
+cheat3_desc = "侧面的门始终打开"
 cheat3_code = "SOTUVA"
 cheat3_enable = false
 
-cheat4_desc = "Demo Plays For You"
+cheat4_desc = "为您播放演示"
 cheat4_code = "LKAEIP"
 cheat4_enable = false
 
-cheat5_desc = "Demo Plays For You Except On Levels 10, 20, 30"
+cheat5_desc = "演示版可为您播放，级别 10、20、30 除外"
 cheat5_code = "LXAEIP"
 cheat5_enable = false
 
-cheat6_desc = "Demo Plays For You On A Few Levels"
+cheat6_desc = "演示可以在几个层面上为您播放"
 cheat6_code = "ZXAEIO"
 cheat6_enable = false
 
-cheat7_desc = "Black Background And Blocks"
+cheat7_desc = "黑色背景和块"
 cheat7_code = "XTIPEE"
 cheat7_enable = false
 
-cheat8_desc = "Square Ball"
+cheat8_desc = "方球"
 cheat8_code = "VVZZPP"
 cheat8_enable = false
 
-cheat9_desc = "Lots Of Lives, Probably 255"
+cheat9_desc = "很多条命，大概有255条"
 cheat9_code = "NYOPUGLE"
 cheat9_enable = false
 
-cheat10_desc = "Player 1 start with 1 life"
+cheat10_desc = "玩家 1 开始时有 1 条生命"
 cheat10_code = "PAOPUGLA"
 cheat10_enable = false
 
-cheat11_desc = "Player 1 start with 6 lives"
+cheat11_desc = "玩家 1 开始时有 6 条生命"
 cheat11_code = "TAOPUGLA"
 cheat11_enable = false
 
-cheat12_desc = "Player 1 start with 9 lives"
+cheat12_desc = "玩家 1 开始时有 9 条生命"
 cheat12_code = "PAOPUGLE"
 cheat12_enable = false
 
-cheat13_desc = "Infinite lives, players 1 &amp; 2"
+cheat13_desc = "无限生命，玩家 1 和 2 2"
 cheat13_code = "OZNEATVK"
 cheat13_enable = false
 
-cheat14_desc = "No bat enhancement capsules"
+cheat14_desc = "无蝙蝠增强胶囊"
 cheat14_code = "SXNAIAAX"
 cheat14_enable = false
 
-cheat15_desc = "No lasers"
+cheat15_desc = "没有激光"
 cheat15_code = "SXVATAAX"
 cheat15_enable = false
 
-cheat16_desc = "Player 1 start at level 5"
+cheat16_desc = "玩家 1 从 5 级开始"
 cheat16_code = "IAOONGPA"
 cheat16_enable = false
 
-cheat17_desc = "Player 1 start at level 10"
+cheat17_desc = "玩家 1 从 10 级开始"
 cheat17_code = "ZAOONGPE"
 cheat17_enable = false
 
-cheat18_desc = "Player 1 start at level 15"
+cheat18_desc = "玩家 1 从 15 级开始"
 cheat18_code = "YAOONGPE"
 cheat18_enable = false
 
-cheat19_desc = "Player 1 start at level 20"
+cheat19_desc = "玩家 1 从 20 级开始"
 cheat19_code = "GPOONGPA"
 cheat19_enable = false
 
-cheat20_desc = "Player 1 start at level 25"
+cheat20_desc = "玩家 1 从 25 级开始"
 cheat20_code = "PPOONGPE"
 cheat20_enable = false
 
-cheat21_desc = "Player 1 start at level 30"
+cheat21_desc = "玩家 1 从 30 级开始"
 cheat21_code = "TPOONGPE"
 cheat21_enable = false
 
-cheat22_desc = "Infinite Lives"
+cheat22_desc = "无限生命"
 cheat22_code = "SZNEATVG"
 cheat22_enable = false
 
-cheat23_desc = "Infinite Lives"
+cheat23_desc = "无限生命"
 cheat23_code = "000D:03"
 cheat23_enable = false
 
-cheat24_desc = "Win Level Now"
+cheat24_desc = "立即赢得关卡"
 cheat24_code = "000F:00"
 cheat24_enable = false
 
-cheat25_desc = "Round Select"
+cheat25_desc = "回合选择"
 cheat25_code = "001C:01+0021:01"
 cheat25_enable = false
 
-cheat26_desc = "Invincibility"
+cheat26_desc = "无敌"
 cheat26_code = "SZXXNLSA+SXOLXGSA"
 cheat26_enable = false
 
-cheat27_desc = "Blocks are Breakable with 1 Hit"
+cheat27_desc = "1 次击中即可破坏方块"
 cheat27_code = "AAVZNZYA"
 cheat27_enable = false
 
-cheat28_desc = "Gold Blocks are Breakable"
+cheat28_desc = "金块是易碎的"
 cheat28_code = "AASXVZGP"
 cheat28_enable = false
 
-cheat29_desc = "Drop Power-ups Regardless of # of Active Balls"
+cheat29_desc = "无论活动球的数量如何，都会掉落能量提升"
 cheat29_code = "XTKELLAV"
 cheat29_enable = false
 
-cheat30_desc = "Always Drop Power-up"
+cheat30_desc = "始终断开电源"
 cheat30_code = "NYNALUAE"
 cheat30_enable = false
 
-cheat31_desc = "Never Drop Power-ups"
+cheat31_desc = "永不掉落能量道具"
 cheat31_code = "AAKEYLPA"
 cheat31_enable = false
 
-cheat32_desc = "Keep Lasers Until the Next Level"
+cheat32_desc = "保持激光直到下一个水平"
 cheat32_code = "SXOAIZSA"
 cheat32_enable = false
 
-cheat33_desc = "Keep Catch Until the Next Level"
+cheat33_desc = "保持捕捉直到下一个级别"
 cheat33_code = "SXOAAXSE"
 cheat33_enable = false
 
-cheat34_desc = "Always Drop Orange Power-up"
+cheat34_desc = "始终掉落橙色强化道具"
 cheat34_code = "OXKATLEN+PEKAYUVG"
 cheat34_enable = false
 
-cheat35_desc = "Always Drop Green Power-up"
+cheat35_desc = "始终放下绿色电源"
 cheat35_code = "OXKATLEN+ZEKAYUVG"
 cheat35_enable = false
 
-cheat36_desc = "Always Drop Dark Blue Power-up"
+cheat36_desc = "始终掉落深蓝色强化道具"
 cheat36_code = "OXKATLEN+LEKAYUVG"
 cheat36_enable = false
 
-cheat37_desc = "Always Drop Light Blue Power-up"
+cheat37_desc = "始终掉落浅蓝色能量提升"
 cheat37_code = "OXKATLEN+GEKAYUVG"
 cheat37_enable = false
 
-cheat38_desc = "Always Drop Red Power-up"
+cheat38_desc = "始终掉落红色能量提升"
 cheat38_code = "OXKATLEN+IEKAYUVG"
 cheat38_enable = false
 
-cheat39_desc = "Always Drop Pink Power-up"
+cheat39_desc = "总是掉落粉色能量道具"
 cheat39_code = "OXKATLEN+TEKAYUVG"
 cheat39_enable = false
 
-cheat40_desc = "Always Drop Gray Power-up"
+cheat40_desc = "始终放下灰色电源"
 cheat40_code = "OXKATLEN+YEKAYUVG"
 cheat40_enable = false
 
-cheat41_desc = "Infinite Lives P1"
+cheat41_desc = "无限生命 P1"
 cheat41_code = "000D:09"
 cheat41_enable = false
 
-cheat42_desc = "Freeze Ball"
+cheat42_desc = "冷冻球"
 cheat42_code = "0082:20"
 cheat42_enable = false
 
-cheat43_desc = "No Blocks Or Background"
+cheat43_desc = "没有方块或背景"
 cheat43_code = "0088:5F"
 cheat43_enable = false
 
-cheat44_desc = "Ball Action Modifier"
+cheat44_desc = "球动作修改器"
 cheat44_code = "0033:00"
 cheat44_enable = false
 
-cheat45_desc = "Paddle Hits Ball Anywhere"
+cheat45_desc = "球拍可以击球到任何地方"
 cheat45_code = "ASVZNAEP+AESXNALL"
 cheat45_enable = false

@@ -1,141 +1,141 @@
 cheats = 35
 
-cheat0_desc = "Infinite Energy"
+cheat0_desc = "无限能量"
 cheat0_code = "005C:7E+0063:03"
 cheat0_enable = false
 
-cheat1_desc = "Infinite Weapon"
+cheat1_desc = "无限武器"
 cheat1_code = "005F:50"
 cheat1_enable = false
 
-cheat2_desc = "Clear Every Stage Immediately"
+cheat2_desc = "立即清除每个阶段"
 cheat2_code = "EYSALLEI"
 cheat2_enable = false
 
-cheat3_desc = "Don't Explode When You Got Hit"
+cheat3_desc = "被击中时不要爆炸"
 cheat3_code = "0046:00+005D:50"
 cheat3_enable = false
 
-cheat4_desc = "Freeze Time"
+cheat4_desc = "冻结时间"
 cheat4_code = "0065:99"
 cheat4_enable = false
 
-cheat5_desc = "Km Modifier"
+cheat5_desc = "公里修改器"
 cheat5_code = "0067:00"
 cheat5_enable = false
 
-cheat6_desc = "1 Km To Go"
+cheat6_desc = "还剩 1 公里"
 cheat6_code = "0062:01"
 cheat6_enable = false
 
-cheat7_desc = "Start Any Game With 100,000 Points"
+cheat7_desc = "以 100,000 分开始任何游戏"
 cheat7_code = "AENIPPAA"
 cheat7_enable = false
 
-cheat8_desc = "Infinite Shot"
+cheat8_desc = "无限射击"
 cheat8_code = "005F:50"
 cheat8_enable = false
 
-cheat9_desc = "Fake Infinite Energy Shot"
+cheat9_desc = "假无限能量射击"
 cheat9_code = "005E:15"
 cheat9_enable = false
 
-cheat10_desc = "Max Score P1"
+cheat10_desc = "最高分数 P1"
 cheat10_code = "0000:09+0001:09+0002:09+0003:09+0004:09"
 cheat10_enable = false
 
-cheat11_desc = "Level Modifier"
+cheat11_desc = "等级修改器"
 cheat11_code = "0017:00"
 cheat11_enable = false
 
-cheat12_desc = "Bike Colour And Abilities"
+cheat12_desc = "自行车颜色和功能"
 cheat12_code = "0071:00"
 cheat12_enable = false
 
-cheat13_desc = "Time minutes (1st digit on left)"
+cheat13_desc = "时间分钟（左边第一个数字）"
 cheat13_code = "0066:00"
 cheat13_enable = false
 
-cheat14_desc = "Time seconds (2nd digit on right)"
+cheat14_desc = "时间秒（右侧第二位数字）"
 cheat14_code = "0065:00"
 cheat14_enable = false
 
-cheat15_desc = "Destroyed Barrels (from 00 to FF)"
+cheat15_desc = "被毁坏的桶（从00到FF）"
 cheat15_code = "078C:00"
 cheat15_enable = false
 
-cheat16_desc = "Destroyed Canon Balls (from 00 to FF)"
+cheat16_desc = "被摧毁的佳能球（从 00 到 FF）"
 cheat16_code = "078D:00"
 cheat16_enable = false
 
-cheat17_desc = "Distance 3rd Digit (Endurance & Solo course only)"
+cheat17_desc = "距离第三位数字（仅限耐力赛和单人赛）"
 cheat17_code = "0067:00"
 cheat17_enable = false
 
-cheat18_desc = "Distance 2nd Digit (Endurance & Solo course only)"
+cheat18_desc = "距离第二位数字（仅限耐力赛和单人赛）"
 cheat18_code = "0068:00"
 cheat18_enable = false
 
-cheat19_desc = "Distance 1st Digit (Endurance & Solo course only)"
+cheat19_desc = "距离第一位数字（仅限耐力赛和单人赛）"
 cheat19_code = "0069:00"
 cheat19_enable = false
 
-cheat20_desc = "Lives (from 00 to 05)"
+cheat20_desc = "生活（从 00 到 05）"
 cheat20_code = "0063:00"
 cheat20_enable = false
 
-cheat21_desc = "Never Lose Bike Abilities"
+cheat21_desc = "永远不要失去自行车能力"
 cheat21_code = "IVGUEY"
 cheat21_enable = false
 
-cheat22_desc = "Infinite Lives"
+cheat22_desc = "无限生命"
 cheat22_code = "VZISZL"
 cheat22_enable = false
 
-cheat23_desc = "Infinite Energy 1/2"
+cheat23_desc = "无限能量 1/2"
 cheat23_code = "KKAZNG"
 cheat23_enable = false
 
-cheat24_desc = "Infinite Energy 2/2"
+cheat24_desc = "无限能量2/2"
 cheat24_code = "UETUXY"
 cheat24_enable = false
 
-cheat25_desc = "Bike Never Explode"
+cheat25_desc = "自行车永不爆炸"
 cheat25_code = "KVGLXY"
 cheat25_enable = false
 
-cheat26_desc = "Super Speed"
+cheat26_desc = "超高速"
 cheat26_code = "SXZEIL+SXLALL"
 cheat26_enable = false
 
-cheat27_desc = "No Winter"
+cheat27_desc = "没有冬天"
 cheat27_code = "SZYGYV"
 cheat27_enable = false
 
-cheat28_desc = "Infinite Time (Solo Course & Endurance Course modes)"
+cheat28_desc = "无限时间（单人课程和耐力课程模式）"
 cheat28_code = "SZTZSG"
 cheat28_enable = false
 
-cheat29_desc = "Enables A Winter in Some Sectors"
+cheat29_desc = "部分行业将迎来寒冬"
 cheat29_code = "PAAEAZ"
 cheat29_enable = false
 
-cheat30_desc = "Enables 5th Gear (invisible!)"
+cheat30_desc = "启用第五档（不可见！）"
 cheat30_code = "GAGZOI"
 cheat30_enable = false
 
-cheat31_desc = "New Bike Colour On Crash (Purple bike colour!) "
+cheat31_desc = "新的自行车颜色碰撞（紫色自行车颜色！）"
 cheat31_code = ""
 cheat31_enable = false
 
-cheat32_desc = "New bike colour on crash (Purple bike colour!) 2"
+cheat32_desc = "碰撞时的新自行车颜色（紫色自行车颜色！）2"
 cheat32_code = "YEGLSY"
 cheat32_enable = false
 
-cheat33_desc = "Don't Lose Speed When Driving on Grass"
+cheat33_desc = "在草地上行驶时不要减速"
 cheat33_code = "SZPZOT+SZPZNT"
 cheat33_enable = false
 
-cheat34_desc = "Title screen music / sound effect modifier"
+cheat34_desc = "标题画面音乐/音效修改器"
 cheat34_code = ""
 cheat34_enable = false

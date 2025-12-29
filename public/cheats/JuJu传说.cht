@@ -1,133 +1,133 @@
 cheats = 33
 
-cheat0_desc = "Start with 1 life"
+cheat0_desc = "从 1 条生命开始"
 cheat0_code = "AEKYXYZA"
 cheat0_enable = false
 
-cheat1_desc = "Start with 2 lives"
+cheat1_desc = "从2条生命开始"
 cheat1_code = "PEKYXYZA"
 cheat1_enable = false
 
-cheat2_desc = "Start with 5 lives"
+cheat2_desc = "从 5 条生命开始"
 cheat2_code = "GEKYXYZA"
 cheat2_enable = false
 
-cheat3_desc = "Start with 9 lives"
+cheat3_desc = "从 9 条生命开始"
 cheat3_code = "AEKYXYZE"
 cheat3_enable = false
 
-cheat4_desc = "Infinite lives"
+cheat4_desc = "无限生命"
 cheat4_code = "SXNYZSVK"
 cheat4_enable = false
 
-cheat5_desc = "Infinite energy"
+cheat5_desc = "无限能量"
 cheat5_code = "EESEYEVG"
 cheat5_enable = false
 
-cheat6_desc = "Infinite time"
+cheat6_desc = "无限时间"
 cheat6_code = "AAKEVYPA"
 cheat6_enable = false
 
-cheat7_desc = "Start with one heart (first life only)"
+cheat7_desc = "从一颗心开始（仅限第一次生命）"
 cheat7_code = "PAENPIZA"
 cheat7_enable = false
 
-cheat8_desc = "Start with one heart (after first life)"
+cheat8_desc = "从一颗心开始（第一次生命之后）"
 cheat8_code = "AENYTIZA"
 cheat8_enable = false
 
-cheat9_desc = "Start with less time"
+cheat9_desc = "从更少的时间开始"
 cheat9_code = "PAEIKALA+PAKAGALA"
 cheat9_enable = false
 
-cheat10_desc = "Start with more time"
+cheat10_desc = "从更多时间开始"
 cheat10_code = "IAEIKALA+IAKAGALA"
 cheat10_enable = false
 
-cheat11_desc = "Start with even more time"
+cheat11_desc = "从更多时间开始"
 cheat11_code = "PAEIKALE+PAKAGALE"
 cheat11_enable = false
 
-cheat12_desc = "Weapons don't run out"
+cheat12_desc = "武器不会耗尽"
 cheat12_code = "SZNOGUVV+SXEOLUVV+SXOOZUSE"
 cheat12_enable = false
 
-cheat13_desc = "When your weapon runs out of ammo its replaced with the double weapon"
+cheat13_desc = "当你的武器耗尽弹药时，它会被双武器取代"
 cheat13_code = "PEOPTLAA"
 cheat13_enable = false
 
-cheat14_desc = "When your weapon runs out of ammo its replaced with the wave weapon"
+cheat14_desc = "当你的武器耗尽弹药时，它会被波浪武器取代"
 cheat14_code = "ZEOPTLAA"
 cheat14_enable = false
 
-cheat15_desc = "When your weapon runs out of ammo its replaced with the 3-way weapon"
+cheat15_desc = "当你的武器耗尽弹药时，它会被 3 向武器取代"
 cheat15_code = "LEOPTLAA"
 cheat15_enable = false
 
-cheat16_desc = "When your weapon runs out of ammo its replaced with the flame weapon"
+cheat16_desc = "当你的武器耗尽弹药时，它会被火焰武器取代"
 cheat16_code = "GEOPTLAA"
 cheat16_enable = false
 
-cheat17_desc = "When your weapon runs out of ammo its replaced with the fireball weapon"
+cheat17_desc = "当你的武器耗尽弹药时，它会被火球武器取代"
 cheat17_code = "IEOPTLAA"
 cheat17_enable = false
 
-cheat18_desc = "Invincibility"
+cheat18_desc = "无敌"
 cheat18_code = "011F:00"
 cheat18_enable = false
 
-cheat19_desc = "Hit Anywhere Normal Enemies"
+cheat19_desc = "攻击任何地方的普通敌人"
 cheat19_code = "XVEAPTAV+SXSETVSO"
 cheat19_enable = false
 
-cheat20_desc = "Infinite Health P1"
+cheat20_desc = "无限健康 P1"
 cheat20_code = "011C:02"
 cheat20_enable = false
 
-cheat21_desc = "Infinite Lives P1"
+cheat21_desc = "无限生命 P1"
 cheat21_code = ""
 cheat21_enable = false
 
-cheat22_desc = "Level Modifier (Ignore Stage X Text)"
+cheat22_desc = "等级修改器（忽略第 X 阶段文本）"
 cheat22_code = "0116:00"
 cheat22_enable = false
 
-cheat23_desc = "Infinite Coins (Ten's Digit)"
+cheat23_desc = "无限金币（十位数）"
 cheat23_code = "0118:09"
 cheat23_enable = false
 
-cheat24_desc = "Infinite Coins (One's Digit)"
+cheat24_desc = "无限金币（一个数字）"
 cheat24_code = "0119:09"
 cheat24_enable = false
 
-cheat25_desc = "Infinite Time (Hundred's Digit)"
+cheat25_desc = "无限时间（百位数）"
 cheat25_code = "0576:09"
 cheat25_enable = false
 
-cheat26_desc = "Infinite Time (Ten's Digit)"
+cheat26_desc = "无限时间（十位数字）"
 cheat26_code = "0577:09"
 cheat26_enable = false
 
-cheat27_desc = "Infinite Time (One's Digit)"
+cheat27_desc = "无限时间（一个人的数字）"
 cheat27_code = "0578:09"
 cheat27_enable = false
 
-cheat28_desc = "Swim Everywhere"
+cheat28_desc = "到处游泳"
 cheat28_code = "051C:FF"
 cheat28_enable = false
 
-cheat29_desc = "Have Jump Shoes"
+cheat29_desc = "有跳鞋"
 cheat29_code = "0527:FF"
 cheat29_enable = false
 
-cheat30_desc = "Weapon Modifier"
+cheat30_desc = "武器修改器"
 cheat30_code = "0570:00"
 cheat30_enable = false
 
-cheat31_desc = "Big Flame No Charge Time"
+cheat31_desc = "大火焰无需充电时间"
 cheat31_code = "0571:1C"
 cheat31_enable = false
 
-cheat32_desc = "Boss One Hit Kill"
+cheat32_desc = "Boss 一击必杀"
 cheat32_code = "0572:00"
 cheat32_enable = false

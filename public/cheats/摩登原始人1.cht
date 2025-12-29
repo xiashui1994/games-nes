@@ -1,213 +1,213 @@
 cheats = 53
 
-cheat0_desc = "Coins Turn Into 1-Ups"
+cheat0_desc = "硬币变成 1-Ups"
 cheat0_code = "XEATIZ"
 cheat0_enable = false
 
-cheat1_desc = "Infinite Fire Power"
+cheat1_desc = "无限火力"
 cheat1_code = "AETEKI"
 cheat1_enable = false
 
-cheat2_desc = "Shadow Fred"
+cheat2_desc = "影子弗雷德"
 cheat2_code = "SXYIVA"
 cheat2_enable = false
 
-cheat3_desc = "Infinite lives"
+cheat3_desc = "无限生命"
 cheat3_code = "SXOAAEVK"
 cheat3_enable = false
 
-cheat4_desc = "Start with 1 life"
+cheat4_desc = "从 1 条生命开始"
 cheat4_code = "AAVAYPZA"
 cheat4_enable = false
 
-cheat5_desc = "Start with 6 lives"
+cheat5_desc = "从 6 条生命开始"
 cheat5_code = "IAVAYPZA"
 cheat5_enable = false
 
-cheat6_desc = "Start with 9 lives"
+cheat6_desc = "从 9 条生命开始"
 cheat6_code = "AAVAYPZE"
 cheat6_enable = false
 
-cheat7_desc = "Start with 99 coins"
+cheat7_desc = "从 99 个硬币开始"
 cheat7_code = "LTNELOZA"
 cheat7_enable = false
 
-cheat8_desc = "Start with slingshot"
+cheat8_desc = "从弹弓开始"
 cheat8_code = "PEEAAPAA"
 cheat8_enable = false
 
-cheat9_desc = "Start with axe"
+cheat9_desc = "从斧头开始"
 cheat9_code = "ZEEAAPAA"
 cheat9_enable = false
 
-cheat10_desc = "Start with bomb"
+cheat10_desc = "从炸弹开始"
 cheat10_code = "GEEAAPAA"
 cheat10_enable = false
 
-cheat11_desc = "15 coins on pick-up"
+cheat11_desc = "领取时 15 枚硬币"
 cheat11_code = "YESTZZIE"
 cheat11_enable = false
 
-cheat12_desc = "2 coins on pick-up"
+cheat12_desc = "领取时 2 个硬币"
 cheat12_code = "ZESTZZIA"
 cheat12_enable = false
 
-cheat13_desc = "Slingshot doesn't use up coins"
+cheat13_desc = "弹弓不会消耗金币"
 cheat13_code = "AAUAXTLA"
 cheat13_enable = false
 
-cheat14_desc = "Axe doesn't use up coins"
+cheat14_desc = "斧头不会用完金币"
 cheat14_code = "AAUAUTLA"
 cheat14_enable = false
 
-cheat15_desc = "Bomb doesn't use up coins"
+cheat15_desc = "炸弹不会消耗金币"
 cheat15_code = "AAUAKVZA"
 cheat15_enable = false
 
-cheat16_desc = "Infinite energy"
+cheat16_desc = "无限能量"
 cheat16_code = "SZNTZKVK+SXOPZOVK"
 cheat16_enable = false
 
-cheat17_desc = "Infinite Energy"
+cheat17_desc = "无限能量"
 cheat17_code = "0308:03"
 cheat17_enable = false
 
-cheat18_desc = "Infinite Lives"
+cheat18_desc = "无限生命"
 cheat18_code = "0305:02"
 cheat18_enable = false
 
-cheat19_desc = "Invincibility"
+cheat19_desc = "无敌"
 cheat19_code = "03AF:01"
 cheat19_enable = false
 
-cheat20_desc = "Invincibility"
+cheat20_desc = "无敌"
 cheat20_code = "AVOPZOVG"
 cheat20_enable = false
 
-cheat21_desc = "Infinite Lives"
+cheat21_desc = "无限生命"
 cheat21_code = "SUOAAEVK"
 cheat21_enable = false
 
-cheat22_desc = "Infinite Energy"
+cheat22_desc = "无限能量"
 cheat22_code = "SUOPZOVK"
 cheat22_enable = false
 
-cheat23_desc = "Recover Energy After Being Hit"
+cheat23_desc = "被击中后恢复能量"
 cheat23_code = "VVOPZOVK"
 cheat23_enable = false
 
-cheat24_desc = "Win A Life After Dieing"
+cheat24_desc = "赢得死后的生命"
 cheat24_code = "VVOAAEVK"
 cheat24_enable = false
 
-cheat25_desc = "Start With Max Power Gauge"
+cheat25_desc = "从最大功率计开始"
 cheat25_code = "LPNATOGA"
 cheat25_enable = false
 
-cheat26_desc = "Hit Harder"
+cheat26_desc = "加大力度"
 cheat26_code = "EYEAXTLE"
 cheat26_enable = false
 
-cheat27_desc = "Max Power Always"
+cheat27_desc = "始终最大功率"
 cheat27_code = "LOKOEPPA+LPEZLPPA+LOEPLPPA+LPUOLZPA"
 cheat27_enable = false
 
-cheat28_desc = "Jump in Midair"
+cheat28_desc = "空中跳跃"
 cheat28_code = "SXOEKKGK"
 cheat28_enable = false
 
-cheat29_desc = "Hit Anywhere"
+cheat29_desc = "击中任何地方"
 cheat29_code = "SXXSGTAX+AEVSGTLL"
 cheat29_enable = false
 
-cheat30_desc = "Fix Invincibility Flash"
+cheat30_desc = "修复无敌闪现"
 cheat30_code = "0463:C0"
 cheat30_enable = false
 
-cheat31_desc = "Weapon Modifier"
+cheat31_desc = "武器修改器"
 cheat31_code = "030A:00"
 cheat31_enable = false
 
-cheat32_desc = "Jump Midair"
+cheat32_desc = "空中跳跃"
 cheat32_code = "038B:81"
 cheat32_enable = false
 
-cheat33_desc = "Rise"
+cheat33_desc = "上升"
 cheat33_code = "05B3:FF"
 cheat33_enable = false
 
-cheat34_desc = "Sprite Modifier"
+cheat34_desc = "精灵修改器"
 cheat34_code = "0553:00"
 cheat34_enable = false
 
-cheat35_desc = "Infinite Lives"
+cheat35_desc = "无限生命"
 cheat35_code = "0305:09"
 cheat35_enable = false
 
-cheat36_desc = "Infinite Hearts (Hits)"
+cheat36_desc = "无限的心（热门）"
 cheat36_code = "0308:03"
 cheat36_enable = false
 
-cheat37_desc = "Infinite Coins"
+cheat37_desc = "无限金币"
 cheat37_code = "030B:FF"
 cheat37_enable = false
 
-cheat38_desc = "Max Power Charge"
+cheat38_desc = "最大充电功率"
 cheat38_code = "0312:0C"
 cheat38_enable = false
 
-cheat39_desc = "1 Hit Kills Most Bosses"
+cheat39_desc = "1 击杀死大多数 Boss"
 cheat39_code = "03D6:00"
 cheat39_enable = false
 
-cheat40_desc = "1 Hit Kills One of The Final Boss' Forms"
+cheat40_desc = "1 击杀死最终 Boss 的一种形态"
 cheat40_code = "03D7:00"
 cheat40_enable = false
 
-cheat41_desc = "Level Modifier"
+cheat41_desc = "等级修改器"
 cheat41_code = "0303:00"
 cheat41_enable = false
 
-cheat42_desc = "Interesting Plain Modifier"
+cheat42_desc = "有趣的普通修饰符"
 cheat42_code = "0020:FF"
 cheat42_enable = false
 
-cheat43_desc = "Max Score Fred"
+cheat43_desc = "弗雷德最高得分"
 cheat43_code = "040C:2F"
 cheat43_enable = false
 
-cheat44_desc = "Enemy Never Scores"
+cheat44_desc = "敌人永远无法得分"
 cheat44_code = "040C:00"
 cheat44_enable = false
 
-cheat45_desc = "Time Modifier (Seconds)"
+cheat45_desc = "时间修改器（秒）"
 cheat45_code = "0326:2F"
 cheat45_enable = false
 
-cheat46_desc = "Time Modifier (Minutes)"
+cheat46_desc = "时间修正（分钟）"
 cheat46_code = "0327:09"
 cheat46_enable = false
 
-cheat47_desc = "Debug Options"
+cheat47_desc = "调试选项"
 cheat47_code = "PEOEITAA"
 cheat47_enable = false
 
-cheat48_desc = "Don't Lose Flying Ability When You Touch The Ground"
+cheat48_desc = "当你接触地面时不要失去飞行能力"
 cheat48_code = "KEUOXXSE"
 cheat48_enable = false
 
-cheat49_desc = "Gain A Coin For The Maximum Amount"
+cheat49_desc = "获得最大数量的硬币"
 cheat49_code = "AESTTZZA"
 cheat49_enable = false
 
-cheat50_desc = "Skip Intro Screen"
+cheat50_desc = "跳过介绍屏幕"
 cheat50_code = "AAKYXOEY+AEKAPTXT"
 cheat50_enable = false
 
-cheat51_desc = "Start with Tons Of Lives "
+cheat51_desc = "从无数生命开始"
 cheat51_code = ""
 cheat51_enable = false
 
-cheat52_desc = "100 coins on pick-up"
+cheat52_desc = "领取时可获赠 100 枚硬币"
 cheat52_code = ""
 cheat52_enable = false

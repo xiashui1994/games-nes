@@ -1,5 +1,5 @@
 cheats = 1
 
-cheat0_desc = "Pressing B Button makes the opponent give up"
+cheat0_desc = "按B键让对手放弃"
 cheat0_code = "AEOVEEPA"
 cheat0_enable = false

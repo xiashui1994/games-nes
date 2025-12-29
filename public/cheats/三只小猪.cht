@@ -1,17 +1,17 @@
 cheats = 4
 
-cheat0_desc = "Instantly Win All Stages"
+cheat0_desc = "立即赢得所有阶段"
 cheat0_code = "OZVGILSX+AAVGTLLI"
 cheat0_enable = false
 
-cheat1_desc = "Infinite Lives"
+cheat1_desc = "无限生命"
 cheat1_code = "SXKGZGVG"
 cheat1_enable = false
 
-cheat2_desc = "Invincibility"
+cheat2_desc = "无敌"
 cheat2_code = "ATUIEGSZ"
 cheat2_enable = false
 
-cheat3_desc = "Hit Anywhere Arrows"
+cheat3_desc = "箭头击中任何地方"
 cheat3_code = "AIVSZLEP+IPVSLLTL"
 cheat3_enable = false

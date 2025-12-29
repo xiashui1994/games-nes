@@ -1,1153 +1,1153 @@
 cheats = 288
 
-cheat0_desc = "Infinite Money"
+cheat0_desc = "无限金钱"
 cheat0_code = "00BD:FF"
 cheat0_enable = false
 
-cheat1_desc = "Big Experience, Any Battle, To Level 30"
+cheat1_desc = "丰富经验，任意战斗，升到30级"
 cheat1_code = "00BB:FF"
 cheat1_enable = false
 
-cheat2_desc = "Repel Spell Always On"
+cheat2_desc = "驱除咒语始终开启"
 cheat2_code = "00DB:FF"
 cheat2_enable = false
 
-cheat3_desc = "."
+cheat3_desc = "。"
 cheat3_code = ""
 cheat3_enable = false
 
-cheat4_desc = "Move up to level 2 after your very first battle"
+cheat4_desc = "第一次战斗后升级至 2 级"
 cheat4_code = "PASNILYA"
 cheat4_enable = false
 
-cheat5_desc = "Move up to level 3 after your very first battle"
+cheat5_desc = "第一次战斗后升级至 3 级"
 cheat5_code = "AASNILYA+PASNYLYP"
 cheat5_enable = false
 
-cheat6_desc = "Move up to level 4 after your very first battle"
+cheat6_desc = "第一次战斗后升级至 4 级"
 cheat6_code = "AASNILYA+AASNYLYP+PAVYPUYZ"
 cheat6_enable = false
 
-cheat7_desc = "Infinite Magic Keys"
+cheat7_desc = "无限魔法钥匙"
 cheat7_code = "SXXSEGVG"
 cheat7_enable = false
 
-cheat8_desc = "Casting Spells Increase Maximum MP"
+cheat8_desc = "施展法术增加最大 MP"
 cheat8_code = "TXOIVLSA"
 cheat8_enable = false
 
-cheat9_desc = "Start With Queen, Some Items, And Keys"
+cheat9_desc = "从女王、一些物品和钥匙开始"
 cheat9_code = "VVOYYTSA"
 cheat9_enable = false
 
-cheat10_desc = "Start Game With 65,535 Gold, Level 30, Nine Herbs"
+cheat10_desc = "开始游戏有 65,535 金币，等级 30，九种草药"
 cheat10_code = "VVPYAT"
 cheat10_enable = false
 
-cheat11_desc = "Start Game At Level 6, 255 HP, Heal, And Hurt Spell"
+cheat11_desc = "在 6 级开始游戏，255 HP，治疗和伤害法术"
 cheat11_code = "VVPYZT"
 cheat11_enable = false
 
-cheat12_desc = "Start Game With Hurtmore, Princess Saved, Four Silver Harps, Eight Herbs And Magic Keys, Flame Sword, Magic Armor, And Large Sword, Level 29, 65,535 Gold, 65,280 Exp., Max HP. 200, And 218 MP"
+cheat12_desc = "开始游戏时使用赫特莫尔、拯救公主、四把银竖琴、八种草药和魔法钥匙、火焰剑、魔法铠甲和大剑，等级 29，金币 65,535，经验值 65,280，最大生命值。 200 和 218 MP"
 cheat12_code = "VVPYLT"
 cheat12_enable = false
 
-cheat13_desc = "Start At A Higher Level"
+cheat13_desc = "从更高的水平开始"
 cheat13_code = "LPINZA"
 cheat13_enable = false
 
-cheat14_desc = "Takes Away The Sound Of Scrolling Letters When Talking To Someone In The Game"
+cheat14_desc = "消除与游戏中的某人交谈时滚动字母的声音"
 cheat14_code = "ONTAIO"
 cheat14_enable = false
 
-cheat15_desc = "People Move Around Fast, And A Lot Of People Are In Different Places"
+cheat15_desc = "人们流动得很快，而且很多人都在不同的地方"
 cheat15_code = "VITOAN"
 cheat15_enable = false
 
-cheat16_desc = "Enemies Dodge Your Every Move"
+cheat16_desc = "敌人躲避你的一举一动"
 cheat16_code = "GNATAT"
 cheat16_enable = false
 
-cheat17_desc = "Spells Use Up 0 Magic Points"
+cheat17_desc = "法术消耗 0 点魔法值"
 cheat17_code = "SKOIVLSA"
 cheat17_enable = false
 
-cheat18_desc = "No Enemies In Caves"
+cheat18_desc = "洞穴里没有敌人"
 cheat18_code = "AKPOOA"
 cheat18_enable = false
 
-cheat19_desc = "You Only Need To Hit An Enemy Once To Kill It (Does Not Always Work)"
+cheat19_desc = "你只需要击中敌人一次就可以杀死它（并不总是有效）"
 cheat19_code = "YLTTOP"
 cheat19_enable = false
 
-cheat20_desc = "No Writing"
+cheat20_desc = "没有写作"
 cheat20_code = "NLLLTT"
 cheat20_enable = false
 
-cheat21_desc = "Walk Through Walls In Some Towns"
+cheat21_desc = "在一些城镇穿墙"
 cheat21_code = "KIIKIS"
 cheat21_enable = false
 
-cheat22_desc = "Walk Through Some Walls"
+cheat22_desc = "穿过一些墙壁"
 cheat22_code = "VKTLLP"
 cheat22_enable = false
 
-cheat23_desc = "Everytime You Bring Up The Subscreen You Get A Better Shield, Armor, And Weapon"
+cheat23_desc = "每次打开子屏幕时，您都会获得更好的盾牌、盔甲和武器"
 cheat23_code = "VTLZOP"
 cheat23_enable = false
 
-cheat24_desc = "Ex. Points Goes Up 255 Everytime You Kill Something (This Code Messes Up The Screen A Little)"
+cheat24_desc = "前任。每次你杀死某样东西，点数就会上升 255（这段代码会让屏幕有点混乱）"
 cheat24_code = "LLTLOP"
 cheat24_enable = false
 
-cheat25_desc = "Bring Back Old Caricature"
+cheat25_desc = "带回旧漫画"
 cheat25_code = "EAAKOX"
 cheat25_enable = false
 
-cheat26_desc = "Goloman Is Everywhere"
+cheat26_desc = "戈洛曼无处不在"
 cheat26_code = "SAAKOV"
 cheat26_enable = false
 
-cheat27_desc = "Start New Game With 255 Energy"
+cheat27_desc = "用 255 能量开始新游戏"
 cheat27_code = "EAAKOZ"
 cheat27_enable = false
 
-cheat28_desc = "Gain More Gold From First Treasure Chest"
+cheat28_desc = "从第一个宝箱中获得更多黄金"
 cheat28_code = "AATVLL"
 cheat28_enable = false
 
-cheat29_desc = "Enemies Are Very Strong"
+cheat29_desc = "敌人非常强大"
 cheat29_code = "LULVZI"
 cheat29_enable = false
 
-cheat30_desc = "Buy ERDRICK'S SWORD at the Weapon Shop in the Town of Brecconary, and it only costs $2"
+cheat30_desc = "在 Brecconary 镇的武器店购买 ERDRICK'S SWORD，仅需 2 美元"
 cheat30_code = "TEOPNPAA"
 cheat30_enable = false
 
-cheat31_desc = "Buy ERDRICK'S ARMOR (the best armor in the game) at the Weapon Shop in the Town of Brecconary, and it only costs $2"
+cheat31_desc = "在布雷科纳里镇的武器店购买 ERDRICK'S ARMOR（游戏中最好的盔甲），只需 2 美元"
 cheat31_code = "IEOOXPYE"
 cheat31_enable = false
 
-cheat32_desc = "Items in Weapon and Armor shops that are less than $255 are free as long as you have enough gold, Items over $255 will not cost as much"
+cheat32_desc = "只要你有足够的金币，武器和防具商店中低于 255 美元的物品是免费的，超过 255 美元的物品不会花费那么多"
 cheat32_code = "SXNSLISA"
 cheat32_enable = false
 
-cheat33_desc = "Items in Weapon and Armor shops are free as long as you have enough gold"
+cheat33_desc = "只要你有足够的金币，武器和防具商店中的物品都是免费的"
 cheat33_code = "SXNSLISA+SZEIZTSA"
 cheat33_enable = false
 
-cheat34_desc = "Items in Tool shops that are less than $255 are free as long as you have enough gold.  Items over $255 will not cost as much as normal"
+cheat34_desc = "只要您有足够的金币，工具商店中低于 255 美元的物品都是免费的。  超过 255 美元的商品价格不会像平常那么高"
 cheat34_code = "SZESAYSA"
 cheat34_enable = false
 
-cheat35_desc = "Items in Tool shops are free as long as you have enough gold"
+cheat35_desc = "只要你有足够的金币，工具店里的物品都是免费的"
 cheat35_code = "SZESAYSA+SZESGYSA"
 cheat35_enable = false
 
-cheat36_desc = "Staying at Inns costs nothing"
+cheat36_desc = "住旅馆不花钱"
 cheat36_code = "SXKSUASA"
 cheat36_enable = false
 
-cheat37_desc = "Buy Bamboo Poles for free"
+cheat37_desc = "免费购买竹竿"
 cheat37_code = "AAKPNOZA"
 cheat37_enable = false
 
-cheat38_desc = "Buy Clubs for free"
+cheat38_desc = "免费购买俱乐部"
 cheat38_code = "AAKOOOGL"
 cheat38_enable = false
 
-cheat39_desc = "Buy Copper Swords for free"
+cheat39_desc = "免费购买铜剑"
 cheat39_code = "AAKOUPKL"
 cheat39_enable = false
 
-cheat40_desc = "Buy Hand Axes for $48"
+cheat40_desc = "购买手斧仅需 48 美元"
 cheat40_code = "AAKOVPZA"
 cheat40_enable = false
 
-cheat41_desc = "Buy Broad Swords for $220"
+cheat41_desc = "以 220 美元购买阔剑"
 cheat41_code = "AASPEPIA"
 cheat41_enable = false
 
-cheat42_desc = "Buy Broad Swords for free"
+cheat42_desc = "免费购买阔剑"
 cheat42_code = "AASPEPIA+AAKONOKI"
 cheat42_enable = false
 
-cheat43_desc = "Buy Flame Swords for $72"
+cheat43_desc = "以 72 美元购买火焰剑"
 cheat43_code = "AASPXPTZ"
 cheat43_enable = false
 
-cheat44_desc = "Buy Leather Armor for free"
+cheat44_desc = "免费购买皮甲"
 cheat44_code = "AASPNPTG"
 cheat44_enable = false
 
-cheat45_desc = "Buy Chain Mail for $44"
+cheat45_desc = "以 44 美元购买连锁邮件"
 cheat45_code = "AASOXPPA"
 cheat45_enable = false
 
-cheat46_desc = "Buy Half Plates for $232"
+cheat46_desc = "购买半盘仅需 232 美元"
 cheat46_code = "AASOKPLA"
 cheat46_enable = false
 
-cheat47_desc = "Buy Half Plates for free"
+cheat47_desc = "免费购买半盘"
 cheat47_code = "AASOKPLA+AASOUOET"
 cheat47_enable = false
 
-cheat48_desc = "Buy Full Plates for $184"
+cheat48_desc = "购买整盘仅需 184 美元"
 cheat48_code = "AASOVOLA"
 cheat48_enable = false
 
-cheat49_desc = "Buy Magic Armor for $20"
+cheat49_desc = "花 20 美元购买魔法护甲"
 cheat49_code = "AAVPEOTP"
 cheat49_enable = false
 
-cheat50_desc = "Buy Small Shields for free"
+cheat50_desc = "免费购买小盾牌"
 cheat50_code = "AAVPUOZI"
 cheat50_enable = false
 
-cheat51_desc = "Buy Large Shields for $32"
+cheat51_desc = "购买大盾牌仅需 32 美元"
 cheat51_code = "AAVPVPLA"
 cheat51_enable = false
 
-cheat52_desc = "Buy Silver Shields for $208"
+cheat52_desc = "以 208 美元购买银盾"
 cheat52_code = "AAVOEOPL"
 cheat52_enable = false
 
-cheat53_desc = "Buy Silver Shields for free"
+cheat53_desc = "免费购买银盾"
 cheat53_code = "AAVOEOPL+AAVPNPEI"
 cheat53_enable = false
 
-cheat54_desc = "Buy Herbs for free"
+cheat54_desc = "免费购买草药"
 cheat54_code = "AAVOOOAP"
 cheat54_enable = false
 
-cheat55_desc = "Buy Torches for free"
+cheat55_desc = "免费购买火把"
 cheat55_code = "AAVOSOAA"
 cheat55_enable = false
 
-cheat56_desc = "Buy Dragon's Scale for free"
+cheat56_desc = "免费购买龙鳞"
 cheat56_code = "AANPUPGP"
 cheat56_enable = false
 
-cheat57_desc = "Get 60 experience points when you battle Slime's"
+cheat57_desc = "与史莱姆战斗时获得 60 点经验值"
 cheat57_code = "GLSPOTPE"
 cheat57_enable = false
 
-cheat58_desc = "Get 125 experience points when you battle Slime's"
+cheat58_desc = "与史莱姆战斗时获得 125 点经验值"
 cheat58_code = "IYSPOTPE"
 cheat58_enable = false
 
-cheat59_desc = "Get 255 experience points when you battle Slime's"
+cheat59_desc = "与史莱姆战斗时获得 255 点经验值"
 cheat59_code = "NYSPOTPE"
 cheat59_enable = false
 
-cheat60_desc = "Get about $85 gold when you battle Slime's"
+cheat60_desc = "与史莱姆战斗时获得约 85 美元的金币"
 cheat60_code = "LTSPXTZA"
 cheat60_enable = false
 
-cheat61_desc = "Get about $200 gold when you battle Slime's"
+cheat61_desc = "与史莱姆战斗时获得约 200 美元的金币"
 cheat61_code = "NYSPXTZE"
 cheat61_enable = false
 
-cheat62_desc = "Get 60 experience points when you battle Red Slime's"
+cheat62_desc = "与红史莱姆战斗时获得 60 点经验值"
 cheat62_code = "GLVPOTPE"
 cheat62_enable = false
 
-cheat63_desc = "Get 125 experience points when you battle Red Slime's"
+cheat63_desc = "与红史莱姆战斗时获得 125 点经验值"
 cheat63_code = "IYVPOTPE"
 cheat63_enable = false
 
-cheat64_desc = "Get 255 experience points when you battle Red Slime's"
+cheat64_desc = "与红史莱姆战斗时获得 255 点经验值"
 cheat64_code = "NYVPOTPE"
 cheat64_enable = false
 
-cheat65_desc = "Get about $85 gold when you battle Red Slime's"
+cheat65_desc = "与红史莱姆战斗时获得约 85 美元的金币"
 cheat65_code = "LTVPXTLA"
 cheat65_enable = false
 
-cheat66_desc = "Get about $200 gold when you battle Red Slime's"
+cheat66_desc = "与红史莱姆战斗时获得约 200 美元金币"
 cheat66_code = "NYVPXTLE"
 cheat66_enable = false
 
-cheat67_desc = "Get 60 experience points when you battle Drakee's"
+cheat67_desc = "与 Drakee 战斗时获得 60 点经验值"
 cheat67_code = "GLNPOTZE"
 cheat67_enable = false
 
-cheat68_desc = "Get 125 experience points when you battle Drakee's"
+cheat68_desc = "与 Drakee 战斗时获得 125 点经验值"
 cheat68_code = "IYNPOTZE"
 cheat68_enable = false
 
-cheat69_desc = "Get 255 experience points when you battle Drakee's"
+cheat69_desc = "与 Drakee 战斗时获得 255 点经验值"
 cheat69_code = "NYNPOTZE"
 cheat69_enable = false
 
-cheat70_desc = "Get about $85 gold when you battle Drakee's"
+cheat70_desc = "当你与 Drakee 战斗时获得大约 85 美元的金币"
 cheat70_code = "LTNPXTLA"
 cheat70_enable = false
 
-cheat71_desc = "Get about $200 gold when you battle Drakee's"
+cheat71_desc = "当你与 Drakee 战斗时获得大约 200 美元的金币"
 cheat71_code = "NYNPXTLE"
 cheat71_enable = false
 
-cheat72_desc = "Ghost Leaves 255 Experience"
+cheat72_desc = "鬼离开255经验"
 cheat72_code = "NNEPOTLE"
 cheat72_enable = false
 
-cheat73_desc = "Ghost Leaves Up to 254 Gold"
+cheat73_desc = "鬼叶高达 254 金币"
 cheat73_code = "NNEPXTIE"
 cheat73_enable = false
 
-cheat74_desc = "Magician Leaves 255 Experience"
+cheat74_desc = "魔术师留下255经验"
 cheat74_code = "NNOPOTGE"
 cheat74_enable = false
 
-cheat75_desc = "Magician Leaves Up to 254 Gold"
+cheat75_desc = "魔术师留下高达 254 金币"
 cheat75_code = "NNOPXVGE"
 cheat75_enable = false
 
-cheat76_desc = "Magidrakee Leaves 255 Experience"
+cheat76_desc = "Magidrakee 留下 255 经验"
 cheat76_code = "NNXPOTIE"
 cheat76_enable = false
 
-cheat77_desc = "Magidrakee Leaves Up to 254 Gold"
+cheat77_desc = "Magidrakee 留下高达 254 金币"
 cheat77_code = "NNXPXVGE"
 cheat77_enable = false
 
-cheat78_desc = "Scorpion Leaves 255 Experience"
+cheat78_desc = "蝎子留下255经验"
 cheat78_code = "NNUPOTTE"
 cheat78_enable = false
 
-cheat79_desc = "Scorpion Leaves Up to 254 Gold"
+cheat79_desc = "蝎子叶高达254金币"
 cheat79_code = "NNUPXTAO"
 cheat79_enable = false
 
-cheat80_desc = "Druin Leaves 255 Experience"
+cheat80_desc = "德鲁因留下 255 经验"
 cheat80_code = "NNKPOTYE"
 cheat80_enable = false
 
-cheat81_desc = "Druin Leaves Up to 254 Gold"
+cheat81_desc = "德鲁因留下高达 254 金币"
 cheat81_code = "NNKPXTAO"
 cheat81_enable = false
 
-cheat82_desc = "Poltergeist Leaves 255 Experience"
+cheat82_desc = "恶作剧鬼留下 255 经验"
 cheat82_code = "NNSPOVAE"
 cheat82_enable = false
 
-cheat83_desc = "Poltergeist Leaves Up to 254 Gold"
+cheat83_desc = "Poltergeist 留下高达 254 金币"
 cheat83_code = "NNSPXTZO"
 cheat83_enable = false
 
-cheat84_desc = "Droll Leaves 255 Experience"
+cheat84_desc = "滑稽留下 255 经验"
 cheat84_code = "NNVPOVZE"
 cheat84_enable = false
 
-cheat85_desc = "Droll Leaves Up to 254 Gold"
+cheat85_desc = "滑稽叶子高达 254 金币"
 cheat85_code = "NNVPXVPO"
 cheat85_enable = false
 
-cheat86_desc = "Drakeema Leaves 255 Experience"
+cheat86_desc = "Drakeema 留下 255 经验"
 cheat86_code = "NNNPOVLE"
 cheat86_enable = false
 
-cheat87_desc = "Drakeema Leaves Up to 254 Gold"
+cheat87_desc = "Drakeema 留下高达 254 金币"
 cheat87_code = "NNNPXTGO"
 cheat87_enable = false
 
-cheat88_desc = "Skeleton Leaves 255 Experience"
+cheat88_desc = "骷髅留下255经验"
 cheat88_code = "NYEPONLE"
 cheat88_enable = false
 
-cheat89_desc = "Skeleton Leaves Up to 254 Gold"
+cheat89_desc = "骷髅叶高达254金"
 cheat89_code = "NYEPXNTO"
 cheat89_enable = false
 
-cheat90_desc = "Warlock Leaves 255 Experience"
+cheat90_desc = "术士留下 255 经验"
 cheat90_code = "NYOPONIE"
 cheat90_enable = false
 
-cheat91_desc = "Warlock Leaves Up to 254 Gold"
+cheat91_desc = "术士留下高达 254 金币"
 cheat91_code = "NYOPXYLX"
 cheat91_enable = false
 
-cheat92_desc = "Metal Scorpion Leaves 255 Experience"
+cheat92_desc = "金属蝎子留下255经验"
 cheat92_code = "NYXPONTE"
 cheat92_enable = false
 
-cheat93_desc = "Metal Scorpion Leaves Up to 254 Gold"
+cheat93_desc = "金属蝎子叶高达254金"
 cheat93_code = "NYXPXNAX"
 cheat93_enable = false
 
-cheat94_desc = "Wolf Leaves 255 Experience"
+cheat94_desc = "狼留下255经验"
 cheat94_code = "NYUPOYAO"
 cheat94_enable = false
 
-cheat95_desc = "Wolf Leaves Up to 254 Gold"
+cheat95_desc = "狼留下高达 254 金币"
 cheat95_code = "NYUPXYZU"
 cheat95_enable = false
 
-cheat96_desc = "Wraith Leaves 255 Experience"
+cheat96_desc = "幽灵留下 255 经验"
 cheat96_code = "NYKPOYPO"
 cheat96_enable = false
 
-cheat97_desc = "Wraith Leaves Up to 254 Gold"
+cheat97_desc = "幽灵留下高达 254 金币"
 cheat97_code = "NYKPXNGU"
 cheat97_enable = false
 
-cheat98_desc = "Metal Slime Leaves 255 Experience"
+cheat98_desc = "金属史莱姆留下 255 经验"
 cheat98_code = "NYSPOYLN"
 cheat98_enable = false
 
-cheat99_desc = "Metal Slime Leaves Up to 254 Gold"
+cheat99_desc = "金属史莱姆最多可获得 254 金币"
 cheat99_code = "NYSPXYTE"
 cheat99_enable = false
 
-cheat100_desc = "Specter Leaves 255 Experience"
+cheat100_desc = "幽灵留下 255 经验"
 cheat100_code = "NYVPOYZO"
 cheat100_enable = false
 
-cheat101_desc = "Specter Leaves Up to 254 Gold"
+cheat101_desc = "幽灵留下高达 254 金币"
 cheat101_code = "NYVPXYTK"
 cheat101_enable = false
 
-cheat102_desc = "Wolflord Leaves 255 Experience"
+cheat102_desc = "狼王留下 255 经验"
 cheat102_code = "NYNPOYGO"
 cheat102_enable = false
 
-cheat103_desc = "Wolflord Leaves Up to 254 Gold"
+cheat103_desc = "狼王留下高达 254 金币"
 cheat103_code = "NYNPXYAS"
 cheat103_enable = false
 
-cheat104_desc = "Druinlord Leaves 255 Experience"
+cheat104_desc = "德鲁因领主留下 255 经验"
 cheat104_code = "NNEPOYGO"
 cheat104_enable = false
 
-cheat105_desc = "Druinlord Leaves Up to 254 Gold"
+cheat105_desc = "德鲁因领主留下高达 254 金币"
 cheat105_code = "NNEPXYIS"
 cheat105_enable = false
 
-cheat106_desc = "Drollmagi Leaves 255 Experience"
+cheat106_desc = "Drollmagi 留下 255 经验"
 cheat106_code = "NNOPOYTO"
 cheat106_enable = false
 
-cheat107_desc = "Drollmagi Leaves Up to 254 Gold"
+cheat107_desc = "Drollmagi 留下高达 254 金币"
 cheat107_code = "NNOPXNPS"
 cheat107_enable = false
 
-cheat108_desc = "Wyvern Leaves 255 Experience"
+cheat108_desc = "双足飞龙留下 255 经验"
 cheat108_code = "NNXPONAO"
 cheat108_enable = false
 
-cheat109_desc = "Wyvern Leaves Up to 254 Gold"
+cheat109_desc = "双足飞龙留下高达 254 金币"
 cheat109_code = "NNXPXYGU"
 cheat109_enable = false
 
-cheat110_desc = "Rogue Scorpion Leaves 255 Experience"
+cheat110_desc = "盗贼蝎子留下 255 经验"
 cheat110_code = "NNVPONZO"
 cheat110_enable = false
 
-cheat111_desc = "Rogue Scorpion Leaves Up to 254 Gold"
+cheat111_desc = "盗贼蝎子留下高达 254 金币"
 cheat111_code = "NNUPXNTV"
 cheat111_enable = false
 
-cheat112_desc = "Wraith Knight Leaves 255 Experience"
+cheat112_desc = "幽灵骑士留下 255 经验"
 cheat112_code = "NNKPONGO"
 cheat112_enable = false
 
-cheat113_desc = "Wraith Knight Leaves Up to 254 Gold"
+cheat113_desc = "幽灵骑士留下高达 254 金币"
 cheat113_code = "NNKPXNAN"
 cheat113_enable = false
 
-cheat114_desc = "Golem Leaves 255 Experience"
+cheat114_desc = "魔像留下 255 经验"
 cheat114_code = "NNSPOYIE"
 cheat114_enable = false
 
-cheat115_desc = "Golem Leaves Up to 254 Gold"
+cheat115_desc = "傀儡留下高达 254 金币"
 cheat115_code = "NNSPXNZE"
 cheat115_enable = false
 
-cheat116_desc = "Goldman Leaves 255 Experience"
+cheat116_desc = "高盛离开 255 名经验"
 cheat116_code = "NNVPOYTE"
 cheat116_enable = false
 
-cheat117_desc = "Goldman Leaves Up to 254 Gold"
+cheat117_desc = "高盛留下高达254金"
 cheat117_code = "NNVPXNEK"
 cheat117_enable = false
 
-cheat118_desc = "Knight Leaves 255 Experience"
+cheat118_desc = "骑士留下 255 经验"
 cheat118_code = "NNNPOYPX"
 cheat118_enable = false
 
-cheat119_desc = "Knight Leaves Up to 254 Gold"
+cheat119_desc = "骑士留下高达 254 金币"
 cheat119_code = "NNNPXYXE"
 cheat119_enable = false
 
-cheat120_desc = "Magiwyvern Leaves 255 Experience"
+cheat120_desc = "魔龙留下 255 经验"
 cheat120_code = "NYEZPAZX"
 cheat120_enable = false
 
-cheat121_desc = "Magiwyvern Leaves Up to 254 Gold"
+cheat121_desc = "Magiwyvern 留下高达 254 金币"
 cheat121_code = "NYEZZEKE"
 cheat121_enable = false
 
-cheat122_desc = "Demon Knight Leaves 255 Experience"
+cheat122_desc = "恶魔骑士留下 255 经验"
 cheat122_code = "NYOZPAIX"
 cheat122_enable = false
 
-cheat123_desc = "Demon Knight Leaves Up to 254 Gold"
+cheat123_desc = "恶魔骑士留下高达 254 金币"
 cheat123_code = "NYOZZAVO"
 cheat123_enable = false
 
-cheat124_desc = "Werewolf Leaves 255 Experience"
+cheat124_desc = "狼人留下255经验"
 cheat124_code = "NYXZPEAX"
 cheat124_enable = false
 
-cheat125_desc = "Werewolf Leaves Up to 254 Gold"
+cheat125_desc = "狼人留下高达 254 金币"
 cheat125_code = "NYXZZEVO"
 cheat125_enable = false
 
-cheat126_desc = "Green Dragon Leaves 255 Experience"
+cheat126_desc = "绿龙离开255经验"
 cheat126_code = "NYUZPEIX"
 cheat126_enable = false
 
-cheat127_desc = "Green Dragon Leaves Up to 254 Gold"
+cheat127_desc = "绿龙叶高达254金币"
 cheat127_code = "NYUZZAEX"
 cheat127_enable = false
 
-cheat128_desc = "Starwyvern Leaves 255 Experience"
+cheat128_desc = "星龙留下 255 经验"
 cheat128_code = "NYKZPELX"
 cheat128_enable = false
 
-cheat129_desc = "Starwyvern Leaves Up to 254 Gold"
+cheat129_desc = "Starwyvern 留下高达 254 金币"
 cheat129_code = "NYKZZAEX"
 cheat129_enable = false
 
-cheat130_desc = "Wizard Leaves 255 Experience"
+cheat130_desc = "巫师留下 255 经验"
 cheat130_code = "NYSZPAZU"
 cheat130_enable = false
 
-cheat131_desc = "Wizard Leaves Up to 254 Gold"
+cheat131_desc = "巫师留下高达 254 金币"
 cheat131_code = "NYSZZASX"
 cheat131_enable = false
 
-cheat132_desc = "Axe Knight Leaves 255 Experience"
+cheat132_desc = "斧头骑士留下 255 经验"
 cheat132_code = "NYVZPATU"
 cheat132_enable = false
 
-cheat133_desc = "Axe Knight Leaves Up to 254 Gold"
+cheat133_desc = "斧头骑士留下高达 254 金币"
 cheat133_code = "NYVZZASX"
 cheat133_enable = false
 
-cheat134_desc = "Blue Dragon Leaves 255 Experience"
+cheat134_desc = "蓝龙留下255经验"
 cheat134_code = "NYNZPEGU"
 cheat134_enable = false
 
-cheat135_desc = "Blue Dragon Leaves Up to 254 Gold"
+cheat135_desc = "蓝龙留下最多254金币"
 cheat135_code = "NYNZZAVO"
 cheat135_enable = false
 
-cheat136_desc = "Stoneman Leaves 255 Experience"
+cheat136_desc = "斯通曼留下 255 经验"
 cheat136_code = "NNEZPAPK"
 cheat136_enable = false
 
-cheat137_desc = "Stoneman Leaves Up to 254 Gold"
+cheat137_desc = "斯通曼留下高达 254 金币"
 cheat137_code = "NNEZZEKE"
 cheat137_enable = false
 
-cheat138_desc = "Armored Knight Leaves 255 Experience"
+cheat138_desc = "装甲骑士留下255经验"
 cheat138_code = "NNOZPATK"
 cheat138_enable = false
 
-cheat139_desc = "Armored Knight Leaves Up to 254 Gold"
+cheat139_desc = "装甲骑士留下高达254金币"
 cheat139_code = "NNOZZEKE"
 cheat139_enable = false
 
-cheat140_desc = "Red Dragon Leaves 255 Experience"
+cheat140_desc = "红龙留下255经验"
 cheat140_code = "NNXZPAGV"
 cheat140_enable = false
 
-cheat141_desc = "Red Dragon Leaves Up to 254 Gold"
+cheat141_desc = "红龙叶高达254金币"
 cheat141_code = "NNXZZEKE"
 cheat141_enable = false
 
-cheat142_desc = "People Stand In Walls"
+cheat142_desc = "人们站在墙里"
 cheat142_code = "AAAULA"
 cheat142_enable = false
 
-cheat143_desc = "Screen Moves Weird When You're Hit In Battle"
+cheat143_desc = "当你在战斗中被击中时，屏幕会发生奇怪的移动"
 cheat143_code = "SALVOS"
 cheat143_enable = false
 
-cheat144_desc = "Weird Words In Battle"
+cheat144_desc = "战斗中的奇怪词语"
 cheat144_code = "NAZUGV"
 cheat144_enable = false
 
-cheat145_desc = "Our Little Hero Has Had A Little Too Many Medical Herbs"
+cheat145_desc = "我们的小英雄吃了太多草药"
 cheat145_code = "TAGUZG"
 cheat145_enable = false
 
-cheat146_desc = "The Arrow On The Command Menu Slices Through The Commands"
+cheat146_desc = "命令菜单上的箭头穿过命令"
 cheat146_code = "ULZZOP"
 cheat146_enable = false
 
-cheat147_desc = "Messes Up The Intro Menus"
+cheat147_desc = "搞乱了介绍菜单"
 cheat147_code = "ZZZZZZ"
 cheat147_enable = false
 
-cheat148_desc = "Weird Music Mode"
+cheat148_desc = "奇怪的音乐模式"
 cheat148_code = "GKIAIO"
 cheat148_enable = false
 
-cheat149_desc = "Weird Music Mode But Faster Music"
+cheat149_desc = "奇怪的音乐模式但更快的音乐"
 cheat149_code = "AKIAIO"
 cheat149_enable = false
 
-cheat150_desc = "Takes Out The Bass Part Of Music (Game Crashes When You Win A Battle)"
+cheat150_desc = "去掉音乐的低音部分（赢得战斗时游戏崩溃）"
 cheat150_code = "GAIAIO"
 cheat150_enable = false
 
-cheat151_desc = "Plays The Music Much Higher"
+cheat151_desc = "音乐播放得更高"
 cheat151_code = "GOIAIO"
 cheat151_enable = false
 
-cheat152_desc = "Really Bad Music!"
+cheat152_desc = "真的很糟糕的音乐！"
 cheat152_code = "GXIAIO"
 cheat152_enable = false
 
-cheat153_desc = "REALLY REALLY Bad Music!"
+cheat153_desc = "真的真的很糟糕的音乐！"
 cheat153_code = "GUIAUI"
 cheat153_enable = false
 
-cheat154_desc = "When You Select Anything But Message Speed, The Menu Returns You To The Intro Screen"
+cheat154_desc = "当您选择除消息速度之外的任何选项时，菜单会将您返回到介绍屏幕"
 cheat154_code = "GGIAIO"
 cheat154_enable = false
 
-cheat155_desc = "Really Demonic Sounding Low Music"
+cheat155_desc = "真正恶魔般的低沉音乐"
 cheat155_code = "GSIAIO"
 cheat155_enable = false
 
-cheat156_desc = "Low Sounding, Barbershop Quartet Style Music (Battles Freeze The Game)"
+cheat156_desc = "低沉的理发店四重奏风格音乐（战斗冻结了游戏）"
 cheat156_code = "GVIAIO"
 cheat156_enable = false
 
-cheat157_desc = "Different Sounding Music (Game Freezes When You Win A Battle)"
+cheat157_desc = "不同的音乐（当你赢得战斗时游戏冻结）"
 cheat157_code = "GNIAIO"
 cheat157_enable = false
 
-cheat158_desc = "Towns Look Flooded, And Land Looks Snowy"
+cheat158_desc = "城镇看起来被洪水淹没，土地看起来被雪覆盖"
 cheat158_code = "GIAKIE"
 cheat158_enable = false
 
-cheat159_desc = "Never Leave Castle, Walk On Grass"
+cheat159_desc = "不离开城堡，走在草地上"
 cheat159_code = "YYLLLX"
 cheat159_enable = false
 
-cheat160_desc = "Take no damage in swamp"
+cheat160_desc = "在沼泽中不受伤害"
 cheat160_code = "AEVGUIZA"
 cheat160_enable = false
 
-cheat161_desc = "Start with 256 gold coins"
+cheat161_desc = "256金币起步"
 cheat161_code = "VVOYYTSA"
 cheat161_enable = false
 
-cheat162_desc = "Keep Gold After Death"
+cheat162_desc = "死后保留黄金"
 cheat162_code = "SXKVUITG+SXKVSITT"
 cheat162_enable = false
 
-cheat163_desc = "Walk Thru Walls"
+cheat163_desc = "穿墙而行"
 cheat163_code = "AVVLLPSA"
 cheat163_enable = false
 
-cheat164_desc = "Infinite Magic Power"
+cheat164_desc = "无限魔力"
 cheat164_code = "SXOIVLSA"
 cheat164_enable = false
 
-cheat165_desc = "All Spells Use Only One Magic Point"
+cheat165_desc = "所有法术仅使用一个魔法点"
 cheat165_code = "VKOIVLSA"
 cheat165_enable = false
 
-cheat166_desc = "Barriers Cause Half Usual Damage"
+cheat166_desc = "障碍物造成的损害只有普通损害的一半"
 cheat166_code = "YAKKEVYA"
 cheat166_enable = false
 
-cheat167_desc = "Infinite HP During Most Battles!"
+cheat167_desc = "大多数战斗中HP无限！"
 cheat167_code = "SZUTXISA"
 cheat167_enable = false
 
-cheat168_desc = "Infinite Herbs Outside of Battle!"
+cheat168_desc = "战斗之外的无限草药！"
 cheat168_code = "SXNIVGVG"
 cheat168_enable = false
 
-cheat169_desc = "Infinite Herbs During Battle!"
+cheat169_desc = "战斗中无限草药！"
 cheat169_code = "SXSVZYVG"
 cheat169_enable = false
 
-cheat170_desc = "Always Have An Excellent Hit"
+cheat170_desc = "总是有一个很好的打击"
 cheat170_code = "ZTZTLT"
 cheat170_enable = false
 
-cheat171_desc = "Have Princess Rescued/Have Various Spells"
+cheat171_desc = "拯救公主/拥有各种咒语"
 cheat171_code = "STVLXZPE"
 cheat171_enable = false
 
-cheat172_desc = "Start Game With 65,535 Gold, Level 30, Nine Herbs, Magic Key, Edrick's Sword And Armor, Silver Shield (Go Upstairs And You Will See The Game's Ending)"
+cheat172_desc = "开始游戏有65,535金币，等级30，九种药草，魔法钥匙，埃德里克的剑和盔甲，银盾（上楼你会看到游戏的结局）"
 cheat172_code = "VVPYAT"
 cheat172_enable = false
 
-cheat173_desc = "People Stand In Walls"
+cheat173_desc = "人们站在墙里"
 cheat173_code = "AAAULA"
 cheat173_enable = false
 
-cheat174_desc = "Screen Moves Weird When You're Hit In Battle"
+cheat174_desc = "当你在战斗中被击中时，屏幕会发生奇怪的移动"
 cheat174_code = "SALVOS"
 cheat174_enable = false
 
-cheat175_desc = "Weird Words In Battle"
+cheat175_desc = "战斗中的奇怪词语"
 cheat175_code = "NAZUGV"
 cheat175_enable = false
 
-cheat176_desc = "People Stand In Diagonal Rows In Towns"
+cheat176_desc = "人们在城镇中排成对角线"
 cheat176_code = "EAAULA"
 cheat176_enable = false
 
-cheat177_desc = "Erases All Saved Games (Turn Off NES And Turn It Back On To Retrieve)"
+cheat177_desc = "删除所有已保存的游戏（关闭 NES 并重新打开以检索）"
 cheat177_code = "UPINXE"
 cheat177_enable = false
 
-cheat178_desc = "Items In Weapon And Armor Shops That Are Less Than $255 Are Free (As Long As You Have Enough Gold)"
+cheat178_desc = "武器和防具商店中低于 255 美元的物品免费（只要你有足够的金币）"
 cheat178_code = "SXNSLISA"
 cheat178_enable = false
 
-cheat179_desc = "Items In Tool Shops That Are Less Than $255 Are Free As Long As You Have Enough Gold"
+cheat179_desc = "只要你有足够的金币，工具店里低于 255 美元的物品都是免费的"
 cheat179_code = "SZESAYSA"
 cheat179_enable = false
 
-cheat180_desc = "All Items In Tool Shops Are Free As Long As You Have Enough Gold (May Not Work At All Shops)"
+cheat180_desc = "只要您有足够的金币，工具商店中的所有物品都是免费的（可能不适用于所有商店）"
 cheat180_code = "SZESAYSA+SZESGYSA"
 cheat180_enable = false
 
-cheat181_desc = "Staying At Inns Costs Nothing (May Not Work At All Inns)"
+cheat181_desc = "住在旅馆不需要任何费用（可能不适用于所有旅馆）"
 cheat181_code = "SXKSUASA"
 cheat181_enable = false
 
-cheat182_desc = "Takes Away The Sound Of Scrolling Letters When Talking To Someone In The Game"
+cheat182_desc = "消除与游戏中的某人交谈时滚动字母的声音"
 cheat182_code = "ONTAIO"
 cheat182_enable = false
 
-cheat183_desc = "People Move Around Fast, And A Lot Of People Are In Different Places"
+cheat183_desc = "人们流动得很快，而且很多人都在不同的地方"
 cheat183_code = "VITOAN"
 cheat183_enable = false
 
-cheat184_desc = "Enemies Dodge Your Every Move"
+cheat184_desc = "敌人躲避你的一举一动"
 cheat184_code = "GNATAT"
 cheat184_enable = false
 
-cheat185_desc = "Our Little Hero Has Had A Little Too Many Medical Herbs"
+cheat185_desc = "我们的小英雄吃了太多草药"
 cheat185_code = "TAGUZG"
 cheat185_enable = false
 
-cheat186_desc = "The Arrow On The Command Menu Slices Through The Commands"
+cheat186_desc = "命令菜单上的箭头穿过命令"
 cheat186_code = "ULZZOP"
 cheat186_enable = false
 
-cheat187_desc = "Messes Up The Intro Menus"
+cheat187_desc = "搞乱了介绍菜单"
 cheat187_code = "ZZZZZZ"
 cheat187_enable = false
 
-cheat188_desc = "Weird Music Mode"
+cheat188_desc = "奇怪的音乐模式"
 cheat188_code = "GKIAIO"
 cheat188_enable = false
 
-cheat189_desc = "Weird Music Mode But Faster Music"
+cheat189_desc = "奇怪的音乐模式但更快的音乐"
 cheat189_code = "AKIAIO"
 cheat189_enable = false
 
-cheat190_desc = "Takes Out The Bass Part Of Music (Game Crashes When You Win A Battle)"
+cheat190_desc = "去掉音乐的低音部分（赢得战斗时游戏崩溃）"
 cheat190_code = "GAIAIO"
 cheat190_enable = false
 
-cheat191_desc = "Plays The Music Much Higher"
+cheat191_desc = "音乐播放得更高"
 cheat191_code = "GOIAIO"
 cheat191_enable = false
 
-cheat192_desc = "REALLY Bad Music!"
+cheat192_desc = "真的很糟糕的音乐！"
 cheat192_code = "GXIAIO"
 cheat192_enable = false
 
-cheat193_desc = "REALLY REALLY Bad Music!"
+cheat193_desc = "真的真的很糟糕的音乐！"
 cheat193_code = "GUIAUI"
 cheat193_enable = false
 
-cheat194_desc = "When You Select Anything But Message Speed, The Menu Returns You To The Intro Screen"
+cheat194_desc = "当您选择除消息速度之外的任何选项时，菜单会将您返回到介绍屏幕"
 cheat194_code = "GGIAIO"
 cheat194_enable = false
 
-cheat195_desc = "Really Demonic Sounding Low Music"
+cheat195_desc = "真正恶魔般的低沉音乐"
 cheat195_code = "GSIAIO"
 cheat195_enable = false
 
-cheat196_desc = "Low Sounding, Barbershop Quartet Style Music (Battles Freeze The Game)"
+cheat196_desc = "低沉的理发店四重奏风格音乐（战斗冻结了游戏）"
 cheat196_code = "GVIAIO"
 cheat196_enable = false
 
-cheat197_desc = "Different Sounding Music (Game Freezes When You Win A Battle)"
+cheat197_desc = "不同的音乐（当你赢得战斗时游戏冻结）"
 cheat197_code = "GNIAIO"
 cheat197_enable = false
 
-cheat198_desc = "Spells Use Up 0 Magic Points"
+cheat198_desc = "法术消耗 0 点魔法值"
 cheat198_code = "SKOIVLSA"
 cheat198_enable = false
 
-cheat199_desc = "No Enemies In Caves"
+cheat199_desc = "洞穴里没有敌人"
 cheat199_code = "AKPOOA"
 cheat199_enable = false
 
-cheat200_desc = "Towns Look Flooded, And Land Looks Snowy"
+cheat200_desc = "城镇看起来被洪水淹没，土地看起来被雪覆盖"
 cheat200_code = "GIAKIE"
 cheat200_enable = false
 
-cheat201_desc = "You Only Need To Hit An Enemy Once To Kill It (Does Not Always Work)"
+cheat201_desc = "你只需要击中敌人一次就可以杀死它（并不总是有效）"
 cheat201_code = "YLTTOP"
 cheat201_enable = false
 
-cheat202_desc = "No Writing"
+cheat202_desc = "没有写作"
 cheat202_code = "NLLLTT"
 cheat202_enable = false
 
-cheat203_desc = "Walk Through Walls In Some Towns"
+cheat203_desc = "在一些城镇穿墙"
 cheat203_code = "KIIKIS"
 cheat203_enable = false
 
-cheat204_desc = "Walk Through Some Walls"
+cheat204_desc = "穿过一些墙壁"
 cheat204_code = "VKTLLP"
 cheat204_enable = false
 
-cheat205_desc = "Everytime You Bring Up The Subscreen You Get A Better Shield, Armor, And Weapon"
+cheat205_desc = "每次打开子屏幕时，您都会获得更好的盾牌、盔甲和武器"
 cheat205_code = "VTLZOP"
 cheat205_enable = false
 
-cheat206_desc = "Ex. Points Goes Up 255 Everytime You Kill Something (This Code Messes Up The Screen A Little)"
+cheat206_desc = "前任。每次你杀死某样东西，点数就会上升 255（这段代码会让屏幕有点混乱）"
 cheat206_code = "LLTLOP"
 cheat206_enable = false
 
-cheat207_desc = "Bring Back Old Caricature"
+cheat207_desc = "带回旧漫画"
 cheat207_code = "EAAKOX"
 cheat207_enable = false
 
-cheat208_desc = "Goloman Is Everywhere"
+cheat208_desc = "戈洛曼无处不在"
 cheat208_code = "SAAKOV"
 cheat208_enable = false
 
-cheat209_desc = "Start New Game With 255 Energy"
+cheat209_desc = "用 255 能量开始新游戏"
 cheat209_code = "EAAKOZ"
 cheat209_enable = false
 
-cheat210_desc = "Never Leave Castle, Walk On Grass"
+cheat210_desc = "不离开城堡，走在草地上"
 cheat210_code = "YYLLLX"
 cheat210_enable = false
 
-cheat211_desc = "Gain More Gold From First Treasure Chest"
+cheat211_desc = "从第一个宝箱中获得更多黄金"
 cheat211_code = "AATVLL"
 cheat211_enable = false
 
-cheat212_desc = "Enemies Are Very Strong"
+cheat212_desc = "敌人非常强大"
 cheat212_code = "LULVZI"
 cheat212_enable = false
 
-cheat213_desc = "Excellent Hit Everytime"
+cheat213_desc = "每次都很棒"
 cheat213_code = "ZTZTLT"
 cheat213_enable = false
 
-cheat214_desc = "Get About $85 Gold When You Battle Slimes (Instead Of Only $1 Gold)"
+cheat214_desc = "当你与史莱姆战斗时获得大约 85 美元的金币（而不是只有 1 美元的金币）"
 cheat214_code = "LTSPXTZA"
 cheat214_enable = false
 
-cheat215_desc = "Get About $200 Gold When You Battle Slimes (Instead Of Only $1 Gold)"
+cheat215_desc = "当你与史莱姆战斗时获得大约 200 美元金币（而不是只有 1 美元金币）"
 cheat215_code = "NYSPXTZE"
 cheat215_enable = false
 
-cheat216_desc = "Get About $85 Gold When You Battle Red Slime's (Instead Of Only $2 Gold)"
+cheat216_desc = "当你与红色史莱姆战斗时获得大约 85 美元的金币（而不是只有 2 美元的金币）"
 cheat216_code = "LTVPXTLA"
 cheat216_enable = false
 
-cheat217_desc = "Get About $200 Gold When You Battle Red Slimes (Instead Of Only $2 Gold)"
+cheat217_desc = "当你与红色史莱姆战斗时获得大约 200 美元金币（而不是只有 2 美元金币）"
 cheat217_code = "NYVPXTLE"
 cheat217_enable = false
 
-cheat218_desc = "Get About $85 Gold When You Battle Drakees (Instead Of Only $2 Gold)"
+cheat218_desc = "当你与 Drakees 战斗时获得大约 85 美元的金币（而不是只有 2 美元的金币）"
 cheat218_code = "LTNPXTLA"
 cheat218_enable = false
 
-cheat219_desc = "Get About $200 Gold When You Battle Drakees (Instead Of Only $2 Gold)"
+cheat219_desc = "当你与 Drakees 战斗时获得大约 200 美元的金币（而不是只有 2 美元的金币）"
 cheat219_code = "NYNPXTLE"
 cheat219_enable = false
 
-cheat220_desc = "Buy Bamboo Poles For Free (Instead Of $10)"
+cheat220_desc = "免费购买竹竿（原价 10 美元）"
 cheat220_code = "AAKPNOZA"
 cheat220_enable = false
 
-cheat221_desc = "Buy Clubs For Free (Instead Of $60)"
+cheat221_desc = "免费购买球杆（而不是 60 美元）"
 cheat221_code = "AAKOOOGL"
 cheat221_enable = false
 
-cheat222_desc = "Buy Copper Swords For Free (Instead Of $180)"
+cheat222_desc = "免费购买铜剑（原价 180 美元）"
 cheat222_code = "AAKOUPKL"
 cheat222_enable = false
 
-cheat223_desc = "Buy Hand Axes For $48 (Instead Of $560)"
+cheat223_desc = "购买手斧只需 48 美元（而不是 560 美元）"
 cheat223_code = "AAKOVPZA"
 cheat223_enable = false
 
-cheat224_desc = "Buy Broad Swords For $220 (Instead Of $1500)"
+cheat224_desc = "以 220 美元（而不是 1500 美元）购买阔剑"
 cheat224_code = "AASPEPIA"
 cheat224_enable = false
 
-cheat225_desc = "Buy Broad Swords For Free (Instead Of $1500)"
+cheat225_desc = "免费购买阔剑（而不是 1500 美元）"
 cheat225_code = "AASPEPIA+AAKONOKI"
 cheat225_enable = false
 
-cheat226_desc = "Buy Flame Swords For $72 (Instead Of $9800)"
+cheat226_desc = "以 72 美元购买火焰剑（而不是 9800 美元）"
 cheat226_code = "AASPXPTZ"
 cheat226_enable = false
 
-cheat227_desc = "Buy Leather Armor For Free (Instead Of $70)"
+cheat227_desc = "免费购买皮甲（而不是 70 美元）"
 cheat227_code = "AASPNPTG"
 cheat227_enable = false
 
-cheat228_desc = "Buy Chain Mail For $44 (Instead Of $300)"
+cheat228_desc = "购买连锁邮件只需 44 美元（而不是 300 美元）"
 cheat228_code = "AASOXPPA"
 cheat228_enable = false
 
-cheat229_desc = "Buy Half Plates For $232 (Instead Of $1000)"
+cheat229_desc = "购买半盘只需 232 美元（而不是 1000 美元）"
 cheat229_code = "AASOKPLA"
 cheat229_enable = false
 
-cheat230_desc = "Buy Half Plates For Free (Instead Of $1000)"
+cheat230_desc = "免费购买半盘（而不是 1000 美元）"
 cheat230_code = "AASOKPLA+AASOUOET"
 cheat230_enable = false
 
-cheat231_desc = "Buy Full Plates For $184 (Instead Of $3000)"
+cheat231_desc = "购买整盘仅需 184 美元（而不是 3000 美元）"
 cheat231_code = "AASOVOLA"
 cheat231_enable = false
 
-cheat232_desc = "Buy Magic Armor For $20 (Instead Of $7700)"
+cheat232_desc = "以 20 美元购买魔法护甲（而不是 7700 美元）"
 cheat232_code = "AAVPEOTP"
 cheat232_enable = false
 
-cheat233_desc = "Buy Small Shields For Free (Instead Of $90)"
+cheat233_desc = "免费购买小盾牌（原价 90 美元）"
 cheat233_code = "AAVPUOZI"
 cheat233_enable = false
 
-cheat234_desc = "Buy Large Shields For $32 (Instead Of $800)"
+cheat234_desc = "以 32 美元（而不是 800 美元）购买大盾牌"
 cheat234_code = "AAVPVPLA"
 cheat234_enable = false
 
-cheat235_desc = "Buy Silver Shields For $208 (Instead Of $14,800)"
+cheat235_desc = "以 208 美元购买银盾（而不是 14,800 美元）"
 cheat235_code = "AAVOEOPL"
 cheat235_enable = false
 
-cheat236_desc = "Buy Silver Shields For Free (Instead Of $14,800)"
+cheat236_desc = "免费购买银盾（而不是 14,800 美元）"
 cheat236_code = "AAVOEOPL+AAVPNPEI"
 cheat236_enable = false
 
-cheat237_desc = "Buy Herbs For Free (Instead Of $24)"
+cheat237_desc = "免费购买草药（而不是 24 美元）"
 cheat237_code = "AAVOOOAP"
 cheat237_enable = false
 
-cheat238_desc = "Buy Torches For Free (Instead Of $8)"
+cheat238_desc = "免费购买手电筒（原价 8 美元）"
 cheat238_code = "AAVOSOAA"
 cheat238_enable = false
 
-cheat239_desc = "Buy Dragon's Scale For Free (Instead Of $20)"
+cheat239_desc = "免费购买 Dragon's Scale（原价 20 美元）"
 cheat239_code = "AANPUPGP"
 cheat239_enable = false
 
-cheat240_desc = "Lets You Buy ERDRICK'S SWORD (The Best Weapon In The Game) At The Weapon Shop In The Town of Brecconary, And It Only Costs $2!"
+cheat240_desc = "让您可以在布雷科纳里镇的武器店购买厄德里克的剑（游戏中最好的武器），而且只需 2 美元！"
 cheat240_code = "TEOPNPAA"
 cheat240_enable = false
 
-cheat241_desc = "Lets You Buy ERDRICK'S ARMOR (The Best Armor In The Game) At The Weapon Shop In The Town of Brecconary, And It Only Costs $2!"
+cheat241_desc = "让您可以在布雷科纳里镇的武器店购买厄德里克的盔甲（游戏中最好的盔甲），而且只需 2 美元！"
 cheat241_code = "IEOOXPYE"
 cheat241_enable = false
 
-cheat242_desc = "Move Up To Level 2 After Your Very First Battle"
+cheat242_desc = "第一次战斗后升级至 2 级"
 cheat242_code = "PASNILYA"
 cheat242_enable = false
 
-cheat243_desc = "Move Up To Level 3 After Your Very First Battle"
+cheat243_desc = "第一次战斗后升级至 3 级"
 cheat243_code = "AASNILYA+PASNYLYP"
 cheat243_enable = false
 
-cheat244_desc = "Move Up To Level 4 After Your Very First Battle"
+cheat244_desc = "第一次战斗后升级至 4 级"
 cheat244_code = "AASNILYA+AASNYLYP+PAVYPUYZ"
 cheat244_enable = false
 
-cheat245_desc = "NOTES"
+cheat245_desc = "笔记"
 cheat245_code = ""
 cheat245_enable = false
 
-cheat246_desc = "Get 60 Experience Points When You Battle Slimes (Instead Of Only 1)"
+cheat246_desc = "与史莱姆战斗时获得 60 点经验值（而不是只有 1 点）"
 cheat246_code = "GLSPOTPE"
 cheat246_enable = false
 
-cheat247_desc = "Get 125 Experience Points When You Battle Slimes (Instead Of Only 1)"
+cheat247_desc = "与史莱姆战斗时获得 125 点经验值（而不是只有 1 点）"
 cheat247_code = "IYSPOTPE"
 cheat247_enable = false
 
-cheat248_desc = "Get 255 Experience Points When You Battle Slimes (Instead Of Only 1)"
+cheat248_desc = "与史莱姆战斗时获得 255 点经验值（而不是只有 1 点）"
 cheat248_code = "NYSPOTPE"
 cheat248_enable = false
 
-cheat249_desc = "Get 60 Experience Points When You Battle Red Slimes (Instead Of Only 1)"
+cheat249_desc = "与红色史莱姆战斗时获得 60 点经验值（而不是只有 1 点）"
 cheat249_code = "GLVPOTPE"
 cheat249_enable = false
 
-cheat250_desc = "Get 125 Experience Points When You Battle Red Slimes (Instead Of Only 1)"
+cheat250_desc = "与红色史莱姆战斗时获得 125 点经验值（而不是只有 1 点）"
 cheat250_code = "IYVPOTPE"
 cheat250_enable = false
 
-cheat251_desc = "Get 255 Experience Points When You Battle Red Slimes (Instead Of Only 1)"
+cheat251_desc = "与红色史莱姆战斗时获得 255 点经验值（而不是只有 1 点）"
 cheat251_code = "NYVPOTPE"
 cheat251_enable = false
 
-cheat252_desc = "Get 60 Experience Points When You Battle Drakees (Instead Of Only 2)"
+cheat252_desc = "当你与 Drakees 战斗时获得 60 点经验值（而不是只有 2 点）"
 cheat252_code = "GLNPOTZE"
 cheat252_enable = false
 
-cheat253_desc = "Get 125 Experience Points When You Battle Drakees (Instead Of Only 2)"
+cheat253_desc = "当你与 Drakees 战斗时获得 125 点经验值（而不是只有 2 点）"
 cheat253_code = "IYNPOTZE"
 cheat253_enable = false
 
-cheat254_desc = "Get 255 Experience Points When You Battle Drakees (Instead Of Only 2)"
+cheat254_desc = "当你与 Drakees 战斗时获得 255 点经验值（而不是只有 2 点）"
 cheat254_code = "NYNPOTZE"
 cheat254_enable = false
 
-cheat255_desc = "Slime Leaves 255 Experience"
+cheat255_desc = "史莱姆留下 255 经验"
 cheat255_code = "NYSPOTPE"
 cheat255_enable = false
 
-cheat256_desc = "Red Slime Leaves 255 Experience"
+cheat256_desc = "红色史莱姆留下 255 经验"
 cheat256_code = "NYVPOTPE"
 cheat256_enable = false
 
-cheat257_desc = "Drakee Leaves 255 Experience"
+cheat257_desc = "Drakee 留下 255 经验"
 cheat257_code = "NYNPOTZE"
 cheat257_enable = false
 
-cheat258_desc = "Item Modifier (2nd Slot)"
+cheat258_desc = "物品修改器（第二个插槽）"
 cheat258_code = "00C2:00"
 cheat258_enable = false
 
-cheat259_desc = "Max/Infinite Gold"
+cheat259_desc = "最大/无限金币"
 cheat259_code = "00BC:FF+00BD:FF"
 cheat259_enable = false
 
-cheat260_desc = "Best Equipment"
+cheat260_desc = "最好的设备"
 cheat260_code = "00BE:FF"
 cheat260_enable = false
 
-cheat261_desc = "Infinite HP"
+cheat261_desc = "无限生命值"
 cheat261_code = "00C5:FF"
 cheat261_enable = false
 
-cheat262_desc = "Infinite MP"
+cheat262_desc = "无限MP"
 cheat262_code = "00C6:FF"
 cheat262_enable = false
 
-cheat263_desc = "Maximum HP"
+cheat263_desc = "最大生命值"
 cheat263_code = "00CA:FF"
 cheat263_enable = false
 
-cheat264_desc = "Maximum MP"
+cheat264_desc = "最大MP"
 cheat264_code = "00CB:FF"
 cheat264_enable = false
 
-cheat265_desc = "Maximum Herbs"
+cheat265_desc = "最大草药"
 cheat265_code = "00BF:FF"
 cheat265_enable = false
 
-cheat266_desc = "Maximum Magic Keys"
+cheat266_desc = "最大魔法键数"
 cheat266_code = "00C0:FF"
 cheat266_enable = false
 
-cheat267_desc = "Maximum Level"
+cheat267_desc = "最高等级"
 cheat267_code = "00C7:FF"
 cheat267_enable = false
 
-cheat268_desc = "Maximum Experience Points"
+cheat268_desc = "最大经验值"
 cheat268_code = "00BA:FF"
 cheat268_enable = false
 
-cheat269_desc = "Maximum Strength"
+cheat269_desc = "最大强度"
 cheat269_code = "00C8:FF"
 cheat269_enable = false
 
-cheat270_desc = "Maximum Agility"
+cheat270_desc = "最大敏捷性"
 cheat270_code = "00C9:FF"
 cheat270_enable = false
 
-cheat271_desc = "Maximum Attack Power"
+cheat271_desc = "最大攻击力"
 cheat271_code = "00CC:FF"
 cheat271_enable = false
 
-cheat272_desc = "Maximum Defense Power"
+cheat272_desc = "最大防御力"
 cheat272_code = "00CD:FF"
 cheat272_enable = false
 
-cheat273_desc = "Remove Background During Battles"
+cheat273_desc = "在战斗中移除背景"
 cheat273_code = "0099:42"
 cheat273_enable = false
 
-cheat274_desc = "Vs. Enemy #1's Name Text Modifier"
+cheat274_desc = "对比。敌人 #1 的名字文本修改器"
 cheat274_code = "00E0:00"
 cheat274_enable = false
 
-cheat275_desc = "Infinite Keys"
+cheat275_desc = "无限钥匙"
 cheat275_code = "00BF:02"
 cheat275_enable = false
 
-cheat276_desc = "Item Modifier (1st Slot)"
+cheat276_desc = "物品修改器（第一个插槽）"
 cheat276_code = "00C1:00"
 cheat276_enable = false
 
-cheat277_desc = "Items Digits"
+cheat277_desc = "项目 位数"
 cheat277_code = ""
 cheat277_enable = false
 
-cheat278_desc = "Random Battles Freeze Game And Cause Title Screen Music To Play"
+cheat278_desc = "随机战斗冻结游戏并导致标题屏幕音乐播放"
 cheat278_code = "01EC:00"
 cheat278_enable = false
 
-cheat279_desc = "Frequent Missed Attacks By Hero And Enemy"
+cheat279_desc = "英雄和敌人经常错过攻击"
 cheat279_code = "0042:00"
 cheat279_enable = false
 
-cheat280_desc = "Attack Power"
+cheat280_desc = "攻击力"
 cheat280_code = ""
 cheat280_enable = false
 
-cheat281_desc = "Defense Power"
+cheat281_desc = "防御力"
 cheat281_code = ""
 cheat281_enable = false
 
-cheat282_desc = "HP"
+cheat282_desc = "惠普"
 cheat282_code = ""
 cheat282_enable = false
 
-cheat283_desc = "Attack Pattern"
+cheat283_desc = "攻击模式"
 cheat283_code = ""
 cheat283_enable = false
 
-cheat284_desc = "Speed"
+cheat284_desc = "速度"
 cheat284_code = ""
 cheat284_enable = false
 
-cheat285_desc = "Experience"
+cheat285_desc = "经验"
 cheat285_code = ""
 cheat285_enable = false
 
-cheat286_desc = "Gold"
+cheat286_desc = "金子"
 cheat286_code = ""
 cheat286_enable = false
 
-cheat287_desc = "No Random Battles"
+cheat287_desc = "没有随机战斗"
 cheat287_code = "AEKGKIPA"
 cheat287_enable = false

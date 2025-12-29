@@ -1,109 +1,109 @@
 cheats = 27
 
-cheat0_desc = "Infinite lives"
+cheat0_desc = "无限生命"
 cheat0_code = "AAXITVNY"
 cheat0_enable = false
 
-cheat1_desc = "Start with 1 extra life"
+cheat1_desc = "开始时有 1 条额外生命"
 cheat1_code = "NNXSGSUY"
 cheat1_enable = false
 
-cheat2_desc = "Start with 6 extra lives"
+cheat2_desc = "从 6 条额外生命开始"
 cheat2_code = "KNXSGSUN"
 cheat2_enable = false
 
-cheat3_desc = "Start with 9 extra lives"
+cheat3_desc = "从 9 条额外生命开始"
 cheat3_code = "NNXSGSUN"
 cheat3_enable = false
 
-cheat4_desc = "Start with axe"
+cheat4_desc = "从斧头开始"
 cheat4_code = "PEUIGIAA"
 cheat4_enable = false
 
-cheat5_desc = "Start with fireball"
+cheat5_desc = "从火球开始"
 cheat5_code = "ZEUIGIAA"
 cheat5_enable = false
 
-cheat6_desc = "Less energy gained on pick-up"
+cheat6_desc = "拾取时获得的能量较少"
 cheat6_code = "IAVNPYAP"
 cheat6_enable = false
 
-cheat7_desc = "More energy gained on pick-up"
+cheat7_desc = "拾取时获得更多能量"
 cheat7_code = "YZVNPYAP"
 cheat7_enable = false
 
-cheat8_desc = "Protection!"
+cheat8_desc = "保护！"
 cheat8_code = "AEXSGEKY"
 cheat8_enable = false
 
-cheat9_desc = "Infinite candle energy"
+cheat9_desc = "无限蜡烛能量"
 cheat9_code = "SXKYUOVK+SXVYXOVK"
 cheat9_enable = false
 
-cheat10_desc = "Start on level 2"
+cheat10_desc = "从第 2 级开始"
 cheat10_code = "PANSZIAA"
 cheat10_enable = false
 
-cheat11_desc = "Start on level 3"
+cheat11_desc = "从第 3 级开始"
 cheat11_code = "ZANSZIAA"
 cheat11_enable = false
 
-cheat12_desc = "Start on level 4"
+cheat12_desc = "从第 4 级开始"
 cheat12_code = "LANSZIAA"
 cheat12_enable = false
 
-cheat13_desc = "Infinite Health"
+cheat13_desc = "无限健康"
 cheat13_code = "SUSETNVS"
 cheat13_enable = false
 
-cheat14_desc = "Sky Walk/Jump + Walk Through Walls/Objects + Never Run Death Routine"
+cheat14_desc = "天空行走/跳跃 + 穿过墙壁/物体 + 永不逃跑死亡例程"
 cheat14_code = "070C:01"
 cheat14_enable = false
 
-cheat15_desc = "Invincible"
+cheat15_desc = "无敌"
 cheat15_code = "ATNSZAAZ+GZEGITEI"
 cheat15_enable = false
 
-cheat16_desc = "No Enemies"
+cheat16_desc = "没有敌人"
 cheat16_code = "03AF:00"
 cheat16_enable = false
 
-cheat17_desc = "No Bounce Back"
+cheat17_desc = "无反弹"
 cheat17_code = "039C:00"
 cheat17_enable = false
 
-cheat18_desc = "Infinite Health"
+cheat18_desc = "无限健康"
 cheat18_code = "0330:1F"
 cheat18_enable = false
 
-cheat19_desc = "Infinite Lives (Ignore HUD)"
+cheat19_desc = "无限生命（忽略HUD）"
 cheat19_code = "05EE:F9"
 cheat19_enable = false
 
-cheat20_desc = "Infinite Gold (Hundred's Digit)"
+cheat20_desc = "无限金币（百位数）"
 cheat20_code = "05EA:FF"
 cheat20_enable = false
 
-cheat21_desc = "Infinite Gold (Ten's Digit)"
+cheat21_desc = "无限金币（十位数）"
 cheat21_code = "05EB:FF"
 cheat21_enable = false
 
-cheat22_desc = "Infinite Gold (One's Digit)"
+cheat22_desc = "无限金币（一个数字）"
 cheat22_code = "05EC:FF"
 cheat22_enable = false
 
-cheat23_desc = "Disable Knife Blocks"
+cheat23_desc = "禁用刀块"
 cheat23_code = "SZUYGNSE"
 cheat23_enable = false
 
-cheat24_desc = "Disable Fireball Blocks"
+cheat24_desc = "禁用火球块"
 cheat24_code = "SZUNGNSE"
 cheat24_enable = false
 
-cheat25_desc = "Disable Axe Blocks"
+cheat25_desc = "禁用斧头块"
 cheat25_code = "SZSNANSE"
 cheat25_enable = false
 
-cheat26_desc = "1 Hit Kill"
+cheat26_desc = "1 击杀"
 cheat26_code = "GZOIIAEO"
 cheat26_enable = false

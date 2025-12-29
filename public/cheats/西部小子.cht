@@ -1,89 +1,89 @@
 cheats = 22
 
-cheat0_desc = "Infinite Lives"
+cheat0_desc = "无限生命"
 cheat0_code = "OUNKEUOO"
 cheat0_enable = false
 
-cheat1_desc = "Infinite Energy"
+cheat1_desc = "无限能量"
 cheat1_code = "0698:08"
 cheat1_enable = false
 
-cheat2_desc = "Infinite Money"
+cheat2_desc = "无限金钱"
 cheat2_code = "069E:09+069F:09+06A0:09+06A1:09"
 cheat2_enable = false
 
-cheat3_desc = "Have Key"
+cheat3_desc = "有钥匙"
 cheat3_code = "06A2:01+06A3:01"
 cheat3_enable = false
 
-cheat4_desc = "Invincible"
+cheat4_desc = "无敌"
 cheat4_code = "06A4:01"
 cheat4_enable = false
 
-cheat5_desc = "Music Modifier"
+cheat5_desc = "音乐修改器"
 cheat5_code = "06DB:00"
 cheat5_enable = false
 
-cheat6_desc = "9 Stars"
+cheat6_desc = "9 星"
 cheat6_code = "06DC:09"
 cheat6_enable = false
 
-cheat7_desc = "Infinite Time"
+cheat7_desc = "无限时间"
 cheat7_code = "SZUSVOVK+AAVOAVAA"
 cheat7_enable = false
 
-cheat8_desc = "Infinite Health"
+cheat8_desc = "无限健康"
 cheat8_code = "OUXKUUOO"
 cheat8_enable = false
 
-cheat9_desc = "Items You Cannot Afford Are Free"
+cheat9_desc = "你买不起的物品是免费的"
 cheat9_code = "PANGXLAA"
 cheat9_enable = false
 
-cheat10_desc = "All Items Are Free"
+cheat10_desc = "所有物品都是免费的"
 cheat10_code = "PANGXLAA+AOEGEUAU"
 cheat10_enable = false
 
-cheat11_desc = "Infinite Health P1"
+cheat11_desc = "无限健康 P1"
 cheat11_code = "0698:09"
 cheat11_enable = false
 
-cheat12_desc = "Infinite Lives P1"
+cheat12_desc = "无限生命 P1"
 cheat12_code = "0696:09"
 cheat12_enable = false
 
-cheat13_desc = "Fake Have Tons of Money"
+cheat13_desc = "假货有很多钱"
 cheat13_code = "0796:09+0797:09+0798:09"
 cheat13_enable = false
 
-cheat14_desc = "Infinite Time (Minute's One Digit)"
+cheat14_desc = "无限时间（分钟的一位数）"
 cheat14_code = "06A8:09"
 cheat14_enable = false
 
-cheat15_desc = "Infinite Time (Minute's One Digit)"
+cheat15_desc = "无限时间（分钟的一位数）"
 cheat15_code = "06A9:09"
 cheat15_enable = false
 
-cheat16_desc = "Infinite Time (Ten's Digit)"
+cheat16_desc = "无限时间（十位数字）"
 cheat16_code = "06AA:09"
 cheat16_enable = false
 
-cheat17_desc = "Infinite Time (One's Digit)"
+cheat17_desc = "无限时间（一个人的数字）"
 cheat17_code = "06AB:09"
 cheat17_enable = false
 
-cheat18_desc = "Weird Weapon Modifier"
+cheat18_desc = "奇怪的武器修改器"
 cheat18_code = "0693:00+0690:00"
 cheat18_enable = false
 
-cheat19_desc = "Item Box Appearance Modifier"
+cheat19_desc = "物品箱外观修改器"
 cheat19_code = "0690:00"
 cheat19_enable = false
 
-cheat20_desc = "Hit Anywhere"
+cheat20_desc = "击中任何地方"
 cheat20_code = "OXOOIUOK+GNXPAUTS"
 cheat20_enable = false
 
-cheat21_desc = "Title screen music modifier"
+cheat21_desc = "标题画面音乐修改器"
 cheat21_code = ""
 cheat21_enable = false

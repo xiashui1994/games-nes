@@ -1,669 +1,669 @@
 cheats = 167
 
-cheat0_desc = "Start With 167 Hearts"
+cheat0_desc = "从 167 颗心开始"
 cheat0_code = "NYIKPI"
 cheat0_enable = false
 
-cheat1_desc = "Stop Time"
+cheat1_desc = "停止时间"
 cheat1_code = "SXOSLYSA"
 cheat1_enable = false
 
-cheat2_desc = "Resets Time To 0"
+cheat2_desc = "将时间重置为 0"
 cheat2_code = "KIYGPI"
 cheat2_enable = false
 
-cheat3_desc = "Start With Time At 0"
+cheat3_desc = "从时间 0 开始"
 cheat3_code = "NTIKAI"
 cheat3_enable = false
 
-cheat4_desc = "Time Never Passes 12 Minutes"
+cheat4_desc = "时间永远不会过去 12 分钟"
 cheat4_code = "GAPNLO"
 cheat4_enable = false
 
-cheat5_desc = "Doesn't Turn To Night"
+cheat5_desc = "不转入夜"
 cheat5_code = "SXPAPE"
 cheat5_enable = false
 
-cheat6_desc = "Start With 100 EXP"
+cheat6_desc = "从 100 EXP 开始"
 cheat6_code = "PAZNGO"
 cheat6_enable = false
 
-cheat7_desc = "Start Game With 8 Hours, 204 EXP, Level ?, And 200 Hearts (Don't Use Menu In Towns)"
+cheat7_desc = "开始游戏需要 8 小时、204 EXP、等级？和 200 颗心（不要在城镇中使用菜单）"
 cheat7_code = "ZXIYGP"
 cheat7_enable = false
 
-cheat8_desc = "Infinite Laurels"
+cheat8_desc = "无限的桂冠"
 cheat8_code = "IAXIOPVG"
 cheat8_enable = false
 
-cheat9_desc = "Infinite Garlic"
+cheat9_desc = "无限大蒜"
 cheat9_code = "SZUISPVG"
 cheat9_enable = false
 
-cheat10_desc = "Start With Thorn Whip"
+cheat10_desc = "从荆棘鞭开始"
 cheat10_code = "PEXGZIAA"
 cheat10_enable = false
 
-cheat11_desc = "Start With Chain Whip"
+cheat11_desc = "从链鞭开始"
 cheat11_code = "ZEXGZIAA"
 cheat11_enable = false
 
-cheat12_desc = "Start With Morning Star"
+cheat12_desc = "从晨星开始"
 cheat12_code = "LEXGZIAA"
 cheat12_enable = false
 
-cheat13_desc = "Start With Flame Whip"
+cheat13_desc = "从火焰鞭开始"
 cheat13_code = "GEXGZIAA"
 cheat13_enable = false
 
-cheat14_desc = "Start with Dracula's Rib And 0 Hearts"
+cheat14_desc = "从德古拉的肋骨和 0 颗心开始"
 cheat14_code = "NYIKLI"
 cheat14_enable = false
 
-cheat15_desc = "Collect A Couple Of Hearts And Receive The Cross And Silk Bag"
+cheat15_desc = "收集几颗心即可获得十字架和丝绸袋"
 cheat15_code = "XOGOLY"
 cheat15_enable = false
 
-cheat16_desc = "After Collecting Some Hearts, You'll Be At Level 5"
+cheat16_desc = "收集一些心后，您将达到 5 级"
 cheat16_code = "STLION"
 cheat16_enable = false
 
-cheat17_desc = "The 1st Heart You Collect Gives You A Level Up And 1200 EXP"
+cheat17_desc = "您收集的第一颗心可以让您升级并获得 1200 EXP"
 cheat17_code = "NYIVLI"
 cheat17_enable = false
 
-cheat18_desc = "Enemies Always Drops The Heart Worth 4"
+cheat18_desc = "敌人总是会掉落心值 4"
 cheat18_code = "PSLAAX"
 cheat18_enable = false
 
-cheat19_desc = "Experience And Hearts Go Up Faster"
+cheat19_desc = "经验和心上升得更快"
 cheat19_code = "NYISLI"
 cheat19_enable = false
 
-cheat20_desc = "Small Heart Gives You 100 Hearts"
+cheat20_desc = "小爱心给你100颗心"
 cheat20_code = "KATAZY"
 cheat20_enable = false
 
-cheat21_desc = "At Start Of Game, Leave Town Without Spending Any Hearts And You'll Have 5050 Hearts"
+cheat21_desc = "游戏开始时，不花费任何红心就离开城镇，您将拥有 5050 颗红心"
 cheat21_code = "AITAAY"
 cheat21_enable = false
 
-cheat22_desc = "Collect 1 Heart To Max Out Your Health"
+cheat22_desc = "收集 1 颗心以最大化您的健康"
 cheat22_code = "NYIIZI"
 cheat22_enable = false
 
-cheat23_desc = "Running Into Enemies, Fireballs, Etc. Levels You Up"
+cheat23_desc = "遇到敌人、火球等可以提升你的等级"
 cheat23_code = "KETAZY"
 cheat23_enable = false
 
-cheat24_desc = "Collect A Heart And Receive The Gold Dagger, Sometimes The Other Daggers Show Up"
+cheat24_desc = "收集一颗心并获得金匕首，有时其他匕首也会出现"
 cheat24_code = "ATTEAY"
 cheat24_enable = false
 
-cheat25_desc = "Collect Some Hearts To Receive The Cross"
+cheat25_desc = "收集一些心来接受十字架"
 cheat25_code = "AITEAN"
 cheat25_enable = false
 
-cheat26_desc = "Complicated Method to Gain Chain Whip"
+cheat26_desc = "获得链鞭的复杂方法"
 cheat26_code = "SZPAPO"
 cheat26_enable = false
 
-cheat27_desc = "Everytime You Go Into The Menu, You'll Receive Items And Parts And Crystals"
+cheat27_desc = "每次进入菜单，您都会收到物品、零件和水晶"
 cheat27_code = "XLLGAO"
 cheat27_enable = false
 
-cheat28_desc = "Any Item That Costs 50 Or Less Is Free, If It's More Than 50, It's Cheaper"
+cheat28_desc = "任何价格在 50 或以下的物品都是免费的，如果超过 50，则更便宜"
 cheat28_code = "ELAVES+ELATES"
 cheat28_enable = false
 
-cheat29_desc = "Buy The White Crystal And Other Items Are Cheaper"
+cheat29_desc = "买白水晶和其他物品更便宜"
 cheat29_code = "PIATOI"
 cheat29_enable = false
 
-cheat30_desc = "Enemies Always Leaves Better Value Hearts"
+cheat30_desc = "敌人总是留下更有价值的心"
 cheat30_code = "OSLAAX"
 cheat30_enable = false
 
-cheat31_desc = "Enemies And Bosses Don't Shoot Fireballs"
+cheat31_desc = "敌人和老板不会发射火球"
 cheat31_code = "ATLESI"
 cheat31_enable = false
 
-cheat32_desc = "Start In Town Before The 1st Mansion"
+cheat32_desc = "从第一大厦前的城镇开始"
 cheat32_code = "NTIKPI"
 cheat32_enable = false
 
-cheat33_desc = "Start At The Red Mansion Between 2 Lakes With More Health"
+cheat33_desc = "从两湖之间的红楼开始，更加健康"
 cheat33_code = "NTIKII"
 cheat33_enable = false
 
-cheat34_desc = "Fight Dracula At Start Of Game"
+cheat34_desc = "在游戏开始时与德古拉战斗"
 cheat34_code = "SNAKES"
 cheat34_enable = false
 
-cheat35_desc = "Walkthru"
+cheat35_desc = "漫游"
 cheat35_code = "OSLAAT"
 cheat35_enable = false
 
-cheat36_desc = "Walk Faster Left To Right Only"
+cheat36_desc = "仅从左到右走得更快"
 cheat36_code = "ATIEAY"
 cheat36_enable = false
 
-cheat37_desc = "Fireballs Bounce Off You"
+cheat37_desc = "火球从你身上弹开"
 cheat37_code = "AVTAAY"
 cheat37_enable = false
 
-cheat38_desc = "Whip Hits Multiple Times"
+cheat38_desc = "鞭子多次击打"
 cheat38_code = "GNGEXA"
 cheat38_enable = false
 
-cheat39_desc = "Jump A Lot Higher While Holding Forwards"
+cheat39_desc = "向前推进时跳得更高"
 cheat39_code = "GOGENA"
 cheat39_enable = false
 
-cheat40_desc = "Whipping Enemies Refills Your Health [Glitchy]"
+cheat40_desc = "鞭打敌人可以补充你的生命值 [Glitchy]"
 cheat40_code = "SKIPPY"
 cheat40_enable = false
 
-cheat41_desc = "Jump And You'll Auto-Swing Your Whip"
+cheat41_desc = "跳起来你就会自动挥动你的鞭子"
 cheat41_code = "GNIAOP"
 cheat41_enable = false
 
-cheat42_desc = "Plays Bosses Music Throughout The Game"
+cheat42_desc = "在整个游戏过程中播放 Boss 音乐"
 cheat42_code = "NYYKLI"
 cheat42_enable = false
 
-cheat43_desc = "Start with more energy"
+cheat43_desc = "从更多能量开始"
 cheat43_code = "AISKTIAL"
 cheat43_enable = false
 
-cheat44_desc = "Start with less energy"
+cheat44_desc = "从更少的能量开始"
 cheat44_code = "AZSTTIAL"
 cheat44_enable = false
 
-cheat45_desc = "Infinite Energy (1st game only)"
+cheat45_desc = "无限能量（仅限第一场比赛）"
 cheat45_code = "SZSSYLSA"
 cheat45_enable = false
 
-cheat46_desc = "Start with 1 life (1st game only)"
+cheat46_desc = "开始时有 1 条生命（仅限第 1 场游戏）"
 cheat46_code = "PASGLILA"
 cheat46_enable = false
 
-cheat47_desc = "Start with 6 lives (1st game only)"
+cheat47_desc = "开始时有 6 条生命（仅限第 1 场游戏）"
 cheat47_code = "TASGLILA"
 cheat47_enable = false
 
-cheat48_desc = "Start with 9 lives (1st game only)"
+cheat48_desc = "开始时有 9 条生命（仅限第 1 场游戏）"
 cheat48_code = "PASGLILE"
 cheat48_enable = false
 
-cheat49_desc = "Start game with 25 hearts (1st game only)"
+cheat49_desc = "以 25 颗心开始游戏（仅限第一场游戏）"
 cheat49_code = "IZSKZIAI"
 cheat49_enable = false
 
-cheat50_desc = "Start game with 75 hearts (1st game only)"
+cheat50_desc = "以 75 颗心开始游戏（仅限第一场游戏）"
 cheat50_code = "IYSKZIAI"
 cheat50_enable = false
 
-cheat51_desc = "1/2 Heart woth 100"
+cheat51_desc = "1/2 价值 100 的心"
 cheat51_code = "XPKEGYGE"
 cheat51_enable = false
 
-cheat52_desc = "Buy All Weapons Instead Of Only The Holy Water"
+cheat52_desc = "购买所有武器而不仅仅是圣水"
 cheat52_code = "OOVTSIAE"
 cheat52_enable = false
 
-cheat53_desc = "Invincibility 2"
+cheat53_desc = "无敌2"
 cheat53_code = "SZKEIVVK"
 cheat53_enable = false
 
-cheat54_desc = "Buy All Whips In First Town"
+cheat54_desc = "在第一镇购买所有鞭子"
 cheat54_code = "VVNTKSSE"
 cheat54_enable = false
 
-cheat55_desc = "Invincibility 2"
+cheat55_desc = "无敌2"
 cheat55_code = "EIKELTEY"
 cheat55_enable = false
 
-cheat56_desc = "Jump In Midair"
+cheat56_desc = "跳入半空中"
 cheat56_code = "SXSAVOSZ+SNSANOGT+PXSEEPLE+EESEOPAP+ESSEXPLP+GESEUPEX+XVSEKPEN+GKSESPAX+VVSEVOSV+OESENPVE+UNVEOPAE"
 cheat56_enable = false
 
-cheat57_desc = "Menu Text Modifier"
+cheat57_desc = "菜单文本修改器"
 cheat57_code = "007F:00"
 cheat57_enable = false
 
-cheat58_desc = "Values"
+cheat58_desc = "价值观"
 cheat58_code = "AAEAAAAA+AAAAAA+AAAAAA+AAAAAA+AAAAAA+AAAAAA+AAAAAA+IAAAAA+AAAAAA+AAAAAA+AAAAAA+AAAAAA+AAAAAA+AAAAAA+AAAAAA+AAAAAA+PLAASE+AAAAAA+AAAAAA+AAEAAAAA+AAAAAA+AAAAAA+AAAAAA+AAAAAA+AAAAAA+AAAAAA+AAAAAA+AAAAAA"
 cheat58_enable = false
 
-cheat59_desc = "Seamless Shift Between Day/Night"
+cheat59_desc = "白天/夜晚无缝切换"
 cheat59_code = "AEIIGY"
 cheat59_enable = false
 
-cheat60_desc = "Magic Whip - Instantly Kills All Foes or Townspeople On The Screen"
+cheat60_desc = "魔鞭 - 立即杀死屏幕上的所有敌人或城镇居民"
 cheat60_code = "INIEEA"
 cheat60_enable = false
 
-cheat61_desc = "Holy Water Can Break Any Block"
+cheat61_desc = "圣水可以打破任何方块"
 cheat61_code = "AOPSSZ+XVPIPV"
 cheat61_enable = false
 
-cheat62_desc = "The Whip Can Destroy Any Block"
+cheat62_desc = "鞭子可以摧毁任何方块"
 cheat62_code = "APISIT+AALSPT+XVPIPV+AAZSAT"
 cheat62_enable = false
 
-cheat63_desc = "Enable Nail Effect Always"
+cheat63_desc = "始终启用指甲效果"
 cheat63_code = "AAZSAT"
 cheat63_enable = false
 
-cheat64_desc = "Dropped Items Never Disappear"
+cheat64_desc = "掉落的物品永远不会消失"
 cheat64_code = "SUTAIX"
 cheat64_enable = false
 
-cheat65_desc = "Infinite Lives"
+cheat65_desc = "无限生命"
 cheat65_code = "GXOGGZVG"
 cheat65_enable = false
 
-cheat66_desc = "Start A New Game With Only 8 Health Bars"
+cheat66_desc = "仅用 8 条生命值开始新游戏"
 cheat66_code = "YZSKTIAU"
 cheat66_enable = false
 
-cheat67_desc = "Start A New Game With 52 Health Bars"
+cheat67_desc = "用 52 条生命值开始新游戏"
 cheat67_code = "NISKTIAU"
 cheat67_enable = false
 
-cheat68_desc = "Super Fast Whipping"
+cheat68_desc = "超快速鞭打"
 cheat68_code = "EIOIOGEY"
 cheat68_enable = false
 
-cheat69_desc = "One Hit Kills All Enemies And Bosses"
+cheat69_desc = "一击杀死所有敌人和头目"
 cheat69_code = "AAXAVPAG"
 cheat69_enable = false
 
-cheat70_desc = "Hit Anywhere"
+cheat70_desc = "击中任何地方"
 cheat70_code = "AENESAPT+AAOANPYG+AAOEKPGI"
 cheat70_enable = false
 
-cheat71_desc = "Move Faster"
+cheat71_desc = "行动更快"
 cheat71_code = "ZASATYPA+VYNAANNN+VYOAEONN+ZAOEUPPA"
 cheat71_enable = false
 
-cheat72_desc = "Jump Lower"
+cheat72_desc = "跳低"
 cheat72_code = "GKVENOAL"
 cheat72_enable = false
 
-cheat73_desc = "Jump Higher"
+cheat73_desc = "跳得更高"
 cheat73_code = "AXVENOAU"
 cheat73_enable = false
 
-cheat74_desc = "Jump Even Higher"
+cheat74_desc = "跳得更高"
 cheat74_code = "AXVENOAL"
 cheat74_enable = false
 
-cheat75_desc = "Always Equipped With A Shield"
+cheat75_desc = "始终配备盾牌"
 cheat75_code = "AEKIYLPA"
 cheat75_enable = false
 
-cheat76_desc = "Can Use Subweapons Regardless Of Heart Count"
+cheat76_desc = "无论心数多少都可以使用副武器"
 cheat76_code = "EYNIVAEL"
 cheat76_enable = false
 
-cheat77_desc = "Holy Water And The Sacred Flame Are Thrown At A Higher Arc"
+cheat77_desc = "圣水和圣火以更高的弧度抛出"
 cheat77_code = "SNUISENN"
 cheat77_enable = false
 
-cheat78_desc = "Holy Water And The Sacred Flame Fly Faster And Farther"
+cheat78_desc = "圣水与圣火飞得更快更远"
 cheat78_code = "ZEXSVAPA"
 cheat78_enable = false
 
-cheat79_desc = "Holy Water And The Sacred Flame Fly Even Faster And Farther"
+cheat79_desc = "圣水与圣火飞得更快更远"
 cheat79_code = "LEXSVAPA"
 cheat79_enable = false
 
-cheat80_desc = "Holy Water And The Sacred Flame Fly Even Faster And Farther Yet"
+cheat80_desc = "圣水与圣火飞得更快更远"
 cheat80_code = "GEXSVAPA"
 cheat80_enable = false
 
-cheat81_desc = "Can Use Up To Three Holy Waters On Screen At A Time Instead Of Only One"
+cheat81_desc = "一次可以在屏幕上使用最多三种圣水，而不是只能使用一种"
 cheat81_code = "EUXISAEY"
 cheat81_enable = false
 
-cheat82_desc = "Can Use Up To Three Normal Daggers On Screen At A Time Instead Of Only One"
+cheat82_desc = "屏幕上一次最多可以使用三把普通匕首，而不是只能使用一把"
 cheat82_code = "EUSIOAEY"
 cheat82_enable = false
 
-cheat83_desc = "The Normal Dagger Can Now Travel Across An Entire Screen"
+cheat83_desc = "普通匕首现在可以穿过整个屏幕"
 cheat83_code = "ENNSVAEI"
 cheat83_enable = false
 
-cheat84_desc = "All Daggers Are Super Fast"
+cheat84_desc = "所有匕首都超快"
 cheat84_code = ""
 cheat84_enable = false
 
-cheat85_desc = "The Diamond Can Break Any Block"
+cheat85_desc = "钻石可以打破任何块"
 cheat85_code = "NZOIXXAP+XIOIUZOK+XVOIPVVE"
 cheat85_enable = false
 
-cheat86_desc = "The Diamond, When Thrown, Becomes A Fireball That Protects Your Groin"
+cheat86_desc = "钻石被扔出后会变成火球，保护您的腹股沟"
 cheat86_code = "ESOIVOOS"
 cheat86_enable = false
 
-cheat87_desc = "Towns Are Infested With Monsters Day or Night"
+cheat87_desc = "城镇白天或晚上都充斥着怪物"
 cheat87_code = "EONEGAEI"
 cheat87_enable = false
 
-cheat88_desc = "Towns Never Sleep"
+cheat88_desc = "城镇不眠"
 cheat88_code = "AEXEYYPP+EYKEYPEI"
 cheat88_enable = false
 
-cheat89_desc = "Fishmen Jump Around And Relentlessly Pursue You Instead Of Shooting Fireballs"
+cheat89_desc = "鱼人会跳来跳去，无情地追赶你，而不是发射火球"
 cheat89_code = "XXOZLZUZ"
 cheat89_enable = false
 
-cheat90_desc = "Dracula Always Throws Scythes"
+cheat90_desc = "德古拉总是扔镰刀"
 cheat90_code = "AASLYTSL"
 cheat90_enable = false
 
-cheat91_desc = "Dracula Cannot Move"
+cheat91_desc = "德古拉无法移动"
 cheat91_code = "EPUUATEI"
 cheat91_enable = false
 
-cheat92_desc = "Most Sprites Leave Tracers"
+cheat92_desc = "大多数精灵都会留下追踪器"
 cheat92_code = "AAXXVKNT"
 cheat92_enable = false
 
-cheat93_desc = "Spikes Are No More Harmful Than Poisonous Swamps"
+cheat93_desc = "尖刺并不比有毒沼泽更有害"
 cheat93_code = "AAKEZAZL"
 cheat93_enable = false
 
-cheat94_desc = "Poisonous Swamps And Spikes Have No Effect"
+cheat94_desc = "有毒沼泽和尖刺没有效果"
 cheat94_code = ""
 cheat94_enable = false
 
-cheat95_desc = "Never Lose Your Hearts or Experience Points After A Game Over"
+cheat95_desc = "游戏结束后永远不要失去你的心或经验值"
 cheat95_code = "LZOGIUPP"
 cheat95_enable = false
 
-cheat96_desc = "Destroy Any Enemy With Your Body"
+cheat96_desc = "用你的身体消灭任何敌人"
 cheat96_code = "LZUAINVI+OAUATYNE"
 cheat96_enable = false
 
-cheat97_desc = "Deflect Most Enemies And Their Projectiles With Your Shield"
+cheat97_desc = "用你的盾牌偏转大多数敌人及其射弹"
 cheat97_code = "AUVEAYEY+ASVEYYEY+SLEANESO"
 cheat97_enable = false
 
-cheat98_desc = "Church In 1st Town is Now A House With A Merchant Selling The Morning Star"
+cheat98_desc = "第一镇的教堂现在是一座房子，商人在出售晨星"
 cheat98_code = "PPXAOAYA"
 cheat98_enable = false
 
-cheat99_desc = "Church In 1st Town Warps You To The Last Town Before Dracula's Castle"
+cheat99_desc = "第一个城镇的教堂将您带到德古拉城堡前的最后一个城镇"
 cheat99_code = "TAXAOAYA"
 cheat99_enable = false
 
-cheat100_desc = "Women And Old Men Will Hurt You"
+cheat100_desc = "女人和老人会伤害你"
 cheat100_code = "PASAVYAG"
 cheat100_enable = false
 
-cheat101_desc = "Ponds Open Instantly With or Without A Crystal"
+cheat101_desc = "无论有或没有水晶，池塘都会立即打开"
 cheat101_code = "EYNGEIEI"
 cheat101_enable = false
 
-cheat102_desc = "Kneel Anywhere With The Red Crystal To Be Whisked Away By The Whirlwind"
+cheat102_desc = "跪在任何有红色水晶会被旋风卷走的地方"
 cheat102_code = "AAXZEOZZ+AAXXEPZZ+AAXXVOGP+EYUZKPEL+AYSKKTEI"
 cheat102_enable = false
 
-cheat103_desc = "Fleaman Mode"
+cheat103_desc = "弗莱曼模式"
 cheat103_code = "VTVLZPXV+NTVLTPUV+KNEUAOET+SNEUGOOT+VVXLAPEV+NVXLGPOV+KVKLPPEV+SVKULPOV+VVNLZPXV+NVNUGPUV+KYEUYXET+SYOUPXOT+AESEKPEY+AEXAYGEY"
 cheat103_enable = false
 
-cheat104_desc = "The 1st Heart Gives You A Level 83"
+cheat104_desc = "第一颗心给你83级"
 cheat104_code = "EEGOLN+EEGOLY"
 cheat104_enable = false
 
-cheat105_desc = "Infinite Hearts"
+cheat105_desc = "无限的心"
 cheat105_code = "0048:F0"
 cheat105_enable = false
 
-cheat106_desc = "Infinite Energy"
+cheat106_desc = "无限能量"
 cheat106_code = "0080:50"
 cheat106_enable = false
 
-cheat107_desc = "Infinite Lives"
+cheat107_desc = "无限生命"
 cheat107_code = "0031:03"
 cheat107_enable = false
 
-cheat108_desc = "Fire Whip"
+cheat108_desc = "火鞭"
 cheat108_code = "0434:04"
 cheat108_enable = false
 
-cheat109_desc = "White Crystal"
+cheat109_desc = "白水晶"
 cheat109_code = "0091:20"
 cheat109_enable = false
 
-cheat110_desc = "Blue Crystal"
+cheat110_desc = "蓝水晶"
 cheat110_code = "0091:40"
 cheat110_enable = false
 
-cheat111_desc = "Red Crystal"
+cheat111_desc = "红水晶"
 cheat111_code = "0091:60"
 cheat111_enable = false
 
-cheat112_desc = "Freeze Timer, No Night"
+cheat112_desc = "冻结定时器，无夜"
 cheat112_code = "0085:02"
 cheat112_enable = false
 
-cheat113_desc = "Infinite Garlic"
+cheat113_desc = "无限大蒜"
 cheat113_code = "004D:08"
 cheat113_enable = false
 
-cheat114_desc = "Have All Daggers, Holy Water, Diamond, Flame, & Oak Stake"
+cheat114_desc = "拥有所有匕首、圣水、钻石、火焰和橡木桩"
 cheat114_code = "004A:7F"
 cheat114_enable = false
 
-cheat115_desc = "Invincible"
+cheat115_desc = "无敌"
 cheat115_code = "04F8:02"
 cheat115_enable = false
 
-cheat116_desc = "Max Energy"
+cheat116_desc = "最大能量"
 cheat116_code = "0081:50"
 cheat116_enable = false
 
-cheat117_desc = "All of Dracula's Parts + White Crystal"
+cheat117_desc = "德古拉的所有零件+白水晶"
 cheat117_code = "0091:3F"
 cheat117_enable = false
 
-cheat118_desc = "All of Dracula's Parts + Blue Crystal"
+cheat118_desc = "德古拉的所有零件 + 蓝水晶"
 cheat118_code = "0091:5F"
 cheat118_enable = false
 
-cheat119_desc = "All of Dracula's Parts + Red Crystal"
+cheat119_desc = "德古拉的所有零件 + 红水晶"
 cheat119_code = "0091:7F"
 cheat119_enable = false
 
-cheat120_desc = "Have Garlic, Laurels, Silk Bag & Magic Cross"
+cheat120_desc = "有大蒜、桂冠、丝绸袋和魔法十字"
 cheat120_code = "0092:0F"
 cheat120_enable = false
 
-cheat121_desc = "Infinite Laurels"
+cheat121_desc = "无限的桂冠"
 cheat121_code = "004C:99"
 cheat121_enable = false
 
-cheat122_desc = "Room Modifier"
+cheat122_desc = "房间修改器"
 cheat122_code = "0050:00"
 cheat122_enable = false
 
-cheat123_desc = "Level Scroller Modifier (?? - Outside Towns)"
+cheat123_desc = "关卡卷轴修改器（?? - 城镇外）"
 cheat123_code = "0054:02"
 cheat123_enable = false
 
-cheat124_desc = "Buy Some Holy Water to Receive All Subweapons"
+cheat124_desc = "购买一些圣水来获得所有副武器"
 cheat124_code = "NYOVSVAE"
 cheat124_enable = false
 
-cheat125_desc = "Buy a White Crystal To Additionally Receive All Of Dracula's Relics"
+cheat125_desc = "购买白色水晶即可额外获得德古拉的所有遗物"
 cheat125_code = "PEXVXSPX"
 cheat125_enable = false
 
-cheat126_desc = "Buy a Thorn Whip To Receive The Flame Whip Instead"
+cheat126_desc = "购买荆棘鞭子来代替火焰鞭子"
 cheat126_code = "GENTUIYA"
 cheat126_enable = false
 
-cheat127_desc = "Can Buy Items Regardless of Heart Count"
+cheat127_desc = "无论心数多少都可以购买物品"
 cheat127_code = "AEEIUEGA"
 cheat127_enable = false
 
-cheat128_desc = "Nearly Constant Laurel Power"
+cheat128_desc = "几乎恒定的桂冠功率"
 cheat128_code = "AEOAZOUL"
 cheat128_enable = false
 
-cheat129_desc = "Faster Dialog Text"
+cheat129_desc = "更快的对话文本"
 cheat129_code = "ESOVETEY"
 cheat129_enable = false
 
-cheat130_desc = "Constant Strobe Effect"
+cheat130_desc = "恒定频闪效果"
 cheat130_code = "IZVGIEVN"
 cheat130_enable = false
 
-cheat131_desc = "Warmer Hues"
+cheat131_desc = "暖色调"
 cheat131_code = "AUUGAETO"
 cheat131_enable = false
 
-cheat132_desc = "Colder Hues"
+cheat132_desc = "冷色调"
 cheat132_code = "EOUGAETO"
 cheat132_enable = false
 
-cheat133_desc = "Sickly Greens"
+cheat133_desc = "病态的绿党"
 cheat133_code = "ESUGAETO"
 cheat133_enable = false
 
-cheat134_desc = "Low Contrast Grayscale"
+cheat134_desc = "低对比度灰度"
 cheat134_code = "POUGAETO"
 cheat134_enable = false
 
-cheat135_desc = "Low Contrast Sepia Tones"
+cheat135_desc = "低对比度棕褐色调"
 cheat135_code = "PUUGAETO"
 cheat135_enable = false
 
-cheat136_desc = "Enemies Guaranteed to Always Drop Hearts"
+cheat136_desc = "敌人一定会掉落心"
 cheat136_code = "EUXEPZEI"
 cheat136_enable = false
 
-cheat137_desc = "Enemies Guaranteed to Always Drop Big Hearts"
+cheat137_desc = "敌人一定会掉落大心脏"
 cheat137_code = "EUXEPZEI+SXXETXSU+XNUAAZGE"
 cheat137_enable = false
 
-cheat138_desc = "Buy a White Crystal To Receive The Red Crystal And All of Dracula's Relics"
+cheat138_desc = "购买白色水晶即可获得红色水晶和德古拉的所有遗物"
 cheat138_code = "NYXVOTAX"
 cheat138_enable = false
 
-cheat139_desc = "Always Get the Good Ending"
+cheat139_desc = "总能得到好结局"
 cheat139_code = "SANXTPSZ"
 cheat139_enable = false
 
-cheat140_desc = "Infinite Laurel Time"
+cheat140_desc = "无限桂冠时间"
 cheat140_code = "SXOEPOVK"
 cheat140_enable = false
 
-cheat141_desc = "Hit Anywhere"
+cheat141_desc = "击中任何地方"
 cheat141_code = "ELEEOZAL+ELXANZAL"
 cheat141_enable = false
 
-cheat142_desc = "Water Death Prevention"
+cheat142_desc = "水死预防"
 cheat142_code = "EVUELANT+VNUEGAEK+VKVYEVNN+UEVYOVNN+PEVYXVNY+GKVYUVNN+KNVYKVNY+KKVYSVNY"
 cheat142_enable = false
 
-cheat143_desc = "Walk Thru Walls"
+cheat143_desc = "穿墙而行"
 cheat143_code = "ANVAZLEI"
 cheat143_enable = false
 
-cheat144_desc = "Walk On Air"
+cheat144_desc = "空中行走"
 cheat144_code = "ANSEZTEY"
 cheat144_enable = false
 
-cheat145_desc = "Automatically Attack While Jumping/Falling"
+cheat145_desc = "跳跃/坠落时自动攻击"
 cheat145_code = "ESSAOPEY"
 cheat145_enable = false
 
-cheat146_desc = "Any enemies stop fire"
+cheat146_desc = "任何敌人都停止开火"
 cheat146_code = "XVLSSY"
 cheat146_enable = false
 
-cheat147_desc = "Very Fast Time For Night And Day"
+cheat147_desc = "白天和黑夜的时间非常快"
 cheat147_code = "AOPIPY"
 cheat147_enable = false
 
-cheat148_desc = "DPCM Pop Reducer"
+cheat148_desc = "DPCM 爆音减少器"
 cheat148_code = "SESXPUOO"
 cheat148_enable = false
 
-cheat149_desc = "Invincible 1.5x longer after being hit"
+cheat149_desc = "被击中后无敌时间延长 1.5 倍"
 cheat149_code = "ATKAEAAG"
 cheat149_enable = false
 
-cheat150_desc = "Invincible 2x longer after being hit"
+cheat150_desc = "被击中后无敌时间延长 2 倍"
 cheat150_code = "EAKAEAAG"
 cheat150_enable = false
 
-cheat151_desc = "Take Much Less Damage"
+cheat151_desc = "受到的伤害要少得多"
 cheat151_code = "OTSSPLSV+ZASSZUAA"
 cheat151_enable = false
 
-cheat152_desc = "Take Less Damage"
+cheat152_desc = "减少伤害"
 cheat152_code = "OTSSPLSV+GASSZUAA"
 cheat152_enable = false
 
-cheat153_desc = "Infinite Hearts"
+cheat153_desc = "无限的心"
 cheat153_code = "SXESEASA+SXESKASA"
 cheat153_enable = false
 
-cheat154_desc = "Continue with 6 Lives"
+cheat154_desc = "继续 6 次生命"
 cheat154_code = "TAOGPLLA"
 cheat154_enable = false
 
-cheat155_desc = "Continue with 9 Lives"
+cheat155_desc = "继续9条命"
 cheat155_code = "PAOGPLLE"
 cheat155_enable = false
 
-cheat156_desc = "Continue with 101 Hearts"
+cheat156_desc = "继续 101 颗心"
 cheat156_code = "PAOKZGAA"
 cheat156_enable = false
 
-cheat157_desc = "Continue a Password Game with 6 Lives"
+cheat157_desc = "继续玩 6 条命的密码游戏"
 cheat157_code = "TEXXXILA"
 cheat157_enable = false
 
-cheat158_desc = "Continue a Password Game with 9 Lives"
+cheat158_desc = "继续玩 9 条命的密码游戏"
 cheat158_code = "PEXXXILE"
 cheat158_enable = false
 
-cheat159_desc = "Start with 200 lives(1st game only)"
+cheat159_desc = "从 200 条生命开始（仅限第 1 场游戏）"
 cheat159_code = ""
 cheat159_enable = false
 
-cheat160_desc = "Any Full Password Will Work"
+cheat160_desc = "任何完整密码都可以"
 cheat160_code = "PGNZOTIV"
 cheat160_enable = false
 
-cheat161_desc = "View Ending At Start Of Level"
+cheat161_desc = "查看关卡开始处的结束位置"
 cheat161_code = "GXXGGPZL+KKKGIPXG"
 cheat161_enable = false
 
-cheat162_desc = "View Ending When The Game Starts"
+cheat162_desc = "游戏开始时查看结局"
 cheat162_code = "GXUKGPXY+KKUKIPOG"
 cheat162_enable = false
 
-cheat163_desc = "View Ending When Defeating Any Enemy"
+cheat163_desc = "击败任意敌人后查看结局"
 cheat163_code = "AAUASPLA"
 cheat163_enable = false
 
-cheat164_desc = "Enemies Die On Sight (Some Become Zombies)"
+cheat164_desc = "敌人一见到就死（有些变成僵尸）"
 cheat164_code = "AENESAPT+AAOANPYG+XVOAKAAV"
 cheat164_enable = false
 
-cheat165_desc = "Enemies Within Whipping Distance Get Hurt Automatically"
+cheat165_desc = "鞭打距离内的敌人会自动受到伤害"
 cheat165_code = "AAOANPYG+XVOAKAAV"
 cheat165_enable = false
 
-cheat166_desc = "Increase Whipping Distance"
+cheat166_desc = "增加鞭打距离"
 cheat166_code = "OVNEXASV+IKNEUAZP"
 cheat166_enable = false

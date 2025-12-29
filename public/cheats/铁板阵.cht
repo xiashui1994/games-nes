@@ -1,9 +1,9 @@
 cheats = 2
 
-cheat0_desc = "Infinite Lives"
+cheat0_desc = "无限生命"
 cheat0_code = "GEXYPNVA+AEXYZYVG"
 cheat0_enable = false
 
-cheat1_desc = "Invincibility"
+cheat1_desc = "无敌"
 cheat1_code = "AAXTNGVT+AAEGNYVT"
 cheat1_enable = false

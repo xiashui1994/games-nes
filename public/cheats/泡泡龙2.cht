@@ -1,201 +1,201 @@
 cheats = 50
 
-cheat0_desc = "Start With Lightning Bubble"
+cheat0_desc = "从闪电泡泡开始"
 cheat0_code = "PAVEAPAA"
 cheat0_enable = false
 
-cheat1_desc = "Start With Fire Bubble"
+cheat1_desc = "从火泡泡开始"
 cheat1_code = "ZAVEAPAA"
 cheat1_enable = false
 
-cheat2_desc = "Start With Water Bubble"
+cheat2_desc = "从水泡开始"
 cheat2_code = "LAVEAPAA"
 cheat2_enable = false
 
-cheat3_desc = "Start With Star Dust Bubble"
+cheat3_desc = "从星尘气泡开始"
 cheat3_code = "GAVEAPAA"
 cheat3_enable = false
 
-cheat4_desc = "Start With Tornado Bubble"
+cheat4_desc = "从龙卷风泡沫开始"
 cheat4_code = "IAVEAPAA"
 cheat4_enable = false
 
-cheat5_desc = "Start With Star Bubble"
+cheat5_desc = "从星泡开始"
 cheat5_code = "TAVEAPAA"
 cheat5_enable = false
 
-cheat6_desc = "Keep Any Bubble Collected If You Die"
+cheat6_desc = "如果你死了，请保留收集到的所有气泡"
 cheat6_code = "SXKOZVSE"
 cheat6_enable = false
 
-cheat7_desc = "Start With 9 Continues"
+cheat7_desc = "从 9 开始继续"
 cheat7_code = "PESATZIE"
 cheat7_enable = false
 
-cheat8_desc = "Infinite Lives P1"
+cheat8_desc = "无限生命 P1"
 cheat8_code = "0479:03"
 cheat8_enable = false
 
-cheat9_desc = "Invincibility P1"
+cheat9_desc = "无敌P1"
 cheat9_code = "007C:00"
 cheat9_enable = false
 
-cheat10_desc = "Turbo Bubbles"
+cheat10_desc = "涡轮气泡"
 cheat10_code = "000A:04"
 cheat10_enable = false
 
-cheat11_desc = "Fly"
+cheat11_desc = "飞"
 cheat11_code = "047B:02"
 cheat11_enable = false
 
-cheat12_desc = "Infinite Lives"
+cheat12_desc = "无限生命"
 cheat12_code = "SLNOASVK"
 cheat12_enable = false
 
-cheat13_desc = "Invincibility"
+cheat13_desc = "无敌"
 cheat13_code = "SXSNVLSA"
 cheat13_enable = false
 
-cheat14_desc = "Bubbles Hit Anywhere"
+cheat14_desc = "泡沫击中任何地方"
 cheat14_code = "GZUYEZEP+GZKNSZEP"
 cheat14_enable = false
 
-cheat15_desc = "Bubbles Kill on Contact"
+cheat15_desc = "接触时气泡消失"
 cheat15_code = "GZUEZGEP"
 cheat15_enable = false
 
-cheat16_desc = "Collect Score Items Anywhere"
+cheat16_desc = "随处收集分数物品"
 cheat16_code = "SXSNVLSA+GZNYELEP+GXENOLEP"
 cheat16_enable = false
 
-cheat17_desc = "Start With 1 Life"
+cheat17_desc = "从 1 条生命开始"
 cheat17_code = "PEXEEALA"
 cheat17_enable = false
 
-cheat18_desc = "Start With 6 Lives"
+cheat18_desc = "从 6 条生命开始"
 cheat18_code = "TEXEEALA"
 cheat18_enable = false
 
-cheat19_desc = "Start With 9 Lives"
+cheat19_desc = "从 9 条生命开始"
 cheat19_code = "PEXEEALE"
 cheat19_enable = false
 
-cheat20_desc = "Start With 6 Lives"
+cheat20_desc = "从 6 条生命开始"
 cheat20_code = "TEVATZLA"
 cheat20_enable = false
 
-cheat21_desc = "Start With 9 Lives"
+cheat21_desc = "从 9 条生命开始"
 cheat21_code = "PEVATZLE"
 cheat21_enable = false
 
-cheat22_desc = "Infinite Lives (Both Players)"
+cheat22_desc = "无限生命（双方玩家）"
 cheat22_code = "SZNOASVK"
 cheat22_enable = false
 
-cheat23_desc = "Blow Bubbles Farther"
+cheat23_desc = "将泡泡吹得更远"
 cheat23_code = "OXXANUPX"
 cheat23_enable = false
 
-cheat24_desc = "Start On Level 5"
+cheat24_desc = "从第 5 级开始"
 cheat24_code = "IEKEGZPA"
 cheat24_enable = false
 
-cheat25_desc = "Start On Level 10"
+cheat25_desc = "从 10 级开始"
 cheat25_code = "ZEKEGZPE"
 cheat25_enable = false
 
-cheat26_desc = "Start On Level 15"
+cheat26_desc = "从 15 级开始"
 cheat26_code = "YEKEGZPE"
 cheat26_enable = false
 
-cheat27_desc = "Start On Level 20"
+cheat27_desc = "从 20 级开始"
 cheat27_code = "GOKEGZPA"
 cheat27_enable = false
 
-cheat28_desc = "Start On Level 25"
+cheat28_desc = "从 25 级开始"
 cheat28_code = "POKEGZPE"
 cheat28_enable = false
 
-cheat29_desc = "Start On Level 30"
+cheat29_desc = "从 30 级开始"
 cheat29_code = "TOKEGZPE"
 cheat29_enable = false
 
-cheat30_desc = "Start On Level 40"
+cheat30_desc = "从 40 级开始"
 cheat30_code = "AXKEGZPE"
 cheat30_enable = false
 
-cheat31_desc = "Start On Level 45"
+cheat31_desc = "从 45 级开始"
 cheat31_code = "IXKEGZPE"
 cheat31_enable = false
 
-cheat32_desc = "Start On Level 50"
+cheat32_desc = "从 50 级开始"
 cheat32_code = "ZUKEGZPA"
 cheat32_enable = false
 
-cheat33_desc = "Start On Level 55"
+cheat33_desc = "从 55 级开始"
 cheat33_code = "YUKEGZPA"
 cheat33_enable = false
 
-cheat34_desc = "Start On Level 60"
+cheat34_desc = "从 60 级开始"
 cheat34_code = "GUKEGZPE"
 cheat34_enable = false
 
-cheat35_desc = "Start On Level 65"
+cheat35_desc = "从 65 级开始"
 cheat35_code = "PKKEGZPA"
 cheat35_enable = false
 
-cheat36_desc = "Start On Level 70"
+cheat36_desc = "从 70 级开始"
 cheat36_code = "TKKEGZPA"
 cheat36_enable = false
 
-cheat37_desc = "Start On Level 75"
+cheat37_desc = "从 75 级开始"
 cheat37_code = "LKKEGZPE"
 cheat37_enable = false
 
-cheat38_desc = "Start On Level 80"
+cheat38_desc = "从 80 级开始"
 cheat38_code = "ASKEGZPA"
 cheat38_enable = false
 
-cheat39_desc = "Start Each Life With 3 Hearts"
+cheat39_desc = "用三颗心开始每个生活"
 cheat39_code = "LEXAUAPA+LESOZTPA"
 cheat39_enable = false
 
-cheat40_desc = "Start Each Life With 5 Hearts"
+cheat40_desc = "用 5 颗心开始每个生活"
 cheat40_code = "IEXAUAPA+IESOZTPA"
 cheat40_enable = false
 
-cheat41_desc = "Infinite Lives P1"
+cheat41_desc = "无限生命 P1"
 cheat41_code = "0479:09"
 cheat41_enable = false
 
-cheat42_desc = "Have All Power-Ups"
+cheat42_desc = "拥有所有能力"
 cheat42_code = "0024:FF"
 cheat42_enable = false
 
-cheat43_desc = "Have All Rainbow Letters"
+cheat43_desc = "拥有所有彩虹字母"
 cheat43_code = "054F:FF"
 cheat43_enable = false
 
-cheat44_desc = "Infinite Hits P1"
+cheat44_desc = "无限点击 P1"
 cheat44_code = "0478:04"
 cheat44_enable = false
 
-cheat45_desc = "Round Modifier"
+cheat45_desc = "圆形修改器"
 cheat45_code = "00D8:00"
 cheat45_enable = false
 
-cheat46_desc = "Skip Intro Screens"
+cheat46_desc = "跳过介绍屏幕"
 cheat46_code = "AEXELAZI"
 cheat46_enable = false
 
-cheat47_desc = "Start with 99 lives "
+cheat47_desc = "从99条生命开始"
 cheat47_code = ""
 cheat47_enable = false
 
-cheat48_desc = "Start with 99 lives"
+cheat48_desc = "从99条生命开始"
 cheat48_code = ""
 cheat48_enable = false
 
-cheat49_desc = "Star with tons of continues"
+cheat49_desc = "拥有大量续集的明星"
 cheat49_code = ""
 cheat49_enable = false

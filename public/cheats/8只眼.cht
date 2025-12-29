@@ -1,125 +1,125 @@
 cheats = 31
 
-cheat0_desc = "Set Max. Infinite Health For Cutrus"
+cheat0_desc = "设置最大。 Cutrus 的无限健康"
 cheat0_code = "0595:4F"
 cheat0_enable = false
 
-cheat1_desc = "Invincibility For Orin"
+cheat1_desc = "奥林无敌"
 cheat1_code = "030E:10"
 cheat1_enable = false
 
-cheat2_desc = "Invincibility For Cutrus"
+cheat2_desc = "卡特鲁斯无敌"
 cheat2_code = "032E:10"
 cheat2_enable = false
 
-cheat3_desc = "Infinite Time For Doors Opened"
+cheat3_desc = "无限时间开门"
 cheat3_code = "009D:FA"
 cheat3_enable = false
 
-cheat4_desc = "Bosses Have No Invulnerability Time"
+cheat4_desc = "Boss 没有无懈可击的时间"
 cheat4_code = "034E:00"
 cheat4_enable = false
 
-cheat5_desc = "All Bosses Defeated Instantly"
+cheat5_desc = "所有 Boss 立即被击败"
 cheat5_code = "034F:00"
 cheat5_enable = false
 
-cheat6_desc = "Stage Select"
+cheat6_desc = "阶段选择"
 cheat6_code = "0050:00"
 cheat6_enable = false
 
-cheat7_desc = "Most attacks won't damage (Orin)"
+cheat7_desc = "大多数攻击不会造成伤害（奥林）"
 cheat7_code = "GXOUSUSE"
 cheat7_enable = false
 
-cheat8_desc = "Most attacks won't damage (Cutrus)"
+cheat8_desc = "大多数攻击不会造成伤害 (Cutrus)"
 cheat8_code = "GXNGNOSE"
 cheat8_enable = false
 
-cheat9_desc = "Start with more energy (Orin)"
+cheat9_desc = "从更多能量开始（Orin）"
 cheat9_code = "AGVXGXYZ"
 cheat9_enable = false
 
-cheat10_desc = "Start with more energy (Cutrus)"
+cheat10_desc = "从更多能量开始 (Cutrus)"
 cheat10_code = "AGVXIXYZ"
 cheat10_enable = false
 
-cheat11_desc = "Start game with some item power"
+cheat11_desc = "以一些物品能力开始游戏"
 cheat11_code = "YZVXTZAE"
 cheat11_enable = false
 
-cheat12_desc = "Never lose item power once gained"
+cheat12_desc = "一旦获得物品力量就不会失去"
 cheat12_code = "GXSLKVSE"
 cheat12_enable = false
 
-cheat13_desc = "Start game with dagger"
+cheat13_desc = "用匕首开始游戏"
 cheat13_code = "VTOVNTVA"
 cheat13_enable = false
 
-cheat14_desc = "Infinite Health for Orin"
+cheat14_desc = "奥林的无限健康"
 cheat14_code = "0594:4F"
 cheat14_enable = false
 
-cheat15_desc = "Infinite Item Ammo"
+cheat15_desc = "无限物品弹药"
 cheat15_code = "0596:4F"
 cheat15_enable = false
 
-cheat16_desc = "Start with all weapons"
+cheat16_desc = "从所有武器开始"
 cheat16_code = "SAOVUTVA"
 cheat16_enable = false
 
-cheat17_desc = "Start with max ammo"
+cheat17_desc = "从最大弹药开始"
 cheat17_code = "YGVXTXYX"
 cheat17_enable = false
 
-cheat18_desc = "Infinite Ammo"
+cheat18_desc = "无限弹药"
 cheat18_code = "SXSLKVSE"
 cheat18_enable = false
 
-cheat19_desc = "Infinite Health for Orin"
+cheat19_desc = "奥林的无限健康"
 cheat19_code = "SXOUSUSE"
 cheat19_enable = false
 
-cheat20_desc = "Orin starts with max health"
+cheat20_desc = "奥林以最大生命值开始"
 cheat20_code = "YGVXGXYX"
 cheat20_enable = false
 
-cheat21_desc = "Infinite Health for Cutrus"
+cheat21_desc = "Cutrus 的无限健康"
 cheat21_code = "SXNGNOSE"
 cheat21_enable = false
 
-cheat22_desc = "Cutrus starts with max health"
+cheat22_desc = "Cutrus 从最大生命值开始"
 cheat22_code = "YGVXIXYX"
 cheat22_enable = false
 
-cheat23_desc = "Invincibility For Orin"
+cheat23_desc = "奥林无敌"
 cheat23_code = "EIUUSLEY"
 cheat23_enable = false
 
-cheat24_desc = "Invincibility For Cutrus"
+cheat24_desc = "卡特鲁斯无敌"
 cheat24_code = "EINGVPEY"
 cheat24_enable = false
 
-cheat25_desc = "One-Hit Kills"
+cheat25_desc = "一击必杀"
 cheat25_code = "GKNKVIEN+ZONKNSIE+VGEGETAU"
 cheat25_enable = false
 
-cheat26_desc = "Infinite Time For Open Doors"
+cheat26_desc = "敞开大门的无限时间"
 cheat26_code = "GZUKVYVG"
 cheat26_enable = false
 
-cheat27_desc = "Max/Infinite Health Orin"
+cheat27_desc = "最大/无限生命值奥林"
 cheat27_code = "0594:4F"
 cheat27_enable = false
 
-cheat28_desc = "Max/Infinite Item Power"
+cheat28_desc = "最大/无限物品力量"
 cheat28_code = "0596:4F"
 cheat28_enable = false
 
-cheat29_desc = "Set Item(s) Modifier"
+cheat29_desc = "设置项目修饰符"
 cheat29_code = "007F:00"
 cheat29_enable = false
 
-cheat30_desc = "Skip Intro Screen"
+cheat30_desc = "跳过介绍屏幕"
 cheat30_code = "AASUGEET"
 cheat30_enable = false

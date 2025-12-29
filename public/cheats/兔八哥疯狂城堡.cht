@@ -1,105 +1,105 @@
 cheats = 26
 
-cheat0_desc = "42 Lives"
+cheat0_desc = "42条生命"
 cheat0_code = "ZZUGPAIE"
 cheat0_enable = false
 
-cheat1_desc = "90 Lives"
+cheat1_desc = "90条生命"
 cheat1_code = "ZIUGPAIE"
 cheat1_enable = false
 
-cheat2_desc = "Atari Version"
+cheat2_desc = "雅达利版本"
 cheat2_code = "TASGAAPA"
 cheat2_enable = false
 
-cheat3_desc = "Golden Bugs Mode"
+cheat3_desc = "金虫模式"
 cheat3_code = "AASGAAPA"
 cheat3_enable = false
 
-cheat4_desc = "Lights Out Mode"
+cheat4_desc = "熄灯模式"
 cheat4_code = "GTSGAAPA"
 cheat4_enable = false
 
-cheat5_desc = "Start with infinite lives"
+cheat5_desc = "从无限生命开始"
 cheat5_code = "SZOKGPVG"
 cheat5_enable = false
 
-cheat6_desc = "Start with 1 life"
+cheat6_desc = "从 1 条生命开始"
 cheat6_code = "PAUGPAIA"
 cheat6_enable = false
 
-cheat7_desc = "Start with 10 lives"
+cheat7_desc = "从 10 条生命开始"
 cheat7_code = "ZAUGPAIE"
 cheat7_enable = false
 
-cheat8_desc = "Become invincible"
+cheat8_desc = "变得无敌"
 cheat8_code = "GXETZZEI"
 cheat8_enable = false
 
-cheat9_desc = "Baddies go as fast as Bugs Bunny"
+cheat9_desc = "坏人跑得和兔八哥一样快"
 cheat9_code = "GXKGZZEY"
 cheat9_enable = false
 
-cheat10_desc = "Make platforms invisible!"
+cheat10_desc = "让平台隐形！"
 cheat10_code = "GASGAAPA"
 cheat10_enable = false
 
-cheat11_desc = "Start with super rabbit punches"
+cheat11_desc = "从超级兔子拳开始"
 cheat11_code = "PXXTGGEN+PXXTAGAO"
 cheat11_enable = false
 
-cheat12_desc = "Start on level 10"
+cheat12_desc = "从 10 级开始"
 cheat12_code = "SZOKGAAX+PEXYVYAE"
 cheat12_enable = false
 
-cheat13_desc = "Start on level 20"
+cheat13_desc = "从20级开始"
 cheat13_code = "SZOKGAAX+LOXYVYAA"
 cheat13_enable = false
 
-cheat14_desc = "Start on level 30"
+cheat14_desc = "从30级开始"
 cheat14_code = "SZOKGAAX+IOXYVYAE"
 cheat14_enable = false
 
-cheat15_desc = "Start on level 40"
+cheat15_desc = "从40级开始"
 cheat15_code = "SZOKGAAX+YXXYVYAA"
 cheat15_enable = false
 
-cheat16_desc = "Infinite Lives"
+cheat16_desc = "无限生命"
 cheat16_code = "007C:05"
 cheat16_enable = false
 
-cheat17_desc = "Level Modifier"
+cheat17_desc = "等级修改器"
 cheat17_code = "0068:00"
 cheat17_enable = false
 
-cheat18_desc = "Start On Level 10"
+cheat18_desc = "从 10 级开始"
 cheat18_code = "SZOKGAAX+PEXYVYAE"
 cheat18_enable = false
 
-cheat19_desc = "Start On Level 20"
+cheat19_desc = "从 20 级开始"
 cheat19_code = "SZOKGAAX+LOXYVYAA"
 cheat19_enable = false
 
-cheat20_desc = "Start On Level 30"
+cheat20_desc = "从 30 级开始"
 cheat20_code = "SZOKGAAX+IOXYVYAE"
 cheat20_enable = false
 
-cheat21_desc = "Start On Level 40"
+cheat21_desc = "从 40 级开始"
 cheat21_code = "SZOKGAAX+YXXYVYAA"
 cheat21_enable = false
 
-cheat22_desc = "Infinite Lives"
+cheat22_desc = "无限生命"
 cheat22_code = ""
 cheat22_enable = false
 
-cheat23_desc = "Infinite Energy"
+cheat23_desc = "无限能量"
 cheat23_code = ""
 cheat23_enable = false
 
-cheat24_desc = "Infinite Lives"
+cheat24_desc = "无限生命"
 cheat24_code = "007C:63"
 cheat24_enable = false
 
-cheat25_desc = "Stage Modifier"
+cheat25_desc = "阶段修改器"
 cheat25_code = "0068:05"
 cheat25_enable = false

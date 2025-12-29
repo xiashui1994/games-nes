@@ -1,9 +1,9 @@
 cheats = 2
 
-cheat0_desc = "Always Qualify First"
+cheat0_desc = "始终保持资格第一"
 cheat0_code = "00CA:00+00CB:00"
 cheat0_enable = false
 
-cheat1_desc = "1st Place In Season"
+cheat1_desc = "本赛季第一名"
 cheat1_code = "65E4:99"
 cheat1_enable = false

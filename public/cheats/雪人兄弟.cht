@@ -1,97 +1,97 @@
 cheats = 24
 
-cheat0_desc = "P1 Power-Up Modifier"
+cheat0_desc = "P1 通电修改器"
 cheat0_code = "0078:00"
 cheat0_enable = false
 
-cheat1_desc = "P2 Power-Up Modifier"
+cheat1_desc = "P2 通电修改器"
 cheat1_code = "0079:00"
 cheat1_enable = false
 
-cheat2_desc = "Infinite number of chances"
+cheat2_desc = "无限的机会"
 cheat2_code = "SXNEUYVI"
 cheat2_enable = false
 
-cheat3_desc = "Start game with 10 chances instead of 3 (count starts at 9 instead of 2)"
+cheat3_desc = "开始游戏时有 10 次机会，而不是 3 次（计数从 9 次开始，而不是 2 次）"
 cheat3_code = "PAXXPLZE"
 cheat3_enable = false
 
-cheat4_desc = "Start game with 1 chance (count starts at 0)"
+cheat4_desc = "有 1 次机会开始游戏（计数从 0 开始）"
 cheat4_code = "AAXXPLZA"
 cheat4_enable = false
 
-cheat5_desc = "Always get 10 chances after a continue (count restarts at 9)"
+cheat5_desc = "继续后始终有 10 次机会（计数从 9 重新开始）"
 cheat5_code = "PAOAYLZE"
 cheat5_enable = false
 
-cheat6_desc = "Always get 1 chance after a continue (count restarts at 0)"
+cheat6_desc = "继续后始终有 1 次机会（计数从 0 重新开始）"
 cheat6_code = "AAOAYLZA"
 cheat6_enable = false
 
-cheat7_desc = "Don't lose super ability after you lose a chance"
+cheat7_desc = "不要在失去机会后就失去超能力"
 cheat7_code = "OUOOGEOO"
 cheat7_enable = false
 
-cheat8_desc = "Start with Speed Skates, Power Shots and super snow-throwing"
+cheat8_desc = "从速度滑冰、强力射击和超级抛雪开始"
 cheat8_code = "YAEEYAAE"
 cheat8_enable = false
 
-cheat9_desc = "Start with Speed Skates"
+cheat9_desc = "从速滑鞋开始"
 cheat9_code = "PAEEYAAA"
 cheat9_enable = false
 
-cheat10_desc = "Start with Power Shots"
+cheat10_desc = "从强力射击开始"
 cheat10_code = "ZAEEYAAA"
 cheat10_enable = false
 
-cheat11_desc = "Start with super snow-throwing ability"
+cheat11_desc = "从超强的抛雪能力开始"
 cheat11_code = "GAEEYAAA"
 cheat11_enable = false
 
-cheat12_desc = "Infinite Lives P1"
+cheat12_desc = "无限生命 P1"
 cheat12_code = "0076:09"
 cheat12_enable = false
 
-cheat13_desc = "Invincibility P1"
+cheat13_desc = "无敌P1"
 cheat13_code = "03D2:01"
 cheat13_enable = false
 
-cheat14_desc = "Infinite Lives P2"
+cheat14_desc = "无限生命 P2"
 cheat14_code = "0077:09"
 cheat14_enable = false
 
-cheat15_desc = "Invincibility P2"
+cheat15_desc = "无敌P2"
 cheat15_code = "03D3:01"
 cheat15_enable = false
 
-cheat16_desc = "Invinicibility"
+cheat16_desc = "无敌"
 cheat16_code = "SUUAVVVS"
 cheat16_enable = false
 
-cheat17_desc = "Start On 5th Floor"
+cheat17_desc = "从5楼开始"
 cheat17_code = "GEVZTZAA"
 cheat17_enable = false
 
-cheat18_desc = "Start On 10th Floor"
+cheat18_desc = "从10楼开始"
 cheat18_code = "PEVZTZAE"
 cheat18_enable = false
 
-cheat19_desc = "Start On 20th Floor"
+cheat19_desc = "从20楼开始"
 cheat19_code = "LOVZTZAA"
 cheat19_enable = false
 
-cheat20_desc = "Start On 30th Floor"
+cheat20_desc = "从30楼开始"
 cheat20_code = "IOVZTZAE"
 cheat20_enable = false
 
-cheat21_desc = "Start On 40th Floor"
+cheat21_desc = "从 40 楼开始"
 cheat21_code = "YXVZTZAA"
 cheat21_enable = false
 
-cheat22_desc = "Start On 50th Floor"
+cheat22_desc = "从 50 楼开始"
 cheat22_code = "PUVZTZAA"
 cheat22_enable = false
 
-cheat23_desc = "Floor Modifier"
+cheat23_desc = "地板改良剂"
 cheat23_code = "0073:00"
 cheat23_enable = false

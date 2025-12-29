@@ -1,13 +1,13 @@
 cheats = 3
 
-cheat0_desc = "Start With 9 Lives"
+cheat0_desc = "从 9 条生命开始"
 cheat0_code = "PEYKNO"
 cheat0_enable = false
 
-cheat1_desc = "Infinite Lives"
+cheat1_desc = "无限生命"
 cheat1_code = "SXYGOZ"
 cheat1_enable = false
 
-cheat2_desc = "Gain Hammer After Jumping"
+cheat2_desc = "跳跃后获得锤子"
 cheat2_code = "PEZISA"
 cheat2_enable = false

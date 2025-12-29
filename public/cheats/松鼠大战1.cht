@@ -1,9 +1,9 @@
 cheats = 2
 
-cheat0_desc = "Select Button Shows Debug Mode"
+cheat0_desc = "选择按钮显示调试模式"
 cheat0_code = "ENOAUPEI"
 cheat0_enable = false
 
-cheat1_desc = "Select Button Removes Enemies And Apples"
+cheat1_desc = "选择按钮删除敌人和苹果"
 cheat1_code = "EYOAUZEI"
 cheat1_enable = false

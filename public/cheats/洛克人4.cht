@@ -1,637 +1,637 @@
 cheats = 159
 
-cheat0_desc = "Infinite energy [invincibility]"
+cheat0_desc = "无限能量【无敌】"
 cheat0_code = "EUNGZAEP"
 cheat0_enable = false
 
-cheat1_desc = "Start With Infinite Time Stopper [Bright Man]"
+cheat1_desc = "从无限时间停止者开始[Bright Man]"
 cheat1_code = "KUNGZAEO"
 cheat1_enable = false
 
-cheat2_desc = "Start With Infinite Dive Missile [Dive Man]"
+cheat2_desc = "从无限俯冲导弹开始【潜水人】"
 cheat2_code = "NUNGZAEP"
 cheat2_enable = false
 
-cheat3_desc = "Start With Infinite Skull Barrier [Skull Man]"
+cheat3_desc = "从无限骷髅结界开始【骷髅人】"
 cheat3_code = "SUNGZAEO"
 cheat3_enable = false
 
-cheat4_desc = "Start With Infinite Ring Boomerang [Ring Man]"
+cheat4_desc = "从无限环回旋镖开始 [Ring Man]"
 cheat4_code = "EUNGZAEO"
 cheat4_enable = false
 
-cheat5_desc = "Start With Infinite Drill Bombs [Drill Man]"
+cheat5_desc = "从无限钻头炸弹开始 [Drill Man]"
 cheat5_code = "OUNGZAEO"
 cheat5_enable = false
 
-cheat6_desc = "Start With Infinite Rain Flush [Toad Man]"
+cheat6_desc = "从无限雨冲洗开始[蟾蜍人]"
 cheat6_code = "KUNGZAEP"
 cheat6_enable = false
 
-cheat7_desc = "Start With Infinite Dust Crusher [Dust Man]"
+cheat7_desc = "从无限灰尘粉碎机开始[灰尘人]"
 cheat7_code = "XUNGZAEO"
 cheat7_enable = false
 
-cheat8_desc = "Start With Infinite Pharaoh Shot [Pharaoh Man]"
+cheat8_desc = "从无限法老射击开始【法老王男人】"
 cheat8_code = "UUNGZAEO"
 cheat8_enable = false
 
-cheat9_desc = "Start With Infinite Rush Marine"
+cheat9_desc = "从 Infinite Rush Marine 开始"
 cheat9_code = "UUNGZAEP"
 cheat9_enable = false
 
-cheat10_desc = "Start With Infinite Rush Jet"
+cheat10_desc = "从无限冲锋开始"
 cheat10_code = "XUNGZAEP"
 cheat10_enable = false
 
-cheat11_desc = "Start With Infinite Balloons"
+cheat11_desc = "从无限气球开始"
 cheat11_code = "VUNGZAEP"
 cheat11_enable = false
 
-cheat12_desc = "Start With Infinite Wire"
+cheat12_desc = "从无限线开始"
 cheat12_code = "SUNGZAEP"
 cheat12_enable = false
 
-cheat13_desc = "Start With Infinite Rush Coil"
+cheat13_desc = "从无限冲击线圈开始"
 cheat13_code = "OUNGZAEP"
 cheat13_enable = false
 
-cheat14_desc = "Start With Infinite E-Tanks"
+cheat14_desc = "从无限电子坦克开始"
 cheat14_code = "OSTOTV"
 cheat14_enable = false
 
-cheat15_desc = "Start With 200 E-Tanks"
+cheat15_desc = "从 200 个电子坦克开始"
 cheat15_code = "PETOTV"
 cheat15_enable = false
 
-cheat16_desc = "Start With All Weapons"
+cheat16_desc = "从所有武器开始"
 cheat16_code = "ETGPUO"
 cheat16_enable = false
 
-cheat17_desc = "Kill An Enemy In One Shot [Not Bosses - Can't Slid"
+cheat17_desc = "一枪杀死敌人 [不是 Boss - 无法滑行"
 cheat17_code = "ZTGAAP"
 cheat17_enable = false
 
-cheat18_desc = "Small Health Capsules Refill Health Completely"
+cheat18_desc = "小健康胶囊完全补充健康"
 cheat18_code = "TVZLXG"
 cheat18_enable = false
 
-cheat19_desc = "Large Health Capsules Refill Health Completely"
+cheat19_desc = "大健康胶囊完全补充健康"
 cheat19_code = "TVZLOG"
 cheat19_enable = false
 
-cheat20_desc = "Small Weapon Capsules Refill Weapon Completely"
+cheat20_desc = "小型武器胶囊可完全填充武器"
 cheat20_code = "TVZLKG"
 cheat20_enable = false
 
-cheat21_desc = "Large Weapon Capsules Refill Weapon Completely"
+cheat21_desc = "大型武器胶囊可完全填充武器"
 cheat21_code = "TVZLUG"
 cheat21_enable = false
 
-cheat22_desc = "Move Superfast"
+cheat22_desc = "超快移动"
 cheat22_code = "ALIENE"
 cheat22_enable = false
 
-cheat23_desc = "Walkthru [Can Get Hurt Once In Awhile]"
+cheat23_desc = "Walkthru [偶尔会受伤]"
 cheat23_code = "YELAZO"
 cheat23_enable = false
 
-cheat24_desc = "Walkthru When You Hold The B Button"
+cheat24_desc = "按住 B 按钮时的演练"
 cheat24_code = "VKLEGO"
 cheat24_enable = false
 
-cheat25_desc = "When You Get Hit, Move A Lot Faster For A Couple Of Seconds"
+cheat25_desc = "当你被击中时，移动得更快几秒钟"
 cheat25_code = "VKTALU"
 cheat25_enable = false
 
-cheat26_desc = "Rapid Fire And The Bosses Barely Move"
+cheat26_desc = "快速射击，老板们几乎不动"
 cheat26_code = "PILAUI"
 cheat26_enable = false
 
-cheat27_desc = "Charge M. Buster And You'll Have Rapid Fire"
+cheat27_desc = "向 M. Buster 冲锋，你将获得快速射击"
 cheat27_code = "OKYAKK"
 cheat27_enable = false
 
-cheat28_desc = "Enemies Drop Large Weapon Capsules Everytime"
+cheat28_desc = "敌人每次都会掉落大型武器胶囊"
 cheat28_code = "OKPLOK"
 cheat28_enable = false
 
-cheat29_desc = "Enemies Drop A 1-Up Everytime"
+cheat29_desc = "敌人每次都会掉落 1-Up"
 cheat29_code = "OKPLEK"
 cheat29_enable = false
 
-cheat30_desc = "Don't Flash When You Charge Your Gun"
+cheat30_desc = "给枪充电时不要闪光"
 cheat30_code = "GUOAIEPA"
 cheat30_enable = false
 
-cheat31_desc = "Flash Brighter When You Charge Your Gun"
+cheat31_desc = "当你给枪充电时闪光会更亮"
 cheat31_code = "ZOOAIEPA"
 cheat31_enable = false
 
-cheat32_desc = "Small Weapon Capsules Teleport You To The 2nd Half Of The Stage No Matter Where You Are"
+cheat32_desc = "无论你身在何处，小型武器胶囊都能将你传送到舞台的下半场"
 cheat32_code = "TVZUOG"
 cheat32_enable = false
 
-cheat33_desc = "Makes The Capcom Logo Go By Faster"
+cheat33_desc = "让 Capcom 标志走得更快"
 cheat33_code = "NXAITE"
 cheat33_enable = false
 
-cheat34_desc = "All Rush Are Blue Color"
+cheat34_desc = "所有 Rush 均为蓝色"
 cheat34_code = "AZPOSA"
 cheat34_enable = false
 
-cheat35_desc = "Megaman Can Have Up To 5 Balloon Weapons On Screen Instead Of 3"
+cheat35_desc = "洛克人屏幕上最多可以有 5 个气球武器，而不是 3 个"
 cheat35_code = "IAXEUYLA"
 cheat35_enable = false
 
-cheat36_desc = "Eddy Will Keep Giving Out Items Till You Leave The Screen"
+cheat36_desc = "艾迪会继续分发物品，直到你离开屏幕"
 cheat36_code = "AAOZTLIA"
 cheat36_enable = false
 
-cheat37_desc = "Start At Dr. Corsak's Castle"
+cheat37_desc = "从科萨克博士的城堡开始"
 cheat37_code = "OALKAI"
 cheat37_enable = false
 
-cheat38_desc = "No music"
+cheat38_desc = "没有音乐"
 cheat38_code = "EKNGZAEP"
 cheat38_enable = false
 
-cheat39_desc = "Music Changes Randomly When You Shoot"
+cheat39_desc = "拍摄时音乐会随机变化"
 cheat39_code = "IVOAIEPA"
 cheat39_enable = false
 
-cheat40_desc = "When You Get Hit, The S.E. Are Of Dr. Wily's Space"
+cheat40_desc = "当你被击中时，S.E.属于威利博士的空间"
 cheat40_code = "VKYAAO"
 cheat40_enable = false
 
-cheat41_desc = "No Sound When You Charge Your Gun"
+cheat41_desc = "给枪充电时没有声音"
 cheat41_code = "PEOAIEPA"
 cheat41_enable = false
 
-cheat42_desc = "Start with 1 life"
+cheat42_desc = "从 1 条生命开始"
 cheat42_code = "AAUKZIZA"
 cheat42_enable = false
 
-cheat43_desc = "Start with 6 lives"
+cheat43_desc = "从 6 条生命开始"
 cheat43_code = "IAUKZIZA"
 cheat43_enable = false
 
-cheat44_desc = "Start with 9 lives"
+cheat44_desc = "从 9 条生命开始"
 cheat44_code = "AAUKZIZE"
 cheat44_enable = false
 
-cheat45_desc = "Infinite lives"
+cheat45_desc = "无限生命"
 cheat45_code = "SZUGUAVG"
 cheat45_enable = false
 
-cheat46_desc = "Infinite &quot;energy&quot; pods on pick-up"
+cheat46_desc = "无限的“能量”接机时的吊舱"
 cheat46_code = "GXNPZTVG"
 cheat46_enable = false
 
-cheat47_desc = "Instant megablast!"
+cheat47_desc = "瞬间巨爆！"
 cheat47_code = "AEOAIEPA"
 cheat47_enable = false
 
-cheat48_desc = "Longer sliding"
+cheat48_desc = "更长的滑动"
 cheat48_code = "YXEAIOZO"
 cheat48_enable = false
 
-cheat49_desc = "Shorter sliding"
+cheat49_desc = "较短的滑动"
 cheat49_code = "ZOEAIOZP"
 cheat49_enable = false
 
-cheat50_desc = "Faster sliding"
+cheat50_desc = "滑动速度更快"
 cheat50_code = "GEOAGPZA"
 cheat50_enable = false
 
-cheat51_desc = "Mega Man mega-jumping!"
+cheat51_desc = "洛克人超级跳跃！"
 cheat51_code = "AAKEYPIE"
 cheat51_enable = false
 
-cheat52_desc = "Infinite weapon power"
+cheat52_desc = "无限的武器威力"
 cheat52_code = "GXENESOO"
 cheat52_enable = false
 
-cheat53_desc = "Don't take damage from bad guys"
+cheat53_desc = "不要受到坏人的伤害"
 cheat53_code = "GXVEIPSA"
 cheat53_enable = false
 
-cheat54_desc = "Infinite Energy"
+cheat54_desc = "无限能量"
 cheat54_code = "SXVEIPSA"
 cheat54_enable = false
 
-cheat55_desc = "Start with 9 Lives"
+cheat55_desc = "从 9 条生命开始"
 cheat55_code = "PAUKZIZE"
 cheat55_enable = false
 
-cheat56_desc = "Invincibility without invisibility"
+cheat56_desc = "无敌无隐形"
 cheat56_code = "ZAXETVGL"
 cheat56_enable = false
 
-cheat57_desc = "Infinite Invincibility"
+cheat57_desc = "无限无敌"
 cheat57_code = "SXSALAVG"
 cheat57_enable = false
 
-cheat58_desc = "Start with Invincibility"
+cheat58_desc = "从无敌开始"
 cheat58_code = "VVVEIISA"
 cheat58_enable = false
 
-cheat59_desc = "Infinite Weapons"
+cheat59_desc = "无限武器"
 cheat59_code = "OUENESOO"
 cheat59_enable = false
 
-cheat60_desc = "Allways Shot Full Megabuster"
+cheat60_desc = "总是射击完整的超级破坏者"
 cheat60_code = "AEOALAGT"
 cheat60_enable = false
 
-cheat61_desc = "Always Shoot Megabuster"
+cheat61_desc = "永远拍摄超级破坏者"
 cheat61_code = "LXKESKAP"
 cheat61_enable = false
 
-cheat62_desc = "Always Shoot Megabuster"
+cheat62_desc = "永远拍摄超级破坏者"
 cheat62_code = "0559:23"
 cheat62_enable = false
 
-cheat63_desc = "Items And Eddie Always Re-Appear"
+cheat63_desc = "物品和埃迪总是重新出现"
 cheat63_code = "0103:00"
 cheat63_enable = false
 
-cheat64_desc = "Items And Eddie Always Re-Appear"
+cheat64_desc = "物品和埃迪总是重新出现"
 cheat64_code = "AAEAGOPY"
 cheat64_enable = false
 
-cheat65_desc = "Infinite E-Tanks"
+cheat65_desc = "无限电子坦克"
 cheat65_code = "SXNPZTVG"
 cheat65_enable = false
 
-cheat66_desc = "Always Have 10 E-Tanks"
+cheat66_desc = "始终拥有 10 个电子坦克"
 cheat66_code = "VENOEASZ"
 cheat66_enable = false
 
-cheat67_desc = "Always Shoot Full Pharaoh Shoot"
+cheat67_desc = "始终拍摄完整的法老拍摄"
 cheat67_code = "PGNPZEYK"
 cheat67_enable = false
 
-cheat68_desc = "Cosack Can't Hurt You"
+cheat68_desc = "科萨克不能伤害你"
 cheat68_code = "SXEAEASA"
 cheat68_enable = false
 
-cheat69_desc = "No Enemies"
+cheat69_desc = "没有敌人"
 cheat69_code = "NYYGLN"
 cheat69_enable = false
 
-cheat70_desc = "Gameboy Mode"
+cheat70_desc = "游戏机模式"
 cheat70_code = "PINGTUAO"
 cheat70_enable = false
 
-cheat71_desc = "Jump In Midair"
+cheat71_desc = "跳入半空中"
 cheat71_code = "AUNELEEG+OAEEYPXA+GZUALPEP"
 cheat71_enable = false
 
-cheat72_desc = "Hit Anywhere"
+cheat72_desc = "击中任何地方"
 cheat72_code = "APKYKXOU+ATKYSXAZ"
 cheat72_enable = false
 
-cheat73_desc = "One Hit Kill Alternative"
+cheat73_desc = "一击必杀替代方案"
 cheat73_code = "GZUALLEL"
 cheat73_enable = false
 
-cheat74_desc = "Enemies Always Drop Small Weapon Refill"
+cheat74_desc = "敌人总是会掉落小型武器补充装"
 cheat74_code = "LEOUXUEY+AEOLNLTA+PEOLELGA"
 cheat74_enable = false
 
-cheat75_desc = "Enemies Always Drop Small Energy Refill"
+cheat75_desc = "敌人总是会掉落小型能量补充品"
 cheat75_code = "LEOUXUEY+AEOLNLTA+LEOLELGA"
 cheat75_enable = false
 
-cheat76_desc = "Enemies Always Drop Big Weapon Refill"
+cheat76_desc = "敌人总是会掉落大型武器补充装"
 cheat76_code = "LEOUXUEY+AEOLNLTA+IEOLELGA"
 cheat76_enable = false
 
-cheat77_desc = "Enemies Always Drop Big Energy Refill"
+cheat77_desc = "敌人总是会掉落大量能量补充品"
 cheat77_code = "LEOUXUEY+AEOLNLTA+ZEOLELGA"
 cheat77_enable = false
 
-cheat78_desc = "Enemies Always Drop Lives"
+cheat78_desc = "敌人总是会丢掉生命"
 cheat78_code = "LEOUXUEY+AEOLNLTA"
 cheat78_enable = false
 
-cheat79_desc = "255 Maximum Lives"
+cheat79_desc = "255 最大生命"
 cheat79_code = "NNNUOUPE"
 cheat79_enable = false
 
-cheat80_desc = "Collectable Items Never Disappear"
+cheat80_desc = "收藏品永远不会消失"
 cheat80_code = "AVSUEUVI"
 cheat80_enable = false
 
-cheat81_desc = "Continually Hit Anywhere"
+cheat81_desc = "连续打击任何地方"
 cheat81_code = "GZKYXZEY+APKYKXOU+ATKYSXAZ"
 cheat81_enable = false
 
-cheat82_desc = "Faster Running"
+cheat82_desc = "跑得更快"
 cheat82_code = "ZANKPTPA+ZEVALLPA"
 cheat82_enable = false
 
-cheat83_desc = "Stay Invincible Against Spikes and Enemies After Being Hit"
+cheat83_desc = "被击中后对尖刺和敌人保持无敌"
 cheat83_code = "SESALAVG+ILXETVGU"
 cheat83_enable = false
 
-cheat84_desc = "Play Game In Black And White Mode"
+cheat84_desc = "以黑白模式玩游戏"
 cheat84_code = "OXKGGASX+POKGIEVN"
 cheat84_enable = false
 
-cheat85_desc = "Mega Man Flashes In Cool Color Combinations"
+cheat85_desc = "洛克人以冷色组合闪烁"
 cheat85_code = "ZXXAPEZK+ZXXAZEZK"
 cheat85_enable = false
 
-cheat86_desc = "Infinite Health"
+cheat86_desc = "无限健康"
 cheat86_code = "00B0:9F"
 cheat86_enable = false
 
-cheat87_desc = "No Boss Health"
+cheat87_desc = "没有老板健康"
 cheat87_code = "00BF:00+0467:00"
 cheat87_enable = false
 
-cheat88_desc = "Infinite Lives"
+cheat88_desc = "无限生命"
 cheat88_code = "00A1:09"
 cheat88_enable = false
 
-cheat89_desc = "Untouchable"
+cheat89_desc = "贱民"
 cheat89_code = "003C:1F"
 cheat89_enable = false
 
-cheat90_desc = "Big Jump"
+cheat90_desc = "大跳跃"
 cheat90_code = "03D8:81"
 cheat90_enable = false
 
-cheat91_desc = "Suit Modifier"
+cheat91_desc = "套装修饰符"
 cheat91_code = "00A0:01"
 cheat91_enable = false
 
-cheat92_desc = "Progress Modifier"
+cheat92_desc = "进度修改器"
 cheat92_code = "00A9:1B"
 cheat92_enable = false
 
-cheat93_desc = "Start At Second Group of Dr. Cossack Stages"
+cheat93_desc = "从第二组哥萨克博士阶段开始"
 cheat93_code = "00A9:FF+00AA:63"
 cheat93_enable = false
 
-cheat94_desc = "Auto Fire Mega Buster"
+cheat94_desc = "自动射击巨型克星"
 cheat94_code = "0035:5C"
 cheat94_enable = false
 
-cheat95_desc = "Infinite Time For 1st Balloon Adapter"
+cheat95_desc = "第一个气球适配器的无限时间"
 cheat95_code = "046B:FE"
 cheat95_enable = false
 
-cheat96_desc = "Infinite Time For 2nd Balloon Adapter"
+cheat96_desc = "第二个气球适配器的无限时间"
 cheat96_code = "046A:FE"
 cheat96_enable = false
 
-cheat97_desc = "Infinite Time For 3rd Balloon Adapter"
+cheat97_desc = "第三个气球适配器的无限时间"
 cheat97_code = "0469:FE"
 cheat97_enable = false
 
-cheat98_desc = "Infinite Time For Rush Coil"
+cheat98_desc = "冲击线圈的无限时间"
 cheat98_code = "0484:FE"
 cheat98_enable = false
 
-cheat99_desc = "Robot Masters Have No Invulnerability Time"
+cheat99_desc = "机器人大师没有刀枪不入的时间"
 cheat99_code = "05CF:00"
 cheat99_enable = false
 
-cheat100_desc = "Infinite Flash Stopper"
+cheat100_desc = "无限闪停器"
 cheat100_code = "00BC:9F"
 cheat100_enable = false
 
-cheat101_desc = "Infinite Drill Bombs"
+cheat101_desc = "无限钻头炸弹"
 cheat101_code = "00B9:9F"
 cheat101_enable = false
 
-cheat102_desc = "Infinite Ring Boomerang"
+cheat102_desc = "无限环回旋镖"
 cheat102_code = "00B8:9F"
 cheat102_enable = false
 
-cheat103_desc = "Infinite Dive Missile"
+cheat103_desc = "无限俯冲导弹"
 cheat103_code = "00B7:9F"
 cheat103_enable = false
 
-cheat104_desc = "Infinite Rush Coil"
+cheat104_desc = "无限冲击线圈"
 cheat104_code = "00B1:9F"
 cheat104_enable = false
 
-cheat105_desc = "Infinite Wire"
+cheat105_desc = "无限线"
 cheat105_code = "00B5:9F"
 cheat105_enable = false
 
-cheat106_desc = "Infinite Rain Flush"
+cheat106_desc = "无限雨冲洗"
 cheat106_code = "00B4:9F"
 cheat106_enable = false
 
-cheat107_desc = "Infinite Pharaoh Shot"
+cheat107_desc = "无限法老射击"
 cheat107_code = "00BB:9F"
 cheat107_enable = false
 
-cheat108_desc = "Infinite Dust Crusher"
+cheat108_desc = "无限粉尘粉碎机"
 cheat108_code = "00BA:9F"
 cheat108_enable = false
 
-cheat109_desc = "Infinite Rush Jet"
+cheat109_desc = "无限喷射喷射"
 cheat109_code = "00B2:9F"
 cheat109_enable = false
 
-cheat110_desc = "Infinite Skull Shield"
+cheat110_desc = "无限骷髅盾"
 cheat110_code = "00BD:9F"
 cheat110_enable = false
 
-cheat111_desc = "Infinite Balloon"
+cheat111_desc = "无限气球"
 cheat111_code = "00B6:9F"
 cheat111_enable = false
 
-cheat112_desc = "Infinite Rush Marine"
+cheat112_desc = "无限冲锋海军陆战队"
 cheat112_code = "00B3:9F"
 cheat112_enable = false
 
-cheat113_desc = "Infinite Slide"
+cheat113_desc = "无限滑动"
 cheat113_code = "0034:10"
 cheat113_enable = false
 
-cheat114_desc = "Super Jump"
+cheat114_desc = "超级跳跃"
 cheat114_code = "0041:60"
 cheat114_enable = false
 
-cheat115_desc = "Climb Anywhere"
+cheat115_desc = "随处攀爬"
 cheat115_code = "0045:20"
 cheat115_enable = false
 
-cheat116_desc = "Straight to Wily's Area"
+cheat116_desc = "直接前往Wily的区域"
 cheat116_code = "00A9:FF"
 cheat116_enable = false
 
-cheat117_desc = "Invulnerability"
+cheat117_desc = "刀枪不入"
 cheat117_code = "AUUAIPAP"
 cheat117_enable = false
 
-cheat118_desc = "Invulnerability (Alt)"
+cheat118_desc = "刀枪不入 (Alt)"
 cheat118_code = "ENUEPPEI"
 cheat118_enable = false
 
-cheat119_desc = "Invulnerability (Alt 2)"
+cheat119_desc = "刀枪不入（替代项 2）"
 cheat119_code = "ESSAPAEY"
 cheat119_enable = false
 
-cheat120_desc = "Hyper Speed Music"
+cheat120_desc = "超高速音乐"
 cheat120_code = "AUVEALAP"
 cheat120_enable = false
 
-cheat121_desc = "No Sound Effects"
+cheat121_desc = "无音效"
 cheat121_code = "ELXAZYEP"
 cheat121_enable = false
 
-cheat122_desc = "No Sound Effects (Alt)"
+cheat122_desc = "无音效（替代）"
 cheat122_code = "EISAGZEY"
 cheat122_enable = false
 
-cheat123_desc = "Enemies Don't Shoot"
+cheat123_desc = "敌人不开枪"
 cheat123_code = "EYNYVLEI"
 cheat123_enable = false
 
-cheat124_desc = "Stage Backgrounds Are Dark"
+cheat124_desc = "舞台背景较暗"
 cheat124_code = "EIXVGGEY"
 cheat124_enable = false
 
-cheat125_desc = "Automatically Shoot"
+cheat125_desc = "自动拍摄"
 cheat125_code = "EIUAUIEY"
 cheat125_enable = false
 
-cheat126_desc = "Slow Motion"
+cheat126_desc = "慢动作"
 cheat126_code = "ENNKTAEI"
 cheat126_enable = false
 
-cheat127_desc = "Walk Behind Backgrounds"
+cheat127_desc = "走在背景后面"
 cheat127_code = "ENNGYTEI"
 cheat127_enable = false
 
-cheat128_desc = "Hit Almost Anywhere"
+cheat128_desc = "几乎可以击中任何地方"
 cheat128_code = "EOXNSZEL"
 cheat128_enable = false
 
-cheat129_desc = "One Hit Kills"
+cheat129_desc = "一击必杀"
 cheat129_code = "EPUALLEL"
 cheat129_enable = false
 
-cheat130_desc = "Shoot A Normal And Charged Shot At The Same Time"
+cheat130_desc = "同时进行普通射击和蓄力射击"
 cheat130_code = "EUOAGAEP"
 cheat130_enable = false
 
-cheat131_desc = "One Shot Can Kill Multiple Enemies (And Takes Less Shots)"
+cheat131_desc = "一枪可以杀死多个敌人（并且射击次数更少）"
 cheat131_code = "ESNAGZEY"
 cheat131_enable = false
 
-cheat132_desc = "Color Beams Do Not Move When Standing On Them"
+cheat132_desc = "彩色光束站在上面时不会移动"
 cheat132_code = "ALXXTAAP"
 cheat132_enable = false
 
-cheat133_desc = "Color Beams Are Easier To Walk Across"
+cheat133_desc = "彩色光束更容易走过"
 cheat133_code = "EOONOPEL"
 cheat133_enable = false
 
-cheat134_desc = "Color Beams Are Harder To Walk Across"
+cheat134_desc = "彩色光束更难走过"
 cheat134_code = "AOSXLAAL"
 cheat134_enable = false
 
-cheat135_desc = "Color Beams Do Not Move When Standing On Them (Alt)"
+cheat135_desc = "彩色光束站在其上时不会移动（Alt）"
 cheat135_code = "EOXNUPEL"
 cheat135_enable = false
 
-cheat136_desc = "Color Beams Do Not Move When Standing On Them (Alt 2)"
+cheat136_desc = "彩色光束站在其上时不会移动（替代方案 2）"
 cheat136_code = "EPXZYAEL"
 cheat136_enable = false
 
-cheat137_desc = "Color Beams Do Not Move When Standing On Them (Alt 3)"
+cheat137_desc = "彩色光束站在其上时不会移动（选项 3）"
 cheat137_code = "EIOZAPEY"
 cheat137_enable = false
 
-cheat138_desc = "Color Beams Do Not Move When Standing On Them (Alt 4)"
+cheat138_desc = "彩色光束站在其上时不会移动（选项 4）"
 cheat138_code = "ENEYOPEI"
 cheat138_enable = false
 
-cheat139_desc = "Color Beams Move When Not Standing On Them"
+cheat139_desc = "彩色光束不站在上面时会移动"
 cheat139_code = "EPOXTAEL"
 cheat139_enable = false
 
-cheat140_desc = "Takes Less Shots To Kill Enemies"
+cheat140_desc = "减少射击次数来杀死敌人"
 cheat140_code = "ASNEAZEY"
 cheat140_enable = false
 
-cheat141_desc = "Shots Pierce Through Most Enemies"
+cheat141_desc = "射击可穿透大多数敌人"
 cheat141_code = "SXSYKKOO"
 cheat141_enable = false
 
-cheat142_desc = "Checkpoint Modifier"
+cheat142_desc = "检查点修改器"
 cheat142_code = ""
 cheat142_enable = false
 
-cheat143_desc = "Skip Intro Screens"
+cheat143_desc = "跳过介绍屏幕"
 cheat143_code = "AAONXNXY+KGUEAESK"
 cheat143_enable = false
 
-cheat144_desc = "Walk Through Walls"
+cheat144_desc = "穿墙而过"
 cheat144_code = "XVXSUOSO+XVKIOOSO+NNUIKOAK+NNKSXOAK"
 cheat144_enable = false
 
-cheat145_desc = "Blink 1.5x Longer After Being Hit"
+cheat145_desc = "被击中后眨眼时间延长 1.5 倍"
 cheat145_code = "ZIXETVGU"
 cheat145_enable = false
 
-cheat146_desc = "Blink 2x Longer After Being Hit"
+cheat146_desc = "被击中后眨眼时间延长 2 倍"
 cheat146_code = "AYXETVGU"
 cheat146_enable = false
 
-cheat147_desc = "Continue with 9 Lives"
+cheat147_desc = "继续9条命"
 cheat147_code = "PENEETZE"
 cheat147_enable = false
 
-cheat148_desc = "Start With Rush Jet, Rush Marine, Wire, And Balloon"
+cheat148_desc = "从 Rush Jet、Rush Marine、钢丝和气球开始"
 cheat148_code = "XTUKISOX+AZUKTSKP+YYUKYISE+VYKGAIOL+OZNNYVNN+KOEYAVNN+SEEYPVNY+OUEYZVNY+SEEYLVNY+XUEYGVNY+SEEYIVNY+UUEYTVNY+SEEYYVNY+SUENAVNY+SEENPVNY+VUENZVNY+AVENLVNY"
 cheat148_enable = false
 
-cheat149_desc = "Walk Through Walls V2"
+cheat149_desc = "穿墙V2"
 cheat149_code = "AVXSEOAL+AVUSSOAL"
 cheat149_enable = false
 
-cheat150_desc = "Invincibility Against Spikes"
+cheat150_desc = "对尖刺无敌"
 cheat150_code = "AIEEYAEI"
 cheat150_enable = false
 
-cheat151_desc = "Take Less Damage"
+cheat151_desc = "减少伤害"
 cheat151_code = "SVVAGOON+PKVAIPLO"
 cheat151_enable = false
 
-cheat152_desc = "Take Much Less Damage"
+cheat152_desc = "受到的伤害要少得多"
 cheat152_code = "SVVAGOON+GKVAIPLO"
 cheat152_enable = false
 
-cheat153_desc = "Title screen music modifier"
+cheat153_desc = "标题画面音乐修改器"
 cheat153_code = ""
 cheat153_enable = false
 
-cheat154_desc = "Disable title demo"
+cheat154_desc = "禁用标题演示"
 cheat154_code = ""
 cheat154_enable = false
 
-cheat155_desc = "View Ending At Start Of Level"
+cheat155_desc = "查看关卡开始处的结束位置"
 cheat155_code = "LPVKTVZA"
 cheat155_enable = false
 
-cheat156_desc = "View Ending On Power On"
+cheat156_desc = "开机时查看结束"
 cheat156_code = "LAEAPATL+EAEAZEVA"
 cheat156_enable = false
 
-cheat157_desc = "View Ending On Power On (Better Version Than The Other I Made))"
+cheat157_desc = "开机时查看结局（比我制作的其他版本更好））"
 cheat157_code = "LPVKTVZA+TIUGASPU+SXEGGTAX"
 cheat157_enable = false
 
-cheat158_desc = "Most Objects Become Solid"
+cheat158_desc = "大多数物体都会变成固体"
 cheat158_code = "SZXAPOOU+UINEYPEP"
 cheat158_enable = false

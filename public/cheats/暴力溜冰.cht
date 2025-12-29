@@ -1,105 +1,105 @@
 cheats = 26
 
-cheat0_desc = "Infinite lives"
+cheat0_desc = "无限生命"
 cheat0_code = "SXENAYVG"
 cheat0_enable = false
 
-cheat1_desc = "9 special moves"
+cheat1_desc = "9个特殊动作"
 cheat1_code = "PASAZALE"
 cheat1_enable = false
 
-cheat2_desc = "6 special moves"
+cheat2_desc = "6个特殊动作"
 cheat2_code = "TASAZALA"
 cheat2_enable = false
 
-cheat3_desc = "Infinite special moves"
+cheat3_desc = "无限特殊动作"
 cheat3_code = "GXVPAZVG"
 cheat3_enable = false
 
-cheat4_desc = "Start with less energy"
+cheat4_desc = "从更少的能量开始"
 cheat4_code = "TASATEGA"
 cheat4_enable = false
 
-cheat5_desc = "Start with more energy"
+cheat5_desc = "从更多能量开始"
 cheat5_code = "APSATEGE"
 cheat5_enable = false
 
-cheat6_desc = "Mega-jump"
+cheat6_desc = "超级跳跃"
 cheat6_code = "PAKAAGAE"
 cheat6_enable = false
 
-cheat7_desc = "Stop timer"
+cheat7_desc = "停止计时器"
 cheat7_code = "GZOENISA"
 cheat7_enable = false
 
-cheat8_desc = "Faster timer"
+cheat8_desc = "更快的计时器"
 cheat8_code = "YPOAUSYU"
 cheat8_enable = false
 
-cheat9_desc = "Slower timer"
+cheat9_desc = "较慢的计时器"
 cheat9_code = "YYOAUSYU"
 cheat9_enable = false
 
-cheat10_desc = "Infinite Energy"
+cheat10_desc = "无限能量"
 cheat10_code = "04CE:0C"
 cheat10_enable = false
 
-cheat11_desc = "Infinite Time"
+cheat11_desc = "无限时间"
 cheat11_code = "0082:10"
 cheat11_enable = false
 
-cheat12_desc = "Infinite Lives"
+cheat12_desc = "无限生命"
 cheat12_code = "0032:03"
 cheat12_enable = false
 
-cheat13_desc = "Infinite  Energy"
+cheat13_desc = "无限能量"
 cheat13_code = "SPSEGVSU"
 cheat13_enable = false
 
-cheat14_desc = "Stage Select"
+cheat14_desc = "阶段选择"
 cheat14_code = "0030:00"
 cheat14_enable = false
 
-cheat15_desc = "Infinite Time (One's Digit)"
+cheat15_desc = "无限时间（一个人的数字）"
 cheat15_code = "0082:99"
 cheat15_enable = false
 
-cheat16_desc = "Infinite Time (Hundred's Digit)"
+cheat16_desc = "无限时间（百位数）"
 cheat16_code = "0081:09"
 cheat16_enable = false
 
-cheat17_desc = "Infinite Lives P1"
+cheat17_desc = "无限生命 P1"
 cheat17_code = "0032:99"
 cheat17_enable = false
 
-cheat18_desc = "Infinite Special Moves P1"
+cheat18_desc = "无限必杀技P1"
 cheat18_code = "0094:09"
 cheat18_enable = false
 
-cheat19_desc = "Infinite Health P1"
+cheat19_desc = "无限健康 P1"
 cheat19_code = "04CE:0F"
 cheat19_enable = false
 
-cheat20_desc = "Removes All HUDs"
+cheat20_desc = "删除所有 HUD"
 cheat20_code = "0080:09"
 cheat20_enable = false
 
-cheat21_desc = "Higher Faster Jump"
+cheat21_desc = "跳得更高更快"
 cheat21_code = "ZAVAPGIL"
 cheat21_enable = false
 
-cheat22_desc = "High Slower Jump"
+cheat22_desc = "高慢跳"
 cheat22_code = "ENEEIGEI+AEEETGAG"
 cheat22_enable = false
 
-cheat23_desc = "Bypassing Platforms (Switch off to jump)"
+cheat23_desc = "绕过平台（关闭跳跃）"
 cheat23_code = "AASEGGPA"
 cheat23_enable = false
 
-cheat24_desc = "Press SELECT Button To Jump Instead of A"
+cheat24_desc = "按 SELECT 按钮代替 A 跳转"
 cheat24_code = "AZUEGGEA"
 cheat24_enable = false
 
-cheat25_desc = "Press B Button To Jump And Punch"
+cheat25_desc = "按 B 按钮跳跃和拳击"
 cheat25_code = "AGUEGGEA"
 cheat25_enable = false

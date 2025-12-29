@@ -1,21 +1,21 @@
 cheats = 5
 
-cheat0_desc = "Characters Enter Doors Super Quick"
+cheat0_desc = "角色进门速度超快"
 cheat0_code = "KAAAAI"
 cheat0_enable = false
 
-cheat1_desc = "Infinite Time (Minutes - One's Digit)"
+cheat1_desc = "无限时间（分钟 - 个位数字）"
 cheat1_code = "0431:09"
 cheat1_enable = false
 
-cheat2_desc = "Infinite Time (Minutes - Ten's Digit)"
+cheat2_desc = "无限时间（分钟 - 十位数字）"
 cheat2_code = "0432:09"
 cheat2_enable = false
 
-cheat3_desc = "Infinite Time (Seconds - Ten's Digit)"
+cheat3_desc = "无限时间（秒 - 十位数字）"
 cheat3_code = "0433:09"
 cheat3_enable = false
 
-cheat4_desc = "Infinite Time (Seconds - One's Digit)"
+cheat4_desc = "无限时间（秒 - 个位数字）"
 cheat4_code = "0434:09"
 cheat4_enable = false

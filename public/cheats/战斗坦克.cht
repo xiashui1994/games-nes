@@ -1,101 +1,101 @@
 cheats = 25
 
-cheat0_desc = "Infinite ammo!"
+cheat0_desc = "无限弹药！"
 cheat0_code = "SLXTEEVS"
 cheat0_enable = false
 
-cheat1_desc = "Start with half 150mm ammo"
+cheat1_desc = "从半发 150 毫米弹药开始"
 cheat1_code = "TOVZIAZL"
 cheat1_enable = false
 
-cheat2_desc = "Start with double 150mm ammo"
+cheat2_desc = "从双发 150 毫米弹药开始"
 cheat2_code = "LVVZIAZL"
 cheat2_enable = false
 
-cheat3_desc = "Start with more wire guided shells"
+cheat3_desc = "从更多的线导炮弹开始"
 cheat3_code = "ZUVXTAPA"
 cheat3_enable = false
 
-cheat4_desc = "Start with max wire guided shells"
+cheat4_desc = "从最大线引导炮弹开始"
 cheat4_code = "LVVXTAPA"
 cheat4_enable = false
 
-cheat5_desc = "Start with more smoke shells"
+cheat5_desc = "从更多的烟弹开始"
 cheat5_code = "ZUNXAAPA"
 cheat5_enable = false
 
-cheat6_desc = "Start with max smoke shells"
+cheat6_desc = "从最大烟弹开始"
 cheat6_code = "LVNXAAPA"
 cheat6_enable = false
 
-cheat7_desc = "Start with less 50mm shells"
+cheat7_desc = "从 50 毫米以下的炮弹开始"
 cheat7_code = "LGEZPPVO"
 cheat7_enable = false
 
-cheat8_desc = "Start with max 50mm shells"
+cheat8_desc = "从最大 50 毫米的炮弹开始"
 cheat8_code = "NYEZPPVO"
 cheat8_enable = false
 
-cheat9_desc = "Start with less 50mm ammo after mission 5"
+cheat9_desc = "任务 5 后开始减少 50 毫米弹药"
 cheat9_code = "GTEZIOEG"
 cheat9_enable = false
 
-cheat10_desc = "Start with max 50mm ammo after mission 5"
+cheat10_desc = "任务 5 后开始使用最大 50 毫米弹药"
 cheat10_code = "NYEZIOEK"
 cheat10_enable = false
 
-cheat11_desc = "Take infinite hits"
+cheat11_desc = "承受无限打击"
 cheat11_code = "SXOPAAVT+SXSLNPSA"
 cheat11_enable = false
 
-cheat12_desc = "Infinite Energy"
+cheat12_desc = "无限能量"
 cheat12_code = "SKOPAAVT"
 cheat12_enable = false
 
-cheat13_desc = "Infinite Fuel"
+cheat13_desc = "无限燃料"
 cheat13_code = "SKUAANSE"
 cheat13_enable = false
 
-cheat14_desc = "Infinite Weapons"
+cheat14_desc = "无限武器"
 cheat14_code = "SIXTEEVS+SGKVINVK"
 cheat14_enable = false
 
-cheat15_desc = "Infinite Energy"
+cheat15_desc = "无限能量"
 cheat15_code = "00A2:00"
 cheat15_enable = false
 
-cheat16_desc = "Infinite Fuel"
+cheat16_desc = "无限燃料"
 cheat16_code = "0663:FF"
 cheat16_enable = false
 
-cheat17_desc = "Infinite 150 mm"
+cheat17_desc = "无限150毫米"
 cheat17_code = "053E:32"
 cheat17_enable = false
 
-cheat18_desc = "Infinite Wires"
+cheat18_desc = "无限电线"
 cheat18_code = "0540:01"
 cheat18_enable = false
 
-cheat19_desc = "Infinite Smoke"
+cheat19_desc = "无限烟雾"
 cheat19_code = "0541:01"
 cheat19_enable = false
 
-cheat20_desc = "Infinite .50 cal"
+cheat20_desc = "无限 0.50 卡"
 cheat20_code = "0542:96"
 cheat20_enable = false
 
-cheat21_desc = "Infinite 150mm"
+cheat21_desc = "无限150mm"
 cheat21_code = "053E:FF"
 cheat21_enable = false
 
-cheat22_desc = "Infinite Wires"
+cheat22_desc = "无限电线"
 cheat22_code = "0540:FF"
 cheat22_enable = false
 
-cheat23_desc = "Infinite Smoke"
+cheat23_desc = "无限烟雾"
 cheat23_code = "0541:FF"
 cheat23_enable = false
 
-cheat24_desc = "Infinite .50 Cal"
+cheat24_desc = "无限 .50 Cal"
 cheat24_code = "0542:FF"
 cheat24_enable = false

@@ -1,97 +1,97 @@
 cheats = 24
 
-cheat0_desc = "Infinite time"
+cheat0_desc = "无限时间"
 cheat0_code = "GXKVKXVK"
 cheat0_enable = false
 
-cheat1_desc = "Both players start with 1/3 energy"
+cheat1_desc = "双方玩家一开始的能量都是 1/3"
 cheat1_code = "AUXAGAEL"
 cheat1_enable = false
 
-cheat2_desc = "You can select any character in story mode"
+cheat2_desc = "故事模式下可以选择任意角色"
 cheat2_code = "YAVAZLGA"
 cheat2_enable = false
 
-cheat3_desc = "Infinite continues"
+cheat3_desc = "无限继续"
 cheat3_code = "OKKEZTVG"
 cheat3_enable = false
 
-cheat4_desc = "Whoever gets the first hit wins the round"
+cheat4_desc = "谁先击中谁就赢得了这一轮"
 cheat4_code = "PEXAGAEL"
 cheat4_enable = false
 
-cheat5_desc = "Infinite Energy"
+cheat5_desc = "无限能量"
 cheat5_code = "0590:B0+0647:B0"
 cheat5_enable = false
 
-cheat6_desc = "Infinite Energy"
+cheat6_desc = "无限能量"
 cheat6_code = "OZVVVTEO+ELVVNVLP+SANTOVSU"
 cheat6_enable = false
 
-cheat7_desc = "Play Hothead Vs Hothead"
+cheat7_desc = "玩 性急 VS 性急"
 cheat7_code = "AENEZPIE"
 cheat7_enable = false
 
-cheat8_desc = "Start a New Game to View the Ending"
+cheat8_desc = "开始新游戏查看结局"
 cheat8_code = "LEXYLGZE"
 cheat8_enable = false
 
-cheat9_desc = "Hit Anywhere P1"
+cheat9_desc = "打到任何地方 P1"
 cheat9_code = "XTOZVXOU+ETOZNZAL+AAOXEZGA+ILOXXZAK"
 cheat9_enable = false
 
-cheat10_desc = "Disable Blocking Both Players"
+cheat10_desc = "禁用阻止两个玩家"
 cheat10_code = "AEVXXZLA"
 cheat10_enable = false
 
-cheat11_desc = "Only Need To Win One Round To Win Match"
+cheat11_desc = "只需赢得一轮即可赢得比赛"
 cheat11_code = "OZNEOXPV+ZANEXZPA"
 cheat11_enable = false
 
-cheat12_desc = "One Round To Win, P1 (Activate After Title Screen)"
+cheat12_desc = "一回合获胜，P1（标题屏幕后激活）"
 cheat12_code = "0649:02"
 cheat12_enable = false
 
-cheat13_desc = "Infinite Health P1"
+cheat13_desc = "无限健康 P1"
 cheat13_code = "0590:76"
 cheat13_enable = false
 
-cheat14_desc = "Infinite Health P1"
+cheat14_desc = "无限健康 P1"
 cheat14_code = "0590:B0"
 cheat14_enable = false
 
-cheat15_desc = "No Health P2"
+cheat15_desc = "无生命值 P2"
 cheat15_code = "0591:00"
 cheat15_enable = false
 
-cheat16_desc = "Infinite Time (One's Digit)"
+cheat16_desc = "无限时间（一个人的数字）"
 cheat16_code = "0673:09"
 cheat16_enable = false
 
-cheat17_desc = "Infinite Time (One's Digit)"
+cheat17_desc = "无限时间（一个人的数字）"
 cheat17_code = "0672:09"
 cheat17_enable = false
 
-cheat18_desc = "Character Highlighter Modifier P1"
+cheat18_desc = "字符荧光笔修改器 P1"
 cheat18_code = "00A2:00"
 cheat18_enable = false
 
-cheat19_desc = "Character Highlighter Modifier P2"
+cheat19_desc = "字符荧光笔修改器 P2"
 cheat19_code = "00A3:00"
 cheat19_enable = false
 
-cheat20_desc = "Level Highlighter Modifier (VS Mode)"
+cheat20_desc = "级别荧光笔修改器（VS 模式）"
 cheat20_code = "04A0:00"
 cheat20_enable = false
 
-cheat21_desc = "Turn Off Computer's A.I."
+cheat21_desc = "关闭计算机的 A.I."
 cheat21_code = "06C3:00+06C7:00+06C9:00+06CB:00"
 cheat21_enable = false
 
-cheat22_desc = "Always Fight XX Instead of Normal Character"
+cheat22_desc = "总是与XX而不是普通角色战斗"
 cheat22_code = "0551:BE"
 cheat22_enable = false
 
-cheat23_desc = "Level Modifier In VS CPU"
+cheat23_desc = "VS CPU 中的级别修改器"
 cheat23_code = "009E:02"
 cheat23_enable = false

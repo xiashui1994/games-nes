@@ -1,18 +1,18 @@
 cheats = 21
 
-cheat0_desc = "Infinite Energy"
+cheat0_desc = "无限能量"
 cheat0_code = "680C:FF"
 cheat0_enable = false
 
-cheat1_desc = "No Random Battles"
+cheat1_desc = "没有随机战斗"
 cheat1_code = "040F:0A"
 cheat1_enable = false
 
-cheat2_desc = "Infinite Magic"
+cheat2_desc = "无限魔法"
 cheat2_code = "6810:FF"
 cheat2_enable = false
 
-cheat3_desc = "Max Experience"
+cheat3_desc = "最大经验"
 cheat3_code = "6809:FF+680A:FF"
 cheat3_enable = false
 
@@ -80,6 +80,6 @@ cheat19_desc = ""
 cheat19_code = ""
 cheat19_enable = false
 
-cheat20_desc = "Replace ?? in Items Slots with..."
+cheat20_desc = "代替 ？？在物品槽位中..."
 cheat20_code = ""
 cheat20_enable = false

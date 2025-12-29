@@ -1,189 +1,189 @@
 cheats = 47
 
-cheat0_desc = "Infinite Energy"
+cheat0_desc = "无限能量"
 cheat0_code = "SZEENESE"
 cheat0_enable = false
 
-cheat1_desc = "Start with 1 life"
+cheat1_desc = "从 1 条生命开始"
 cheat1_code = "PEXIZTLA"
 cheat1_enable = false
 
-cheat2_desc = "Start with 6 lives"
+cheat2_desc = "从 6 条生命开始"
 cheat2_code = "TEXIZTLA"
 cheat2_enable = false
 
-cheat3_desc = "Start with 9 lives"
+cheat3_desc = "从 9 条生命开始"
 cheat3_code = "PEXIZTLE"
 cheat3_enable = false
 
-cheat4_desc = "1 life after continue"
+cheat4_desc = "继续后 1 条生命"
 cheat4_code = "PEOSKALA"
 cheat4_enable = false
 
-cheat5_desc = "6 lives after continue"
+cheat5_desc = "继续后有 6 条生命"
 cheat5_code = "TEOSKALA"
 cheat5_enable = false
 
-cheat6_desc = "9 lives after continue"
+cheat6_desc = "继续后有 9 条生命"
 cheat6_code = "PEOSKALE"
 cheat6_enable = false
 
-cheat7_desc = "Infinite lives"
+cheat7_desc = "无限生命"
 cheat7_code = "SZNIEEVK"
 cheat7_enable = false
 
-cheat8_desc = "Stop timer"
+cheat8_desc = "停止计时器"
 cheat8_code = "GZKINOVK"
 cheat8_enable = false
 
-cheat9_desc = "Vehicle fuel never runs out"
+cheat9_desc = "汽车燃料永远不会耗尽"
 cheat9_code = "SZVSKOVK"
 cheat9_enable = false
 
-cheat10_desc = "Full energy gained from capsules"
+cheat10_desc = "从胶囊中获得全部能量"
 cheat10_code = "AAEZATZE"
 cheat10_enable = false
 
-cheat11_desc = "Less energy gained from capsules"
+cheat11_desc = "从胶囊获得的能量较少"
 cheat11_code = "PAEZATZA"
 cheat11_enable = false
 
-cheat12_desc = "Full EMDP on a new life"
+cheat12_desc = "全面少数民族发展计划开启新生活"
 cheat12_code = "LAVSKAPA"
 cheat12_enable = false
 
-cheat13_desc = "Full AGM on a new life"
+cheat13_desc = "全体股东周年大会开启新生活"
 cheat13_code = "ZAVIKAAA"
 cheat13_enable = false
 
-cheat14_desc = "Pick up 10 boomerangs"
+cheat14_desc = "拾取 10 个回旋镖"
 cheat14_code = "ZEOZZTLE"
 cheat14_enable = false
 
-cheat15_desc = "Pick up 10 fireballs"
+cheat15_desc = "捡起10个火球"
 cheat15_code = "ZAVXGTLE"
 cheat15_enable = false
 
-cheat16_desc = "Pick up 10 bombs"
+cheat16_desc = "捡起10个炸弹"
 cheat16_code = "ZEUXATLE"
 cheat16_enable = false
 
-cheat17_desc = "Pick up 10 waves"
+cheat17_desc = "拾取10波"
 cheat17_code = "ZESXTTLE"
 cheat17_enable = false
 
-cheat18_desc = "Infinite Energy"
+cheat18_desc = "无限能量"
 cheat18_code = "0639:08"
 cheat18_enable = false
 
-cheat19_desc = "Fly Higher"
+cheat19_desc = "飞得更高"
 cheat19_code = "0647:23"
 cheat19_enable = false
 
-cheat20_desc = "One Hit Kill Bosses"
+cheat20_desc = "一击杀死Boss"
 cheat20_code = "050A:00+050E:00"
 cheat20_enable = false
 
-cheat21_desc = "Hit Anywhere"
+cheat21_desc = "击中任何地方"
 cheat21_code = "SXVZLAAX+AEXXZELP"
 cheat21_enable = false
 
-cheat22_desc = "Get Items From Anywhere"
+cheat22_desc = "从任何地方获取物品"
 cheat22_code = "AEOXLOZA"
 cheat22_enable = false
 
-cheat23_desc = "Invincibility"
+cheat23_desc = "无敌"
 cheat23_code = "YZSXTKZZ+ATOXTPEY"
 cheat23_enable = false
 
-cheat24_desc = "Infinite Ammo"
+cheat24_desc = "无限弹药"
 cheat24_code = "SXUEKUVS"
 cheat24_enable = false
 
-cheat25_desc = "Infinite Time"
+cheat25_desc = "无限时间"
 cheat25_code = "0738:FF"
 cheat25_enable = false
 
-cheat26_desc = "Infinite Health"
+cheat26_desc = "无限健康"
 cheat26_code = "0639:08"
 cheat26_enable = false
 
-cheat27_desc = "Infinite Lives"
+cheat27_desc = "无限生命"
 cheat27_code = "06D6:09"
 cheat27_enable = false
 
-cheat28_desc = "Chapter/Scene Modifier"
+cheat28_desc = "章节/场景修改器"
 cheat28_code = "065F:00"
 cheat28_enable = false
 
-cheat29_desc = "Fake Scene Modifier"
+cheat29_desc = "假场景修改器"
 cheat29_code = "0066:01"
 cheat29_enable = false
 
-cheat30_desc = "Green Monster (2nd Level Boss)"
+cheat30_desc = "绿色怪物（2级Boss）"
 cheat30_code = "050A:00"
 cheat30_enable = false
 
-cheat31_desc = "Destroy Crane (1st Level Boss)"
+cheat31_desc = "摧毁起重机（第一级 Boss）"
 cheat31_code = "050B:00"
 cheat31_enable = false
 
-cheat32_desc = "Destroy Driver (1st Level Boss)"
+cheat32_desc = "消灭司机（一级 Boss）"
 cheat32_code = "050C:00"
 cheat32_enable = false
 
-cheat33_desc = "Rank Left Is 99/99"
+cheat33_desc = "剩下的排名是 99/99"
 cheat33_code = "0656:99+0657:99"
 cheat33_enable = false
 
-cheat34_desc = "Rank Is 03/03"
+cheat34_desc = "排名是 03/03"
 cheat34_code = "0651:03"
 cheat34_enable = false
 
-cheat35_desc = "Have 2nd Level of Spherical Fireballs (White & Red Box)"
+cheat35_desc = "拥有二级球形火球（白色和红色盒子）"
 cheat35_code = "065B:01"
 cheat35_enable = false
 
-cheat36_desc = "Have 2nd Level of Boomerang (Blue & White Box)"
+cheat36_desc = "拥有二级回旋镖（蓝白盒子）"
 cheat36_code = "0652:01"
 cheat36_enable = false
 
-cheat37_desc = "Have 2nd Level of Star (White & Red Box)"
+cheat37_desc = "拥有二级星星（白框和红框）"
 cheat37_code = "0653:01"
 cheat37_enable = false
 
-cheat38_desc = "Have 2nd Level of Wave (Blue & White Box)"
+cheat38_desc = "拥有二级波浪（蓝白框）"
 cheat38_code = "0654:01"
 cheat38_enable = false
 
-cheat39_desc = "Always Have Tri-Shot"
+cheat39_desc = "始终保持三连发"
 cheat39_code = "0650:03"
 cheat39_enable = false
 
-cheat40_desc = "Always Have Longest Spear"
+cheat40_desc = "永远拥有最长的矛"
 cheat40_code = "0637:03"
 cheat40_enable = false
 
-cheat41_desc = "Bullets Hit Constantly"
+cheat41_desc = "子弹不断击中"
 cheat41_code = "OUVAKANE"
 cheat41_enable = false
 
-cheat42_desc = "Skip Intro Screens"
+cheat42_desc = "跳过介绍屏幕"
 cheat42_code = "ASXZZYEI"
 cheat42_enable = false
 
-cheat43_desc = "Pick up 99 bombs"
+cheat43_desc = "捡起99颗炸弹"
 cheat43_code = ""
 cheat43_enable = false
 
-cheat44_desc = "Pick up 99 boomerangs"
+cheat44_desc = "拾取 99 个回旋镖"
 cheat44_code = ""
 cheat44_enable = false
 
-cheat45_desc = "Pick up 99 fireballs"
+cheat45_desc = "捡起99个火球"
 cheat45_code = ""
 cheat45_enable = false
 
-cheat46_desc = "Pick up 99 waves"
+cheat46_desc = "接99波"
 cheat46_code = ""
 cheat46_enable = false

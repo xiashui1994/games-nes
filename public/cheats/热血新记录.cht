@@ -1,117 +1,117 @@
 cheats = 29
 
-cheat0_desc = "Buy something to set Gold Coins to 27"
+cheat0_desc = "买东西把金币设置为27"
 cheat0_code = "OZOATYSX"
 cheat0_enable = false
 
-cheat1_desc = "Buy something to set Gold Coins to 99"
+cheat1_desc = "买东西把金币设置为99"
 cheat1_code = "OZOATYSX+OPOAYYYX"
 cheat1_enable = false
 
-cheat2_desc = "Start with 9 Gold pieces"
+cheat2_desc = "从 9 个金币开始"
 cheat2_code = "PEVUAIIE"
 cheat2_enable = false
 
-cheat3_desc = "Start with 50 Gold pieces"
+cheat3_desc = "从 50 金币开始"
 cheat3_code = "ASVUAIIA"
 cheat3_enable = false
 
-cheat4_desc = "Start with 99 Gold pieces"
+cheat4_desc = "从 99 金币开始"
 cheat4_code = "OOVUAIIE"
 cheat4_enable = false
 
-cheat5_desc = "Infinite Gold Coins (Ignore The Numbers)"
+cheat5_desc = "无限金币（忽略数字）"
 cheat5_code = "0331:63"
 cheat5_enable = false
 
-cheat6_desc = "Infinite Silver Coins (Ignore The Numbers)"
+cheat6_desc = "无限银币（忽略数字）"
 cheat6_code = "0332:63"
 cheat6_enable = false
 
-cheat7_desc = "Infinite Bronze Coins (Ignore The Numbers)"
+cheat7_desc = "无限铜币（忽略数字）"
 cheat7_code = "0333:63"
 cheat7_enable = false
 
-cheat8_desc = "Infinite Health P1 (400 Meter Hurdles/Swimming)"
+cheat8_desc = "无限健康 P1（400米栏/游泳）"
 cheat8_code = "0359:FF"
 cheat8_enable = false
 
-cheat9_desc = "No Health P2/CPU (400 Meter Hurdles/Swimming)"
+cheat9_desc = "无健康 P2/CPU（400 米栏/游泳）"
 cheat9_code = "035A:00"
 cheat9_enable = false
 
-cheat10_desc = "Low Time"
+cheat10_desc = "低潮时间"
 cheat10_code = "062B:00"
 cheat10_enable = false
 
-cheat11_desc = "Characters Have Maximum Power Or PP (In Hammer Throw Or Fighting Scene Respectively)"
+cheat11_desc = "角色拥有最大力量或 PP（分别在链球或战斗场景中）"
 cheat11_code = "0666:FF"
 cheat11_enable = false
 
-cheat12_desc = "P2 Has No PP (In Fighting Scene)"
+cheat12_desc = "P2没有PP（打斗场景）"
 cheat12_code = "0667:00"
 cheat12_enable = false
 
-cheat13_desc = "P1 Has Infinite Oxygen (Swimming)"
+cheat13_desc = "P1 拥有无限氧气（游泳）"
 cheat13_code = "0670:FF"
 cheat13_enable = false
 
-cheat14_desc = "P2 Has No Oxygen (Swimming)"
+cheat14_desc = "P2 无氧（游泳）"
 cheat14_code = "0671:00"
 cheat14_enable = false
 
-cheat15_desc = "Buildings jumped in Roof Top Jumping"
+cheat15_desc = "屋顶跳跃中建筑物跳跃"
 cheat15_code = ""
 cheat15_enable = false
 
-cheat16_desc = "Player 1 Infinite Health In 400 Meter Hurdles"
+cheat16_desc = "玩家 1 400 米栏无限生命值"
 cheat16_code = "SEXIGIST+OPKUYOSO"
 cheat16_enable = false
 
-cheat17_desc = "Player 1 Infinite Health In Fighting Scene"
+cheat17_desc = "战斗场景中玩家 1 无限生命值"
 cheat17_code = "SESXAGST+SXXIASSU"
 cheat17_enable = false
 
-cheat18_desc = "Player 2 Is Easier To Beat In Fighting Scene"
+cheat18_desc = "在战斗场景中玩家 2 更容易被击败"
 cheat18_code = "OOOSLKSU"
 cheat18_enable = false
 
-cheat19_desc = "Player 1 Infinite Health In Swimming"
+cheat19_desc = "玩家 1 游泳无限健康"
 cheat19_code = "OOXSZSSO+OPVZINSO+AASXGYAG"
 cheat19_enable = false
 
-cheat20_desc = "Player 1 Infinite Oxygen In Swimming"
+cheat20_desc = "玩家1 游泳中的无限氧气"
 cheat20_code = "SLUXYVSO+SUSXYOSO"
 cheat20_enable = false
 
-cheat21_desc = "Roof Top Jumping - Always Running Normal Speed"
+cheat21_desc = "屋顶跳跃 - 始终以正常速度运行"
 cheat21_code = "PASUOGAA"
 cheat21_enable = false
 
-cheat22_desc = "Roof Top Jumping - Always Running Speed 2"
+cheat22_desc = "屋顶跳跃 - 永远奔跑速度 2"
 cheat22_code = "ZASUOGAA"
 cheat22_enable = false
 
-cheat23_desc = "Roof Top Jumping - Always Running Speed 3"
+cheat23_desc = "屋顶跳跃 - 永远奔跑速度 3"
 cheat23_code = "LASUOGAA"
 cheat23_enable = false
 
-cheat24_desc = "Roof Top Jumping - Always Running Speed 4"
+cheat24_desc = "屋顶跳跃 - 永远奔跑速度 4"
 cheat24_code = "GASUOGAA"
 cheat24_enable = false
 
-cheat25_desc = "Roof Top Jumping - Always Running Speed 5"
+cheat25_desc = "屋顶跳跃 - 永远奔跑速度 5"
 cheat25_code = "IASUOGAA"
 cheat25_enable = false
 
-cheat26_desc = "Roof Top Jumping - Always Running Speed 6"
+cheat26_desc = "屋顶跳跃 - 始终运行速度 6"
 cheat26_code = "TASUOGAA"
 cheat26_enable = false
 
-cheat27_desc = "Player 1 - Building Miss Count Never Increases"
+cheat27_desc = "玩家 1 - 建筑失误数永远不会增加"
 cheat27_code = "SLNEYUVV"
 cheat27_enable = false
 
-cheat28_desc = "Hammer Throw Shots Taken Does Not Increase"
+cheat28_desc = "链球击球次数没有增加"
 cheat28_code = "SUVLIOSE"
 cheat28_enable = false

@@ -1,545 +1,545 @@
 cheats = 136
 
-cheat0_desc = "You'll Shoot What The Blue Dino Shoots"
+cheat0_desc = "你会射出蓝色恐龙射出的东西"
 cheat0_code = "PAPLPE"
 cheat0_enable = false
 
-cheat1_desc = "You Can Swim Thru All Levels"
+cheat1_desc = "你可以游过所有级别"
 cheat1_code = "AEZGZA"
 cheat1_enable = false
 
-cheat2_desc = "Start With Don Don Equipped, 81 Fruits Collected, And More"
+cheat2_desc = "从装备 Don Don 开始，收集 81 个水果，以及更多"
 cheat2_code = "OEAXIA"
 cheat2_enable = false
 
-cheat3_desc = "Start On Stage 5-1 With 66 Of Each Item"
+cheat3_desc = "从第 5-1 阶段开始，每种物品有 66 个"
 cheat3_code = "GATZPE"
 cheat3_enable = false
 
-cheat4_desc = "Start At Bone Crossing And Have 55 Inv. Crystal"
+cheat4_desc = "从骨头交叉处开始并拥有 55 Inv。水晶"
 cheat4_code = "PAYZPE"
 cheat4_enable = false
 
-cheat5_desc = "Infinite Items"
+cheat5_desc = "无限物品"
 cheat5_code = "GXZUGP"
 cheat5_enable = false
 
-cheat6_desc = "Energy Bar Does Not Decrease"
+cheat6_desc = "能量条不减少"
 cheat6_code = "SXOYOSVK"
 cheat6_enable = false
 
-cheat7_desc = "Start with 2 lives"
+cheat7_desc = "从2条生命开始"
 cheat7_code = "PESZAALA"
 cheat7_enable = false
 
-cheat8_desc = "Start with 7 lives"
+cheat8_desc = "从 7 条生命开始"
 cheat8_code = "TESZAALA"
 cheat8_enable = false
 
-cheat9_desc = "Start with 9 lives"
+cheat9_desc = "从 9 条生命开始"
 cheat9_code = "PESZAALE"
 cheat9_enable = false
 
-cheat10_desc = "Infinite lives"
+cheat10_desc = "无限生命"
 cheat10_code = "SXNLISSE"
 cheat10_enable = false
 
-cheat11_desc = "Keep items after dying (after 1st stage)"
+cheat11_desc = "死亡后保留物品（第一阶段后）"
 cheat11_code = "GXUUGOSO"
 cheat11_enable = false
 
-cheat12_desc = "Start with 2 Red Taylors"
+cheat12_desc = "从 2 个红色泰勒开始"
 cheat12_code = "VTVZZESE"
 cheat12_enable = false
 
-cheat13_desc = "Start with 2 Blue Taylors"
+cheat13_desc = "从 2 个蓝色泰勒开始"
 cheat13_code = "VTVZIESE"
 cheat13_enable = false
 
-cheat14_desc = "Start with 2 Classies"
+cheat14_desc = "从 2 类开始"
 cheat14_code = "VTVXAESE"
 cheat14_enable = false
 
-cheat15_desc = "Start with 2 Don-Dons"
+cheat15_desc = "从 2 个 Don-Don 开始"
 cheat15_code = "VTVXLESE"
 cheat15_enable = false
 
-cheat16_desc = "Start with 2 Poleys"
+cheat16_desc = "从 2 个 Poley 开始"
 cheat16_code = "VTVXTESE"
 cheat16_enable = false
 
-cheat17_desc = "Start with 2 boomerangs"
+cheat17_desc = "从 2 个回旋镖开始"
 cheat17_code = "VTNZPESE"
 cheat17_enable = false
 
-cheat18_desc = "Start with 2 axes"
+cheat18_desc = "从 2 个轴开始"
 cheat18_code = "VTNZGESE"
 cheat18_enable = false
 
-cheat19_desc = "Start with 2 invincibility crystals"
+cheat19_desc = "从2个无敌水晶开始"
 cheat19_code = "VTNZYESE"
 cheat19_enable = false
 
-cheat20_desc = "Mega-jumping Master Higgins"
+cheat20_desc = "超级跳跃大师希金斯"
 cheat20_code = "SUEZEXLN"
 cheat20_enable = false
 
-cheat21_desc = "Get 99 lives when you pick up 100 fruit"
+cheat21_desc = "拾取 100 个水果即可获得 99 条生命"
 cheat21_code = "AAKXGTZA"
 cheat21_enable = false
 
-cheat22_desc = "Can Use Items Without Having Any"
+cheat22_desc = "可以在没有任何物品的情况下使用物品"
 cheat22_code = "OLKLTPLA"
 cheat22_enable = false
 
-cheat23_desc = "Infinite Bee"
+cheat23_desc = "无限蜜蜂"
 cheat23_code = "STSNPUAY"
 cheat23_enable = false
 
-cheat24_desc = "Invincible"
+cheat24_desc = "无敌"
 cheat24_code = "EIOXYPEY"
 cheat24_enable = false
 
-cheat25_desc = "Increase Energy Over Time"
+cheat25_desc = "随着时间的推移增加能量"
 cheat25_code = "VVOYOSVK"
 cheat25_enable = false
 
-cheat26_desc = "Don't Die After Energy Is 0"
+cheat26_desc = "能量为0后不死"
 cheat26_code = "ATONYGEI"
 cheat26_enable = false
 
-cheat27_desc = "Don't Die With Spikes"
+cheat27_desc = "不要死于尖刺"
 cheat27_code = "AEUZNTPA"
 cheat27_enable = false
 
-cheat28_desc = "Don't Lose Pet When Hitting Spikes"
+cheat28_desc = "击中尖刺时不要失去宠物"
 cheat28_code = "SAKZSYVT"
 cheat28_enable = false
 
-cheat29_desc = "Always Have 99 Of Every Item"
+cheat29_desc = "每件商品总有 99 件"
 cheat29_code = "KANXZESE+KANXIASA+KANXYASA+KEEZPASA+KEEZLESE+KEEZTESE+KEEXPASA+OPVZPAAE"
 cheat29_enable = false
 
-cheat30_desc = "At Title Screen, The Cursor Starts In Continue"
+cheat30_desc = "在标题屏幕上，光标从“继续”开始"
 cheat30_code = "AEKZALPA"
 cheat30_enable = false
 
-cheat31_desc = "Infinite Vitality"
+cheat31_desc = "无限活力"
 cheat31_code = "SKOYOSVK"
 cheat31_enable = false
 
-cheat32_desc = "Invincibility"
+cheat32_desc = "无敌"
 cheat32_code = "AEVXKGPA"
 cheat32_enable = false
 
-cheat33_desc = "Moon Jump"
+cheat33_desc = "月球跳跃"
 cheat33_code = "APUZSZEI+GZKXOZEY+GZSZSZEI+XZNXOZVZ+AGNXXZVA"
 cheat33_enable = false
 
-cheat34_desc = "Hit Anywhere"
+cheat34_desc = "击中任何地方"
 cheat34_code = "AAEZKLLA+OUEXNSOO+OUEXSVOO+GXSXNIEY"
 cheat34_enable = false
 
-cheat35_desc = "Invincibility"
+cheat35_desc = "无敌"
 cheat35_code = "GXSYYLSZ+SAVNUISZ"
 cheat35_enable = false
 
-cheat36_desc = "Dinosaur/Skateboard Invincibility"
+cheat36_desc = "恐龙/滑板无敌"
 cheat36_code = "GXXZNNPZ+GXKXNVPZ+GXSZUVPZ"
 cheat36_enable = false
 
-cheat37_desc = "32 Maximum Health Units"
+cheat37_desc = "32 最大生命值单位"
 cheat37_code = "AZXZZVYA+AZXZTVYA+AZEZZVYA"
 cheat37_enable = false
 
-cheat38_desc = "64 Maximum Health Units"
+cheat38_desc = "64 最大生命值单位"
 cheat38_code = "AGXZZVYA+AGXZTVYA+AGEZZVYA"
 cheat38_enable = false
 
-cheat39_desc = "96 Maximum Health Units"
+cheat39_desc = "96 最大生命值单位"
 cheat39_code = "ATXZZVYA+ATXZTVYA+ATEZZVYA"
 cheat39_enable = false
 
-cheat40_desc = "128 Maximum Health Units"
+cheat40_desc = "128 最大生命值单位"
 cheat40_code = "EAXZZVYA+EAXZTVYA+EAEZZVYA"
 cheat40_enable = false
 
-cheat41_desc = "254 Maximum Health Units"
+cheat41_desc = "254 最大生命值单位"
 cheat41_code = "VYXZZVYE+SYXZTVYE+SYEZZVYE"
 cheat41_enable = false
 
-cheat42_desc = "Start a New Game to View the Ending"
+cheat42_desc = "开始新游戏查看结局"
 cheat42_code = "LAEZLSZA+AAEZYIGA"
 cheat42_enable = false
 
-cheat43_desc = "Enemies Continually Hit Anywhere"
+cheat43_desc = "敌人不断袭击任何地方"
 cheat43_code = "APKZVIEY+GXNXOZEY+AAEZKLLA+OUEXNSOO+OUEXSVOO+GXSXNIEY"
 cheat43_enable = false
 
-cheat44_desc = "Extra Life With Every Fruit Collected"
+cheat44_desc = "收集每一个水果都会带来额外的生命"
 cheat44_code = "GZUXLTEP"
 cheat44_enable = false
 
-cheat45_desc = "Super Jump"
+cheat45_desc = "超级跳跃"
 cheat45_code = "0086:40"
 cheat45_enable = false
 
-cheat46_desc = "Jump Mid / Walk On Air"
+cheat46_desc = "中跳/空中行走"
 cheat46_code = "00BF:C4"
 cheat46_enable = false
 
-cheat47_desc = "Infinite Power Up Usage"
+cheat47_desc = "无限加电使用"
 cheat47_code = "SUUUGOSO"
 cheat47_enable = false
 
-cheat48_desc = "Infinite Time"
+cheat48_desc = "无限时间"
 cheat48_code = "0390:09"
 cheat48_enable = false
 
-cheat49_desc = "Infinite Lives"
+cheat49_desc = "无限生命"
 cheat49_code = "0394:09"
 cheat49_enable = false
 
-cheat50_desc = "Number Of Fruits Collected Modifier?"
+cheat50_desc = "收集的水果数量修改器？"
 cheat50_code = "0395:00"
 cheat50_enable = false
 
-cheat51_desc = "Invincible"
+cheat51_desc = "无敌"
 cheat51_code = "0081:01"
 cheat51_enable = false
 
-cheat52_desc = "Infinite Inventory Slot 1"
+cheat52_desc = "无限库存槽 1"
 cheat52_code = "0380:09"
 cheat52_enable = false
 
-cheat53_desc = "Infinite Inventory Slot 2"
+cheat53_desc = "无限库存槽 2"
 cheat53_code = "0381:09"
 cheat53_enable = false
 
-cheat54_desc = "Infinite Inventory Slot 3"
+cheat54_desc = "无限库存插槽 3"
 cheat54_code = "0382:09"
 cheat54_enable = false
 
-cheat55_desc = "Infinite Inventory Slot 4"
+cheat55_desc = "无限库存插槽 4"
 cheat55_code = "0383:09"
 cheat55_enable = false
 
-cheat56_desc = "Infinite Inventory Slot 5"
+cheat56_desc = "无限库存槽 5"
 cheat56_code = "0384:09"
 cheat56_enable = false
 
-cheat57_desc = "Infinite Inventory Slot 6"
+cheat57_desc = "无限库存插槽 6"
 cheat57_code = "0385:09"
 cheat57_enable = false
 
-cheat58_desc = "Infinite Inventory Slot 7"
+cheat58_desc = "无限库存插槽 7"
 cheat58_code = "0386:09"
 cheat58_enable = false
 
-cheat59_desc = "Infinite Inventory Slot 8"
+cheat59_desc = "无限库存插槽 8"
 cheat59_code = "0387:09"
 cheat59_enable = false
 
-cheat60_desc = "Area Modifier"
+cheat60_desc = "面积修改器"
 cheat60_code = "00D1:00"
 cheat60_enable = false
 
-cheat61_desc = "Inventory Modifier"
+cheat61_desc = "库存修改器"
 cheat61_code = "00D9:00"
 cheat61_enable = false
 
-cheat62_desc = "Stage Select"
+cheat62_desc = "阶段选择"
 cheat62_code = "00D0:00"
 cheat62_enable = false
 
-cheat63_desc = "Weapon Modifier"
+cheat63_desc = "武器修改器"
 cheat63_code = "038D:00"
 cheat63_enable = false
 
-cheat64_desc = "Conditional Invincibility"
+cheat64_desc = "有条件无敌"
 cheat64_code = "00E5:01"
 cheat64_enable = false
 
-cheat65_desc = "Max Score"
+cheat65_desc = "最高分数"
 cheat65_code = "0391:09+0392:09+0393:09"
 cheat65_enable = false
 
-cheat66_desc = "Auto Hop"
+cheat66_desc = "自动跳"
 cheat66_code = "SGPZXZ"
 cheat66_enable = false
 
-cheat67_desc = "No Audio"
+cheat67_desc = "无音频"
 cheat67_code = "EUSTVZEP"
 cheat67_enable = false
 
-cheat68_desc = "Fall Slower After Jumping"
+cheat68_desc = "跳跃后下落速度减慢"
 cheat68_code = "EUVZNZEP"
 cheat68_enable = false
 
-cheat69_desc = "Keep Walking After Letting Go Of Right Or Left"
+cheat69_desc = "松开左或右后继续行走"
 cheat69_code = "EIVZIAEY"
 cheat69_enable = false
 
-cheat70_desc = "Infinite Health"
+cheat70_desc = "无限健康"
 cheat70_code = "EIVYSIEY"
 cheat70_enable = false
 
-cheat71_desc = "Infinite Health (Alt)"
+cheat71_desc = "无限健康（替代）"
 cheat71_code = "ESENNIEY"
 cheat71_enable = false
 
-cheat72_desc = "Remove Health Bar"
+cheat72_desc = "移除生命条"
 cheat72_code = "ESONUIEY"
 cheat72_enable = false
 
-cheat73_desc = "Remove Lives, Points, And Fruit Counter"
+cheat73_desc = "删除生命、点数和水果计数器"
 cheat73_code = "EYKVOYEI"
 cheat73_enable = false
 
-cheat74_desc = "Float Upwards While Holding A, Let Go To Slowly Fall"
+cheat74_desc = "按住A向上漂浮，松开则慢慢落下"
 cheat74_code = "EYEZSZEI"
 cheat74_enable = false
 
-cheat75_desc = "After You Jump, You Float"
+cheat75_desc = "跳跃后，你会漂浮"
 cheat75_code = "EPNXIYEL"
 cheat75_enable = false
 
-cheat76_desc = "Fruit Fully Restores Health"
+cheat76_desc = "水果全面恢复健康"
 cheat76_code = "ELXZLTEP"
 cheat76_enable = false
 
-cheat77_desc = "1 Fruit Counts As 11"
+cheat77_desc = "1 个水果算作 11"
 cheat77_code = "ESSNOIEY"
 cheat77_enable = false
 
-cheat78_desc = "Don't Kick Eggs"
+cheat78_desc = "别踢鸡蛋"
 cheat78_code = "EOVZGZEL"
 cheat78_enable = false
 
-cheat79_desc = "Jump Much Higher"
+cheat79_desc = "跳得更高"
 cheat79_code = "EYNXSZEI"
 cheat79_enable = false
 
-cheat80_desc = "Makes The Score Counter Display Buggy Coordinates"
+cheat80_desc = "使计分器显示越野车坐标"
 cheat80_code = "EYEYVGEI"
 cheat80_enable = false
 
-cheat81_desc = "1 Fruit Gives 99 Lives And Lots More Points"
+cheat81_desc = "1 个水果可提供 99 条生命和更多积分"
 cheat81_code = "ESNYOIEY"
 cheat81_enable = false
 
-cheat82_desc = "One-Hit Kill Bosses"
+cheat82_desc = "一击杀死头目"
 cheat82_code = "GGKZVIEN+SAKZNIIK+SZKXEIEO+XTKXOILK"
 cheat82_enable = false
 
-cheat83_desc = "Pass-Through Bubbles"
+cheat83_desc = "传递气泡"
 cheat83_code = "XTEXVKOX"
 cheat83_enable = false
 
-cheat84_desc = "Disable Slippery Surface"
+cheat84_desc = "禁用光滑表面"
 cheat84_code = "AAKGKGPA"
 cheat84_enable = false
 
-cheat85_desc = "Disable Quicksand"
+cheat85_desc = "禁用流沙"
 cheat85_code = "OZUZEEPX+AAUZOEYP"
 cheat85_enable = false
 
-cheat86_desc = "Animal/Utility Modifier"
+cheat86_desc = "动物/实用修饰符"
 cheat86_code = "007C:00"
 cheat86_enable = false
 
-cheat87_desc = "All Animals Can Swim/Go Underwater"
+cheat87_desc = "所有动物都可以游泳/水下"
 cheat87_code = "GKOZANOK+NOOZPYAE+NXOZZYEY+XVOZLNLE"
 cheat87_enable = false
 
-cheat88_desc = "Press Start For Skateboard"
+cheat88_desc = "按开始滑板"
 cheat88_code = "GNEYPOZV+APNNYPPA"
 cheat88_enable = false
 
-cheat89_desc = "Press Start For Swimming Dinosaur"
+cheat89_desc = "按下开始游泳恐龙"
 cheat89_code = "GNEYPOZV+AZNNYPPA"
 cheat89_enable = false
 
-cheat90_desc = "Press Start For Fire Dinosaur"
+cheat90_desc = "按开始火恐龙"
 cheat90_code = "GNEYPOZV+ALNNYPPA"
 cheat90_enable = false
 
-cheat91_desc = "Press Start For Ice Dinosaur"
+cheat91_desc = "按开始冰恐龙"
 cheat91_code = "GNEYPOZV+AGNNYPPA"
 cheat91_enable = false
 
-cheat92_desc = "Press Start For Flying Dinosaur"
+cheat92_desc = "按开始飞行恐龙"
 cheat92_code = "GNEYPOZV+AINNYPPA"
 cheat92_enable = false
 
-cheat93_desc = "Press Start For Triceratops Dinosaur"
+cheat93_desc = "按开始三角龙恐龙"
 cheat93_code = "GNEYPOZV+ATNNYPPA"
 cheat93_enable = false
 
-cheat94_desc = "Press Start For Surfboard (Mostly useless)"
+cheat94_desc = "按开始冲浪板（基本没用）"
 cheat94_code = "GNEYPOZV+AYNNYPPA"
 cheat94_enable = false
 
-cheat95_desc = "Press Start For Invulnerability"
+cheat95_desc = "按开始键刀枪不入"
 cheat95_code = "SVEYPOZT"
 cheat95_enable = false
 
-cheat96_desc = "Always Have Hammers"
+cheat96_desc = "永远有锤子"
 cheat96_code = "AYSUYAEI"
 cheat96_enable = false
 
-cheat97_desc = "Always Have Boomerangs"
+cheat97_desc = "总是有回旋镖"
 cheat97_code = "YAVLAALA+AISUYAEI"
 cheat97_enable = false
 
-cheat98_desc = "Start With Triceratops Dinosaur"
+cheat98_desc = "从三角龙恐龙开始"
 cheat98_code = "ENVZXYEI"
 cheat98_enable = false
 
-cheat99_desc = "Start With Invincibility Shield"
+cheat99_desc = "从无敌盾开始"
 cheat99_code = "AAOULOAA"
 cheat99_enable = false
 
-cheat100_desc = "Always Have Invincibility Shield"
+cheat100_desc = "永远拥有无敌盾"
 cheat100_code = "AAXZAPLA"
 cheat100_enable = false
 
-cheat101_desc = "Invulnerability"
+cheat101_desc = "刀枪不入"
 cheat101_code = "AEEXNGLA"
 cheat101_enable = false
 
-cheat102_desc = "99 Of All Items"
+cheat102_desc = "所有项目中的 99 个"
 cheat102_code = "EYKLYPEI"
 cheat102_enable = false
 
-cheat103_desc = "Enemies Die When You Touch Them"
+cheat103_desc = "敌人触碰就会死亡"
 cheat103_code = "AEXZXGIP"
 cheat103_enable = false
 
-cheat104_desc = "Skip Intro Screen"
+cheat104_desc = "跳过介绍屏幕"
 cheat104_code = "OZKXIZEN"
 cheat104_enable = false
 
-cheat105_desc = "Don't Lose Health From Hitting Objects"
+cheat105_desc = "不要因击中物体而损失生命值"
 cheat105_code = "SZOXSNVK+SZXZENVK"
 cheat105_enable = false
 
-cheat106_desc = "Movement Speed Modifier"
+cheat106_desc = "移动速度修改器"
 cheat106_code = ""
 cheat106_enable = false
 
-cheat107_desc = "Axes Everywhere"
+cheat107_desc = "到处都是斧头"
 cheat107_code = "004F:01"
 cheat107_enable = false
 
-cheat108_desc = "Alter Enemy Types & Movements"
+cheat108_desc = "改变敌人类型和行动"
 cheat108_code = "004E:01"
 cheat108_enable = false
 
-cheat109_desc = "Invincibility"
+cheat109_desc = "无敌"
 cheat109_code = "0081:01"
 cheat109_enable = false
 
-cheat110_desc = "Total Darkness"
+cheat110_desc = "完全黑暗"
 cheat110_code = "00A8:01"
 cheat110_enable = false
 
-cheat111_desc = "Axes Travel Straight Ahead"
+cheat111_desc = "轴直线前进"
 cheat111_code = "0079:01+007A:01"
 cheat111_enable = false
 
-cheat112_desc = "Alternate Stage Colors"
+cheat112_desc = "备用舞台颜色"
 cheat112_code = "0023:01"
 cheat112_enable = false
 
-cheat113_desc = "Greyscale Graphics"
+cheat113_desc = "灰度图形"
 cheat113_code = "0028:01"
 cheat113_enable = false
 
-cheat114_desc = "Slower Descent After Jumping"
+cheat114_desc = "跳跃后下降速度较慢"
 cheat114_code = "0088:01"
 cheat114_enable = false
 
-cheat115_desc = "Stage Scrambler"
+cheat115_desc = "舞台扰频器"
 cheat115_code = "0007:01"
 cheat115_enable = false
 
-cheat116_desc = "Disable Sound & Music"
+cheat116_desc = "禁用声音和音乐"
 cheat116_code = "001A:01"
 cheat116_enable = false
 
-cheat117_desc = "Finish Stages Much Earlier"
+cheat117_desc = "更早完成阶段"
 cheat117_code = "008E:01"
 cheat117_enable = false
 
-cheat118_desc = "Health Bar Decreases Slightly Slower"
+cheat118_desc = "生命值下降速度稍慢"
 cheat118_code = "NNOYSIKU"
 cheat118_enable = false
 
-cheat119_desc = "Invincibility against Lava"
+cheat119_desc = "对熔岩无敌"
 cheat119_code = "AESZSAPA"
 cheat119_enable = false
 
-cheat120_desc = "Start On Area 2"
+cheat120_desc = "从区域 2 开始"
 cheat120_code = "PEKZAGAA+SZNXIASA"
 cheat120_enable = false
 
-cheat121_desc = "Start On Area 3"
+cheat121_desc = "从区域 3 开始"
 cheat121_code = "ZEKZAGAA+SZNXIASA"
 cheat121_enable = false
 
-cheat122_desc = "Start On Area 4"
+cheat122_desc = "从区域 4 开始"
 cheat122_code = "LEKZAGAA+SZNXIASA"
 cheat122_enable = false
 
-cheat123_desc = "Start On Area 5"
+cheat123_desc = "从区域 5 开始"
 cheat123_code = "GEKZAGAA+SZNXIASA"
 cheat123_enable = false
 
-cheat124_desc = "Start On Area 6"
+cheat124_desc = "从区域 6 开始"
 cheat124_code = "IEKZAGAA+SZNXIASA"
 cheat124_enable = false
 
-cheat125_desc = "Start On Area 7"
+cheat125_desc = "从区域 7 开始"
 cheat125_code = "TEKZAGAA+SZNXIASA"
 cheat125_enable = false
 
-cheat126_desc = "Start On Area 8"
+cheat126_desc = "从 8 区开始"
 cheat126_code = "YEKZAGAA+SZNXIASA"
 cheat126_enable = false
 
-cheat127_desc = "Enable Level Select"
+cheat127_desc = "启用级别选择"
 cheat127_code = "TENZIXZE"
 cheat127_enable = false
 
-cheat128_desc = "Go to Bonus Area After Completing An Stage"
+cheat128_desc = "完成一个阶段后前往奖励区"
 cheat128_code = "PEEUXZAA+SEEUSXSX"
 cheat128_enable = false
 
-cheat129_desc = "Return To Stage 2 After Completing Bonus Area"
+cheat129_desc = "完成奖励区域后返回第 2 阶段"
 cheat129_code = "AEKUPYGA"
 cheat129_enable = false
 
-cheat130_desc = "Return to Stage 3 After Completing Bonus Area"
+cheat130_desc = "完成奖励区域后返回第 3 阶段"
 cheat130_code = "PEKUPYGA"
 cheat130_enable = false
 
-cheat131_desc = "Return To Stage 4 After Completing Bonus Area"
+cheat131_desc = "完成奖励区域后返回第 4 阶段"
 cheat131_code = "ZEKUPYGA"
 cheat131_enable = false
 
-cheat132_desc = "Return To Stage 5 After Completing Bonus Area"
+cheat132_desc = "完成奖励区域后返回第 5 阶段"
 cheat132_code = "LEKUPYGA"
 cheat132_enable = false
 
-cheat133_desc = "Invincibility against Flames"
+cheat133_desc = "对火焰无敌"
 cheat133_code = "AEKZSGZA"
 cheat133_enable = false
 
-cheat134_desc = "Invincibility against Spikes"
+cheat134_desc = "对尖刺无敌"
 cheat134_code = "AEUZNTPA"
 cheat134_enable = false
 
-cheat135_desc = "Fly (keep jump button pressed)"
+cheat135_desc = "飞行（按住跳跃按钮）"
 cheat135_code = "EYSXZAEI"
 cheat135_enable = false

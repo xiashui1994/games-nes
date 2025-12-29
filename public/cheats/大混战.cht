@@ -1,25 +1,25 @@
 cheats = 6
 
-cheat0_desc = "Infinite lives"
+cheat0_desc = "无限生命"
 cheat0_code = "UIVYGXVS"
 cheat0_enable = false
 
-cheat1_desc = "Get a lot more grenades"
+cheat1_desc = "获得更多手榴弹"
 cheat1_code = "OPNXVTTE"
 cheat1_enable = false
 
-cheat2_desc = "Infinite grenades"
+cheat2_desc = "无限手榴弹"
 cheat2_code = "OXXUUYVS"
 cheat2_enable = false
 
-cheat3_desc = "Touch and kill most enemies"
+cheat3_desc = "触摸并杀死大多数敌人"
 cheat3_code = "EAOZPZEY"
 cheat3_enable = false
 
-cheat4_desc = "Infinite Lives P1"
+cheat4_desc = "无限生命 P1"
 cheat4_code = "01CA:09"
 cheat4_enable = false
 
-cheat5_desc = "Infinite Lives P2"
+cheat5_desc = "无限生命 P2"
 cheat5_code = "01CB:09"
 cheat5_enable = false

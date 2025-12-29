@@ -1,197 +1,197 @@
 cheats = 49
 
-cheat0_desc = "Infinite Time"
+cheat0_desc = "无限时间"
 cheat0_code = "SXKNAIVG"
 cheat0_enable = false
 
-cheat1_desc = "Invincible"
+cheat1_desc = "无敌"
 cheat1_code = "SZNTGTSA+SZOUIYSA"
 cheat1_enable = false
 
-cheat2_desc = "Infinite Lives"
+cheat2_desc = "无限生命"
 cheat2_code = "0716:09"
 cheat2_enable = false
 
-cheat3_desc = "Infinite Time [Left Digit]"
+cheat3_desc = "无限时间【左数字】"
 cheat3_code = "0056:00"
 cheat3_enable = false
 
-cheat4_desc = "Infinite Time [Middle Digit]"
+cheat4_desc = "无限时间【中间数字】"
 cheat4_code = "0055:00"
 cheat4_enable = false
 
-cheat5_desc = "Infinite Time [Right Digit]"
+cheat5_desc = "无限时间[右数字]"
 cheat5_code = "0054:00"
 cheat5_enable = false
 
-cheat6_desc = "Invincible"
+cheat6_desc = "无敌"
 cheat6_code = "0034:00+0648:00"
 cheat6_enable = false
 
-cheat7_desc = "Have Armor Upgrade"
+cheat7_desc = "进行装甲升级"
 cheat7_code = "0528:30+05D0:80"
 cheat7_enable = false
 
-cheat8_desc = "Have Gravity Fireball"
+cheat8_desc = "拥有重力火球"
 cheat8_code = "043C:80"
 cheat8_enable = false
 
-cheat9_desc = "Have Plasma Beam Gun Upgrade"
+cheat9_desc = "升级等离子束枪"
 cheat9_code = "0718:80"
 cheat9_enable = false
 
-cheat10_desc = "Have Shield Force"
+cheat10_desc = "拥有护盾力量"
 cheat10_code = "0717:80"
 cheat10_enable = false
 
-cheat11_desc = "Start with 6 lives"
+cheat11_desc = "从 6 条生命开始"
 cheat11_code = "TEXUNLZA"
 cheat11_enable = false
 
-cheat12_desc = "Start with 9 lives"
+cheat12_desc = "从 9 条生命开始"
 cheat12_code = "PEXUNLZE"
 cheat12_enable = false
 
-cheat13_desc = "Infinite lives"
+cheat13_desc = "无限生命"
 cheat13_code = "AASOYYPA"
 cheat13_enable = false
 
-cheat14_desc = "Start with extra weapons"
+cheat14_desc = "从额外的武器开始"
 cheat14_code = "NNNLOLAE"
 cheat14_enable = false
 
-cheat15_desc = "Slower timer"
+cheat15_desc = "较慢的计时器"
 cheat15_code = "AVKYPSGL"
 cheat15_enable = false
 
-cheat16_desc = "Faster timer"
+cheat16_desc = "更快的计时器"
 cheat16_code = "AXKYPSGL"
 cheat16_enable = false
 
-cheat17_desc = "Permanent fireball"
+cheat17_desc = "永久火球"
 cheat17_code = "AESTKXGA"
 cheat17_enable = false
 
-cheat18_desc = "Permanent shield"
+cheat18_desc = "永久护盾"
 cheat18_code = "AESXXNGY"
 cheat18_enable = false
 
-cheat19_desc = "Fewer enemies"
+cheat19_desc = "敌人更少"
 cheat19_code = "LVGISZ"
 cheat19_enable = false
 
-cheat20_desc = "Level Modifier"
+cheat20_desc = "等级修改器"
 cheat20_code = "0051:00"
 cheat20_enable = false
 
-cheat21_desc = "Boss 1 Hit Kill"
+cheat21_desc = "Boss 1击杀"
 cheat21_code = "06F0:00"
 cheat21_enable = false
 
-cheat22_desc = "Bosses 1 Hit Kill"
+cheat22_desc = "Boss 1 击杀"
 cheat22_code = "05E3:00+05E4:00+05E5:00+05E6:00+05E7:00"
 cheat22_enable = false
 
-cheat23_desc = "Walk Through Enemies"
+cheat23_desc = "穿过敌人"
 cheat23_code = "074B:25"
 cheat23_enable = false
 
-cheat24_desc = "Infinite Time (Left Digit)"
+cheat24_desc = "无限时间（左数字）"
 cheat24_code = "0056:00"
 cheat24_enable = false
 
-cheat25_desc = "Infinite Time (Middle Digit)"
+cheat25_desc = "无限时间（中间数字）"
 cheat25_code = "0055:00"
 cheat25_enable = false
 
-cheat26_desc = "Infinite Time (Right Digit)"
+cheat26_desc = "无限时间（右数字）"
 cheat26_code = "0054:00"
 cheat26_enable = false
 
-cheat27_desc = "Have Armor Upgrade"
+cheat27_desc = "进行装甲升级"
 cheat27_code = "0528:48+05D0:28"
 cheat27_enable = false
 
-cheat28_desc = "Have Gravity Fireball"
+cheat28_desc = "拥有重力火球"
 cheat28_code = "043C:28"
 cheat28_enable = false
 
-cheat29_desc = "Have Plasma Beam Gun Upgrade"
+cheat29_desc = "升级等离子束枪"
 cheat29_code = "0718:28"
 cheat29_enable = false
 
-cheat30_desc = "Have Shield Force"
+cheat30_desc = "拥有护盾力量"
 cheat30_code = "0717:28"
 cheat30_enable = false
 
-cheat31_desc = "Infinite Time (Left Digit)"
+cheat31_desc = "无限时间（左数字）"
 cheat31_code = "0056:00"
 cheat31_enable = false
 
-cheat32_desc = "Infinite Time (Middle Digit)"
+cheat32_desc = "无限时间（中间数字）"
 cheat32_code = "0055:00"
 cheat32_enable = false
 
-cheat33_desc = "Infinite Time (Right Digit)"
+cheat33_desc = "无限时间（右数字）"
 cheat33_code = "0054:00"
 cheat33_enable = false
 
-cheat34_desc = "Invincible"
+cheat34_desc = "无敌"
 cheat34_code = "0034:00+0648:00"
 cheat34_enable = false
 
-cheat35_desc = "Have Armor Upgrade"
+cheat35_desc = "进行装甲升级"
 cheat35_code = "0528:30+05D0:80"
 cheat35_enable = false
 
-cheat36_desc = "Have Gravity Fireball"
+cheat36_desc = "拥有重力火球"
 cheat36_code = "043C:80"
 cheat36_enable = false
 
-cheat37_desc = "Have Plasma Beam Gun Upgrade"
+cheat37_desc = "升级等离子束枪"
 cheat37_code = "0718:80"
 cheat37_enable = false
 
-cheat38_desc = "Have Shield Force"
+cheat38_desc = "拥有护盾力量"
 cheat38_code = "0717:80"
 cheat38_enable = false
 
-cheat39_desc = "Max Score P1"
+cheat39_desc = "最高分数 P1"
 cheat39_code = "0043:09+0044:09+0045:09+0046:09+0047:09+0048:09"
 cheat39_enable = false
 
-cheat40_desc = "Regular Gun Fires Through Most Walls"
+cheat40_desc = "经常有枪声穿过大多数墙壁"
 cheat40_code = "04E2:80"
 cheat40_enable = false
 
-cheat41_desc = "Shield Position Modifier"
+cheat41_desc = "护盾位置修改器"
 cheat41_code = ""
 cheat41_enable = false
 
-cheat42_desc = "Easier Shield Extension"
+cheat42_desc = "更容易扩展护盾"
 cheat42_code = "0619:0F"
 cheat42_enable = false
 
-cheat43_desc = "Most Enemies & Projectiles are Stationary"
+cheat43_desc = "大多数敌人和射弹都是静止的"
 cheat43_code = "0568:00+0569:00+056A:00+056B:00+056C:00+056D:00+056E:00+056F:00"
 cheat43_enable = false
 
-cheat44_desc = "Stage 1 Boss is Always Vulnerable"
+cheat44_desc = "第一阶段 Boss 总是很脆弱"
 cheat44_code = "0646:80"
 cheat44_enable = false
 
-cheat45_desc = "Stage 2 Boss Can't Fire"
+cheat45_desc = "第 2 阶段 Boss 无法开火"
 cheat45_code = "050B:00+050C:00+050D:00+050E:00+050F:00"
 cheat45_enable = false
 
-cheat46_desc = "Stage 3 Boss is always Vulnerable"
+cheat46_desc = "第三阶段 Boss 总是很脆弱"
 cheat46_code = "0615:02"
 cheat46_enable = false
 
-cheat47_desc = "Stage 5 Boss Attack Modifier"
+cheat47_desc = "第五阶段 Boss 攻击修正"
 cheat47_code = ""
 cheat47_enable = false
 
-cheat48_desc = "Stage 6 Boss is Always Vulnerable"
+cheat48_desc = "第六阶段 Boss 总是很脆弱"
 cheat48_code = "0615:02+0616:02+0617:02"
 cheat48_enable = false

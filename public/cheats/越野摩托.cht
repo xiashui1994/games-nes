@@ -1,205 +1,205 @@
 cheats = 51
 
-cheat0_desc = "Never overheat"
+cheat0_desc = "切勿过热"
 cheat0_code = "SXXTYUVV"
 cheat0_enable = false
 
-cheat1_desc = "Recover fast after crashes"
+cheat1_desc = "崩溃后快速恢复"
 cheat1_code = "YEXIKOYA"
 cheat1_enable = false
 
-cheat2_desc = "Reduced enemy bikes in game B"
+cheat2_desc = "减少游戏 B 中的敌方自行车"
 cheat2_code = "PEXIEZLA"
 cheat2_enable = false
 
-cheat3_desc = "Timer runs at half speed"
+cheat3_desc = "定时器以半速运行"
 cheat3_code = "AAUSEYAO"
 cheat3_enable = false
 
-cheat4_desc = "Timer runs at quarter speed"
+cheat4_desc = "计时器以四分之一速度运行"
 cheat4_code = "GAUSEYAP"
 cheat4_enable = false
 
-cheat5_desc = "Turbo speed on 'A' button"
+cheat5_desc = "“A”按钮上的涡轮速度"
 cheat5_code = "ENUKGEAP+GESGPALA"
 cheat5_enable = false
 
-cheat6_desc = "Mega turbo speed on 'A' button"
+cheat6_desc = "“A”按钮可实现超级涡轮速度"
 cheat6_code = "EVUKGEAP+TESGPALA"
 cheat6_enable = false
 
-cheat7_desc = "Maximum Speed With Gas Pedal is Higher Than Before"
+cheat7_desc = "油门踏板的最大速度比以前更高"
 cheat7_code = "YESGZALA"
 cheat7_enable = false
 
-cheat8_desc = "Game Has No Title Screen"
+cheat8_desc = "游戏没有标题画面"
 cheat8_code = "AESKTXAL"
 cheat8_enable = false
 
-cheat9_desc = "Maximum Speed With Turbo is Higher Than Before"
+cheat9_desc = "Turbo 的最大速度比以前更高"
 cheat9_code = "YESGPALA"
 cheat9_enable = false
 
-cheat10_desc = "Never Lose Speed"
+cheat10_desc = "永不失去速度"
 cheat10_code = "SLNKSTVI"
 cheat10_enable = false
 
-cheat11_desc = "Never Crash"
+cheat11_desc = "永不崩溃"
 cheat11_code = "ATSVIASP+ATVTLASP+ATVSUGSP"
 cheat11_enable = false
 
-cheat12_desc = "Press Start to Complete Current Race"
+cheat12_desc = "按开始完成当前比赛"
 cheat12_code = "ZISKEZOL+AASKOZLA"
 cheat12_enable = false
 
-cheat13_desc = "Start Racing Before Gate Opens"
+cheat13_desc = "在大门打开之前开始比赛"
 cheat13_code = "AAEVXXAL+AAXGXSIP+AAXSOXYL+APUSOTEI"
 cheat13_enable = false
 
-cheat14_desc = "Never Crash - Alternative"
+cheat14_desc = "永不崩溃 - 替代方案"
 cheat14_code = "SZOSKTSP"
 cheat14_enable = false
 
-cheat15_desc = "Infinite Obstacles in Design Mode"
+cheat15_desc = "设计模式中的无限障碍"
 cheat15_code = "AAEYSAPA"
 cheat15_enable = false
 
-cheat16_desc = "Other Contestants Move Slowly"
+cheat16_desc = "其他参赛者动作缓慢"
 cheat16_code = "PESISAZA"
 cheat16_enable = false
 
-cheat17_desc = "Other Contestants Move Quickly"
+cheat17_desc = "其他参赛者动作迅速"
 cheat17_code = "GESISAZA"
 cheat17_enable = false
 
-cheat18_desc = "All Contestants Drive Through Each Other"
+cheat18_desc = "所有参赛者互相冲撞"
 cheat18_code = "EUVSEYEP"
 cheat18_enable = false
 
-cheat19_desc = "Can Change Lanes Quickly"
+cheat19_desc = "可以快速变道"
 cheat19_code = "OXNIOAEV"
 cheat19_enable = false
 
-cheat20_desc = "Can Change Lanes In Midair"
+cheat20_desc = "可以在空中变道"
 cheat20_code = "ELOTNZEY"
 cheat20_enable = false
 
-cheat21_desc = "Stick To Ramps"
+cheat21_desc = "坚持坡道"
 cheat21_code = "AAUSOIZA"
 cheat21_enable = false
 
-cheat22_desc = "Jump Higher"
+cheat22_desc = "跳得更高"
 cheat22_code = "PAKSKIAA"
 cheat22_enable = false
 
-cheat23_desc = "Jump Much Higher"
+cheat23_desc = "跳得更高"
 cheat23_code = "ZAKSKIAA"
 cheat23_enable = false
 
-cheat24_desc = "Beat Tracks In One Lap"
+cheat24_desc = "一圈中的节拍曲目"
 cheat24_code = "ESOVOZEY"
 cheat24_enable = false
 
-cheat25_desc = "Reversed Steering"
+cheat25_desc = "反向转向"
 cheat25_code = "EYUTUZEI"
 cheat25_enable = false
 
-cheat26_desc = "Instant Acceleration"
+cheat26_desc = "瞬间加速"
 cheat26_code = "EIKGOTEY"
 cheat26_enable = false
 
-cheat27_desc = "Cannot Crash When Pulling A Wheelie Too Far"
+cheat27_desc = "将前轮离地拉得太远时不会崩溃"
 cheat27_code = "SUUKKTVY"
 cheat27_enable = false
 
-cheat28_desc = "You Look Like The First Contestant"
+cheat28_desc = "你看起来像第一个参赛者"
 cheat28_code = "ZEKSOAAA"
 cheat28_enable = false
 
-cheat29_desc = "You Look Like The Second Contestant"
+cheat29_desc = "你看起来像第二个参赛者"
 cheat29_code = "PEKSOAAA"
 cheat29_enable = false
 
-cheat30_desc = "Your Racing Gear Has A Green Accent"
+cheat30_desc = "您的赛车装备带有绿色气息"
 cheat30_code = "LEKSOAAA"
 cheat30_enable = false
 
-cheat31_desc = "Other Contestants Look Like You"
+cheat31_desc = "其他参赛者看起来像你"
 cheat31_code = "SXOTZOSU"
 cheat31_enable = false
 
-cheat32_desc = "No Slowdown in Grass"
+cheat32_desc = "草丛中没有减速"
 cheat32_code = "ASEKNIEY"
 cheat32_enable = false
 
-cheat33_desc = "No Slowdown in Dirt"
+cheat33_desc = "泥土中没有减速"
 cheat33_code = "EIETSPEY"
 cheat33_enable = false
 
-cheat34_desc = "Speed Up in Grass"
+cheat34_desc = "在草地上加速"
 cheat34_code = "SOOGOISL"
 cheat34_enable = false
 
-cheat35_desc = "Speed Up in Dirt"
+cheat35_desc = "在泥土中加速"
 cheat35_code = "VYEVSPSL"
 cheat35_enable = false
 
-cheat36_desc = "All Tracks Have 3 Laps"
+cheat36_desc = "所有赛道都有 3 圈"
 cheat36_code = "OZONTIOU+LAONYIYA"
 cheat36_enable = false
 
-cheat37_desc = "All Tracks Have 4 Laps"
+cheat37_desc = "所有赛道都有 4 圈"
 cheat37_code = "OZONTIOU+GAONYIYA"
 cheat37_enable = false
 
-cheat38_desc = "All Tracks Have 5 Laps"
+cheat38_desc = "所有赛道都有 5 圈"
 cheat38_code = "OZONTIOU+IAONYIYA"
 cheat38_enable = false
 
-cheat39_desc = "All Tracks Have 6 Laps"
+cheat39_desc = "所有赛道都有 6 圈"
 cheat39_code = "OZONTIOU+TAONYIYA"
 cheat39_enable = false
 
-cheat40_desc = "All Tracks Have 7 Laps"
+cheat40_desc = "所有赛道都有 7 圈"
 cheat40_code = "OZONTIOU"
 cheat40_enable = false
 
-cheat41_desc = "All Tracks Have 8 Laps"
+cheat41_desc = "所有赛道都有 8 圈"
 cheat41_code = "OZONTIOU+AAONYIYE"
 cheat41_enable = false
 
-cheat42_desc = "All Tracks Have 9 Laps"
+cheat42_desc = "所有赛道都有 9 圈"
 cheat42_code = "OZONTIOU+PAONYIYE"
 cheat42_enable = false
 
-cheat43_desc = "Freeze Time"
+cheat43_desc = "冻结时间"
 cheat43_code = "GZSSOYVT"
 cheat43_enable = false
 
-cheat44_desc = "Tem. Builds Up Faster"
+cheat44_desc = "温度。建立得更快"
 cheat44_code = "AGPPPO"
 cheat44_enable = false
 
-cheat45_desc = "Odd Colored Track"
+cheat45_desc = "奇怪的彩色轨道"
 cheat45_code = "POIITL"
 cheat45_enable = false
 
-cheat46_desc = "Never Overheat"
+cheat46_desc = "永不过热"
 cheat46_code = "03B6:00"
 cheat46_enable = false
 
-cheat47_desc = "FAKE Infinite Time (Seconds Digits)"
+cheat47_desc = "FAKE无限时间（秒数字）"
 cheat47_code = "0318:00"
 cheat47_enable = false
 
-cheat48_desc = "Infinite Time (Micro-Seconds)"
+cheat48_desc = "无限时间（微秒）"
 cheat48_code = "006A:00"
 cheat48_enable = false
 
-cheat49_desc = "Infinite Time (Seconds)"
+cheat49_desc = "无限时间（秒）"
 cheat49_code = "0069:00"
 cheat49_enable = false
 
-cheat50_desc = "Infinite Time (Minutes)"
+cheat50_desc = "无限时间（分钟）"
 cheat50_code = "0068:00"
 cheat50_enable = false

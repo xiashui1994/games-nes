@@ -1,37 +1,37 @@
 cheats = 9
 
-cheat0_desc = "Infinite Force Field Barrier"
+cheat0_desc = "无限力场屏障"
 cheat0_code = "SXEGGPVG"
 cheat0_enable = false
 
-cheat1_desc = "Always Have Laser Weapon"
+cheat1_desc = "始终拥有激光武器"
 cheat1_code = "XZEOXGVZ+PAEOUGGG+VAEOKGEY+GGEOSGPA"
 cheat1_enable = false
 
-cheat2_desc = "Always Have Double Weapon"
+cheat2_desc = "永远拥有双武器"
 cheat2_code = "XZEOXGVZ+ZAEOUGGG+VAEOKGEY+GGEOSGPA"
 cheat2_enable = false
 
-cheat3_desc = "Pause the game and press Up to acquire Missiles, 2 Options, and Force Field Barrier"
+cheat3_desc = "暂停游戏并按向上键即可获取导弹、2 个选项和力场屏障"
 cheat3_code = "PESPEXZA+SUSOEZVI"
 cheat3_enable = false
 
-cheat4_desc = "Start With 6 Lives - Both Players"
+cheat4_desc = "从 6 条生命开始 - 双方玩家"
 cheat4_code = "TAEAILLA"
 cheat4_enable = false
 
-cheat5_desc = "Start With 9 Lives - Both Players"
+cheat5_desc = "从 9 条生命开始 - 双方玩家"
 cheat5_code = "PAEAILLE"
 cheat5_enable = false
 
-cheat6_desc = "Infinite Lives - Both Players"
+cheat6_desc = "无限生命 - 双方玩家"
 cheat6_code = "SLVPZYVI"
 cheat6_enable = false
 
-cheat7_desc = "Invincibility"
+cheat7_desc = "无敌"
 cheat7_code = "GKOKPPSX+NEOKZOLP+XKOKLOOG"
 cheat7_enable = false
 
-cheat8_desc = "Never Lose Weapons"
+cheat8_desc = "永远不要丢失武器"
 cheat8_code = "YGEPXUZS+YGEPVUIL"
 cheat8_enable = false

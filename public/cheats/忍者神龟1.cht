@@ -1,461 +1,461 @@
 cheats = 115
 
-cheat0_desc = "Reduce Recovery Time"
+cheat0_desc = "减少恢复时间"
 cheat0_code = "SXOZTVSE"
 cheat0_enable = false
 
-cheat1_desc = "Walk/Drive Through Walls"
+cheat1_desc = "步行/驾车穿墙"
 cheat1_code = "AOSNTOAU"
 cheat1_enable = false
 
-cheat2_desc = "Infinite Energy [All Turtles]"
+cheat2_desc = "无限能量【所有海龟】"
 cheat2_code = "AOSOUAST"
 cheat2_enable = false
 
-cheat3_desc = "Pick-Up 99 Weapons At A Time"
+cheat3_desc = "一次拾取 99 件武器"
 cheat3_code = "LVNOATGP"
 cheat3_enable = false
 
-cheat4_desc = "Pick-Up 99 Missiles At A Time"
+cheat4_desc = "一次拾取 99 枚导弹"
 cheat4_code = "YTUOLNZA"
 cheat4_enable = false
 
-cheat5_desc = "Never Take Damage From Non-Killing Seaweed (All Turtles)"
+cheat5_desc = "切勿受到非杀伤性海藻（所有海龟）的伤害"
 cheat5_code = "KXVZGSOO"
 cheat5_enable = false
 
-cheat6_desc = "Pick-Up 99 Ropes At One-Time [Not Infinite]"
+cheat6_desc = "一次性拾起 99 根绳子 [不是无限]"
 cheat6_code = "AYKOPYLY"
 cheat6_enable = false
 
-cheat7_desc = "Infinite Missiles"
+cheat7_desc = "无限导弹"
 cheat7_code = "PANZOLVK"
 cheat7_enable = false
 
-cheat8_desc = "Turtle Floats To Ceiling When Not Moving"
+cheat8_desc = "乌龟不动时会浮到天花板上"
 cheat8_code = "AEPOXY"
 cheat8_enable = false
 
-cheat9_desc = "Splinter Is Missing On Info Screen"
+cheat9_desc = "信息屏幕上缺少碎片"
 cheat9_code = "APAXEY"
 cheat9_enable = false
 
-cheat10_desc = "Using Weapon Causes All Enemies On Screen To Be Destroyed"
+cheat10_desc = "使用武器会导致屏幕上的所有敌人被消灭"
 cheat10_code = "GSLOAS"
 cheat10_enable = false
 
-cheat11_desc = "Turtle Is The Party Van On Top View"
+cheat11_desc = "乌龟是顶视图上的派对车"
 cheat11_code = "ISZAGE"
 cheat11_enable = false
 
-cheat12_desc = "Infinite Energy"
+cheat12_desc = "无限能量"
 cheat12_code = "OUVPUEOO"
 cheat12_enable = false
 
-cheat13_desc = "Invulnerability Against Everything Except Seaweed"
+cheat13_desc = "除了海藻之外，对一切都刀枪不入"
 cheat13_code = "YUXOIYVO"
 cheat13_enable = false
 
-cheat14_desc = "Fewer Enemies"
+cheat14_desc = "更少的敌人"
 cheat14_code = "AAAEPP"
 cheat14_enable = false
 
-cheat15_desc = "Automatic Turtle Weapons"
+cheat15_desc = "自动海龟武器"
 cheat15_code = "LLTVZO"
 cheat15_enable = false
 
-cheat16_desc = "Moonwalking"
+cheat16_desc = "月球漫步"
 cheat16_code = "KKGKAA"
 cheat16_enable = false
 
-cheat17_desc = "No Sound"
+cheat17_desc = "没有声音"
 cheat17_code = "IIIPAP"
 cheat17_enable = false
 
-cheat18_desc = "Play Game In Black And White Mode"
+cheat18_desc = "以黑白模式玩游戏"
 cheat18_code = "OXSKLLSX+POSKGUVN"
 cheat18_enable = false
 
-cheat19_desc = "Striped Levels"
+cheat19_desc = "条纹级别"
 cheat19_code = "AEISOP"
 cheat19_enable = false
 
-cheat20_desc = "Screwed Up Enemies, Fight Clones Of Turtles, Fireworks When Enemies Are Killed"
+cheat20_desc = "搞砸敌人，与海龟克隆战斗，杀死敌人时放烟花"
 cheat20_code = "ISPAGE"
 cheat20_enable = false
 
-cheat21_desc = "Enemies Are Frozen, But Still Move"
+cheat21_desc = "敌人被冻结，但仍会移动"
 cheat21_code = "ISAAGE"
 cheat21_enable = false
 
-cheat22_desc = "Piano-Like Music"
+cheat22_desc = "钢琴般的音乐"
 cheat22_code = "AXPEXL"
 cheat22_enable = false
 
-cheat23_desc = "Completely Gray [Except For Turtles Colors, And Some Enemies)"
+cheat23_desc = "完全灰色[海龟颜色和一些敌人除外]"
 cheat23_code = "ZZZYYY"
 cheat23_enable = false
 
-cheat24_desc = "Changes Colour In Levels [Especially Cool In The Swimming Level)"
+cheat24_desc = "改变关卡中的颜色[特别是在游泳关卡中很酷]"
 cheat24_code = "SOGIAL"
 cheat24_enable = false
 
-cheat25_desc = "Silent Music [Game Is Over When A Turtle Dies]"
+cheat25_desc = "无声音乐【乌龟死后游戏结束】"
 cheat25_code = "ASIOLE"
 cheat25_enable = false
 
-cheat26_desc = "Pick up 10 weapons only"
+cheat26_desc = "只拾取10件武器"
 cheat26_code = "ZENOATGO"
 cheat26_enable = false
 
-cheat27_desc = "Pick up 50 weapons at a time!"
+cheat27_desc = "一次拿起 50 件武器！"
 cheat27_code = "ZUNOATGP"
 cheat27_enable = false
 
-cheat28_desc = "Don't take most damage"
+cheat28_desc = "不要承受大部分伤害"
 cheat28_code = "GXSOUAST"
 cheat28_enable = false
 
-cheat29_desc = "Don't take damage from non-killing seaweed"
+cheat29_desc = "不要受到非杀伤性海藻的伤害"
 cheat29_code = "SXVZGSOO"
 cheat29_enable = false
 
-cheat30_desc = "Full energy boost from pizza slices"
+cheat30_desc = "披萨片带来全面能量提升"
 cheat30_code = "AEOOGTZA"
 cheat30_enable = false
 
-cheat31_desc = "20 missiles on pick-up"
+cheat31_desc = "拾取20枚导弹"
 cheat31_code = "GPUOLNZA"
 cheat31_enable = false
 
-cheat32_desc = "Double rope on pick-up"
+cheat32_desc = "双绳拾取"
 cheat32_code = "TAKOPYLA"
 cheat32_enable = false
 
-cheat33_desc = "Never lose rope"
+cheat33_desc = "永远不要失去绳子"
 cheat33_code = "SXVXTLVG"
 cheat33_enable = false
 
-cheat34_desc = "Infinite Energy, Leo"
+cheat34_desc = "狮子座，能量无限"
 cheat34_code = "0077:80"
 cheat34_enable = false
 
-cheat35_desc = "Infinite Energy, Raph"
+cheat35_desc = "无限能量，拉斐尔"
 cheat35_code = "0078:80"
 cheat35_enable = false
 
-cheat36_desc = "Infinite Energy, Mike"
+cheat36_desc = "无限能量，迈克"
 cheat36_code = "0079:80"
 cheat36_enable = false
 
-cheat37_desc = "Infinite Energy, Don"
+cheat37_desc = "无限能量，唐"
 cheat37_code = "007A:80"
 cheat37_enable = false
 
-cheat38_desc = "99 Weapons, Leo"
+cheat38_desc = "99武器，狮子座"
 cheat38_code = "00A8:63"
 cheat38_enable = false
 
-cheat39_desc = "99 Weapons, Raph"
+cheat39_desc = "99 武器，拉斐尔"
 cheat39_code = "00A9:63"
 cheat39_enable = false
 
-cheat40_desc = "99 Weapons, Mike"
+cheat40_desc = "99武器，迈克"
 cheat40_code = "00AA:63"
 cheat40_enable = false
 
-cheat41_desc = "99 Weapons, Don"
+cheat41_desc = "99 武器，唐"
 cheat41_code = "00AB:63"
 cheat41_enable = false
 
-cheat42_desc = "Specific weapon, Leo"
+cheat42_desc = "特定武器 狮子座"
 cheat42_code = "0073:00"
 cheat42_enable = false
 
-cheat43_desc = "Specific weapon, Raph"
+cheat43_desc = "特定武器 拉斐尔"
 cheat43_code = "0074:00"
 cheat43_enable = false
 
-cheat44_desc = "Specific weapon, Mike"
+cheat44_desc = "特定武器，迈克"
 cheat44_code = "0075:00"
 cheat44_enable = false
 
-cheat45_desc = "Specific weapon, Don"
+cheat45_desc = "特定武器，唐"
 cheat45_code = "0076:00"
 cheat45_enable = false
 
-cheat46_desc = "Infinite Time in dam"
+cheat46_desc = "水坝中的无限时光"
 cheat46_code = "00BB:32"
 cheat46_enable = false
 
-cheat47_desc = "Infinite Missiles"
+cheat47_desc = "无限导弹"
 cheat47_code = "00BF:63"
 cheat47_enable = false
 
-cheat48_desc = "Infinite Ropes"
+cheat48_desc = "无限绳索"
 cheat48_code = "00A7:09"
 cheat48_enable = false
 
-cheat49_desc = "Invincibility"
+cheat49_desc = "无敌"
 cheat49_code = "SXOPPIAX"
 cheat49_enable = false
 
-cheat50_desc = "No Enemies"
+cheat50_desc = "没有敌人"
 cheat50_code = "NYYKEK"
 cheat50_enable = false
 
-cheat51_desc = "Kill All Enemies"
+cheat51_desc = "杀死所有敌人"
 cheat51_code = "APIPTI+XVGOAS+APAOSL"
 cheat51_enable = false
 
-cheat52_desc = "Hit Anywhere"
+cheat52_desc = "击中任何地方"
 cheat52_code = "AEVPYSPZ"
 cheat52_enable = false
 
-cheat53_desc = "All Enemies Die In One Hit"
+cheat53_desc = "所有敌人一击毙命"
 cheat53_code = "AOXPSPEY"
 cheat53_enable = false
 
-cheat54_desc = "Hit Anywhere"
+cheat54_desc = "击中任何地方"
 cheat54_code = "AETPYI"
 cheat54_enable = false
 
-cheat55_desc = "Bypass The Dam Stage"
+cheat55_desc = "绕过水坝阶段"
 cheat55_code = "ZEYZZA"
 cheat55_enable = false
 
-cheat56_desc = "All Enemies On The Screen Die Instantly"
+cheat56_desc = "屏幕上的所有敌人都会立即死亡"
 cheat56_code = "APIPTI+XVGOAS+APAOSL"
 cheat56_enable = false
 
-cheat57_desc = "Start a New Game to View the Ending"
+cheat57_desc = "开始新游戏查看结局"
 cheat57_code = "IAXGPTZA"
 cheat57_enable = false
 
-cheat58_desc = "Infinite Ammo (All Turtles)"
+cheat58_desc = "无限弹药（所有海龟）"
 cheat58_code = "LVNOATGP+SZNVZAVI"
 cheat58_enable = false
 
-cheat59_desc = "Infinite Health Leo"
+cheat59_desc = "无限健康狮子座"
 cheat59_code = "0077:FF"
 cheat59_enable = false
 
-cheat60_desc = "Infinite Health Raph"
+cheat60_desc = "无限健康拉夫"
 cheat60_code = "0078:FF"
 cheat60_enable = false
 
-cheat61_desc = "Infinite Health Mike"
+cheat61_desc = "无限健康麦克"
 cheat61_code = "0079:FF"
 cheat61_enable = false
 
-cheat62_desc = "Infinite Health Don"
+cheat62_desc = "无限健康唐"
 cheat62_code = "007A:FF"
 cheat62_enable = false
 
-cheat63_desc = "Boss Health Modifier"
+cheat63_desc = "Boss 生命值修改器"
 cheat63_code = "0565:00"
 cheat63_enable = false
 
-cheat64_desc = "Infinite Time"
+cheat64_desc = "无限时间"
 cheat64_code = "00BB:FF"
 cheat64_enable = false
 
-cheat65_desc = "Infinite Missiles"
+cheat65_desc = "无限导弹"
 cheat65_code = "00BF:0A"
 cheat65_enable = false
 
-cheat66_desc = "Weapon Modifier - Leo"
+cheat66_desc = "武器修改器 - Leo"
 cheat66_code = "0073:01"
 cheat66_enable = false
 
-cheat67_desc = "Weapon Modifier - Raph"
+cheat67_desc = "武器修改器 - 拉斐尔"
 cheat67_code = "0074:01"
 cheat67_enable = false
 
-cheat68_desc = "Weapon Modifier - Mike"
+cheat68_desc = "武器修改器 - 迈克"
 cheat68_code = "0075:01"
 cheat68_enable = false
 
-cheat69_desc = "Weapon Modifier - Don"
+cheat69_desc = "武器修改器 - 唐"
 cheat69_code = "0076:01"
 cheat69_enable = false
 
-cheat70_desc = "Infinite Rope"
+cheat70_desc = "无限绳索"
 cheat70_code = "00A7:0F"
 cheat70_enable = false
 
-cheat71_desc = "Permanent Rolling Form"
+cheat71_desc = "永久滚压形式"
 cheat71_code = "0540:91"
 cheat71_enable = false
 
-cheat72_desc = "Area Modifier"
+cheat72_desc = "面积修改器"
 cheat72_code = "0048:00"
 cheat72_enable = false
 
-cheat73_desc = "Turtle Modifier"
+cheat73_desc = "海龟修改器"
 cheat73_code = "0067:00"
 cheat73_enable = false
 
-cheat74_desc = "Vehicle Modifier"
+cheat74_desc = "车辆改装"
 cheat74_code = "0606:00"
 cheat74_enable = false
 
-cheat75_desc = "Toggles Vehicle Image"
+cheat75_desc = "切换车辆图像"
 cheat75_code = "011F:00"
 cheat75_enable = false
 
-cheat76_desc = "Turn Off After Defusing First Bomb To Complete Level"
+cheat76_desc = "拆除第一个炸弹完成关卡后关闭"
 cheat76_code = "007D:FE"
 cheat76_enable = false
 
-cheat77_desc = "Max Score (Tens & Hundreds)"
+cheat77_desc = "最高分数（十和百）"
 cheat77_code = "03C2:99"
 cheat77_enable = false
 
-cheat78_desc = "Max Score (Thousands & Hundred-Thousands)"
+cheat78_desc = "最高分数（千和十万）"
 cheat78_code = "03C3:99"
 cheat78_enable = false
 
-cheat79_desc = "Max Score (Million &-Hundred-Millions)"
+cheat79_desc = "最高分数（百万和亿）"
 cheat79_code = "03C4:99"
 cheat79_enable = false
 
-cheat80_desc = "Max Hi-Score (Tens & Hundreds)"
+cheat80_desc = "最高分数（十和百）"
 cheat80_code = "00C8:99"
 cheat80_enable = false
 
-cheat81_desc = "Max Hi-Score (Thousands & Hundred-Thousands)"
+cheat81_desc = "最高分数（千和十万）"
 cheat81_code = "00C9:99"
 cheat81_enable = false
 
-cheat82_desc = "Max Hi-Score (Millions & Hundred-Millions)"
+cheat82_desc = "最高得分（百万和亿）"
 cheat82_code = "00CA:99"
 cheat82_enable = false
 
-cheat83_desc = "Untouchable"
+cheat83_desc = "贱民"
 cheat83_code = "0500:15"
 cheat83_enable = false
 
-cheat84_desc = "All Bosses' Energy Zero"
+cheat84_desc = "所有Boss的能量为零"
 cheat84_code = "0119:00"
 cheat84_enable = false
 
-cheat85_desc = "One Hit Kills Ordinary Enemies"
+cheat85_desc = "一击杀死普通敌人"
 cheat85_code = "0566:00+0567:00+0568:00+0569:00+056A:00+056B:00+056C:00+056D:00+056E:00+056F:00"
 cheat85_enable = false
 
-cheat86_desc = "Walk Through Walls From Left to Right"
+cheat86_desc = "从左到右穿墙"
 cheat86_code = "04F0:10"
 cheat86_enable = false
 
-cheat87_desc = "Enemies And Projectiles Are Frozen In Place "
+cheat87_desc = "敌人和射弹被冻结在原地"
 cheat87_code = "EIEVEYEY"
 cheat87_enable = false
 
-cheat88_desc = "No Enemies (Or Items)"
+cheat88_desc = "没有敌人（或物品）"
 cheat88_code = "ESSVVTEY"
 cheat88_enable = false
 
-cheat89_desc = "Automatically Attack As You Walk"
+cheat89_desc = "走路时自动攻击"
 cheat89_code = "EIUPXIEY"
 cheat89_enable = false
 
-cheat90_desc = "Automatically Attack When Jumping/Falling"
+cheat90_desc = "跳跃/坠落时自动攻击"
 cheat90_code = "ESKPEYEY"
 cheat90_enable = false
 
-cheat91_desc = "Automatically Attack When An Enemy Runs Into You"
+cheat91_desc = "当敌人遇到你时自动攻击"
 cheat91_code = "ESUZLAEY"
 cheat91_enable = false
 
-cheat92_desc = "Walk Faster"
+cheat92_desc = "走得更快"
 cheat92_code = "EIVXPYEY"
 cheat92_enable = false
 
-cheat93_desc = "Mount Ladders Automatically"
+cheat93_desc = "自动安装梯子"
 cheat93_code = "ENXPVYEI"
 cheat93_enable = false
 
-cheat94_desc = "Mount Ladders Automatically (alt)"
+cheat94_desc = "自动安装梯子（替代）"
 cheat94_code = "ESXPXYEY"
 cheat94_enable = false
 
-cheat95_desc = "Walk Without Moving Your Legs"
+cheat95_desc = "走路不动腿"
 cheat95_code = "EIUXZTEY"
 cheat95_enable = false
 
-cheat96_desc = "Walk Without Moving Your Legs (alt)"
+cheat96_desc = "不动腿走路（替代）"
 cheat96_code = "EIKZZTEY"
 cheat96_enable = false
 
-cheat97_desc = "Walk Thru Walls (Right Direction)"
+cheat97_desc = "穿墙而过（右方向）"
 cheat97_code = "ESEPNIEY"
 cheat97_enable = false
 
-cheat98_desc = "Walk Thru Walls (Left Direction)"
+cheat98_desc = "穿墙行走（向左方向）"
 cheat98_code = "ESUONIEY"
 cheat98_enable = false
 
-cheat99_desc = "Invulnerability"
+cheat99_desc = "刀枪不入"
 cheat99_code = "ENOPLYEI"
 cheat99_enable = false
 
-cheat100_desc = "Invulnerability (alt)"
+cheat100_desc = "刀枪不入（替代）"
 cheat100_code = "ESOOUAEY"
 cheat100_enable = false
 
-cheat101_desc = "Infinite Health"
+cheat101_desc = "无限健康"
 cheat101_code = "ESSOEAEY"
 cheat101_enable = false
 
-cheat102_desc = "Enemies Die When They Touch You"
+cheat102_desc = "敌人触碰你时就会死亡"
 cheat102_code = "EIEPVPEY"
 cheat102_enable = false
 
-cheat103_desc = "Projectile Throwing Enemies Don't Crouch To Become Untouchable"
+cheat103_desc = "投掷投射物的敌人不会蹲下来变得不可触碰"
 cheat103_code = "ENEPPLEI"
 cheat103_enable = false
 
-cheat104_desc = "Invincible To Electric Seaweed"
+cheat104_desc = "无敌电海草"
 cheat104_code = "ESKZAIEY"
 cheat104_enable = false
 
-cheat105_desc = "Infinite Time Underwater"
+cheat105_desc = "无限水下时间"
 cheat105_code = "EISZEPEY"
 cheat105_enable = false
 
-cheat106_desc = "Jump in Midair"
+cheat106_desc = "空中跳跃"
 cheat106_code = "ALEXAAZL+EIEXLEIZ+PLEXGAAL+XTEXIAIE"
 cheat106_enable = false
 
-cheat107_desc = "Go Anywhere On The Map With This Cheat"
+cheat107_desc = "用这个秘籍去地图上的任何地方"
 cheat107_code = "SAEKVEEZ"
 cheat107_enable = false
 
-cheat108_desc = "Skip Intro Screen"
+cheat108_desc = "跳过介绍屏幕"
 cheat108_code = "AEXGTIYT"
 cheat108_enable = false
 
-cheat109_desc = "Start On Stage 2"
+cheat109_desc = "从第 2 阶段开始"
 cheat109_code = "AGNKITTK+PANKLTLA"
 cheat109_enable = false
 
-cheat110_desc = "Start On Stage 3"
+cheat110_desc = "从第 3 阶段开始"
 cheat110_code = "AGNKITTK+ZANKLTLA"
 cheat110_enable = false
 
-cheat111_desc = "Start On Stage 4"
+cheat111_desc = "从第 4 阶段开始"
 cheat111_code = "AGNKITTK"
 cheat111_enable = false
 
-cheat112_desc = "Start On Stage 5"
+cheat112_desc = "从第 5 阶段开始"
 cheat112_code = "AGNKITTK+GANKLTLA"
 cheat112_enable = false
 
-cheat113_desc = "Start On Stage 6"
+cheat113_desc = "从第 6 阶段开始"
 cheat113_code = "AGNKITTK+IANKLTLA"
 cheat113_enable = false
 
-cheat114_desc = "DPCM Pop Reducer"
+cheat114_desc = "DPCM 爆音减少器"
 cheat114_code = "SUXEXOSE"
 cheat114_enable = false

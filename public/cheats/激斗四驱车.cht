@@ -1,9 +1,9 @@
 cheats = 2
 
-cheat0_desc = "Infinite Energy"
+cheat0_desc = "无限能量"
 cheat0_code = "0071:17"
 cheat0_enable = false
 
-cheat1_desc = "Beat One Car To End The Level"
+cheat1_desc = "击败一辆车以结束关卡"
 cheat1_code = "00B0:00"
 cheat1_enable = false

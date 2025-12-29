@@ -1,225 +1,225 @@
 cheats = 56
 
-cheat0_desc = "Have All Adults/Children Rescued"
+cheat0_desc = "所有成人/儿童都已获救"
 cheat0_code = "0757:FF"
 cheat0_enable = false
 
-cheat1_desc = "Have All Adults Rescued"
+cheat1_desc = "所有成年人都获救了吗"
 cheat1_code = "06EC:09"
 cheat1_enable = false
 
-cheat2_desc = "Have All Children Rescued"
+cheat2_desc = "所有儿童都获救了吗"
 cheat2_code = "06EA:09"
 cheat2_enable = false
 
-cheat3_desc = "Infinite lives"
+cheat3_desc = "无限生命"
 cheat3_code = "SZOVKNVK"
 cheat3_enable = false
 
-cheat4_desc = "Start with 1 life"
+cheat4_desc = "从 1 条生命开始"
 cheat4_code = "PENTAGLA"
 cheat4_enable = false
 
-cheat5_desc = "Start with 6 lives"
+cheat5_desc = "从 6 条生命开始"
 cheat5_code = "TENTAGLA"
 cheat5_enable = false
 
-cheat6_desc = "Start with 9 lives"
+cheat6_desc = "从 9 条生命开始"
 cheat6_code = "PENTAGLE"
 cheat6_enable = false
 
-cheat7_desc = "Start with double usual bullets"
+cheat7_desc = "从双倍普通子弹开始"
 cheat7_code = "GTETLIZL"
 cheat7_enable = false
 
-cheat8_desc = "Start with half usual bullets"
+cheat8_desc = "从普通子弹的一半开始"
 cheat8_code = "PPETLIZU"
 cheat8_enable = false
 
-cheat9_desc = "Double usual bullets on new life"
+cheat9_desc = "新生活的双倍平常子弹"
 cheat9_code = "GTOVEYZL"
 cheat9_enable = false
 
-cheat10_desc = "Half bullets on new life"
+cheat10_desc = "新生活的半颗子弹"
 cheat10_code = "PPOVEYZU"
 cheat10_enable = false
 
-cheat11_desc = "Start with machine gun and 256 bullets"
+cheat11_desc = "从机枪和 256 发子弹开始"
 cheat11_code = "VVNVGKSE"
 cheat11_enable = false
 
-cheat12_desc = "Machine gun and 256 bullets on new life"
+cheat12_desc = "机枪和256发子弹开启新生活"
 cheat12_code = "VTOTONSE"
 cheat12_enable = false
 
-cheat13_desc = "Infinite machine gun bullets"
+cheat13_desc = "无限机枪子弹"
 cheat13_code = "AAOXLZPA"
 cheat13_enable = false
 
-cheat14_desc = "Infinite bullets for your gun"
+cheat14_desc = "你的枪有无限子弹"
 cheat14_code = "AENXZPPA"
 cheat14_enable = false
 
-cheat15_desc = "Upper level jump"
+cheat15_desc = "上层跳跃"
 cheat15_code = "SXKEVNOU+ONEOYEXN"
 cheat15_enable = false
 
-cheat16_desc = "Keep machine gun after dying"
+cheat16_desc = "死后保留机枪"
 cheat16_code = "GZOTONSE+GZEVVNSE"
 cheat16_enable = false
 
-cheat17_desc = "Infinite energy"
+cheat17_desc = "无限能量"
 cheat17_code = "STVPVOON+AASOVZPA"
 cheat17_enable = false
 
-cheat18_desc = "Infinite Energy"
+cheat18_desc = "无限能量"
 cheat18_code = "SZVOSOSE"
 cheat18_enable = false
 
-cheat19_desc = "Invincibility"
+cheat19_desc = "无敌"
 cheat19_code = "SZSSGIAX"
 cheat19_enable = false
 
-cheat20_desc = "Infinite Energy"
+cheat20_desc = "无限能量"
 cheat20_code = "06F8:04"
 cheat20_enable = false
 
-cheat21_desc = "Infinite Gun"
+cheat21_desc = "无限枪"
 cheat21_code = "06E0:63"
 cheat21_enable = false
 
-cheat22_desc = "Infinite Machine Gun"
+cheat22_desc = "无限机枪"
 cheat22_code = "06E2:63"
 cheat22_enable = false
 
-cheat23_desc = "Hit Anywhere"
+cheat23_desc = "击中任何地方"
 cheat23_code = "SZOOKKSU+APOOSGLA+GLXPEGLP+AASIVEAL"
 cheat23_enable = false
 
-cheat24_desc = "Have Bomb"
+cheat24_desc = "有炸弹"
 cheat24_code = "AEESIIGA"
 cheat24_enable = false
 
-cheat25_desc = "Infinite Lives"
+cheat25_desc = "无限生命"
 cheat25_code = "06AA:09"
 cheat25_enable = false
 
-cheat26_desc = "Infinite Health"
+cheat26_desc = "无限健康"
 cheat26_code = "06F8:02"
 cheat26_enable = false
 
-cheat27_desc = "Infinite Time"
+cheat27_desc = "无限时间"
 cheat27_code = "06E6:DF"
 cheat27_enable = false
 
-cheat28_desc = "Infinite Continues"
+cheat28_desc = "无限继续"
 cheat28_code = "0756:09"
 cheat28_enable = false
 
-cheat29_desc = "Infinite Bullets"
+cheat29_desc = "无限子弹"
 cheat29_code = "06E0:2E"
 cheat29_enable = false
 
-cheat30_desc = "Fake Bullets Modifier (Ten's Digit)"
+cheat30_desc = "假子弹修改器（十位数字）"
 cheat30_code = "06B1:00"
 cheat30_enable = false
 
-cheat31_desc = "Fake Bullets Modifier (One's Digit)"
+cheat31_desc = "假子弹修改器（一个人的数字）"
 cheat31_code = "06B2:00"
 cheat31_enable = false
 
-cheat32_desc = "Max Score (Ones)"
+cheat32_desc = "最高分数（个）"
 cheat32_code = "06BE:09"
 cheat32_enable = false
 
-cheat33_desc = "Max Score (Tens)"
+cheat33_desc = "最高分数（十）"
 cheat33_code = "06BD:09"
 cheat33_enable = false
 
-cheat34_desc = "Max Score (Hundreds)"
+cheat34_desc = "最高分数（百）"
 cheat34_code = "06BC:09"
 cheat34_enable = false
 
-cheat35_desc = "Max Score (Thousands)"
+cheat35_desc = "最高分数（千）"
 cheat35_code = "06BB:09"
 cheat35_enable = false
 
-cheat36_desc = "Max Score (Hundred-Thousands)"
+cheat36_desc = "最高分数（十万）"
 cheat36_code = "06BA:09"
 cheat36_enable = false
 
-cheat37_desc = "Max Score (Million)"
+cheat37_desc = "最高分数（百万）"
 cheat37_code = "06B9:09"
 cheat37_enable = false
 
-cheat38_desc = "Max Score (Billions)"
+cheat38_desc = "最高分数（十亿）"
 cheat38_code = "06B8:09"
 cheat38_enable = false
 
-cheat39_desc = "Infinite Lives (Alternate Code)"
+cheat39_desc = "无限生命（替代代码）"
 cheat39_code = "06E8:0A"
 cheat39_enable = false
 
-cheat40_desc = "Max High Score"
+cheat40_desc = "最高得分"
 cheat40_code = "008D:09"
 cheat40_enable = false
 
-cheat41_desc = "Max High Score"
+cheat41_desc = "最高得分"
 cheat41_code = "008C:09"
 cheat41_enable = false
 
-cheat42_desc = "Max High Score"
+cheat42_desc = "最高得分"
 cheat42_code = "008B:09"
 cheat42_enable = false
 
-cheat43_desc = "Max High Score"
+cheat43_desc = "最高得分"
 cheat43_code = "008A:09"
 cheat43_enable = false
 
-cheat44_desc = "Max High Score"
+cheat44_desc = "最高得分"
 cheat44_code = "0089:09"
 cheat44_enable = false
 
-cheat45_desc = "Max High Score"
+cheat45_desc = "最高得分"
 cheat45_code = "0088:09"
 cheat45_enable = false
 
-cheat46_desc = "Max High Score"
+cheat46_desc = "最高得分"
 cheat46_code = "0087:09"
 cheat46_enable = false
 
-cheat47_desc = "Have Grenade"
+cheat47_desc = "有手榴弹"
 cheat47_code = "06EE:01"
 cheat47_enable = false
 
-cheat48_desc = "Have Gun Ammo"
+cheat48_desc = "有枪弹药"
 cheat48_code = "06E1:03"
 cheat48_enable = false
 
-cheat49_desc = "Have Machine Gun Ammo"
+cheat49_desc = "有机枪弹药"
 cheat49_code = "06E3:03"
 cheat49_enable = false
 
-cheat50_desc = "Infinite Machine Gun Ammo"
+cheat50_desc = "无限机枪弹药"
 cheat50_code = "06E2:E7"
 cheat50_enable = false
 
-cheat51_desc = "Levitate Jump"
+cheat51_desc = "悬浮跳跃"
 cheat51_code = "040B:70"
 cheat51_enable = false
 
-cheat52_desc = "No Enemies"
+cheat52_desc = "没有敌人"
 cheat52_code = "0352:00+0382:00+03B2:00"
 cheat52_enable = false
 
-cheat53_desc = "Shot Lots Of Bullets When Jumping"
+cheat53_desc = "跳跃时射出大量子弹"
 cheat53_code = "EIOOYPEY"
 cheat53_enable = false
 
-cheat54_desc = "Don't Fall Straight Down After Walking Off Of A Ledge"
+cheat54_desc = "从壁架上走下来后不要直接摔倒"
 cheat54_code = "ESKOZPEY"
 cheat54_enable = false
 
-cheat55_desc = "Shots Pierce Through Enemies"
+cheat55_desc = "射击穿透敌人"
 cheat55_code = "AASIVEAL"
 cheat55_enable = false

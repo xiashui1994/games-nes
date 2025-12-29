@@ -1,245 +1,245 @@
 cheats = 61
 
-cheat0_desc = "Commandoes Will Not Attack"
+cheat0_desc = "突击队不会攻击"
 cheat0_code = "GEISSZ"
 cheat0_enable = false
 
-cheat1_desc = "Infinite Life/Health"
+cheat1_desc = "无限生命/健康"
 cheat1_code = "GZOUVUSA"
 cheat1_enable = false
 
-cheat2_desc = "Start With 96 Lives"
+cheat2_desc = "从 96 条生命开始"
 cheat2_code = "AVUEIZZA"
 cheat2_enable = false
 
-cheat3_desc = "Start With 99 Lives"
+cheat3_desc = "从 99 条生命开始"
 cheat3_code = "LVUEIZZA"
 cheat3_enable = false
 
-cheat4_desc = "Invincible + Never Lose Weapon"
+cheat4_desc = "无敌+永不丢失武器"
 cheat4_code = "ATVUUZSA+GGNUUKSU+VLNUSGTE"
 cheat4_enable = false
 
-cheat5_desc = "Defeat Enemy #1 With 1 Hit"
+cheat5_desc = "一击击败敌人 #1"
 cheat5_code = "0517:00"
 cheat5_enable = false
 
-cheat6_desc = "Defeat Enemy #2 With 1 Hit"
+cheat6_desc = "一击击败敌人#2"
 cheat6_code = "0516:00"
 cheat6_enable = false
 
-cheat7_desc = "Defeat Enemy #3 With 1 Hit"
+cheat7_desc = "一击击败敌人 #3"
 cheat7_code = "0515:00"
 cheat7_enable = false
 
-cheat8_desc = "Enemy #1 Attacks Faster"
+cheat8_desc = "敌人 #1 攻击速度更快"
 cheat8_code = "0567:01"
 cheat8_enable = false
 
-cheat9_desc = "Enemy #2 Attacks Faster"
+cheat9_desc = "敌人 #2 攻击速度更快"
 cheat9_code = "0566:01"
 cheat9_enable = false
 
-cheat10_desc = "Enemy #3 Attacks Faster"
+cheat10_desc = "敌人 #3 攻击速度更快"
 cheat10_code = "0565:01"
 cheat10_enable = false
 
-cheat11_desc = "Defeat Helicopter/Tank With 1 Hit"
+cheat11_desc = "一击击败直升机/坦克"
 cheat11_code = "0794:01"
 cheat11_enable = false
 
-cheat12_desc = "Stage Select"
+cheat12_desc = "阶段选择"
 cheat12_code = "0047:00"
 cheat12_enable = false
 
-cheat13_desc = "1 life"
+cheat13_desc = "1 条生命"
 cheat13_code = "AEUEIZZA"
 cheat13_enable = false
 
-cheat14_desc = "6 lives"
+cheat14_desc = "6 条生命"
 cheat14_code = "IEUEIZZA"
 cheat14_enable = false
 
-cheat15_desc = "9 lives"
+cheat15_desc = "9条生命"
 cheat15_code = "AEUEIZZE"
 cheat15_enable = false
 
-cheat16_desc = "Infinite lives"
+cheat16_desc = "无限生命"
 cheat16_code = "AENSLPPA"
 cheat16_enable = false
 
-cheat17_desc = "Take less damage when hit from behind"
+cheat17_desc = "从后面击中时受到的伤害较小"
 cheat17_code = "STOLOUON"
 cheat17_enable = false
 
-cheat18_desc = "Infinite bullets"
+cheat18_desc = "无限子弹"
 cheat18_code = "AAVGOTPA"
 cheat18_enable = false
 
-cheat19_desc = "Play with less energy"
+cheat19_desc = "用更少的精力玩游戏"
 cheat19_code = "APKGPLAZ+APESYZAZ"
 cheat19_enable = false
 
-cheat20_desc = "Keep weapons"
+cheat20_desc = "保留武器"
 cheat20_code = "GZUUNUSE+GZSLOSSE"
 cheat20_enable = false
 
-cheat21_desc = "Infinite Energy"
+cheat21_desc = "无限能量"
 cheat21_code = "0424:20"
 cheat21_enable = false
 
-cheat22_desc = "Infinite Lives"
+cheat22_desc = "无限生命"
 cheat22_code = "043A:09"
 cheat22_enable = false
 
-cheat23_desc = "Unarmed green soldiers hats flash blue"
+cheat23_desc = "手无寸铁的绿色士兵帽子闪蓝色"
 cheat23_code = "GAZLLO"
 cheat23_enable = false
 
-cheat24_desc = "Changes order of enemies up a bit"
+cheat24_desc = "稍微改变敌人的顺序"
 cheat24_code = "TAZESS"
 cheat24_enable = false
 
-cheat25_desc = "Start with 40 Lives"
+cheat25_desc = "从 40 条生命开始"
 cheat25_code = "UTAKES"
 cheat25_enable = false
 
-cheat26_desc = "Cell door explosion is silent"
+cheat26_desc = "牢房门爆炸无声无息"
 cheat26_code = "KITTEN"
 cheat26_enable = false
 
-cheat27_desc = "Music is missing some beats"
+cheat27_desc = "音乐缺少一些节拍"
 cheat27_code = "TOTALS"
 cheat27_enable = false
 
-cheat28_desc = "Can't pick up any power ups or weapons"
+cheat28_desc = "无法拾取任何能量道具或武器"
 cheat28_code = "STALES"
 cheat28_enable = false
 
-cheat29_desc = "Music is slightly scrambled"
+cheat29_desc = "音乐有点混乱"
 cheat29_code = "ISTAKE"
 cheat29_enable = false
 
-cheat30_desc = "Fight on an all black screen after cell door explosion / Some enemies are wearing different colored uniforms"
+cheat30_desc = "牢房门爆炸后，在全黑屏幕上战斗/一些敌人穿着不同颜色的制服"
 cheat30_code = "TOGGLE"
 cheat30_enable = false
 
-cheat31_desc = "Gun always shoots blanks"
+cheat31_desc = "枪总是打空包"
 cheat31_code = "POLITE"
 cheat31_enable = false
 
-cheat32_desc = "Enemies disappear when shot or when a knife is thrown at them"
+cheat32_desc = "敌人被射击或被刀扔向时就会消失"
 cheat32_code = "EEZLUT"
 cheat32_enable = false
 
-cheat33_desc = "Kicks don't hurt enemies"
+cheat33_desc = "踢腿不会伤害敌人"
 cheat33_code = "STYSIA"
 cheat33_enable = false
 
-cheat34_desc = "Only 1 grenade destroys the chopper at the end of stage 1"
+cheat34_desc = "在第 1 阶段结束时只有 1 颗手榴弹摧毁了直升机"
 cheat34_code = "POPOXX"
 cheat34_enable = false
 
-cheat35_desc = "1 Hit Kills Enemies"
+cheat35_desc = "1 击杀死敌人"
 cheat35_code = "OLEUSOSU"
 cheat35_enable = false
 
-cheat36_desc = "Music is off key"
+cheat36_desc = "音乐走调"
 cheat36_code = "TGZELS"
 cheat36_enable = false
 
-cheat37_desc = "Music sounds completely different"
+cheat37_desc = "音乐听起来完全不同"
 cheat37_code = "UUPEAZ"
 cheat37_enable = false
 
-cheat38_desc = "Fewer Enemies"
+cheat38_desc = "更少的敌人"
 cheat38_code = "AVGEAA"
 cheat38_enable = false
 
-cheat39_desc = "Character Facing Modifier"
+cheat39_desc = "角色朝向修改器"
 cheat39_code = "042A:01"
 cheat39_enable = false
 
-cheat40_desc = "10 Bullets & Brass Knuckle & Armor & Machine Gun & Infinite Ammo (Machine Gun)"
+cheat40_desc = "10 颗子弹 & 指节铜套 & 盔甲 & 机枪 & 无限弹药（机枪）"
 cheat40_code = "0438:00"
 cheat40_enable = false
 
-cheat41_desc = "Max Score (Tens & Hundreds)"
+cheat41_desc = "最高分数（十和百）"
 cheat41_code = "0083:99"
 cheat41_enable = false
 
-cheat42_desc = "Max Score (Thousands & Millions)"
+cheat42_desc = "最高分数（千和百万）"
 cheat42_code = "0082:99"
 cheat42_enable = false
 
-cheat43_desc = "Max Score (Hundred Million & Billion)"
+cheat43_desc = "最高分数（亿和十亿）"
 cheat43_code = "0081:09"
 cheat43_enable = false
 
-cheat44_desc = "Max Hi Score (Tens & Hundreds)"
+cheat44_desc = "最高高分（十和百）"
 cheat44_code = "0084:09"
 cheat44_enable = false
 
-cheat45_desc = "Max Hi Score (Thousands & Millions)"
+cheat45_desc = "最高高分（千和百万）"
 cheat45_code = "0085:09"
 cheat45_enable = false
 
-cheat46_desc = "Max Hi Score (Hundred Million & Billion)"
+cheat46_desc = "最高高分（亿和十亿）"
 cheat46_code = "0086:09"
 cheat46_enable = false
 
-cheat47_desc = "Hit Anywhere"
+cheat47_desc = "击中任何地方"
 cheat47_code = "GKSUVAEU+AESUNALZ+OUVLEEEK"
 cheat47_enable = false
 
-cheat48_desc = "Enemy 1 Modifier"
+cheat48_desc = "敌人 1 修改器"
 cheat48_code = ""
 cheat48_enable = false
 
-cheat49_desc = "Enemy 2 Modifier"
+cheat49_desc = "敌人2修改器"
 cheat49_code = ""
 cheat49_enable = false
 
-cheat50_desc = "Enemy 3 Modifier"
+cheat50_desc = "敌人 3 修改器"
 cheat50_code = ""
 cheat50_enable = false
 
-cheat51_desc = "Defeat Enemy #4 With 1 Hit"
+cheat51_desc = "一击击败敌人 #4"
 cheat51_code = "0514:00"
 cheat51_enable = false
 
-cheat52_desc = "2nd & 3rd Stage Bosses Die Instantly"
+cheat52_desc = "第二和第三阶段 Boss 立即死亡"
 cheat52_code = "0510:00"
 cheat52_enable = false
 
-cheat53_desc = "Enemy #4 Attacks Faster"
+cheat53_desc = "敌人 #4 攻击速度更快"
 cheat53_code = "0564:01"
 cheat53_enable = false
 
-cheat54_desc = "Enemy 4 Modifier"
+cheat54_desc = "敌人 4 修改器"
 cheat54_code = ""
 cheat54_enable = false
 
-cheat55_desc = "Machine Gun is the Only Weapon Dropped"
+cheat55_desc = "机枪是唯一掉落的武器"
 cheat55_code = "004F:01"
 cheat55_enable = false
 
-cheat56_desc = "Strange Enemy Behavior / Attack Patterns"
+cheat56_desc = "奇怪的敌人行为/攻击模式"
 cheat56_code = "008D:01+008F:01"
 cheat56_enable = false
 
-cheat57_desc = "Enemy Color Modifier"
+cheat57_desc = "敌人颜色修改器"
 cheat57_code = "003A:01"
 cheat57_enable = false
 
-cheat58_desc = "Stage Color Modifier"
+cheat58_desc = "舞台颜色修改器"
 cheat58_code = "00D5:01"
 cheat58_enable = false
 
-cheat59_desc = "Disable Scrolling Lock"
+cheat59_desc = "禁用滚动锁定"
 cheat59_code = "0045:00"
 cheat59_enable = false
 
-cheat60_desc = "Water Effect Modifier"
+cheat60_desc = "水效调节剂"
 cheat60_code = ""
 cheat60_enable = false

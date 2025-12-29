@@ -1,9 +1,9 @@
 cheats = 2
 
-cheat0_desc = "Infinite Turns [One Player]"
+cheat0_desc = "无限回合[单人游戏]"
 cheat0_code = "SXKXNLSA"
 cheat0_enable = false
 
-cheat1_desc = "Infinite Turns (One Player)"
+cheat1_desc = "无限回合（单人游戏）"
 cheat1_code = "008B:06"
 cheat1_enable = false

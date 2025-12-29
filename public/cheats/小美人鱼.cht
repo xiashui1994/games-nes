@@ -1,113 +1,113 @@
 cheats = 28
 
-cheat0_desc = "Start with 1 life"
+cheat0_desc = "从 1 条生命开始"
 cheat0_code = "AASGATZA"
 cheat0_enable = false
 
-cheat1_desc = "Start with 6 lives"
+cheat1_desc = "从 6 条生命开始"
 cheat1_code = "IASGATZA"
 cheat1_enable = false
 
-cheat2_desc = "Start with 9 lives"
+cheat2_desc = "从 9 条生命开始"
 cheat2_code = "AASGATZE"
 cheat2_enable = false
 
-cheat3_desc = "Infinite lives"
+cheat3_desc = "无限生命"
 cheat3_code = "SZSSPLVG"
 cheat3_enable = false
 
-cheat4_desc = "Keep red pearls after dying"
+cheat4_desc = "死后保留红珍珠"
 cheat4_code = "GZSILLSA"
 cheat4_enable = false
 
-cheat5_desc = "Keep green pearls after dying"
+cheat5_desc = "死后保留绿色珍珠"
 cheat5_code = "GZSIILSA"
 cheat5_enable = false
 
-cheat6_desc = "Get all pearls after dying"
+cheat6_desc = "死后获得所有珍珠"
 cheat6_code = "LASIZLAA"
 cheat6_enable = false
 
-cheat7_desc = "Start with all red pearls"
+cheat7_desc = "从全红珍珠开始"
 cheat7_code = "LAKKGTAA+ILKKTVOV"
 cheat7_enable = false
 
-cheat8_desc = "Start with all green pearls"
+cheat8_desc = "从所有绿色珍珠开始"
 cheat8_code = "LAKKGTAA+TLKKTVOV"
 cheat8_enable = false
 
-cheat9_desc = "Start with 1 heart"
+cheat9_desc = "从 1 颗心开始"
 cheat9_code = "PASGGTLA+PAXGAYLA"
 cheat9_enable = false
 
-cheat10_desc = "Start with 5 hearts"
+cheat10_desc = "从 5 颗心开始"
 cheat10_code = "IASGGTLA+IAXGAYLA"
 cheat10_enable = false
 
-cheat11_desc = "Infinite Energy"
+cheat11_desc = "无限能量"
 cheat11_code = "00B1:05"
 cheat11_enable = false
 
-cheat12_desc = "One Hit Kill Boss"
+cheat12_desc = "一击杀死Boss"
 cheat12_code = "03FF:01"
 cheat12_enable = false
 
-cheat13_desc = "Invincibility"
+cheat13_desc = "无敌"
 cheat13_code = "SXSGNPVG"
 cheat13_enable = false
 
-cheat14_desc = "Invincibility"
+cheat14_desc = "无敌"
 cheat14_code = "ESSGSPEY+ESEELPEY"
 cheat14_enable = false
 
-cheat15_desc = "Start On 2nd Stage"
+cheat15_desc = "从第二阶段开始"
 cheat15_code = "PAKKGTAA"
 cheat15_enable = false
 
-cheat16_desc = "Start On 3rd Stage"
+cheat16_desc = "从第三阶段开始"
 cheat16_code = "ZAKKGTAA"
 cheat16_enable = false
 
-cheat17_desc = "Start On 4th Stage"
+cheat17_desc = "从第四阶段开始"
 cheat17_code = "LAKKGTAA"
 cheat17_enable = false
 
-cheat18_desc = "Start On 5th Stage"
+cheat18_desc = "从第五阶段开始"
 cheat18_code = "GAKKGTAA"
 cheat18_enable = false
 
-cheat19_desc = "Start On Ursula Stage"
+cheat19_desc = "从乌苏拉舞台开始"
 cheat19_code = "IAKKGTAA"
 cheat19_enable = false
 
-cheat20_desc = "Infinite Hearts"
+cheat20_desc = "无限的心"
 cheat20_code = "00B1:05"
 cheat20_enable = false
 
-cheat21_desc = "Infinite Lives"
+cheat21_desc = "无限生命"
 cheat21_code = "00B0:09"
 cheat21_enable = false
 
-cheat22_desc = "1 Hit Kills Bosses"
+cheat22_desc = "1 击杀死 Boss"
 cheat22_code = "03FF:00"
 cheat22_enable = false
 
-cheat23_desc = "Stage Modifier"
+cheat23_desc = "阶段修改器"
 cheat23_code = "00E9:01"
 cheat23_enable = false
 
-cheat24_desc = "Multi-Shot"
+cheat24_desc = "多重射击"
 cheat24_code = "003B:00"
 cheat24_enable = false
 
-cheat25_desc = "Untouchable"
+cheat25_desc = "贱民"
 cheat25_code = "003F:10"
 cheat25_enable = false
 
-cheat26_desc = "Speed Modifier"
+cheat26_desc = "速度调节器"
 cheat26_code = "0390:00"
 cheat26_enable = false
 
-cheat27_desc = "Start with tons lives"
+cheat27_desc = "从大量生命开始"
 cheat27_code = ""
 cheat27_enable = false

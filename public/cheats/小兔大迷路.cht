@@ -1,5 +1,5 @@
 cheats = 1
 
-cheat0_desc = "Infinite Lives"
+cheat0_desc = "无限生命"
 cheat0_code = "0511:03"
 cheat0_enable = false

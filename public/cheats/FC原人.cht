@@ -1,118 +1,118 @@
 cheats = 38
 
-cheat0_desc = "Infinite Health"
+cheat0_desc = "无限健康"
 cheat0_code = "SXSPVOSE"
 cheat0_enable = false
 
-cheat1_desc = "Infinite lives"
+cheat1_desc = "无限生命"
 cheat1_code = "SZVZINVK"
 cheat1_enable = false
 
-cheat2_desc = "Start with 1 life"
+cheat2_desc = "从 1 条生命开始"
 cheat2_code = "AEKAAAZA"
 cheat2_enable = false
 
-cheat3_desc = "Start with 6 lives"
+cheat3_desc = "从 6 条生命开始"
 cheat3_code = "IEKAAAZA"
 cheat3_enable = false
 
-cheat4_desc = "Start with 9 lives"
+cheat4_desc = "从 9 条生命开始"
 cheat4_code = "AEKAAAZE"
 cheat4_enable = false
 
-cheat5_desc = "Start with less initial energy (but more maximum energy)"
+cheat5_desc = "以较少的初始能量开始（但最大能量较多）"
 cheat5_code = "GEUAAEGA"
 cheat5_enable = false
 
-cheat6_desc = "Start with more energy"
+cheat6_desc = "从更多能量开始"
 cheat6_code = "AOUAAEGE"
 cheat6_enable = false
 
-cheat7_desc = "Gain energy from picking up smiles"
+cheat7_desc = "从微笑中获得能量"
 cheat7_code = "GASZTYAA"
 cheat7_enable = false
 
-cheat8_desc = "Super jump when normal"
+cheat8_desc = "正常时超级跳跃"
 cheat8_code = "GXEEYEGA"
 cheat8_enable = false
 
-cheat9_desc = "Keep &quot;speed up&quot; after powered down"
+cheat9_desc = "保持“加速” after powered down"
 cheat9_code = "GXVPIKSE"
 cheat9_enable = false
 
-cheat10_desc = "Infinite Energy"
+cheat10_desc = "无限能量"
 cheat10_code = "0444:0C"
 cheat10_enable = false
 
-cheat11_desc = "Infinite Lives"
+cheat11_desc = "无限生命"
 cheat11_code = "0441:03"
 cheat11_enable = false
 
-cheat12_desc = "Invincibility"
+cheat12_desc = "无敌"
 cheat12_code = "0482:01"
 cheat12_enable = false
 
-cheat13_desc = "Infinite Lives"
+cheat13_desc = "无限生命"
 cheat13_code = "SLVZINVK"
 cheat13_enable = false
 
-cheat14_desc = "Invincibility"
+cheat14_desc = "无敌"
 cheat14_code = "ESNOXPEY+ENNONPEI"
 cheat14_enable = false
 
-cheat15_desc = "Hit Anywhere"
+cheat15_desc = "击中任何地方"
 cheat15_code = "AAXXZILA+LINXTZYZ"
 cheat15_enable = false
 
-cheat16_desc = "Vertical Hold Modifier"
+cheat16_desc = "垂直保持修改器"
 cheat16_code = "035A:00"
 cheat16_enable = false
 
-cheat17_desc = "99 Carrots Bonus Round"
+cheat17_desc = "99 胡萝卜奖金轮"
 cheat17_code = "043D:63"
 cheat17_enable = false
 
-cheat18_desc = "Anger Modifier"
+cheat18_desc = "愤怒修正"
 cheat18_code = "0449:00"
 cheat18_enable = false
 
-cheat19_desc = "Enemies Die On Contact"
+cheat19_desc = "敌人因接触而死亡"
 cheat19_code = "0453:01"
 cheat19_enable = false
 
-cheat20_desc = "Level Modifier"
+cheat20_desc = "等级修改器"
 cheat20_code = "0459:00"
 cheat20_enable = false
 
-cheat21_desc = "Super Jump"
+cheat21_desc = "超级跳跃"
 cheat21_code = "0477:0F"
 cheat21_enable = false
 
-cheat22_desc = "Jump In Midair, See Note"
+cheat22_desc = "跳到半空中，见注释"
 cheat22_code = "04A5:FF"
 cheat22_enable = false
 
-cheat23_desc = "Start On Stage 2-1"
+cheat23_desc = "从第 2-1 阶段开始"
 cheat23_code = "YEXELAAA"
 cheat23_enable = false
 
-cheat24_desc = "Start On Stage 3-1"
+cheat24_desc = "从第 3-1 阶段开始"
 cheat24_code = "IEXELAAE"
 cheat24_enable = false
 
-cheat25_desc = "Start On Stage 4-1"
+cheat25_desc = "从第 4-1 阶段开始"
 cheat25_code = "ZOXELAAA"
 cheat25_enable = false
 
-cheat26_desc = "Start On Stage 5-1"
+cheat26_desc = "从第 5-1 阶段开始"
 cheat26_code = "YOXELAAA"
 cheat26_enable = false
 
-cheat27_desc = "Start On Stage 6-1"
+cheat27_desc = "从第 6-1 阶段开始"
 cheat27_code = "PXXELAAA"
 cheat27_enable = false
 
-cheat28_desc = "Infinite Lives"
+cheat28_desc = "无限生命"
 cheat28_code = "0441:09"
 cheat28_enable = false
 
@@ -120,23 +120,23 @@ cheat29_desc = "Infinite Hits (Ignore Display)"
 cheat29_code = "0444:0A"
 cheat29_enable = false
 
-cheat30_desc = "Have Many Smiley Coins"
+cheat30_desc = "有很多笑脸硬币"
 cheat30_code = "0448:15"
 cheat30_enable = false
 
-cheat31_desc = "Slow Decent From Walking Off Ledges"
+cheat31_desc = "从壁架上走下来缓慢下降"
 cheat31_code = "ESUOUZEY"
 cheat31_enable = false
 
-cheat32_desc = "Walk Faster (Left Direction)"
+cheat32_desc = "走得更快（向左）"
 cheat32_code = "EPXENYEL"
 cheat32_enable = false
 
-cheat33_desc = "Speed Modifier"
+cheat33_desc = "速度调节器"
 cheat33_code = "036C:00"
 cheat33_enable = false
 
-cheat34_desc = "Swim Anywhere"
+cheat34_desc = "随处游泳"
 cheat34_code = "008F:06"
 cheat34_enable = false
 
@@ -144,10 +144,10 @@ cheat35_desc = "Swim Through Anything"
 cheat35_code = "0090:40+03B4:1B"
 cheat35_enable = false
 
-cheat36_desc = "Walk Behind Scenery"
+cheat36_desc = "走在风景后面"
 cheat36_code = "0348:20"
 cheat36_enable = false
 
-cheat37_desc = "Earthquake"
+cheat37_desc = "地震"
 cheat37_code = "04A9:0F"
 cheat37_enable = false

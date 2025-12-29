@@ -1,129 +1,129 @@
 cheats = 32
 
-cheat0_desc = "Invincibility"
+cheat0_desc = "无敌"
 cheat0_code = "SUEVGZVI"
 cheat0_enable = false
 
-cheat1_desc = "Start With 9 Lives"
+cheat1_desc = "从 9 条生命开始"
 cheat1_code = "ZEKKTZLE"
 cheat1_enable = false
 
-cheat2_desc = "Infinite Lives"
+cheat2_desc = "无限生命"
 cheat2_code = "0051:02"
 cheat2_enable = false
 
-cheat3_desc = "Win Level Now"
+cheat3_desc = "立即赢得关卡"
 cheat3_code = "0080:00"
 cheat3_enable = false
 
-cheat4_desc = "Tank Always Have Shield Protection"
+cheat4_desc = "坦克始终有盾牌保护"
 cheat4_code = "0089:02"
 cheat4_enable = false
 
-cheat5_desc = "Infinite Lives"
+cheat5_desc = "无限生命"
 cheat5_code = "SLESSTVI"
 cheat5_enable = false
 
-cheat6_desc = "Enemies Cannot Beat Your Base"
+cheat6_desc = "敌人无法击败你的基地"
 cheat6_code = "APNIIUYA+APNITUYA+APNIYUYA+APNSAUYA+APNSGUYA+APNSYUYA+AOEILUYA+AOEITUYA"
 cheat6_enable = false
 
-cheat7_desc = "Infinite Freeze Time Once You Get A Clock"
+cheat7_desc = "获得时钟后无限冻结时间"
 cheat7_code = "SZEIEKVK"
 cheat7_enable = false
 
-cheat8_desc = "Get 256 Seconds Of Freeze Time When You Get A Clock"
+cheat8_desc = "当您获得时钟时，获得 256 秒的冻结时间"
 cheat8_code = "NNNTVOZE"
 cheat8_enable = false
 
-cheat9_desc = "Hit Anywhere"
+cheat9_desc = "击中任何地方"
 cheat9_code = "GXKVZYEL+GXUVPYEL"
 cheat9_enable = false
 
-cheat10_desc = "Auto Complete Levels"
+cheat10_desc = "自动完成关卡"
 cheat10_code = "AASGGLGP"
 cheat10_enable = false
 
-cheat11_desc = "Base Cannot Be Destroyed v2"
+cheat11_desc = "基地无法被摧毁 v2"
 cheat11_code = "GXUTATSA"
 cheat11_enable = false
 
-cheat12_desc = "Press Start to Complete Current Level"
+cheat12_desc = "按开始完成当前级别"
 cheat12_code = "OZOGGZIK+AAOGIXIT+EAOGYXIT"
 cheat12_enable = false
 
-cheat13_desc = "Note!"
+cheat13_desc = "笔记！"
 cheat13_code = ""
 cheat13_enable = false
 
-cheat14_desc = "Every Stage Contains 10 Enemy Tanks"
+cheat14_desc = "每个阶段包含 10 辆敌方坦克"
 cheat14_code = "ZASGGLGO"
 cheat14_enable = false
 
-cheat15_desc = "Every Stage Contains 30 Enemy Tanks"
+cheat15_desc = "每个阶段包含 30 辆敌方坦克"
 cheat15_code = "TPSGGLGO"
 cheat15_enable = false
 
-cheat16_desc = "Every Stage Contains 50 Enemy Tanks"
+cheat16_desc = "每个阶段包含 50 辆敌方坦克"
 cheat16_code = "ZLSGGLGP"
 cheat16_enable = false
 
-cheat17_desc = "Every Stage Contains 80 Enemy Tanks"
+cheat17_desc = "每个阶段包含 80 辆敌方坦克"
 cheat17_code = "AISGGLGP"
 cheat17_enable = false
 
-cheat18_desc = "Every Stage Contains 100 Enemy Tanks"
+cheat18_desc = "每个阶段包含 100 辆敌方坦克"
 cheat18_code = "GTSGGLGP"
 cheat18_enable = false
 
-cheat19_desc = "Every Stage Contains 120 Enemy Tanks"
+cheat19_desc = "每个阶段包含 120 辆敌方坦克"
 cheat19_code = "AYSGGLGO"
 cheat19_enable = false
 
-cheat20_desc = "Every Stage Contains 150 Enemy Tanks"
+cheat20_desc = "每个阶段包含 150 辆敌方坦克"
 cheat20_code = "VPSGGLGP"
 cheat20_enable = false
 
-cheat21_desc = "Every Stage Contains 180 Enemy Tanks"
+cheat21_desc = "每个阶段包含 180 辆敌方坦克"
 cheat21_code = "KLSGGLGP"
 cheat21_enable = false
 
-cheat22_desc = "Every Stage Contains 200 Enemy Tanks"
+cheat22_desc = "每个阶段包含 200 辆敌方坦克"
 cheat22_code = "EGSGGLGO"
 cheat22_enable = false
 
-cheat23_desc = "Every Stage Contains 240 Enemy Tanks"
+cheat23_desc = "每个阶段包含 240 辆敌方坦克"
 cheat23_code = "EYSGGLGP"
 cheat23_enable = false
 
-cheat24_desc = "Every Stage Contains 250 Enemy Tanks"
+cheat24_desc = "每个阶段包含 250 辆敌方坦克"
 cheat24_code = "XYSGGLGO"
 cheat24_enable = false
 
-cheat25_desc = "Drive Through Walls (Players &amp; Enemies)"
+cheat25_desc = "穿墙行驶（玩家和敌人）"
 cheat25_code = "GZEIXIEP+GXSINGAL"
 cheat25_enable = false
 
-cheat26_desc = "Every Stage Contains 255 Enemy Tanks"
+cheat26_desc = "每个阶段包含 255 辆敌方坦克"
 cheat26_code = "NYSGGLGO"
 cheat26_enable = false
 
-cheat27_desc = "Always Have Shield On Tank"
+cheat27_desc = "坦克上始终有盾牌"
 cheat27_code = "SSEVGZVI"
 cheat27_enable = false
 
-cheat28_desc = "Invincibility"
+cheat28_desc = "无敌"
 cheat28_code = "SOETZZSL"
 cheat28_enable = false
 
-cheat29_desc = "Start Every Life With Max Shot Power"
+cheat29_desc = "以最大射击功率开始每一生"
 cheat29_code = "ATVTGLAA"
 cheat29_enable = false
 
-cheat30_desc = "Start With 9 Lives"
+cheat30_desc = "从 9 条生命开始"
 cheat30_code = "PEGKTX"
 cheat30_enable = false
 
-cheat31_desc = "Always Have Shield Power"
+cheat31_desc = "始终拥有护盾力量"
 cheat31_code = "AAITTY"
 cheat31_enable = false

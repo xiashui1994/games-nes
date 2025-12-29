@@ -1,85 +1,85 @@
 cheats = 21
 
-cheat0_desc = "Infinite Health"
+cheat0_desc = "无限健康"
 cheat0_code = "SXKGIVOO"
 cheat0_enable = false
 
-cheat1_desc = "Infinite Health For Konami Man"
+cheat1_desc = "Konami Man 的无限健康"
 cheat1_code = "07D0:0E"
 cheat1_enable = false
 
-cheat2_desc = "Infinite Health For Konami Girl"
+cheat2_desc = "Konami 女孩的无限健康"
 cheat2_code = "07D1:0E"
 cheat2_enable = false
 
-cheat3_desc = "Infinite Health For Goemon"
+cheat3_desc = "五右卫门无限健康"
 cheat3_code = "07D2:0E"
 cheat3_enable = false
 
-cheat4_desc = "Infinite Health For Simon Belmont"
+cheat4_desc = "西蒙·贝尔蒙特的无限健康"
 cheat4_code = "07D3:0E"
 cheat4_enable = false
 
-cheat5_desc = "Infinite Health For Getsufuu-Maden"
+cheat5_desc = "月风制造的无限健康"
 cheat5_code = "07D4:0E"
 cheat5_enable = false
 
-cheat6_desc = "Infinite Health For Mikey"
+cheat6_desc = "麦奇的无限健康"
 cheat6_code = "07D5:0E"
 cheat6_enable = false
 
-cheat7_desc = "Infinite Health For Moai"
+cheat7_desc = "摩艾的无限健康"
 cheat7_code = "07D6:0E"
 cheat7_enable = false
 
-cheat8_desc = "Infinite Health For Kong"
+cheat8_desc = "香港无限健康"
 cheat8_code = "07D7:0E"
 cheat8_enable = false
 
-cheat9_desc = "Set All Characters"
+cheat9_desc = "设置所有字符"
 cheat9_code = "07D8:FF"
 cheat9_enable = false
 
-cheat10_desc = "Set Weapons For All Characters"
+cheat10_desc = "为所有角色设置武器"
 cheat10_code = "07B2:FF"
 cheat10_enable = false
 
-cheat11_desc = "Infinite Lives For Vic Viper/Twinbee Stages"
+cheat11_desc = "Vic Viper/Twinbee 舞台的无限生命"
 cheat11_code = "0060:09"
 cheat11_enable = false
 
-cheat12_desc = "Infinite Time To Escape"
+cheat12_desc = "无限的逃脱时间"
 cheat12_code = "07DA:FA"
 cheat12_enable = false
 
-cheat13_desc = "Set Character Modifier"
+cheat13_desc = "设置字符修饰符"
 cheat13_code = "07CA:00"
 cheat13_enable = false
 
-cheat14_desc = "Infinite Ammo"
+cheat14_desc = "无限弹药"
 cheat14_code = "SXSGTVSE"
 cheat14_enable = false
 
-cheat15_desc = "Infinite Lives For Vic Viper/Twinbee Stages"
+cheat15_desc = "Vic Viper/Twinbee 舞台的无限生命"
 cheat15_code = "SXSAKTVG"
 cheat15_enable = false
 
-cheat16_desc = "Invincibility (Player 1)"
+cheat16_desc = "无敌（玩家 1）"
 cheat16_code = "0040:03"
 cheat16_enable = false
 
-cheat17_desc = "Invincibility (Player 2)"
+cheat17_desc = "无敌（玩家 2）"
 cheat17_code = "0041:03"
 cheat17_enable = false
 
-cheat18_desc = "Set Infinite Power Up(99)"
+cheat18_desc = "设置无限力量(99)"
 cheat18_code = "07DD:63"
 cheat18_enable = false
 
-cheat19_desc = "Set Infinite Keys(99)"
+cheat19_desc = "设置无限键(99)"
 cheat19_code = "07DF:63"
 cheat19_enable = false
 
-cheat20_desc = "Fix Invincible Flashing"
+cheat20_desc = "修复无敌闪烁"
 cheat20_code = "0340:80"
 cheat20_enable = false

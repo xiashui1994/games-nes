@@ -1,541 +1,541 @@
 cheats = 135
 
-cheat0_desc = "Infinite Time"
+cheat0_desc = "无限时间"
 cheat0_code = "SXOIGUVK"
 cheat0_enable = false
 
-cheat1_desc = "Invincibility Against Monsters/Bullets"
+cheat1_desc = "对怪物/子弹无敌"
 cheat1_code = "AVVYLIAZ"
 cheat1_enable = false
 
-cheat2_desc = "Weapon 1 in Level 5 is the Cross"
+cheat2_desc = "5级武器1是十字架"
 cheat2_code = "PAVEPOZE"
 cheat2_enable = false
 
-cheat3_desc = "Weapon 2 in Level 5 is the Cross"
+cheat3_desc = "5级武器2是十字"
 cheat3_code = "PEXEPPTE"
 cheat3_enable = false
 
-cheat4_desc = "Activates stage select"
+cheat4_desc = "激活阶段选择"
 cheat4_code = "AAVIZEYA"
 cheat4_enable = false
 
-cheat5_desc = "Have Good Ending First Time Thru (Combine with Stage Select Code)"
+cheat5_desc = "第一次就有好结局（与阶段选择代码结合）"
 cheat5_code = "EINIIGEY"
 cheat5_enable = false
 
-cheat6_desc = "Adds More Options To The Title Screen (But You Can't Select Them)"
+cheat6_desc = "向标题屏幕添加更多选项（但您无法选择它们）"
 cheat6_code = "SPLKIY"
 cheat6_enable = false
 
-cheat7_desc = "Auto Puts Player 2 In The Game"
+cheat7_desc = "自动将玩家 2 放入游戏中"
 cheat7_code = "PAAGIK"
 cheat7_enable = false
 
-cheat8_desc = "Push Start At The Title Screen Takes You To The Demo"
+cheat8_desc = "在标题屏幕上按“开始”即可进入演示"
 cheat8_code = "PAPGAV"
 cheat8_enable = false
 
-cheat9_desc = "When You Start A New Game, Fireballs Are Fired At You Off The Screen Like You're Replaying The Game After Beating It"
+cheat9_desc = "当您开始新游戏时，火球会从屏幕外向您发射，就像您在通关后重玩游戏一样"
 cheat9_code = "SKLYAA"
 cheat9_enable = false
 
-cheat10_desc = "A Level Select Appears Before You Start A Level, After You Beat A Level, Or When You Die"
+cheat10_desc = "关卡选择会在您开始关卡之前、通关之后或死亡时出现"
 cheat10_code = "EPTILE"
 cheat10_enable = false
 
-cheat11_desc = "Each Zombie Shot Gives You An Extra Life (Don't Go Past 8 Lives!)"
+cheat11_desc = "每次僵尸射击都会给你额外的生命（不要超过 8 条生命！）"
 cheat11_code = "POLIOO"
 cheat11_enable = false
 
-cheat12_desc = "Receive A Really High Score Shooting Zombies"
+cheat12_desc = "射击僵尸获得高分"
 cheat12_code = "OOLIOO"
 cheat12_enable = false
 
-cheat13_desc = "The Armor From The Intro Is Left Everywhere On The 1st Stage And Can Sometimes Equip It"
+cheat13_desc = "简介中的盔甲留在第一阶段的各处，有时可以装备它"
 cheat13_code = "IKAEIA"
 cheat13_enable = false
 
-cheat14_desc = "At The Beginning Of Stage 1, The Money Bag Lying In The Open Gets Replaced By Armor"
+cheat14_desc = "第一阶段开始时，露天的钱袋被盔甲取代"
 cheat14_code = "KIPNGL"
 cheat14_enable = false
 
-cheat15_desc = "Arthur Dies In The Intro"
+cheat15_desc = "亚瑟在简介中去世"
 cheat15_code = "KIYTAO"
 cheat15_enable = false
 
-cheat16_desc = "Start With 7 Minutes"
+cheat16_desc = "从 7 分钟开始"
 cheat16_code = "YAGINA"
 cheat16_enable = false
 
-cheat17_desc = "Shoot 1st Zombie For 10 000 Points"
+cheat17_desc = "射击第一个僵尸获得 10 000 分"
 cheat17_code = "TALINP"
 cheat17_enable = false
 
-cheat18_desc = "The Money Bag Lying In The Open At The Beginning Of Stage 1 Gets Replaced By The Frog King Statue Which You Can Keep Collecting"
+cheat18_desc = "第一阶段开始时露天的钱袋被青蛙王雕像取代，您可以继续收集"
 cheat18_code = "AOTSTV"
 cheat18_enable = false
 
-cheat19_desc = "Items And Enemies Are Worth More Points"
+cheat19_desc = "物品和敌人值得更多积分"
 cheat19_code = "GUINEA"
 cheat19_enable = false
 
-cheat20_desc = "The Magician Doesn't Appear From The Tombstones"
+cheat20_desc = "魔术师没有从墓碑中出现"
 cheat20_code = "KIANYL"
 cheat20_enable = false
 
-cheat21_desc = "If There's An Item You Didn't Get Before You Die, It Will Be There On Your Next Life (Not On Continues)"
+cheat21_desc = "如果有一件物品你死前没有得到，它会在你的下一生中出现（不继续）"
 cheat21_code = "PALKAT"
 cheat21_enable = false
 
-cheat22_desc = "When An Enemy Drops A Basket, There's Nothing In It"
+cheat22_desc = "当敌人丢下一个篮子时，里面什么也没有"
 cheat22_code = "SIANIL"
 cheat22_enable = false
 
-cheat23_desc = "Less Crows"
+cheat23_desc = "减少乌鸦"
 cheat23_code = "PAZIVZ"
 cheat23_enable = false
 
-cheat24_desc = "Disables Time And Score"
+cheat24_desc = "禁用时间和分数"
 cheat24_code = "PAYIYO"
 cheat24_enable = false
 
-cheat25_desc = "Jump Higher"
+cheat25_desc = "跳得更高"
 cheat25_code = "KGASSN"
 cheat25_enable = false
 
-cheat26_desc = "Infinite Armor"
+cheat26_desc = "无限护甲"
 cheat26_code = "SKITTL"
 cheat26_enable = false
 
-cheat27_desc = "When You Get Hit By An Enemy, The Invincibility Lasts 4 Times As Long"
+cheat27_desc = "被敌人击中时，无敌时间延长4倍"
 cheat27_code = "VOGTIL"
 cheat27_enable = false
 
-cheat28_desc = "When You're Transformed Into An Animal By The Magician, You're Invincible"
+cheat28_desc = "当你被魔术师变成动物时，你就无敌了"
 cheat28_code = "KIANTL"
 cheat28_enable = false
 
-cheat29_desc = "Most Weapons Are Super Destructive!"
+cheat29_desc = "大多数武器都具有超强杀伤力！"
 cheat29_code = "VPUYTTSA"
 cheat29_enable = false
 
-cheat30_desc = "Big Unicorn Men Don't Jump!"
+cheat30_desc = "大独角兽人别跳！"
 cheat30_code = "EGGNOG"
 cheat30_enable = false
 
-cheat31_desc = "Left-Half Of Everything Is Invincible To Make The Game Slightly Easier"
+cheat31_desc = "一切的左半边都是无敌的，让游戏变得稍微容易一些"
 cheat31_code = "EPGYZT"
 cheat31_enable = false
 
-cheat32_desc = "Repeat Jumping"
+cheat32_desc = "重复跳跃"
 cheat32_code = "PPPSKL"
 cheat32_enable = false
 
-cheat33_desc = "Fire Happy Enemies"
+cheat33_desc = "开火快乐的敌人"
 cheat33_code = "ZAIILZ"
 cheat33_enable = false
 
-cheat34_desc = "Stage Select Appears Before You Start, When You Die, Or Complete A Stage"
+cheat34_desc = "阶段选择会在您开始之前、死亡时或完成阶段时出现"
 cheat34_code = "EPVILAES"
 cheat34_enable = false
 
-cheat35_desc = "When Transformed By The Magician, You'll Be Invincible"
+cheat35_desc = "被魔法师变身后，你将所向披靡"
 cheat35_code = "KIENTLGA"
 cheat35_enable = false
 
-cheat36_desc = "Be Invincible Four Times Longer When Hit By An Enemy"
+cheat36_desc = "被敌人击中时无敌时间延长四倍"
 cheat36_code = "VVKTIUTP"
 cheat36_enable = false
 
-cheat37_desc = "Jump Twice As High"
+cheat37_desc = "跳高两倍"
 cheat37_code = "PONSNTGE"
 cheat37_enable = false
 
-cheat38_desc = "Zombies Are Worth 290 Points"
+cheat38_desc = "僵尸值 290 分"
 cheat38_code = "PESNOAAE"
 cheat38_enable = false
 
-cheat39_desc = "Crows Are Worth 250 Points"
+cheat39_desc = "乌鸦值 250 分"
 cheat39_code = "YANYNPAE"
 cheat39_enable = false
 
-cheat40_desc = "When You Get Hit A Second Time, You Won't Die"
+cheat40_desc = "当你被击中第二次时，你就不会死"
 cheat40_code = "OSETAPEI"
 cheat40_enable = false
 
-cheat41_desc = "You Don't Bounce When You Get Hit"
+cheat41_desc = "当你被击中时你不会弹跳"
 cheat41_code = "PEXTGOVV"
 cheat41_enable = false
 
-cheat42_desc = "Infinite Armor"
+cheat42_desc = "无限护甲"
 cheat42_code = "PEXTYOPO"
 cheat42_enable = false
 
-cheat43_desc = "Zombies That Carry A Basket Will Drop $500"
+cheat43_desc = "携带篮子的僵尸将掉落 500 美元"
 cheat43_code = "AAOEVPPA"
 cheat43_enable = false
 
-cheat44_desc = "Zombies That Carry A Basket Will Drop 5000 Point I"
+cheat44_desc = "携带篮子的僵尸会掉落 5000 点 I"
 cheat44_code = "ZAOEVPPA"
 cheat44_enable = false
 
-cheat45_desc = "Zombies That Carry A Basket Will Drop 10,000 Point"
+cheat45_desc = "携带篮子的僵尸会掉落10,000点"
 cheat45_code = "LAOEVPPA"
 cheat45_enable = false
 
-cheat46_desc = "Zombies That Carry A Basket Will Drop An Extra Life"
+cheat46_desc = "携带篮子的僵尸会掉落额外的生命"
 cheat46_code = "GAOEVPPA"
 cheat46_enable = false
 
-cheat47_desc = "Zombies That Carry A Basket Will Drop Armor"
+cheat47_desc = "携带篮子的僵尸会掉落盔甲"
 cheat47_code = "IAOEVPPA"
 cheat47_enable = false
 
-cheat48_desc = "Zombies That Carry A Basket Will Drop Fireball"
+cheat48_desc = "携带篮子的僵尸会掉落火球"
 cheat48_code = "TAOEVPPA"
 cheat48_enable = false
 
-cheat49_desc = "Zombies That Carry A Basket Will Drop Axe"
+cheat49_desc = "携带篮子的僵尸会掉落斧头"
 cheat49_code = "YAOEVPPA"
 cheat49_enable = false
 
-cheat50_desc = "Zombies That Carry A Basket Will Drop Dagger"
+cheat50_desc = "携带篮子的僵尸会掉落匕首"
 cheat50_code = "AAOEVPPE"
 cheat50_enable = false
 
-cheat51_desc = "Zombies That Carry A Basket Will Drop Cross"
+cheat51_desc = "携带篮子的僵尸会掉落十字架"
 cheat51_code = "PAOEVPPE"
 cheat51_enable = false
 
-cheat52_desc = "Zombies That Carry A Basket Will Drop Lance"
+cheat52_desc = "携带篮子的僵尸会掉落长矛"
 cheat52_code = "ZAOEVPPE"
 cheat52_enable = false
 
-cheat53_desc = "Zombies That Carry A Basket Will Drop Statue That Turns You Into A Form"
+cheat53_desc = "携带篮子的僵尸会掉落雕像，将你变成某种形态"
 cheat53_code = "LAOEVPPE"
 cheat53_enable = false
 
-cheat54_desc = "Zombies That Carry A Basket Will Drop Item That Reduces Timer By 30 Seconds"
+cheat54_desc = "携带篮子的僵尸会掉落物品，使计时器减少 30 秒"
 cheat54_code = "GAOEVPPE"
 cheat54_enable = false
 
-cheat55_desc = "Zombies That Carry A Basket Will Drop Item That Adds 1 Minute To Timer"
+cheat55_desc = "携带篮子的僵尸会掉落使计时器增加 1 分钟的物品"
 cheat55_code = "IAOEVPPE"
 cheat55_enable = false
 
-cheat56_desc = "Most Zombies Are Carrying Baskets"
+cheat56_desc = "大多数僵尸都拎着篮子"
 cheat56_code = "SZEAXOSE"
 cheat56_enable = false
 
-cheat57_desc = "Start With Axe"
+cheat57_desc = "从斧头开始"
 cheat57_code = "TUNKYIAG"
 cheat57_enable = false
 
-cheat58_desc = "Start With Dagger"
+cheat58_desc = "从匕首开始"
 cheat58_code = "ZKNKYIAG"
 cheat58_enable = false
 
-cheat59_desc = "Start With Fireball"
+cheat59_desc = "从火球开始"
 cheat59_code = "GKNKYIAG"
 cheat59_enable = false
 
-cheat60_desc = "Start With Cross"
+cheat60_desc = "从十字开始"
 cheat60_code = "YKNKYIAK"
 cheat60_enable = false
 
-cheat61_desc = "Start With Blue Sphere"
+cheat61_desc = "从蓝色球体开始"
 cheat61_code = "KXNKYIAK"
 cheat61_enable = false
 
-cheat62_desc = "Start On Stage 1a"
+cheat62_desc = "从第 1a 阶段开始"
 cheat62_code = "PENGLIAA"
 cheat62_enable = false
 
-cheat63_desc = "Start On Stage 1b"
+cheat63_desc = "从第 1b 阶段开始"
 cheat63_code = "ZENGLIAA"
 cheat63_enable = false
 
-cheat64_desc = "Start On Stage 1c"
+cheat64_desc = "从第 1c 阶段开始"
 cheat64_code = "LENGLIAA"
 cheat64_enable = false
 
-cheat65_desc = "Start On Stage 2a"
+cheat65_desc = "从第 2a 阶段开始"
 cheat65_code = "GENGLIAA"
 cheat65_enable = false
 
-cheat66_desc = "Start On Stage 2b"
+cheat66_desc = "从第 2b 阶段开始"
 cheat66_code = "IENGLIAA"
 cheat66_enable = false
 
-cheat67_desc = "Start On Stage 2c"
+cheat67_desc = "从第 2c 阶段开始"
 cheat67_code = "TENGLIAA"
 cheat67_enable = false
 
-cheat68_desc = "Start On Stage 2d"
+cheat68_desc = "从第 2d 阶段开始"
 cheat68_code = "YENGLIAA"
 cheat68_enable = false
 
-cheat69_desc = "Start On Stage 3a"
+cheat69_desc = "从第 3a 阶段开始"
 cheat69_code = "AENGLIAE"
 cheat69_enable = false
 
-cheat70_desc = "Start On Stage 3b"
+cheat70_desc = "从第 3b 阶段开始"
 cheat70_code = "PENGLIAE"
 cheat70_enable = false
 
-cheat71_desc = "Start On Stage 4a"
+cheat71_desc = "从第 4a 阶段开始"
 cheat71_code = "ZENGLIAE"
 cheat71_enable = false
 
-cheat72_desc = "Start On Stage 4b"
+cheat72_desc = "从第 4b 阶段开始"
 cheat72_code = "LENGLIAE"
 cheat72_enable = false
 
-cheat73_desc = "Start On Stage 5"
+cheat73_desc = "从第 5 阶段开始"
 cheat73_code = "GENGLIAE"
 cheat73_enable = false
 
-cheat74_desc = "Start On Stage 6"
+cheat74_desc = "从第 6 阶段开始"
 cheat74_code = "IENGLIAE"
 cheat74_enable = false
 
-cheat75_desc = "Start On Stage 7"
+cheat75_desc = "从第 7 阶段开始"
 cheat75_code = "TENGLIAE"
 cheat75_enable = false
 
-cheat76_desc = "Have 7 Minutes For Stage 1a"
+cheat76_desc = "第 1a 阶段有 7 分钟时间"
 cheat76_code = "YAKINAZA"
 cheat76_enable = false
 
-cheat77_desc = "Have 7 Minutes For Stage 1b"
+cheat77_desc = "第 1b 阶段有 7 分钟时间"
 cheat77_code = "YAKSXAZA"
 cheat77_enable = false
 
-cheat78_desc = "Have 7 Minutes For Stage 1c"
+cheat78_desc = "第 1c 阶段有 7 分钟时间"
 cheat78_code = "YAKSSAZA"
 cheat78_enable = false
 
-cheat79_desc = "Have 7 Minutes For Stage 2a"
+cheat79_desc = "第 2a 阶段有 7 分钟时间"
 cheat79_code = "YASIEAZA"
 cheat79_enable = false
 
-cheat80_desc = "Have 7 Minutes For Stage 2b"
+cheat80_desc = "第 2b 阶段有 7 分钟时间"
 cheat80_code = "YASIUAZA"
 cheat80_enable = false
 
-cheat81_desc = "Have 7 Minutes For Stage 2c"
+cheat81_desc = "第 2c 阶段有 7 分钟时间"
 cheat81_code = "YASIVAPA"
 cheat81_enable = false
 
-cheat82_desc = "Have 7 Minutes For Stage 2d"
+cheat82_desc = "第 2d 阶段有 7 分钟时间"
 cheat82_code = "YASSOAPA"
 cheat82_enable = false
 
-cheat83_desc = "Have 7 Minutes For Stage 3a"
+cheat83_desc = "第 3a 阶段有 7 分钟时间"
 cheat83_code = "YASSKAZA"
 cheat83_enable = false
 
-cheat84_desc = "Have 7 Minutes For Stage 3b"
+cheat84_desc = "第 3b 阶段有 7 分钟时间"
 cheat84_code = "YASSNALA"
 cheat84_enable = false
 
-cheat85_desc = "Have 7 Minutes For Stage 4a"
+cheat85_desc = "第 4a 阶段有 7 分钟时间"
 cheat85_code = "YAVIXAZA"
 cheat85_enable = false
 
-cheat86_desc = "Have 7 Minutes For Stage 4b"
+cheat86_desc = "第 4b 阶段有 7 分钟时间"
 cheat86_code = "YAVISAZA"
 cheat86_enable = false
 
-cheat87_desc = "Have 7 Minutes For Stage 5"
+cheat87_desc = "第 5 阶段有 7 分钟时间"
 cheat87_code = "YAVSEALA"
 cheat87_enable = false
 
-cheat88_desc = "Have 7 Minutes For Stage 6"
+cheat88_desc = "第 6 阶段有 7 分钟时间"
 cheat88_code = "YAVSUALA"
 cheat88_enable = false
 
-cheat89_desc = "Have 7 Minutes For Stage 7"
+cheat89_desc = "第 7 阶段有 7 分钟时间"
 cheat89_code = "YAVSVAZA"
 cheat89_enable = false
 
-cheat90_desc = "Infinite Lives [Player 2]"
+cheat90_desc = "无限生命 [玩家 2]"
 cheat90_code = "0716:06"
 cheat90_enable = false
 
-cheat91_desc = "Skip Intro For Stage 1"
+cheat91_desc = "跳过第一阶段简介"
 cheat91_code = "00A6:01"
 cheat91_enable = false
 
-cheat92_desc = "Game Difficulty Modifier"
+cheat92_desc = "游戏难度调整"
 cheat92_code = "00AA:00"
 cheat92_enable = false
 
-cheat93_desc = "Stage Select"
+cheat93_desc = "阶段选择"
 cheat93_code = "00AC:00"
 cheat93_enable = false
 
-cheat94_desc = "Enable Stage Select Option"
+cheat94_desc = "启用阶段选择选项"
 cheat94_code = "00A7:0F"
 cheat94_enable = false
 
-cheat95_desc = "Invincibility [Player 1 &amp; 2]"
+cheat95_desc = "无敌 [玩家 1 和玩家 1] 2]"
 cheat95_code = "04F3:A4"
 cheat95_enable = false
 
-cheat96_desc = "Set Monster Drop Modifier"
+cheat96_desc = "设置怪物掉落修改器"
 cheat96_code = "0708:00"
 cheat96_enable = false
 
-cheat97_desc = "1 life for players 1 and 2"
+cheat97_desc = "玩家 1 和 2 的生命为 1"
 cheat97_code = "PAEKPTLA"
 cheat97_enable = false
 
-cheat98_desc = "6 lives for players 1 and 2"
+cheat98_desc = "玩家 1 和 2 各有 6 条生命"
 cheat98_code = "TAEKPTLA"
 cheat98_enable = false
 
-cheat99_desc = "9 lives for players 1 and 2"
+cheat99_desc = "玩家 1 和 2 共 9 条生命"
 cheat99_code = "PAEKPTLE"
 cheat99_enable = false
 
-cheat100_desc = "Infinite lives for players 1 and 2"
+cheat100_desc = "玩家 1 和 2 拥有无限生命"
 cheat100_code = "SZEGNOVK"
 cheat100_enable = false
 
-cheat101_desc = "4 lives for player 1 only"
+cheat101_desc = "仅玩家 1 拥有 4 条生命"
 cheat101_code = "VAEKZVSE"
 cheat101_enable = false
 
-cheat102_desc = "Speed up game"
+cheat102_desc = "加快游戏速度"
 cheat102_code = "ZAKILZLA"
 cheat102_enable = false
 
-cheat103_desc = "Slow down game"
+cheat103_desc = "放慢游戏速度"
 cheat103_code = "GAKILZLA"
 cheat103_enable = false
 
-cheat104_desc = "Stop timer"
+cheat104_desc = "停止计时器"
 cheat104_code = "SXOITUVK"
 cheat104_enable = false
 
-cheat105_desc = "Invincibility"
+cheat105_desc = "无敌"
 cheat105_code = "AEVNGIPA"
 cheat105_enable = false
 
-cheat106_desc = "Complete Level Now"
+cheat106_desc = "立即完成关卡"
 cheat106_code = "00BF:01"
 cheat106_enable = false
 
-cheat107_desc = "Super Speed Game"
+cheat107_desc = "超高速游戏"
 cheat107_code = "00CD:00"
 cheat107_enable = false
 
-cheat108_desc = "No Enemies"
+cheat108_desc = "没有敌人"
 cheat108_code = "00EB:01"
 cheat108_enable = false
 
-cheat109_desc = "Replaces Items (money bags, etc.) Laying Out In The Open With..."
+cheat109_desc = "将露天放置的物品（钱袋等）替换为..."
 cheat109_code = "AAXIGYAA"
 cheat109_enable = false
 
-cheat110_desc = "Some Enemies and Bosses are Auto Defeated or Needs Fewer Hits to Kill"
+cheat110_desc = "一些敌人和头目会被自动击败或需要更少的攻击才能杀死"
 cheat110_code = "PEKIZTAE"
 cheat110_enable = false
 
-cheat111_desc = "Kill The Final Boss in 2 Hits"
+cheat111_desc = "两次击杀最终 Boss"
 cheat111_code = "PAULXSGA"
 cheat111_enable = false
 
-cheat112_desc = "Kill the Dragon Boss on Stages 3b, 4b, and 6 in 2 Hits"
+cheat112_desc = "2 次击杀第 3b、4b 和 6 阶段的龙首领"
 cheat112_code = "PAUULPTA"
 cheat112_enable = false
 
-cheat113_desc = "The Cross Weapon Travels a Full Screen Instead of a Short Distance"
+cheat113_desc = "十字武器移动全屏而不是短距离"
 cheat113_code = "APUVUSZA"
 cheat113_enable = false
 
-cheat114_desc = "Hit Anywhere"
+cheat114_desc = "击中任何地方"
 cheat114_code = "ALEYYTEO+ATENATPA+OUKYPSOO+OUUUTVOO"
 cheat114_enable = false
 
-cheat115_desc = "1st Shot Direction Modifier"
+cheat115_desc = "第 1 次射击方向修改器"
 cheat115_code = "0602:00"
 cheat115_enable = false
 
-cheat116_desc = "2nd Shot Direction Modifier"
+cheat116_desc = "第二次射击方向修改器"
 cheat116_code = "0603:00"
 cheat116_enable = false
 
-cheat117_desc = "Zombies Carrying Baskets Item Modifier"
+cheat117_desc = "僵尸携带篮子物品修改器"
 cheat117_code = ""
 cheat117_enable = false
 
-cheat118_desc = "Zombies Carrying Baskets Item Modifier #2"
+cheat118_desc = "僵尸携带篮子物品修改#2"
 cheat118_code = ""
 cheat118_enable = false
 
-cheat119_desc = "Zombies Carrying Basket Item Modifier #3"
+cheat119_desc = "僵尸携带篮子物品修改器 #3"
 cheat119_code = ""
 cheat119_enable = false
 
-cheat120_desc = "Zombies That Carry A Basket Will Drop 200 Point Statue"
+cheat120_desc = "携带篮子的僵尸会掉落200分雕像"
 cheat120_code = "PAOEVPPA"
 cheat120_enable = false
 
-cheat121_desc = "Replaces Items (Money Bags, Etc.) Laying Out In The Open With..."
+cheat121_desc = "将露天放置的物品（钱袋等）替换为..."
 cheat121_code = "AXIGYA"
 cheat121_enable = false
 
-cheat122_desc = "Infinite Lives"
+cheat122_desc = "无限生命"
 cheat122_code = ""
 cheat122_enable = false
 
-cheat123_desc = "Infinite Time (Ones Digit)"
+cheat123_desc = "无限时间（个位）"
 cheat123_code = "06FC:09"
 cheat123_enable = false
 
-cheat124_desc = "Infinite Time (Tens Digit)"
+cheat124_desc = "无限时间（十位数）"
 cheat124_code = "06FA:09"
 cheat124_enable = false
 
-cheat125_desc = "Infinite Time (Hundreds Digit)"
+cheat125_desc = "无限时间（百位数）"
 cheat125_code = "06F8:09"
 cheat125_enable = false
 
-cheat126_desc = "Infinite Time (Thousands Digit)"
+cheat126_desc = "无限时间（千位）"
 cheat126_code = "06F6:09"
 cheat126_enable = false
 
-cheat127_desc = "Infinite Lives (Player 1)"
+cheat127_desc = "无限生命（玩家 1）"
 cheat127_code = "0715:06"
 cheat127_enable = false
 
-cheat128_desc = "Infinite Lives (Player 2)"
+cheat128_desc = "无限生命（玩家 2）"
 cheat128_code = "0716:06"
 cheat128_enable = false
 
-cheat129_desc = "Weird Level Modifier"
+cheat129_desc = "奇怪的等级修改器"
 cheat129_code = "00CF:BE"
 cheat129_enable = false
 
-cheat130_desc = "All Torches Thrown Like Knives/Lances"
+cheat130_desc = "所有火把都像刀子/长矛一样投掷"
 cheat130_code = "0642:23+0643:23"
 cheat130_enable = false
 
-cheat131_desc = "Weapon Modifier"
+cheat131_desc = "武器修改器"
 cheat131_code = "053A:02"
 cheat131_enable = false
 
-cheat132_desc = "Invincibility (Player 1 & 2)"
+cheat132_desc = "无敌（玩家 1 和 2）"
 cheat132_code = "04F3:A4"
 cheat132_enable = false
 
-cheat133_desc = "Invincibility (Can't Pick Up Objects, Enemies Cannot Touch You)"
+cheat133_desc = "无敌（无法拾取物体，敌人无法碰你）"
 cheat133_code = "0647:00"
 cheat133_enable = false
 
-cheat134_desc = "Gain Points Very Quickly"
+cheat134_desc = "快速获得积分"
 cheat134_code = "04E8:05+04E6:05+04E4:05+04E2:05"
 cheat134_enable = false

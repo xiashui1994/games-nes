@@ -1,133 +1,133 @@
 cheats = 33
 
-cheat0_desc = "Invincible Against Enemies and Some Ground"
+cheat0_desc = "对敌人和一些地面来说是无敌的"
 cheat0_code = "044E:4F"
 cheat0_enable = false
 
-cheat1_desc = "All Levels Beaten Except 5"
+cheat1_desc = "除 5 级外，所有级别均已被击败"
 cheat1_code = "0102:FF"
 cheat1_enable = false
 
-cheat2_desc = "Infinite High Cash"
+cheat2_desc = "无限高额现金"
 cheat2_code = "0104:0E"
 cheat2_enable = false
 
-cheat3_desc = "All Items"
+cheat3_desc = "所有项目"
 cheat3_code = "0105:0F"
 cheat3_enable = false
 
-cheat4_desc = "Infinite Health"
+cheat4_desc = "无限健康"
 cheat4_code = "SXKVZVSE"
 cheat4_enable = false
 
-cheat5_desc = "Can Select Any Invisible Item"
+cheat5_desc = "可以选择任何不可见的项目"
 cheat5_code = "AEOEYZOI"
 cheat5_enable = false
 
-cheat6_desc = "Can Always Access Channel 5"
+cheat6_desc = "始终可以访问频道 5"
 cheat6_code = "AEXEELAP"
 cheat6_enable = false
 
-cheat7_desc = "Can Always Buy Items"
+cheat7_desc = "随时可以购买物品"
 cheat7_code = "OXEEOYSX"
 cheat7_enable = false
 
-cheat8_desc = "Infinite lives"
+cheat8_desc = "无限生命"
 cheat8_code = "SXOKOSVK"
 cheat8_enable = false
 
-cheat9_desc = "Don't take damage from some bullets"
+cheat9_desc = "不要受到某些子弹的伤害"
 cheat9_code = "SXNIGEVK"
 cheat9_enable = false
 
-cheat10_desc = "2x normal cash from moneybags"
+cheat10_desc = "2x 钱袋子里的正常现金"
 cheat10_code = "GPVPZNZA"
 cheat10_enable = false
 
-cheat11_desc = "3x normal cash from moneybags"
+cheat11_desc = "来自钱袋的 3 倍普通现金"
 cheat11_code = "TPVPZNZE"
 cheat11_enable = false
 
-cheat12_desc = "Roulette game is free"
+cheat12_desc = "轮盘赌游戏是免费的"
 cheat12_code = "AAXPIIZL"
 cheat12_enable = false
 
-cheat13_desc = "Basketball game is free"
+cheat13_desc = "篮球比赛是免费的"
 cheat13_code = "AAXPYSPP"
 cheat13_enable = false
 
-cheat14_desc = "Pipe toss game is free"
+cheat14_desc = "扔管子游戏是免费的"
 cheat14_code = "AAXOPIGT"
 cheat14_enable = false
 
-cheat15_desc = "Bombs cost $50"
+cheat15_desc = "炸弹花费 50 美元"
 cheat15_code = "ZUOESYGT"
 cheat15_enable = false
 
-cheat16_desc = "Spike balls cost $50"
+cheat16_desc = "钉球售价 50 美元"
 cheat16_code = "ZUXAONEG"
 cheat16_enable = false
 
-cheat17_desc = "Twinballs cost $44"
+cheat17_desc = "双球售价 44 美元"
 cheat17_code = "AEXAEYPA"
 cheat17_enable = false
 
-cheat18_desc = "Infinite Energy"
+cheat18_desc = "无限能量"
 cheat18_code = "0423:0A"
 cheat18_enable = false
 
-cheat19_desc = "Infinite Lives"
+cheat19_desc = "无限生命"
 cheat19_code = "041F:09"
 cheat19_enable = false
 
-cheat20_desc = "Infinite Lives"
+cheat20_desc = "无限生命"
 cheat20_code = "SKOKOSVK"
 cheat20_enable = false
 
-cheat21_desc = "Infinite Energy"
+cheat21_desc = "无限能量"
 cheat21_code = "SXSPGVSE+SKNIGEVK+SXKVZVSE"
 cheat21_enable = false
 
-cheat22_desc = "Invincibility"
+cheat22_desc = "无敌"
 cheat22_code = "EIXVATEY"
 cheat22_enable = false
 
-cheat23_desc = "Infinite Health (Kats)"
+cheat23_desc = "无限健康（Kats）"
 cheat23_code = "0423:0B"
 cheat23_enable = false
 
-cheat24_desc = "Infinite Lives (Kats)"
+cheat24_desc = "无限生命（凯特）"
 cheat24_code = "041F:63"
 cheat24_enable = false
 
-cheat25_desc = "Level Highlighter Modifier"
+cheat25_desc = "级别荧光笔修改器"
 cheat25_code = "0108:00"
 cheat25_enable = false
 
-cheat26_desc = "Infinite Money (One's Digit)"
+cheat26_desc = "无限金钱（一个人的数字）"
 cheat26_code = "040D:09"
 cheat26_enable = false
 
-cheat27_desc = "Have Lots of Money"
+cheat27_desc = "有很多钱"
 cheat27_code = "040E:27"
 cheat27_enable = false
 
-cheat28_desc = "Max Money"
+cheat28_desc = "最大金钱"
 cheat28_code = "0104:0F+0103:27"
 cheat28_enable = false
 
-cheat29_desc = "Invincible"
+cheat29_desc = "无敌"
 cheat29_code = "044E:01"
 cheat29_enable = false
 
-cheat30_desc = "Infinite Roller Skate Time"
+cheat30_desc = "无限溜冰时间"
 cheat30_code = "0475:50"
 cheat30_enable = false
 
-cheat31_desc = "One Hit Kills Boss"
+cheat31_desc = "一击杀死Boss"
 cheat31_code = "04B9:01"
 cheat31_enable = false
 
-cheat32_desc = "Hit Anywhere"
+cheat32_desc = "击中任何地方"
 cheat32_code = "AENTTTTP"
 cheat32_enable = false

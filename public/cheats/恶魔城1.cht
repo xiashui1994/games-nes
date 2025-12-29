@@ -1,561 +1,561 @@
 cheats = 140
 
-cheat0_desc = "More Protection From Hits"
+cheat0_desc = "更多保护免受打击"
 cheat0_code = "AALTTY"
 cheat0_enable = false
 
-cheat1_desc = "Infinite Hearts"
+cheat1_desc = "无限的心"
 cheat1_code = "XAZSNZ"
 cheat1_enable = false
 
-cheat2_desc = "Infinite Hearts For The Watch And It Only Cost 1 Heart"
+cheat2_desc = "手表有无限颗心，只需 1 颗心"
 cheat2_code = "EEGSEZ"
 cheat2_enable = false
 
-cheat3_desc = "Start With 405 Seconds"
+cheat3_desc = "从 405 秒开始"
 cheat3_code = "AAIGEZ"
 cheat3_enable = false
 
-cheat4_desc = "Start With 75,244 Points"
+cheat4_desc = "从 75,244 点开始"
 cheat4_code = "AAYGAZ"
 cheat4_enable = false
 
-cheat5_desc = "Start With 1200 Seconds, 25 Hearts, 13 Lives, And You'll Continue With The Same Number Of Hearts When You Die"
+cheat5_desc = "从 1200 秒开始，25 颗心，13 条生命，当你死后，你会继续拥有相同数量的心"
 cheat5_code = "KPPKKK"
 cheat5_enable = false
 
-cheat6_desc = "Jump 1.5 Times Higher"
+cheat6_desc = "跳高 1.5 倍"
 cheat6_code = "ENPPEL"
 cheat6_enable = false
 
-cheat7_desc = "Jump Twice As High"
+cheat7_desc = "跳高两倍"
 cheat7_code = "EVPPEL"
 cheat7_enable = false
 
-cheat8_desc = "Jump To The Top Of Screen"
+cheat8_desc = "跳转到屏幕顶部"
 cheat8_code = "SKPPEL"
 cheat8_enable = false
 
-cheat9_desc = "Walk Super Fast From Left To Right"
+cheat9_desc = "从左向右快速行走"
 cheat9_code = "NYGPOY"
 cheat9_enable = false
 
-cheat10_desc = "Gameplay's A Lot Faster (Glitchy)"
+cheat10_desc = "游戏速度快了很多（有问题）"
 cheat10_code = "OTIKKE"
 cheat10_enable = false
 
-cheat11_desc = "Animation's Sped Up"
+cheat11_desc = "动画加速"
 cheat11_code = "XELNGO"
 cheat11_enable = false
 
-cheat12_desc = "Enemies, Axe, And Holy Water Move Faster"
+cheat12_desc = "敌人、斧头和圣水移动速度更快"
 cheat12_code = "SEIVKE"
 cheat12_enable = false
 
-cheat13_desc = "Enemy Or Weapon Travels Super Fast"
+cheat13_desc = "敌人或武器移动速度超快"
 cheat13_code = "VVITKA"
 cheat13_enable = false
 
-cheat14_desc = "Walkthru Enemies"
+cheat14_desc = "走遍敌人"
 cheat14_code = "EEGVVE"
 cheat14_enable = false
 
-cheat15_desc = "Walkthru Enemies (Except For Bats)"
+cheat15_desc = "遍历敌人（蝙蝠除外）"
 cheat15_code = "ZLATTY"
 cheat15_enable = false
 
-cheat16_desc = "Walkthru Most Walls And Blocks (Blocks Do Not Hinder Your Jumps)"
+cheat16_desc = "穿过大多数墙壁和方块（方块不会妨碍您的跳跃）"
 cheat16_code = "IGGOON"
 cheat16_enable = false
 
-cheat17_desc = "Don't Get Knocked Back When Hit"
+cheat17_desc = "被击中时不要被击退"
 cheat17_code = "NAPOLN"
 cheat17_enable = false
 
-cheat18_desc = "Invisible Potion Goes Into Effect Sometimes"
+cheat18_desc = "隐形药水有时会起作用"
 cheat18_code = "SPIIIZ"
 cheat18_enable = false
 
-cheat19_desc = "Invisible Potion Is Always In Effect"
+cheat19_desc = "隐形药水始终有效"
 cheat19_code = "SEGVSE"
 cheat19_enable = false
 
-cheat20_desc = "Invincibility Lasts A Long Time When Hurt Or Getting The Invisible Potion"
+cheat20_desc = "当受伤或获得隐形药水时，无敌会持续很长时间"
 cheat20_code = "POITUE"
 cheat20_enable = false
 
-cheat21_desc = "Invisibility Lasts Until The Next Stage When You Get Hit"
+cheat21_desc = "隐形会持续到你被击中的下一阶段"
 cheat21_code = "VVITVE"
 cheat21_enable = false
 
-cheat22_desc = "Start Game And Appear From Underground"
+cheat22_desc = "开始游戏并从地下出现"
 cheat22_code = "ZUAELU"
 cheat22_enable = false
 
-cheat23_desc = "Start Game And The Cross Is In Effect"
+cheat23_desc = "开始游戏，十字架生效"
 cheat23_code = "ASAELU"
 cheat23_enable = false
 
-cheat24_desc = "Start Game And  You'll Be At Stage 99"
+cheat24_desc = "开始游戏，你将进入第 99 关"
 cheat24_code = "VVIVSA"
 cheat24_enable = false
 
-cheat25_desc = "Continue With Whip Power-Ups"
+cheat25_desc = "继续进行鞭子强化"
 cheat25_code = "SXVZYPSA"
 cheat25_enable = false
 
-cheat26_desc = "Gain Lots Of Points From Enemies And Items"
+cheat26_desc = "从敌人和物品中获得大量积分"
 cheat26_code = "EEGTEA"
 cheat26_enable = false
 
-cheat27_desc = "Gain A Life For Almost Every 100 Points"
+cheat27_desc = "几乎每 100 点就获得一条生命"
 cheat27_code = "YELZLZ"
 cheat27_enable = false
 
-cheat28_desc = "Gain A Life For Almost Every 100 Points, Up Yo 99 Lives"
+cheat28_desc = "几乎每 100 点就获得一条生命，增加 99 条生命"
 cheat28_code = "OOGGVZ"
 cheat28_enable = false
 
-cheat29_desc = "Only Gain Points When Killing Multiple Enemies (Not Single Enemies)"
+cheat29_desc = "仅在杀死多个敌人（而非单个敌人）时获得积分"
 cheat29_code = "SAYVZE"
 cheat29_enable = false
 
-cheat30_desc = "Gain Twice The Items From Enemies And Candles"
+cheat30_desc = "从敌人和蜡烛处获得双倍物品"
 cheat30_code = "LXLSEN"
 cheat30_enable = false
 
-cheat31_desc = "Gain Twice The Items From Enemies And Candles, And Sometimes Bosses"
+cheat31_desc = "从敌人和蜡烛，有时还有老板那里获得双倍的物品"
 cheat31_code = "PULSEY"
 cheat31_enable = false
 
-cheat32_desc = "Receive More Points For Killing Multiple Enemies"
+cheat32_desc = "杀死多个敌人可获得更多积分"
 cheat32_code = "TIIVIA"
 cheat32_enable = false
 
-cheat33_desc = "Collect Items Automatically"
+cheat33_desc = "自动收集物品"
 cheat33_code = "STLVGN"
 cheat33_enable = false
 
-cheat34_desc = "Skip Intro And Start On Stage One"
+cheat34_desc = "跳过介绍并从第一阶段开始"
 cheat34_code = "PPGLKO"
 cheat34_enable = false
 
-cheat35_desc = "Skips The Intro At Start Of Game"
+cheat35_desc = "跳过游戏开始时的介绍"
 cheat35_code = "SIGKON"
 cheat35_enable = false
 
-cheat36_desc = "Collect Some Items Hidden In Blocks Automatically"
+cheat36_desc = "自动收集一些隐藏在方块中的物品"
 cheat36_code = "PAGZSZ"
 cheat36_enable = false
 
-cheat37_desc = "Receive Items Running Into Enemies, Change The 1st 2 Letters For Different Items"
+cheat37_desc = "收到遇到敌人的物品，将前 2 个字母更改为不同的物品"
 cheat37_code = "ILATTY"
 cheat37_enable = false
 
-cheat38_desc = "Hold Forward While Swinging Your Whip And You'll Slide Forward"
+cheat38_desc = "挥动鞭子时保持向前，你就会向前滑行"
 cheat38_code = "OTPOGS"
 cheat38_enable = false
 
-cheat39_desc = "When An Enemy Hits You, They Travel In The Opposite Direction (The Cowards)"
+cheat39_desc = "当敌人攻击你时，他们会朝相反的方向移动（懦夫）"
 cheat39_code = "SLATIY"
 cheat39_enable = false
 
-cheat40_desc = "Kill Enemies Without Attacking (Up To 4 Blocks Away)"
+cheat40_desc = "在不攻击的情况下杀死敌人（最多 4 个街区外）"
 cheat40_code = "VVTVKE"
 cheat40_enable = false
 
-cheat41_desc = "A Few Enemies Have The Watch Effect On Them"
+cheat41_desc = "一些敌人对他们有监视效果"
 cheat41_code = "PSAALX"
 cheat41_enable = false
 
-cheat42_desc = "No Fishmen"
+cheat42_desc = "没有鱼人"
 cheat42_code = "EIYNTE"
 cheat42_enable = false
 
-cheat43_desc = "Igor Monkeys Fall"
+cheat43_desc = "伊戈尔猴子坠落"
 cheat43_code = "GUTTUN"
 cheat43_enable = false
 
-cheat44_desc = "No Skele-Dragon"
+cheat44_desc = "没有骷髅龙"
 cheat44_code = "PVPEKA"
 cheat44_enable = false
 
-cheat45_desc = "Enemies Always Drop An Item When Defeated"
+cheat45_desc = "敌人被击败时总是会掉落物品"
 cheat45_code = "AEUVGAZA"
 cheat45_enable = false
 
-cheat46_desc = "Start And Continue With 99 Hearts"
+cheat46_desc = "从 99 颗心开始并继续"
 cheat46_code = "LTKGXPIA"
 cheat46_enable = false
 
-cheat47_desc = "1st Candle At Start Of Game Has ?"
+cheat47_desc = "游戏开始时的第一根蜡烛有吗？"
 cheat47_code = "GSIIZZ"
 cheat47_enable = false
 
-cheat48_desc = "Last Candle At Start Of Game Has ?"
+cheat48_desc = "游戏开始时的最后一根蜡烛有吗？"
 cheat48_code = "SXTIZZ"
 cheat48_enable = false
 
-cheat49_desc = "Extra Candle At Start Of Game Has ?"
+cheat49_desc = "游戏开始时有额外的蜡烛吗？"
 cheat49_code = "KOIIAZ"
 cheat49_enable = false
 
-cheat50_desc = "Whip Power-Ups In Candles Replaced By ?"
+cheat50_desc = "蜡烛中的鞭子能量被替换为？"
 cheat50_code = "ZAPIPX"
 cheat50_enable = false
 
-cheat51_desc = "Items In Candles Mod"
+cheat51_desc = "蜡烛模组中的物品"
 cheat51_code = "GZGILZ"
 cheat51_enable = false
 
-cheat52_desc = "Holy Water's Flame Travels Along The Ground Until It Leaves The Screen"
+cheat52_desc = "圣水的火焰沿着地面传播，直到离开屏幕"
 cheat52_code = "YOZSEL"
 cheat52_enable = false
 
-cheat53_desc = "Holy Water's Flame Never Goes Away Until You Leave The Screen"
+cheat53_desc = "在你离开屏幕之前，圣水的火焰永远不会消失"
 cheat53_code = "YOZSOL"
 cheat53_enable = false
 
-cheat54_desc = "Holy Water's Flame Burns 3 Times As Long"
+cheat54_desc = "圣水火焰的燃烧时间是原来的三倍"
 cheat54_code = "YUTSEL"
 cheat54_enable = false
 
-cheat55_desc = "Holy Water Travels Like The Boomerang"
+cheat55_desc = "圣水像回旋镖一样传播"
 cheat55_code = "PEAIKZ"
 cheat55_enable = false
 
-cheat56_desc = "Using Holy Water Will Activate The Watch Instead"
+cheat56_desc = "使用圣水会激活手表"
 cheat56_code = "AKAIKZ"
 cheat56_enable = false
 
-cheat57_desc = "Using Holy Water Will Shoot The Holy Cross Instead"
+cheat57_desc = "使用圣水会射中圣十字"
 cheat57_code = "AEAIKZ"
 cheat57_enable = false
 
-cheat58_desc = "Using Holy Water Advances You To The Next Stage"
+cheat58_desc = "使用圣水可以让你进入下一阶段"
 cheat58_code = "YOGSEL+YOGSEU"
 cheat58_enable = false
 
-cheat59_desc = "Killing Multiple Enemies With Holy Water Will Give More Points"
+cheat59_desc = "用圣水杀死多个敌人将获得更多积分"
 cheat59_code = "VIITIA"
 cheat59_enable = false
 
-cheat60_desc = "Dagger Will Damage All Things In Front And Behind You"
+cheat60_desc = "匕首会损坏你前后的一切"
 cheat60_code = "ETATTV"
 cheat60_enable = false
 
-cheat61_desc = "Dagger Will Hit More Than Once"
+cheat61_desc = "匕首会多次击中"
 cheat61_code = "SLGTAV"
 cheat61_enable = false
 
-cheat62_desc = "Axe Travels Like The Boomerang"
+cheat62_desc = "斧头像回旋镖一样移动"
 cheat62_code = "PEPIVZ"
 cheat62_enable = false
 
-cheat63_desc = "Axe It Will Spin Around Simon's Head And Activates The Watch Instead"
+cheat63_desc = "斧头会绕西蒙的头旋转并激活手表"
 cheat63_code = "AKPIVZ"
 cheat63_enable = false
 
-cheat64_desc = "Using Holy Cross Will Activate The Watch Instead"
+cheat64_desc = "使用 Holy Cross 将激活手表"
 cheat64_code = "AKASSZ"
 cheat64_enable = false
 
-cheat65_desc = "Watch Will Work On The Second Boss"
+cheat65_desc = "手表将适用于第二个老板"
 cheat65_code = "IPIOKN"
 cheat65_enable = false
 
-cheat66_desc = "Using The Watch When You Don't Have Enough Hearts You'll Shoot The Dagger Instead And It Doesn't Use Any Hearts"
+cheat66_desc = "当你没有足够的红心时使用手表你会改为射击匕首并且它不使用任何红心"
 cheat66_code = "AKGISX"
 cheat66_enable = false
 
-cheat67_desc = "Weapons Refills Health"
+cheat67_desc = "武器补充生命值"
 cheat67_code = "NOATLY"
 cheat67_enable = false
 
-cheat68_desc = "Weapons Kill The 1st Boss In One Hit"
+cheat68_desc = "武器一击杀死第一个 Boss"
 cheat68_code = "YIGVTV"
 cheat68_enable = false
 
-cheat69_desc = "Weapons Also Gives You The Invisible Potion"
+cheat69_desc = "武器还给你隐形药水"
 cheat69_code = "NUZTYY"
 cheat69_enable = false
 
-cheat70_desc = "Weapon Will Do More Damage If You Have A Double Or Triple Shot"
+cheat70_desc = "如果你有两次或三次射击，武器会造成更多伤害"
 cheat70_code = "SLTTAV"
 cheat70_enable = false
 
-cheat71_desc = "Get Any Weapon"
+cheat71_desc = "获得任意武器"
 cheat71_code = "ELLOIG"
 cheat71_enable = false
 
-cheat72_desc = "Receive A Lot More Points Defeating Enemies With Weapons"
+cheat72_desc = "使用武器击败敌人可获得更多积分"
 cheat72_code = "XOZSOX"
 cheat72_enable = false
 
-cheat73_desc = "Can Whip And Throw Weapon At The Same Time For Twice The Damage"
+cheat73_desc = "可以同时鞭打和投掷武器，造成双倍伤害"
 cheat73_code = "PSZXTL"
 cheat73_enable = false
 
-cheat74_desc = "Can Power-Up More Than Once From A Whip Power-Up"
+cheat74_desc = "可以通过鞭子启动多次启动"
 cheat74_code = "EEATEA"
 cheat74_enable = false
 
-cheat75_desc = "When You Collect Whip Power-Ups The Whip Graphics Do Not Change"
+cheat75_desc = "当您收集鞭子强化道具时，鞭子图形不会改变"
 cheat75_code = "OSZZIL"
 cheat75_enable = false
 
-cheat76_desc = "No Hesitation Getting A Whip Power Up"
+cheat76_desc = "毫不犹豫地获得鞭子力量"
 cheat76_code = "EAYTVE"
 cheat76_enable = false
 
-cheat77_desc = "When You Collect The Rosary It Gets Put In Your Weapon Box Instead And Costs 5 Hearts Per Use"
+cheat77_desc = "当你收集念珠时，它会被放入你的武器箱中，每次使用需要花费 5 颗心"
 cheat77_code = "UITVAN"
 cheat77_enable = false
 
-cheat78_desc = "Any Whippable Item, When Whipped, Acts Like A Boss Was Defeated And Drops The Ball"
+cheat78_desc = "任何可鞭打的物品，在被鞭打时，都会表现得像老板被击败并丢球一样"
 cheat78_code = "ZOLSEN"
 cheat78_enable = false
 
-cheat79_desc = "At The Intro, Your Score Will Start Increasing, And A Couple Of Seconds Later You'll See The Ending!"
+cheat79_desc = "在介绍中，您的分数将开始增加，几秒钟后您就会看到结局！"
 cheat79_code = "GKGOEU"
 cheat79_enable = false
 
-cheat80_desc = "Items Aren't What They Appear To Be. On Each Stage, Auto-Recieve The Whip"
+cheat80_desc = "物品并不像它们看起来的那样。在每个阶段，自动接收鞭子"
 cheat80_code = "STLVPN"
 cheat80_enable = false
 
-cheat81_desc = "Get Hit By An Enemy And Your Score Will Start Increasing"
+cheat81_desc = "被敌人击中，你的分数就会开始增加"
 cheat81_code = "PEAXTZ"
 cheat81_enable = false
 
-cheat82_desc = "Power-Ups, Cross, And Invisibility Potion Goes Into Effect When Needed, And The Stages End Automatically"
+cheat82_desc = "能量提升、十字和隐形药水在需要时生效，阶段自动结束"
 cheat82_code = "STLVPN"
 cheat82_enable = false
 
-cheat83_desc = "Always have 99 hearts"
+cheat83_desc = "永远有99颗心"
 cheat83_code = "0071:63"
 cheat83_enable = false
 
-cheat84_desc = "Infinite 5 lives"
+cheat84_desc = "无限5条生命"
 cheat84_code = "002A:05"
 cheat84_enable = false
 
-cheat85_desc = "Bottle Fire Endures Forever"
+cheat85_desc = "瓶火永远长存"
 cheat85_code = "SLSVXUVS"
 cheat85_enable = false
 
-cheat86_desc = "Mixed up stages"
+cheat86_desc = "混合阶段"
 cheat86_code = "VVPOZL"
 cheat86_enable = false
 
-cheat87_desc = "No whip power-ups / No crosses / Fewer sub-weapons"
+cheat87_desc = "没有鞭子强化/没有十字架/更少的副武器"
 cheat87_code = "ZEATXU"
 cheat87_enable = false
 
-cheat88_desc = "Can keep making hidden items appear instead of just once"
+cheat88_desc = "可以不断地让隐藏的物品出现而不是只出现一次"
 cheat88_code = "SZEZANSE"
 cheat88_enable = false
 
-cheat89_desc = "When You Fight Dracula, You'll Start Off Fighting His 2nd Form"
+cheat89_desc = "当你与德古拉战斗时，你将从他的第二形态开始战斗"
 cheat89_code = "PAUENLAA"
 cheat89_enable = false
 
-cheat90_desc = "Dracula's 2nd Form Has 1 HP"
+cheat90_desc = "德古拉第二形态 HP 1"
 cheat90_code = "PANPGYAG"
 cheat90_enable = false
 
-cheat91_desc = "Start Level 1 On..."
+cheat91_desc = "开始 1 级..."
 cheat91_code = "EELSPA+LXEUNOAX"
 cheat91_enable = false
 
-cheat92_desc = "Start on Level"
+cheat92_desc = "从水平开始"
 cheat92_code = "AEEUEPLA+AELSPA+VXOLEOVE"
 cheat92_enable = false
 
-cheat93_desc = "Jump In Midair"
+cheat93_desc = "跳入半空中"
 cheat93_code = "OZOOIKSE+PAOOTGLG+SAOOYGPE+GTXPAKVV+GAXPPKGT+ZGXPZGGE+AXKOZKSZ+PEKOLGGP+KOKOGGIA+AVOPZYEP+VEEOGGSV+KOEOIGOZ"
 cheat93_enable = false
 
-cheat94_desc = "Hit Anywhere"
+cheat94_desc = "击中任何地方"
 cheat94_code = "AAOVLSVG+AAXVLSVL"
 cheat94_enable = false
 
-cheat95_desc = "No Music / No Sound Effects"
+cheat95_desc = "没有音乐/没有音效"
 cheat95_code = "ISTAPU"
 cheat95_enable = false
 
-cheat96_desc = "Remixed Music?"
+cheat96_desc = "混音音乐？"
 cheat96_code = "AOZAGI"
 cheat96_enable = false
 
-cheat97_desc = "Dogs on Stage 1 run at you as soon as they are on screen"
+cheat97_desc = "第一阶段的狗一出现在屏幕上就向你跑来"
 cheat97_code = "AAIAAZ"
 cheat97_enable = false
 
-cheat98_desc = "Some small hearts, big hearts, & money bags will appear differently"
+cheat98_desc = "一些小心、大心和钱袋的外观会有所不同"
 cheat98_code = "YNATOL"
 cheat98_enable = false
 
-cheat99_desc = "Small hearts look like holy water"
+cheat99_desc = "小小的心看起来像圣水"
 cheat99_code = "YNATXL"
 cheat99_enable = false
 
-cheat100_desc = "Some candles are arranged differently"
+cheat100_desc = "有些蜡烛的排列方式不同"
 cheat100_code = "NYAIPO"
 cheat100_enable = false
 
-cheat101_desc = "Short trail of Simons as you walk"
+cheat101_desc = "步行时看到西蒙斯的短踪迹"
 cheat101_code = "APIAGE"
 cheat101_enable = false
 
-cheat102_desc = "Simon gets in the castle sooner"
+cheat102_desc = "西蒙更快进入城堡"
 cheat102_code = "ASAGSY"
 cheat102_enable = false
 
-cheat103_desc = "Weird music & sound effects"
+cheat103_desc = "奇怪的音乐和音效"
 cheat103_code = "STLEIY"
 cheat103_enable = false
 
-cheat104_desc = "Remixed Music #2"
+cheat104_desc = "混音音乐 #2"
 cheat104_code = "PLAAGT"
 cheat104_enable = false
 
-cheat105_desc = "Remixed Music #3"
+cheat105_desc = "混音音乐 #3"
 cheat105_code = "PLPAPV"
 cheat105_enable = false
 
-cheat106_desc = "No sounds from collecting hearts, power-ups, & weapons"
+cheat106_desc = "收集红心、能量道具和武器时没有声音"
 cheat106_code = "APPATI"
 cheat106_enable = false
 
-cheat107_desc = "High pitched sounds from collecting power-ups, hearts, &amp; weapons"
+cheat107_desc = "收集能量道具、爱心和物品时会发出高亢的声音。武器"
 cheat107_code = "KIPETS"
 cheat107_enable = false
 
-cheat108_desc = "Slide forward after landing from a jump"
+cheat108_desc = "跳跃落地后向前滑行"
 cheat108_code = "UXTPAL"
 cheat108_enable = false
 
-cheat109_desc = "Most enemies & items fall through the floor"
+cheat109_desc = "大多数敌人和物品都会从地板上掉下来"
 cheat109_code = "YAGTUK"
 cheat109_enable = false
 
-cheat110_desc = "Start On Level"
+cheat110_desc = "从水平开始"
 cheat110_code = "EELSPA+VXOLEOVE"
 cheat110_enable = false
 
-cheat111_desc = "When You Swing Your Whip, It Makes The Invisible Potion Go Into Effect. Can't Break Any Blocks And Don't Jump And Swing Your Whip"
+cheat111_desc = "当你挥舞鞭子时，隐形药水就会生效。不能打破任何方块，也不能跳跃和挥动你的鞭子"
 cheat111_code = "LIGZKE+LIGXKE"
 cheat111_enable = false
 
-cheat112_desc = "Using Holy Water Advances You To The Next Stage"
+cheat112_desc = "使用圣水可以让你进入下一阶段"
 cheat112_code = "YOGSEL+YOGSEU"
 cheat112_enable = false
 
-cheat113_desc = "Infinite Hearts"
+cheat113_desc = "无限的心"
 cheat113_code = "0071:63"
 cheat113_enable = false
 
-cheat114_desc = "Infinite Time"
+cheat114_desc = "无限时间"
 cheat114_code = "0042:32"
 cheat114_enable = false
 
-cheat115_desc = "Infinite Health"
+cheat115_desc = "无限健康"
 cheat115_code = "0045:3D"
 cheat115_enable = false
 
-cheat116_desc = "Infinite Lives"
+cheat116_desc = "无限生命"
 cheat116_code = "002A:05"
 cheat116_enable = false
 
-cheat117_desc = "1 Hit Kills Boss"
+cheat117_desc = "1 击杀死 Boss"
 cheat117_code = "01A9:00"
 cheat117_enable = false
 
-cheat118_desc = "Invincible"
+cheat118_desc = "无敌"
 cheat118_code = "005B:02"
 cheat118_enable = false
 
-cheat119_desc = "Remove Invincibility Flickering"
+cheat119_desc = "去除无敌闪烁"
 cheat119_code = "001A:00"
 cheat119_enable = false
 
-cheat120_desc = "Best Whip"
+cheat120_desc = "最佳鞭子"
 cheat120_code = "0070:02"
 cheat120_enable = false
 
-cheat121_desc = "Weapon Modifier"
+cheat121_desc = "武器修改器"
 cheat121_code = "015B:08"
 cheat121_enable = false
 
-cheat122_desc = "Level Modifier"
+cheat122_desc = "等级修改器"
 cheat122_code = "0028:00+0029:00"
 cheat122_enable = false
 
-cheat123_desc = "Cross powerup is always in effect"
+cheat123_desc = "交叉加电始终有效"
 cheat123_code = "EOLYXZ"
 cheat123_enable = false
 
-cheat124_desc = "Items from candles look strange"
+cheat124_desc = "蜡烛制成的物品看起来很奇怪"
 cheat124_code = "KKZVEU"
 cheat124_enable = false
 
-cheat125_desc = "Don't Get Knocked Back After Taking Damage"
+cheat125_desc = "受到伤害后不要被击退"
 cheat125_code = "ENKPTTEI"
 cheat125_enable = false
 
-cheat126_desc = "Walk On Air After Jumping"
+cheat126_desc = "跳跃后空中行走"
 cheat126_code = "ENUONTEI"
 cheat126_enable = false
 
-cheat127_desc = "Keep Sub Weapon After Dying"
+cheat127_desc = "死后保留副武器"
 cheat127_code = "SXKKAXSE"
 cheat127_enable = false
 
-cheat128_desc = "Stop Watch is Always Active"
+cheat128_desc = "秒表始终处于活动状态"
 cheat128_code = "0560:FF"
 cheat128_enable = false
 
-cheat129_desc = "Stage Scrambler"
+cheat129_desc = "舞台扰频器"
 cheat129_code = ""
 cheat129_enable = false
 
-cheat130_desc = "Zombies Can't Move"
+cheat130_desc = "僵尸无法移动"
 cheat130_code = "ILEKAESL"
 cheat130_enable = false
 
-cheat131_desc = "Stair Cases Lead Up Through the Ceiling"
+cheat131_desc = "楼梯穿过天花板向上延伸"
 cheat131_code = "PIKPOKAL"
 cheat131_enable = false
 
-cheat132_desc = "Infinite Energy"
+cheat132_desc = "无限能量"
 cheat132_code = "SZSVLYSA"
 cheat132_enable = false
 
-cheat133_desc = "Invincibility"
+cheat133_desc = "无敌"
 cheat133_code = "XVOVZVOK+GKOVLTIE+XUOVGTEY+VVOVITGP"
 cheat133_enable = false
 
-cheat134_desc = "Multishot Weapons Enabled"
+cheat134_desc = "启用多重射击武器"
 cheat134_code = "0064:02"
 cheat134_enable = false
 
-cheat135_desc = "Disable Medusa Heads"
+cheat135_desc = "禁用美杜莎头"
 cheat135_code = "043D:00"
 cheat135_enable = false
 
-cheat136_desc = "Invincible (WalkThru Enemies)"
+cheat136_desc = "无敌（走遍敌人）"
 cheat136_code = "AESTITPA+AVVAYZAZ+AVVAPZAZ"
 cheat136_enable = false
 
-cheat137_desc = "Infinite Health"
+cheat137_desc = "无限健康"
 cheat137_code = "AVVAYZAZ+AKVXLAAA+AEVXPAGA"
 cheat137_enable = false
 
-cheat138_desc = "Start On Stage 4 (More Stages In Note)"
+cheat138_desc = "从第 4 阶段开始（更多阶段请注意）"
 cheat138_code = "GAXLEPAA+GEEUEPLA+ANEUNOAZ+LAXLNPPA"
 cheat138_enable = false
 
-cheat139_desc = "Start On Stage 4 Wait For Demo First (More Stages In Note)"
+cheat139_desc = "从第 4 阶段开始，首先等待演示（更多阶段请注意）"
 cheat139_code = "GEKUKEGA+GEKUNATA+AASUVAPA"
 cheat139_enable = false

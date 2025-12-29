@@ -1,69 +1,69 @@
 cheats = 17
 
-cheat0_desc = "DPCM Pop Reducer"
+cheat0_desc = "DPCM 爆音减少器"
 cheat0_code = "SUELGOSE"
 cheat0_enable = false
 
-cheat1_desc = "Infinite Health"
+cheat1_desc = "无限健康"
 cheat1_code = "07C5:07"
 cheat1_enable = false
 
-cheat2_desc = "Infinite Lives"
+cheat2_desc = "无限生命"
 cheat2_code = "0039:09"
 cheat2_enable = false
 
-cheat3_desc = "Music is Disabled"
+cheat3_desc = "音乐已禁用"
 cheat3_code = "002A:01"
 cheat3_enable = false
 
-cheat4_desc = "Weapon Modifier"
+cheat4_desc = "武器修改器"
 cheat4_code = ""
 cheat4_enable = false
 
-cheat5_desc = "Access Quiz Mode"
+cheat5_desc = "访问测验模式"
 cheat5_code = "002A:04"
 cheat5_enable = false
 
-cheat6_desc = "Infinite Ammo"
+cheat6_desc = "无限弹药"
 cheat6_code = "07C0:63"
 cheat6_enable = false
 
-cheat7_desc = "Infinite Time (Driving Stages)"
+cheat7_desc = "无限时间（驾驶阶段）"
 cheat7_code = "07DC:25"
 cheat7_enable = false
 
-cheat8_desc = "Weird Stage Display "
+cheat8_desc = "奇怪的舞台展示"
 cheat8_code = "0046:01"
 cheat8_enable = false
 
-cheat9_desc = "Stage Modifier (sort of)"
+cheat9_desc = "阶段修改器（某种）"
 cheat9_code = ""
 cheat9_enable = false
 
-cheat10_desc = "Respawning Enemy"
+cheat10_desc = "重生的敌人"
 cheat10_code = "0048:01"
 cheat10_enable = false
 
-cheat11_desc = "Stage Type Modifier"
+cheat11_desc = "阶段类型修改器"
 cheat11_code = ""
 cheat11_enable = false
 
-cheat12_desc = "Have All Practice Bonuses"
+cheat12_desc = "拥有所有练习奖励"
 cheat12_code = "07BB:05"
 cheat12_enable = false
 
-cheat13_desc = "Billy's Color Modifier"
+cheat13_desc = "比利的颜色修改器"
 cheat13_code = ""
 cheat13_enable = false
 
-cheat14_desc = "Enemy 1 Color Modifier"
+cheat14_desc = "敌人 1 颜色修改器"
 cheat14_code = ""
 cheat14_enable = false
 
-cheat15_desc = "Enemy 2 Color Modifier"
+cheat15_desc = "敌人 2 颜色修改器"
 cheat15_code = ""
 cheat15_enable = false
 
-cheat16_desc = "Enemy 3 Color Modifier"
+cheat16_desc = "敌人 3 颜色修改器"
 cheat16_code = ""
 cheat16_enable = false

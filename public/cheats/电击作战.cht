@@ -1,177 +1,177 @@
 cheats = 44
 
-cheat0_desc = "Infinite Jet Pak Fuel, Infinite Agua Lung Air, And Infinite Powerboot Energy"
+cheat0_desc = "无限 Jet Pak 燃料、无限 Agua Lung Air 和无限 Powerboot 能量"
 cheat0_code = "SLVKPUVS"
 cheat0_enable = false
 
-cheat1_desc = "Infinite Ammo For Rolling Star, Powerball, And Thundershot"
+cheat1_desc = "Rolling Star、Powerball 和 Thundershot 的无限弹药"
 cheat1_code = "SXNEXVVK"
 cheat1_enable = false
 
-cheat2_desc = "Infinite Barrier Hits"
+cheat2_desc = "无限障碍击中"
 cheat2_code = "SXNZKSVK"
 cheat2_enable = false
 
-cheat3_desc = "Don't die when power hits zero"
+cheat3_desc = "当电量为零时不要死"
 cheat3_code = "VZSULOVV"
 cheat3_enable = false
 
-cheat4_desc = "Start with 1 of each item"
+cheat4_desc = "从每项 1 个开始"
 cheat4_code = "VNNGNUSO"
 cheat4_enable = false
 
-cheat5_desc = "Infinite supply of all items bought"
+cheat5_desc = "所有购买的物品无限供应"
 cheat5_code = "SXKZGSVS"
 cheat5_enable = false
 
-cheat6_desc = "All items in shop are free"
+cheat6_desc = "店内所有商品均免费"
 cheat6_code = "AVUGAGST"
 cheat6_enable = false
 
-cheat7_desc = "Start with extra cash!"
+cheat7_desc = "从额外的现金开始！"
 cheat7_code = "TAUGKGKY+UPUGVKXO"
 cheat7_enable = false
 
-cheat8_desc = "Start with 50% power"
+cheat8_desc = "从 50% 电量开始"
 cheat8_code = "AAEKVGAO+AEVZNPAO+ZAOGXGGA"
 cheat8_enable = false
 
-cheat9_desc = "Start with 150% power"
+cheat9_desc = "从 150% 功率开始"
 cheat9_code = "APEKVGAO+TAOGXGGA+AOVZNPAO"
 cheat9_enable = false
 
-cheat10_desc = "Start with 200% power"
+cheat10_desc = "从 200% 功率开始"
 cheat10_code = "AZEKVGAP+AAOGXGGE+AXVZNPAP"
 cheat10_enable = false
 
-cheat11_desc = "Infinite Energy"
+cheat11_desc = "无限能量"
 cheat11_code = "009F:10"
 cheat11_enable = false
 
-cheat12_desc = "Infinite Energy"
+cheat12_desc = "无限能量"
 cheat12_code = "SZEGZISA"
 cheat12_enable = false
 
-cheat13_desc = "Invincibility"
+cheat13_desc = "无敌"
 cheat13_code = "ENOPLZEI+ESSPPAEY"
 cheat13_enable = false
 
-cheat14_desc = "Your bullets move slower."
+cheat14_desc = "你的子弹移动得更慢。"
 cheat14_code = "ZAOEUYGA"
 cheat14_enable = false
 
-cheat15_desc = "Your bullets move faster."
+cheat15_desc = "你的子弹移动得更快。"
 cheat15_code = "AAOEUYGE"
 cheat15_enable = false
 
-cheat16_desc = "Your bullets move much faster (and sometimes continue from opposite side of screen)."
+cheat16_desc = "你的子弹移动得更快（有时从屏幕的另一侧继续）。"
 cheat16_code = "GAOEUYGE"
 cheat16_enable = false
 
-cheat17_desc = "Ultra Food completely restores all your power."
+cheat17_desc = "超级食物完全恢复你所有的力量。"
 cheat17_code = "AXKXZYGE"
 cheat17_enable = false
 
-cheat18_desc = "The Hermit's Forces won't use up any force points."
+cheat18_desc = "隐士的力量不会消耗任何力量点。"
 cheat18_code = "AVKGTGST"
 cheat18_enable = false
 
-cheat19_desc = "Jump in Midair"
+cheat19_desc = "空中跳跃"
 cheat19_code = "XTVAPESX+GZVAZEZZ+AZVALAIE+EYVAGAEI"
 cheat19_enable = false
 
-cheat20_desc = "Invincibility"
+cheat20_desc = "无敌"
 cheat20_code = "0578:80"
 cheat20_enable = false
 
-cheat21_desc = "Infinite Health"
+cheat21_desc = "无限健康"
 cheat21_code = "009F:33"
 cheat21_enable = false
 
-cheat22_desc = "Route Select"
+cheat22_desc = "路线选择"
 cheat22_code = "05B9:00"
 cheat22_enable = false
 
-cheat23_desc = "Infinite Money"
+cheat23_desc = "无限金钱"
 cheat23_code = "009B:20"
 cheat23_enable = false
 
-cheat24_desc = "Infinite Air (Aqua Lung)"
+cheat24_desc = "无限空气（水肺）"
 cheat24_code = "0532:FF"
 cheat24_enable = false
 
-cheat25_desc = "Infinite Barrier"
+cheat25_desc = "无限屏障"
 cheat25_code = "04E7:03"
 cheat25_enable = false
 
-cheat26_desc = "Infinite Rolling Star"
+cheat26_desc = "无限滚星"
 cheat26_code = "04E8:03"
 cheat26_enable = false
 
-cheat27_desc = "Infinite PowerBall"
+cheat27_desc = "无限强力球"
 cheat27_code = "04E9:03"
 cheat27_enable = false
 
-cheat28_desc = "Infinite ThunderShot"
+cheat28_desc = "无限雷霆"
 cheat28_code = "04EA:03"
 cheat28_enable = false
 
-cheat29_desc = "Infinite Shop Call"
+cheat29_desc = "无限商店呼叫"
 cheat29_code = "04EB:03"
 cheat29_enable = false
 
-cheat30_desc = "Infinite Power Boots"
+cheat30_desc = "无限力量靴子"
 cheat30_code = "04EC:03"
 cheat30_enable = false
 
-cheat31_desc = "Infinite Jet Pak"
+cheat31_desc = "无限喷射帕克"
 cheat31_code = "04ED:03"
 cheat31_enable = false
 
-cheat32_desc = "Infinite Aqua Lung"
+cheat32_desc = "无限水肺"
 cheat32_code = "04EE:03"
 cheat32_enable = false
 
-cheat33_desc = "Infinite Super Suit"
+cheat33_desc = "无限超级套装"
 cheat33_code = "04EF:03"
 cheat33_enable = false
 
-cheat34_desc = "Infinite Microrecorder"
+cheat34_desc = "无限录音机"
 cheat34_code = "04F0:03"
 cheat34_enable = false
 
-cheat35_desc = "Infinite Ultra Food"
+cheat35_desc = "无限超级食物"
 cheat35_code = "04F1:03"
 cheat35_enable = false
 
-cheat36_desc = "Infinite DynaPunch"
+cheat36_desc = "无限动力拳"
 cheat36_code = "04F2:03"
 cheat36_enable = false
 
-cheat37_desc = "Have Magic Stone"
+cheat37_desc = "拥有魔法石"
 cheat37_code = "04F3:01"
 cheat37_enable = false
 
-cheat38_desc = "Have Sword of Apollo"
+cheat38_desc = "拥有阿波罗之剑"
 cheat38_code = "04F4:01"
 cheat38_enable = false
 
-cheat39_desc = "Have Hermit's 5 Forces"
+cheat39_desc = "拥有隐士的5种力量"
 cheat39_code = "04F5:01"
 cheat39_enable = false
 
-cheat40_desc = "Infinite Ammo"
+cheat40_desc = "无限弹药"
 cheat40_code = "0528:63"
 cheat40_enable = false
 
-cheat41_desc = "Infinite Fuel (Jet Pak)"
+cheat41_desc = "无限燃料（Jet Pak）"
 cheat41_code = "0531:FF"
 cheat41_enable = false
 
-cheat42_desc = "Walk On Air"
+cheat42_desc = "空中行走"
 cheat42_code = "EPNAPPEL"
 cheat42_enable = false
 
-cheat43_desc = "Skip Intro Screen"
+cheat43_desc = "跳过介绍屏幕"
 cheat43_code = "AAEXTGLA"
 cheat43_enable = false

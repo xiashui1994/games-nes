@@ -1,521 +1,521 @@
 cheats = 130
 
-cheat0_desc = "Small Heart Gives You 255"
+cheat0_desc = "小心脏给你255"
 cheat0_code = "NAKSXTPA"
 cheat0_enable = false
 
-cheat1_desc = "Big Heart Gives You 255"
+cheat1_desc = "大心脏给你255"
 cheat1_code = "NYKSSVZA"
 cheat1_enable = false
 
-cheat2_desc = "No Ordinary Damage"
+cheat2_desc = "无一般损坏"
 cheat2_code = "SZUIKLSA"
 cheat2_enable = false
 
-cheat3_desc = "No Damage From Floor Hazards"
+cheat3_desc = "不会因地面危险而造成损坏"
 cheat3_code = "SKXGUYVG"
 cheat3_enable = false
 
-cheat4_desc = "No Damage From Medusa"
+cheat4_desc = "美杜莎不会造成伤害"
 cheat4_code = "SZSLAPSA"
 cheat4_enable = false
 
-cheat5_desc = "Invincible Against Enemies"
+cheat5_desc = "对敌人无敌"
 cheat5_code = "OTXSVLON"
 cheat5_enable = false
 
-cheat6_desc = "Lava Restores Health"
+cheat6_desc = "熔岩恢复生命值"
 cheat6_code = "VVXGUYVG"
 cheat6_enable = false
 
-cheat7_desc = "Immune to becoming an Egg Plant"
+cheat7_desc = "免疫成为茄子"
 cheat7_code = "AAUEVAPA"
 cheat7_enable = false
 
-cheat8_desc = "Get 99 Hammers on Pickup"
+cheat8_desc = "拾取 99 锤子"
 cheat8_code = "EOSTEXOZ+KNSTOZPA"
 cheat8_enable = false
 
-cheat9_desc = "Break a Statue to get 24 Soldiers"
+cheat9_desc = "打破雕像获得 24 名士兵"
 cheat9_code = "SANPPKVV"
 cheat9_enable = false
 
-cheat10_desc = "Get Best Ending With '8uuu...' code"
+cheat10_desc = "使用“8uuu...”代码获得最佳结局"
 cheat10_code = "PEEEZPAA"
 cheat10_enable = false
 
-cheat11_desc = "Get Second Worst Ending With '8uuu...' code"
+cheat11_desc = "使用“8uuu...”代码获得第二糟糕的结局"
 cheat11_code = "NNEEZPAE"
 cheat11_enable = false
 
-cheat12_desc = "Get Worst Ending With '8uuu...' code"
+cheat12_desc = "使用“8uuu...”代码获得最糟糕的结局"
 cheat12_code = "VNEEZPAE"
 cheat12_enable = false
 
-cheat13_desc = "Enemies Are Hammers"
+cheat13_desc = "敌人是锤子"
 cheat13_code = "003E:FF"
 cheat13_enable = false
 
-cheat14_desc = "Never Become an Eggplant"
+cheat14_desc = "永远不要成为茄子"
 cheat14_code = "006F:00"
 cheat14_enable = false
 
-cheat15_desc = "Always Fly"
+cheat15_desc = "永远飞翔"
 cheat15_code = "00A5:08"
 cheat15_enable = false
 
-cheat16_desc = "Infinite Life"
+cheat16_desc = "无限生命"
 cheat16_code = "00A6:27"
 cheat16_enable = false
 
-cheat17_desc = "Maximum Life Upgrades"
+cheat17_desc = "最大生命升级"
 cheat17_code = "00AA:04"
 cheat17_enable = false
 
-cheat18_desc = "Have Maximum Total"
+cheat18_desc = "拥有最大总数"
 cheat18_code = "0144:7F+0145:96+0146:98"
 cheat18_enable = false
 
-cheat19_desc = "Have Maximum Score"
+cheat19_desc = "拥有最高分数"
 cheat19_code = "0131:7F+0132:96+0133:98"
 cheat19_enable = false
 
-cheat20_desc = "Have Torch"
+cheat20_desc = "有火炬"
 cheat20_code = "013A:01"
 cheat20_enable = false
 
-cheat21_desc = "Have Pencil"
+cheat21_desc = "有铅笔"
 cheat21_code = "013B:01"
 cheat21_enable = false
 
-cheat22_desc = "Have Full Boss Map"
+cheat22_desc = "拥有完整的 Boss 地图"
 cheat22_code = "013D:01"
 cheat22_enable = false
 
-cheat23_desc = "Have Weapon 1 (F-Type Weapon)"
+cheat23_desc = "拥有武器1（F型武器）"
 cheat23_code = "013E:01"
 cheat23_enable = false
 
-cheat24_desc = "Have Weapon 2 (Bow)"
+cheat24_desc = "拥有武器2（弓）"
 cheat24_code = "013F:01"
 cheat24_enable = false
 
-cheat25_desc = "Have Weapon 3 (Wand)"
+cheat25_desc = "拥有武器 3（魔杖）"
 cheat25_code = "0140:01"
 cheat25_enable = false
 
-cheat26_desc = "Have 999 Hearts"
+cheat26_desc = "拥有999颗心"
 cheat26_code = "014A:0F+014B:27"
 cheat26_enable = false
 
-cheat27_desc = "Have Credit Card"
+cheat27_desc = "有信用卡"
 cheat27_code = "014E:01"
 cheat27_enable = false
 
-cheat28_desc = "Have 99 Hammers"
+cheat28_desc = "拥有99把锤子"
 cheat28_code = "014F:63"
 cheat28_enable = false
 
-cheat29_desc = "Have 99 Feathers"
+cheat29_desc = "有 99 根羽毛"
 cheat29_code = "0150:63"
 cheat29_enable = false
 
-cheat30_desc = "Have Treasure Chest 1"
+cheat30_desc = "拥有宝箱1"
 cheat30_code = "0153:01"
 cheat30_enable = false
 
-cheat31_desc = "Have Treasure Chest 2"
+cheat31_desc = "拥有宝箱2"
 cheat31_code = "0154:01"
 cheat31_enable = false
 
-cheat32_desc = "Have Treasure Chest 3"
+cheat32_desc = "拥有宝箱3"
 cheat32_code = "0155:01"
 cheat32_enable = false
 
-cheat33_desc = "Have Treasure 1, Opened"
+cheat33_desc = "拥有宝藏 1，已打开"
 cheat33_code = "0153:02"
 cheat33_enable = false
 
-cheat34_desc = "Have Treasure 2, Opened"
+cheat34_desc = "拥有宝藏 2，已打开"
 cheat34_code = "0154:02"
 cheat34_enable = false
 
-cheat35_desc = "Have Treasure 3, Opened"
+cheat35_desc = "拥有宝藏 3，已打开"
 cheat35_code = "0155:02"
 cheat35_enable = false
 
-cheat36_desc = "Small hearts worth 2 energy points"
+cheat36_desc = "价值 2 点能量的小爱心"
 cheat36_code = "ZAKSXTPA"
 cheat36_enable = false
 
-cheat37_desc = "Small hearts worth 5 energy points"
+cheat37_desc = "价值 5 点能量的小爱心"
 cheat37_code = "IAKSXTPA"
 cheat37_enable = false
 
-cheat38_desc = "Big hearts worth 20 energy points"
+cheat38_desc = "价值 20 点能量的大爱心"
 cheat38_code = "GPKSSVZA"
 cheat38_enable = false
 
-cheat39_desc = "Gone Snake Enemie Only"
+cheat39_desc = "仅限死蛇敌人"
 cheat39_code = "KIAPAG"
 cheat39_enable = false
 
-cheat40_desc = "Flying Baby Death Appear All Time"
+cheat40_desc = "飞行婴儿死亡时常出现"
 cheat40_code = "LLIPGA"
 cheat40_enable = false
 
-cheat41_desc = "Flying Snake"
+cheat41_desc = "飞蛇"
 cheat41_code = "LLPPGA"
 cheat41_enable = false
 
-cheat42_desc = "Change Color Body And Face"
+cheat42_desc = "改变身体和脸部的颜色"
 cheat42_code = "KIAGAG"
 cheat42_enable = false
 
-cheat43_desc = "New Strange Sound Theme"
+cheat43_desc = "新奇怪的声音主题"
 cheat43_code = "GAGXOP"
 cheat43_enable = false
 
-cheat44_desc = "On Enter First Door Appear The  Second Arrow And Pit Change Color Green"
+cheat44_desc = "进入第一扇门时出现第二个箭头和坑，颜色变为绿色"
 cheat44_code = "GITTIL"
 cheat44_enable = false
 
-cheat45_desc = "Repeat score points and second arrow on first door"
+cheat45_desc = "在第一扇门上重复得分点和第二个箭头"
 cheat45_code = "AIPEGA"
 cheat45_enable = false
 
-cheat46_desc = "new background"
+cheat46_desc = "新背景"
 cheat46_code = "SPZOSO"
 cheat46_enable = false
 
-cheat47_desc = "New Another background"
+cheat47_desc = "新的另一个背景"
 cheat47_code = "SPZOIO"
 cheat47_enable = false
 
-cheat48_desc = "Another background"
+cheat48_desc = "另一个背景"
 cheat48_code = "SPZPSP"
 cheat48_enable = false
 
-cheat49_desc = "Pit Change character to another Mouse,Pencil And Other object"
+cheat49_desc = "坑 将角色更改为另一个鼠标、铅笔等对象"
 cheat49_code = "ANGSYZ"
 cheat49_enable = false
 
-cheat50_desc = "PIT HAVE ENDURANGE TOTAL OF FOUR AND TWO FULL and pit change to another color with green arrow"
+cheat50_desc = "坑总共有四个和两个满，坑会变成带有绿色箭头的另一种颜色"
 cheat50_code = "KOYGIL"
 cheat50_enable = false
 
-cheat51_desc = "Pit have strenth with all five arrows complete with last color character"
+cheat51_desc = "坑具有强度，所有五个箭头均配有最后一个颜色字符"
 cheat51_code = "KOTGIL"
 cheat51_enable = false
 
-cheat52_desc = "Score more points insted of 100 point and second arrow"
+cheat52_desc = "获得更多分数，而不是 100 分和第二个箭头"
 cheat52_code = "PTPEGA"
 cheat52_enable = false
 
-cheat53_desc = "WALK THROUGH WALLS"
+cheat53_desc = "穿过墙壁"
 cheat53_code = "EGGSIX"
 cheat53_enable = false
 
-cheat54_desc = "ALL ENEMIES AND BOSS FLASHING"
+cheat54_desc = "所有敌人和 Boss 都闪烁"
 cheat54_code = "PSZVOV"
 cheat54_enable = false
 
-cheat55_desc = "DON'T MOVE ALL ENEMIES AND MORE"
+cheat55_desc = "不要移动所有敌人以及更多敌人"
 cheat55_code = "XOPSVL"
 cheat55_enable = false
 
-cheat56_desc = "FAST ALL THEME"
+cheat56_desc = "快速所有主题"
 cheat56_code = "ZPZXOX"
 cheat56_enable = false
 
-cheat57_desc = "BACKGROUNDS CHANGE DIFERENTS COLOR"
+cheat57_desc = "背景改变不同的颜色"
 cheat57_code = "XZZXOX"
 cheat57_enable = false
 
-cheat58_desc = "Get more than 999 hearts"
+cheat58_desc = "获得超过 999 颗心"
 cheat58_code = "PUTVLL"
 cheat58_enable = false
 
-cheat59_desc = "PIT HAVE BLUE LAZER ARROW"
+cheat59_desc = "坑里有蓝色激光箭头"
 cheat59_code = "PSYSYZ"
 cheat59_enable = false
 
-cheat60_desc = "SKATE PIT"
+cheat60_desc = "溜冰场"
 cheat60_code = "EXGSYZ"
 cheat60_enable = false
 
-cheat61_desc = "Flying"
+cheat61_desc = "飞行"
 cheat61_code = "TOPSYZ"
 cheat61_enable = false
 
-cheat62_desc = "Hit Anywhere"
+cheat62_desc = "击中任何地方"
 cheat62_code = "AANIOPPP+XTNSNPEU+AOEIEPZE"
 cheat62_enable = false
 
-cheat63_desc = "B For Jump"
+cheat63_desc = "B 跳跃"
 cheat63_code = "GPASYX"
 cheat63_enable = false
 
-cheat64_desc = "Invincible To All Enemy And All Boss"
+cheat64_desc = "对所有敌人和所有Boss都是无敌的"
 cheat64_code = "OTIGGA"
 cheat64_enable = false
 
-cheat65_desc = "Collect Hearts"
+cheat65_desc = "收集红心"
 cheat65_code = "APASSY"
 cheat65_enable = false
 
-cheat66_desc = "Black Hair"
+cheat66_desc = "黑发"
 cheat66_code = "VYAGGG"
 cheat66_enable = false
 
-cheat67_desc = "Lime  Hair"
+cheat67_desc = "石灰头发"
 cheat67_code = "XIAGGG"
 cheat67_enable = false
 
-cheat68_desc = "Darklight  Hair"
+cheat68_desc = "暗光头发"
 cheat68_code = "OIAGGG"
 cheat68_enable = false
 
-cheat69_desc = "Gray Hair"
+cheat69_desc = "白发"
 cheat69_code = "PPAGGG"
 cheat69_enable = false
 
-cheat70_desc = "Black Hair"
+cheat70_desc = "黑发"
 cheat70_code = "TTAGGG"
 cheat70_enable = false
 
-cheat71_desc = "Gold Hair"
+cheat71_desc = "金毛"
 cheat71_code = "TLAGGG"
 cheat71_enable = false
 
-cheat72_desc = "Pink Hair"
+cheat72_desc = "粉红色的头发"
 cheat72_code = "IIAGGG"
 cheat72_enable = false
 
-cheat73_desc = "Purple Hair"
+cheat73_desc = "紫色头发"
 cheat73_code = "GGAGGG"
 cheat73_enable = false
 
-cheat74_desc = "Lemon Hair"
+cheat74_desc = "柠檬头发"
 cheat74_code = "YYAGGG"
 cheat74_enable = false
 
-cheat75_desc = "Various Color To Gold Hair"
+cheat75_desc = "各种颜色到金色头发"
 cheat75_code = "ZZAGGG"
 cheat75_enable = false
 
-cheat76_desc = "Gray To Black Hair"
+cheat76_desc = "灰色到黑色的头发"
 cheat76_code = "AAAGGG"
 cheat76_enable = false
 
-cheat77_desc = "White Hair"
+cheat77_desc = "白发"
 cheat77_code = "VTAGGG"
 cheat77_enable = false
 
-cheat78_desc = "Mute Song"
+cheat78_desc = "静音歌曲"
 cheat78_code = "PSIZZZ"
 cheat78_enable = false
 
-cheat79_desc = "Start With Heart 512"
+cheat79_desc = "从心开始 512"
 cheat79_code = "EEZGGG"
 cheat79_enable = false
 
-cheat80_desc = "Don'T Move Snake"
+cheat80_desc = "别动蛇"
 cheat80_code = "OTIING"
 cheat80_enable = false
 
-cheat81_desc = "Select With Pit Change STAGE  FLYING"
+cheat81_desc = "选择带维修站变更的阶段飞行"
 cheat81_code = "OPASYX"
 cheat81_enable = false
 
-cheat82_desc = "Pit Fly Push A"
+cheat82_desc = "坑飞推 A"
 cheat82_code = "TEPSYX"
 cheat82_enable = false
 
-cheat83_desc = "New Another Sound Rare"
+cheat83_desc = "新的另一种声音罕见"
 cheat83_code = "SATXNO"
 cheat83_enable = false
 
-cheat84_desc = "Enemies Fall All Time"
+cheat84_desc = "敌人不断倒下"
 cheat84_code = "OGAETT"
 cheat84_enable = false
 
-cheat85_desc = "Sacred Bow,Flaming Arrow And Protective Crystal"
+cheat85_desc = "圣弓、火焰箭、防护水晶"
 cheat85_code = "YYYGGG"
 cheat85_enable = false
 
-cheat86_desc = "Never Lose Energy"
+cheat86_desc = "永不失去能量"
 cheat86_code = "AVPVSI"
 cheat86_enable = false
 
-cheat87_desc = "New Theme"
+cheat87_desc = "新主题"
 cheat87_code = "ZPIZVX"
 cheat87_enable = false
 
-cheat88_desc = "Another Theme"
+cheat88_desc = "另一个主题"
 cheat88_code = "TPGZVX"
 cheat88_enable = false
 
-cheat89_desc = "All Snakes And All Red Enemies Are Hammer"
+cheat89_desc = "所有的蛇和所有的红色敌人都是锤子"
 cheat89_code = "TTTINY"
 cheat89_enable = false
 
-cheat90_desc = "Get 99 Hammers On Pick-Up"
+cheat90_desc = "拾取即可获得 99 锤子"
 cheat90_code = "EOSTEXOZ+KNSTOZPA"
 cheat90_enable = false
 
-cheat91_desc = "Strength Modifier"
+cheat91_desc = "强度调整剂"
 cheat91_code = "0152:00"
 cheat91_enable = false
 
-cheat92_desc = "Max Hearts"
+cheat92_desc = "麦克斯红心"
 cheat92_code = "014A:0F+014B:27"
 cheat92_enable = false
 
-cheat93_desc = "Infinite Health"
+cheat93_desc = "无限健康"
 cheat93_code = "00A6:09"
 cheat93_enable = false
 
-cheat94_desc = "Infinite Feathers"
+cheat94_desc = "无限羽毛"
 cheat94_code = "0150:09"
 cheat94_enable = false
 
-cheat95_desc = "Infinite Potions/Barrels"
+cheat95_desc = "无限药水/桶"
 cheat95_code = "013C:09"
 cheat95_enable = false
 
-cheat96_desc = "Infinite Mallets"
+cheat96_desc = "无限木槌"
 cheat96_code = "014F:63"
 cheat96_enable = false
 
-cheat97_desc = "Have Bow (Weapon)"
+cheat97_desc = "拥有弓（武器）"
 cheat97_code = "013F:01"
 cheat97_enable = false
 
-cheat98_desc = "Have F Item (Weapon)"
+cheat98_desc = "拥有F物品（武器）"
 cheat98_code = "013E:01"
 cheat98_enable = false
 
-cheat99_desc = "Have Wand (Weapon)"
+cheat99_desc = "拥有魔杖（武器）"
 cheat99_code = "0140:01"
 cheat99_enable = false
 
-cheat100_desc = "Have Boss Map"
+cheat100_desc = "有Boss地图"
 cheat100_code = "013D:01"
 cheat100_enable = false
 
-cheat101_desc = "Level Modifier"
+cheat101_desc = "等级修改器"
 cheat101_code = "0130:00"
 cheat101_enable = false
 
-cheat102_desc = "Moon Jump"
+cheat102_desc = "月球跳跃"
 cheat102_code = "001D:FC"
 cheat102_enable = false
 
-cheat103_desc = "Never Turn Into An Eggplant"
+cheat103_desc = "永远不要变成茄子"
 cheat103_code = "006F:00"
 cheat103_enable = false
 
-cheat104_desc = "Bosses Have No Health"
+cheat104_desc = "老板没有健康"
 cheat104_code = "006B:00"
 cheat104_enable = false
 
-cheat105_desc = "Status Screen Appears In-Game"
+cheat105_desc = "游戏中出现状态屏幕"
 cheat105_code = "001B:00"
 cheat105_enable = false
 
-cheat106_desc = "Have 1st Treasure (Normally Obtained From 1-4 Boss)"
+cheat106_desc = "拥有第一件宝藏（通常从 1-4 Boss 获得）"
 cheat106_code = "0153:01"
 cheat106_enable = false
 
-cheat107_desc = "Have 2nd Treasure (Normally Obtained From 2-4 Boss)"
+cheat107_desc = "拥有第二个宝藏（通常从 2-4 个 Boss 处获得）"
 cheat107_code = "0154:01"
 cheat107_enable = false
 
-cheat108_desc = "Have 3rd Treasure (Normally Obtained From 3-4 Boss)"
+cheat108_desc = "拥有第三个宝藏（通常从 3-4 个 Boss 处获得）"
 cheat108_code = "0155:01"
 cheat108_enable = false
 
-cheat109_desc = "Have 1st Treasure Opened (Normally Obtained From 1-4 Boss)"
+cheat109_desc = "打开第一个宝藏（通常从 1-4 Boss 获得）"
 cheat109_code = "0153:02"
 cheat109_enable = false
 
-cheat110_desc = "Have 2nd Treasure Opened (Normally Obtained From 2-4 Boss)"
+cheat110_desc = "打开第二个宝藏（通常从 2-4 个 Boss 获得）"
 cheat110_code = "0154:02"
 cheat110_enable = false
 
-cheat111_desc = "Have 3rd Treasure Opened (Normally Obtained From 3-4 Boss)"
+cheat111_desc = "打开第三个宝藏（通常从 3-4 个 Boss 获得）"
 cheat111_code = "0155:02"
 cheat111_enable = false
 
-cheat112_desc = "All Enemies Are Falling Mallets (Harp's Side-Effect)"
+cheat112_desc = "所有敌人都是掉落的木槌（竖琴的副作用）"
 cheat112_code = "003E:63"
 cheat112_enable = false
 
-cheat113_desc = "Have Enormous Score At End of Level"
+cheat113_desc = "在关卡结束时获得巨大分数"
 cheat113_code = "0132:FF"
 cheat113_enable = false
 
-cheat114_desc = "Have Longer Health Bar"
+cheat114_desc = "拥有更长的生命值"
 cheat114_code = "0146:07"
 cheat114_enable = false
 
-cheat115_desc = "Have Infinite 8 Barrels"
+cheat115_desc = "拥有无限8桶"
 cheat115_code = "0151:48"
 cheat115_enable = false
 
-cheat116_desc = "Have Infinite 1 Potion"
+cheat116_desc = "拥有无限1药水"
 cheat116_code = "0151:01"
 cheat116_enable = false
 
-cheat117_desc = "Have 99 Guardians"
+cheat117_desc = "拥有99名守护者"
 cheat117_code = "0156:63"
 cheat117_enable = false
 
-cheat118_desc = "Invincible"
+cheat118_desc = "无敌"
 cheat118_code = "VVPVSI"
 cheat118_enable = false
 
-cheat119_desc = "Start Have Shield And blue Arrow"
+cheat119_desc = "开始有盾牌和蓝色箭头"
 cheat119_code = "KKTSIG"
 cheat119_enable = false
 
-cheat120_desc = "Start Have Shield And blue Arrow (Alt)"
+cheat120_desc = "开始有盾牌和蓝色箭头（Alt）"
 cheat120_code = "NKTSIG"
 cheat120_enable = false
 
-cheat121_desc = "Black and Green Screen Color And Pit Is Grey And Purple Color Body"
+cheat121_desc = "黑绿屏色坑是灰紫色机身"
 cheat121_code = "OGGVVT"
 cheat121_enable = false
 
-cheat122_desc = "Invincible"
+cheat122_desc = "无敌"
 cheat122_code = "VVPVSI"
 cheat122_enable = false
 
-cheat123_desc = "Wrap To Top If You Fall Down a Pit"
+cheat123_desc = "如果您掉进坑里，请包裹到顶部"
 cheat123_code = "ASKKKLEP"
 cheat123_enable = false
 
-cheat124_desc = "Buy Things For Free"
+cheat124_desc = "免费买东西"
 cheat124_code = "SEUESIIT"
 cheat124_enable = false
 
-cheat125_desc = "Obtain Feathers When You Fall Offscreen"
+cheat125_desc = "当你掉到屏幕外时获得羽毛"
 cheat125_code = ""
 cheat125_enable = false
 
-cheat126_desc = "Multijump"
+cheat126_desc = "多跳"
 cheat126_code = "SNSKONNV+OSSKXNNG"
 cheat126_enable = false
 
-cheat127_desc = "Walk Through Walls"
+cheat127_desc = "穿墙而过"
 cheat127_code = "SXNIEYAX+SZEVGAAX+SZETAAAX+SZOVAAAX"
 cheat127_enable = false
 
-cheat128_desc = "Walk Through Walls (Alternative)"
+cheat128_desc = "穿墙（替代）"
 cheat128_code = "NPNSYPSA+ESEILOOU+SZVSPPAX"
 cheat128_enable = false
 
-cheat129_desc = "Walk Through Walls (Alternative)"
+cheat129_desc = "穿墙（替代）"
 cheat129_code = "AEESLPIZ+AEOITOLP+SZVSPPAX+AASOLKAA+SZETAAAX+SZOVAAAX"
 cheat129_enable = false
