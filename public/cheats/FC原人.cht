@@ -116,7 +116,7 @@ cheat28_desc = "无限生命"
 cheat28_code = "0441:09"
 cheat28_enable = false
 
-cheat29_desc = "Infinite Hits (Ignore Display)"
+cheat29_desc = "无限点击（忽略显示）"
 cheat29_code = "0444:0A"
 cheat29_enable = false
 
@@ -140,7 +140,7 @@ cheat34_desc = "随处游泳"
 cheat34_code = "008F:06"
 cheat34_enable = false
 
-cheat35_desc = "Swim Through Anything"
+cheat35_desc = "游过任何事物"
 cheat35_code = "0090:40+03B4:1B"
 cheat35_enable = false
 

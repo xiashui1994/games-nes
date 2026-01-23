@@ -1,0 +1,105 @@
+cheats = 26
+
+cheat0_desc = "阻止骷髅战斗"
+cheat0_code = "PEVPULAP"
+cheat0_enable = false
+
+cheat1_desc = "敌人和你各自战斗得更快！"
+cheat1_code = "GEOGYZPA"
+cheat1_enable = false
+
+cheat2_desc = "超强怪物"
+cheat2_code = "ZPSLONLP"
+cheat2_enable = false
+
+cheat3_desc = "大多数怪物攻击不会造成伤害"
+cheat3_code = "SZVUSNVK"
+cheat3_enable = false
+
+cheat4_desc = "无限能量"
+cheat4_code = "YNOLSYAE"
+cheat4_enable = false
+
+cheat5_desc = "超能量"
+cheat5_code = "NYXKLAGE"
+cheat5_enable = false
+
+cheat6_desc = "从刀开始"
+cheat6_code = "ZAXGLAAA"
+cheat6_enable = false
+
+cheat7_desc = "从刀子和狼牙棒开始"
+cheat7_code = "LAXGLAAA"
+cheat7_enable = false
+
+cheat8_desc = "从铠甲开始"
+cheat8_code = "EAXGLAAA"
+cheat8_enable = false
+
+cheat9_desc = "从盔甲、刀子和狼牙棒开始！"
+cheat9_code = "UAXGLAAA"
+cheat9_enable = false
+
+cheat10_desc = "无限能量"
+cheat10_code = "030A:64"
+cheat10_enable = false
+
+cheat11_desc = "无限能量"
+cheat11_code = "SGVUSNVK"
+cheat11_enable = false
+
+cheat12_desc = "最大能量条"
+cheat12_code = "0536:80"
+cheat12_enable = false
+
+cheat13_desc = "武器/护甲修改器"
+cheat13_code = "0512:00"
+cheat13_enable = false
+
+cheat14_desc = "没有敌人"
+cheat14_code = "032A:00+0343:00+0353:00+0363:00"
+cheat14_enable = false
+
+cheat15_desc = "无限健康"
+cheat15_code = "030A:3F"
+cheat15_enable = false
+
+cheat16_desc = "假无限升级"
+cheat16_code = "0536:3F"
+cheat16_enable = false
+
+cheat17_desc = "阶段修改器"
+cheat17_code = "052A:03"
+cheat17_enable = false
+
+cheat18_desc = "有些敌人会自动死亡"
+cheat18_code = "032A:00"
+cheat18_enable = false
+
+cheat19_desc = "击中任何地方"
+cheat19_code = "OZXLSLEO+PYXUELKE"
+cheat19_enable = false
+
+cheat20_desc = "一切无敌"
+cheat20_code = "AASUVYIA+SZVLKNVK+SZVLNNVK+SZVUXNVK+SZVUSNVK"
+cheat20_enable = false
+
+cheat21_desc = "从 2 级开始"
+cheat21_code = "PESVZKNY"
+cheat21_enable = false
+
+cheat22_desc = "从第 3 级开始"
+cheat22_code = "ZESVZKNY"
+cheat22_enable = false
+
+cheat23_desc = "从 4 级开始"
+cheat23_code = "LESVZKNY"
+cheat23_enable = false
+
+cheat24_desc = "从第 5 级开始"
+cheat24_code = "GESVZKNY"
+cheat24_enable = false
+
+cheat25_desc = "从 6 级开始"
+cheat25_code = "IESVZKNY"
+cheat25_enable = false
